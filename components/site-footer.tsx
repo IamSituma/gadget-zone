@@ -98,18 +98,8 @@ export function SiteFooter() {
             </ul>
           </div>
         </div>
-
-        <div className="mt-10">
-          <h4 className="mb-4 text-center text-sm font-semibold text-muted-foreground">Payment Methods</h4>
-          <div className="flex items-center justify-center gap-6 opacity-80">
-            <img src="/placeholder-logo.png" alt="MTN" className="h-6" />
-            <img src="/placeholder-logo.png" alt="Airtel" className="h-6" />
-            <img src="/placeholder-logo.png" alt="Visa" className="h-6" />
-          </div>
-        </div>
-
         <div className="mt-8 border-t pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} TechStore. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Voltspire, Member of Soulspire Group Limied. All rights reserved.</p>
         </div>
       </div>
     </footer>

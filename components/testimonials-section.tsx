@@ -6,7 +6,7 @@ const testimonials = [
     name: "Sarah Johnson",
     role: "Business Owner",
     content:
-      "Amazing service! Got my iPhone screen replaced in under an hour. The quality is excellent and the price was very reasonable.",
+      "Amazing service! Got my Gizzu power station delivered in no time. The performance is excellent, and the price was very reasonable.",
     rating: 5,
     image: "/professional-woman-portrait.png",
   },
@@ -14,7 +14,7 @@ const testimonials = [
     name: "David Mukasa",
     role: "Student",
     content:
-      "Best place to buy electronics in Kampala. Great prices on laptops and the staff really knows their products. Highly recommend!",
+      "Got my Gizzu UPS from here. Top quality, fair pricing, and quick delivery. Definitely my go-to store for power solutions!",
     rating: 5,
     image: "/young-man-portrait.png",
   },
@@ -22,7 +22,7 @@ const testimonials = [
     name: "Grace Nambi",
     role: "Photographer",
     content:
-      "Purchased a Samsung Galaxy S24 Ultra and I'm blown away by the camera quality. The buying process was smooth and delivery was fast.",
+      "Great experience! Bought a Gizzu power bank and battery. Both work perfectly and hold charge for days. Fantastic value!",
     rating: 5,
     image: "/woman-photographer-portrait.png",
   },

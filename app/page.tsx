@@ -20,10 +20,9 @@ export default function HomePage() {
         <CategorySection />
         <FeaturedProducts />
         <CTASection />
-        <VideoSection />
+        {/* <VideoSection /> */}
         <PartnersSection />
         <TestimonialsSection />
-        <PartnersSection />
       </main>
       <WhatsAppButton />
     </div>

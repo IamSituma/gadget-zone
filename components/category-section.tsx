@@ -9,7 +9,6 @@ const categories = [
   { name: "Lighting", icon: Lightbulb, href: "/products?category=Lighting" },
   { name: "Accessories", icon: Plug, href: "/products?category=Accessories" },
   { name: "Cables & Adapters", icon: Cable, href: "/products?category=Cables%20%26%20Adapters" },
-  { name: "Our Company", icon: ShieldCheck, href: "/our-company" },
 ]
 
 export function CategorySection() {

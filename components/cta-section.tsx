@@ -4,11 +4,12 @@ import { ArrowRight } from "lucide-react"
 
 export function CTASection() {
   return (
-    <section className="bg-gradient-to-r from-primary to-primary/80 py-16">
-      <div className="container mx-auto px-4 text-center">
-        <h2 className="mb-4 text-3xl font-bold text-primary-foreground md:text-4xl">Ready to Upgrade Your Tech?</h2>
+    <section className="bg-gradient-to-r from-primary to-primary/80 py-16 h-screen flex items-center justify-center">
+      <div className="container mx-auto px-4 text-center max-w-3xl">
+        <h2 className="mb-4 text-3xl font-bold text-primary-foreground md:text-4xl">Ready to Upgrade Your Home or Office?</h2>
         <p className="mx-auto mb-8 max-w-2xl text-lg text-primary-foreground/90">
-          Discover the latest electronics, get expert repair services, and enjoy unbeatable prices on premium devices.
+          Discover the latest Gizzu power solutions and accessories, enjoy expert support, and get unbeatable prices on premium, reliable devices.
+
         </p>
         <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
           <Button size="lg" variant="secondary" asChild>
