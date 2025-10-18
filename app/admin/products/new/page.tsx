@@ -44,10 +44,7 @@ export default function NewProductPage() {
               </Link>
             </Button>
             <div className="flex items-center gap-2">
-              <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-                <span className="text-lg font-bold text-primary-foreground">T</span>
-              </div>
-              <span className="text-xl font-bold">TechHub Admin</span>
+            <img src="/volts2.png" alt="Voltspire Logo" className="h-12 w-16" />
             </div>
           </div>
           <Button asChild variant="outline" className="bg-transparent">
@@ -59,7 +56,7 @@ export default function NewProductPage() {
       <main className="container mx-auto px-4 py-8">
         <div className="mb-8">
           <h1 className="text-3xl font-bold">Add New Product</h1>
-          <p className="text-muted-foreground">Create a new product listing</p>
+          <p className="text-muted-foreground">Create a New Product Listing</p>
         </div>
 
         <Card className="mx-auto max-w-2xl">
@@ -75,7 +72,7 @@ export default function NewProductPage() {
                   required
                   value={formData.name}
                   onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-                  placeholder="iPhone 15 Pro Max"
+                  placeholder="Gizzu 200W Power Station"
                 />
               </div>
 
@@ -91,9 +88,9 @@ export default function NewProductPage() {
                 />
               </div>
 
-              <div className="grid gap-4 sm:grid-cols-2">
+              <div className="space-y-2">
                 <div className="space-y-2">
-                  <Label htmlFor="price">Price ($)</Label>
+                  <Label htmlFor="price">Price (UGX)</Label>
                   <Input
                     id="price"
                     type="number"
@@ -101,23 +98,12 @@ export default function NewProductPage() {
                     required
                     value={formData.price}
                     onChange={(e) => setFormData({ ...formData, price: e.target.value })}
-                    placeholder="999.99"
-                  />
-                </div>
-
-                <div className="space-y-2">
-                  <Label htmlFor="brand">Brand</Label>
-                  <Input
-                    id="brand"
-                    required
-                    value={formData.brand}
-                    onChange={(e) => setFormData({ ...formData, brand: e.target.value })}
-                    placeholder="Apple"
+                    placeholder="1,000"
                   />
                 </div>
               </div>
 
-              <div className="grid gap-4 sm:grid-cols-2">
+              <div className="space-y-2">
                 <div className="space-y-2">
                   <Label htmlFor="category">Category</Label>
                   <Select
@@ -128,29 +114,13 @@ export default function NewProductPage() {
                       <SelectValue placeholder="Select category" />
                     </SelectTrigger>
                     <SelectContent>
-                      <SelectItem value="Phones">Phones</SelectItem>
-                      <SelectItem value="TVs">TVs</SelectItem>
-                      <SelectItem value="Speakers">Speakers</SelectItem>
-                      <SelectItem value="Laptops">Laptops</SelectItem>
-                      <SelectItem value="Chargers">Chargers</SelectItem>
+                      <SelectItem value="Power Stations">Power Stations</SelectItem>
+                      <SelectItem value="Power Banks">Power Banks</SelectItem>
+                      <SelectItem value="Batteries">Batteries</SelectItem>
+                      <SelectItem value="UPS Batteries">UPS Batteries</SelectItem>
+                      <SelectItem value="Cables & Adpaters">Cables & Adapters</SelectItem>
+                      <SelectItem value="Lighting">Lighting</SelectItem>
                       <SelectItem value="Accessories">Accessories</SelectItem>
-                      <SelectItem value="Repair Parts">Repair Parts</SelectItem>
-                    </SelectContent>
-                  </Select>
-                </div>
-
-                <div className="space-y-2">
-                  <Label htmlFor="condition">Condition</Label>
-                  <Select
-                    value={formData.condition}
-                    onValueChange={(value) => setFormData({ ...formData, condition: value as ProductCondition })}
-                  >
-                    <SelectTrigger>
-                      <SelectValue placeholder="Select condition" />
-                    </SelectTrigger>
-                    <SelectContent>
-                      <SelectItem value="Brand New">Brand New</SelectItem>
-                      <SelectItem value="Used">Used</SelectItem>
                     </SelectContent>
                   </Select>
                 </div>
