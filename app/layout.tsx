@@ -8,9 +8,8 @@ const inter = Inter({ subsets: ["latin"] })
 import { SiteFooter } from "@/components/site-footer"
 
 export const metadata: Metadata = {
-  title: "TechHub - Your Electronics Store",
-  description: "Shop the latest phones, TVs, laptops, speakers, and accessories. Repair parts available.",
-  generator: "v0.app",
+  title: "Voltspire - Your Official Gizzu Electronics Store",
+  description: "Shop the latest power banks, power stations, batterues, lighting bulbs, and accessories.",
 }
 
 export default function RootLayout({
