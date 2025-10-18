@@ -49,10 +49,7 @@ export default function AdminDashboard() {
       <header className="border-b bg-background">
         <div className="container mx-auto flex h-16 items-center justify-between px-4">
           <div className="flex items-center gap-2">
-            <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-              <span className="text-lg font-bold text-primary-foreground">T</span>
-            </div>
-            <span className="text-xl font-bold">TechHub Admin</span>
+            <img src="/volts2.png" alt="Voltspire Logo" className="h-12 w-16" />
           </div>
           <div className="flex items-center gap-2">
             <Button asChild variant="outline" className="bg-transparent">
