@@ -8,9 +8,9 @@ export function SiteFooter() {
         <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-4">
           {/* Company Info */}
           <div>
-            <h3 className="mb-4 text-lg font-bold">TechStore</h3>
+            <img src="/volts2.png" alt="Voltspire Logo" className="h-20 w-28 mb-4" />
             <p className="mb-4 text-sm text-muted-foreground">
-              Your trusted destination for premium electronics, accessories, and repair services.
+              Your trusted destination for premium electronics batteries, power solutions, and energy products.
             </p>
             <div className="flex gap-4">
               <Link href="#" className="text-muted-foreground hover:text-primary">
@@ -45,8 +45,8 @@ export function SiteFooter() {
                 </Link>
               </li>
               <li>
-                <Link href="/contact" className="text-muted-foreground hover:text-primary">
-                  Contact Us
+                <Link href="#" className="text-muted-foreground hover:text-primary">
+                  Returns & Refunds
                 </Link>
               </li>
             </ul>
@@ -54,26 +54,26 @@ export function SiteFooter() {
 
           {/* Categories */}
           <div>
-            <h3 className="mb-4 text-lg font-semibold">Categories</h3>
+            <h3 className="mb-4 text-lg font-semibold">Shop</h3>
             <ul className="space-y-2 text-sm">
               <li>
-                <Link href="/products?category=Phones" className="text-muted-foreground hover:text-primary">
-                  Phones
+                <Link href="/products?category=Batteries" className="text-muted-foreground hover:text-primary">
+                  Batteries
                 </Link>
               </li>
               <li>
-                <Link href="/products?category=Laptops" className="text-muted-foreground hover:text-primary">
-                  Laptops
+                <Link href="/products?category=Power Stations" className="text-muted-foreground hover:text-primary">
+                  Power Stations
                 </Link>
               </li>
               <li>
-                <Link href="/products?category=TVs" className="text-muted-foreground hover:text-primary">
-                  TVs
+                <Link href="/products?category=UPS Batteries" className="text-muted-foreground hover:text-primary">
+                  UPS Batteries
                 </Link>
               </li>
               <li>
-                <Link href="/products?category=Speakers" className="text-muted-foreground hover:text-primary">
-                  Speakers
+                <Link href="/products?category=Cables %26 Adapters" className="text-muted-foreground hover:text-primary">
+                  Cables & Adapters
                 </Link>
               </li>
             </ul>
@@ -93,7 +93,7 @@ export function SiteFooter() {
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-muted-foreground" />
-                <span className="text-muted-foreground">info@techstore.com</span>
+                <span className="text-muted-foreground">info@voltspire.com</span>
               </li>
             </ul>
           </div>

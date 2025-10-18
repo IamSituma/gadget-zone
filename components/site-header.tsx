@@ -35,13 +35,10 @@ export function SiteHeader() {
       <div className="container mx-auto flex h-16 items-center justify-between gap-4 px-4">
         <div className="flex items-center gap-6">
           <Link href="/" className="flex items-center gap-2">
-            <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
-              <span className="text-lg font-bold text-primary-foreground">T</span>
-            </div>
-            <span className="text-xl font-bold">TechHub</span>
+              <img src="/volts2.png" alt="Voltspire Logo" className="h-12 w-16" />
           </Link>
 
-          <nav className="hidden items-center gap-6 md:flex">
+          <nav className="hidden items-center gap-8 md:flex">
             {navLinks.map((link) => (
               <Link
                 key={link.href}
