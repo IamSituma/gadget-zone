@@ -35,12 +35,10 @@ export default function AdminLoginPage() {
     <div className="min-h-screen bg-muted/30 flex items-center justify-center px-4">
       <Card className="w-full max-w-md">
         <CardHeader className="flex items-center gap-3">
-          <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-primary">
-            <span className="text-lg font-bold text-primary-foreground">T</span>
-          </div>
+          <img src="/volts2.png" alt="Voltspire Logo" className="h-12 w-16" />
           <div>
             <CardTitle>Admin Sign In</CardTitle>
-            <CardDescription>Access the TechHub Admin dashboard</CardDescription>
+            <CardDescription>Access the Voltspire Admin dashboard</CardDescription>
           </div>
         </CardHeader>
         <CardContent>
