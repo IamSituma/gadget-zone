@@ -90,14 +90,15 @@ export default function ContactPage() {
                   <MapPin className="mt-1 h-5 w-5 text-primary" />
                   <div>
                     <p className="font-medium">Address</p>
-                    <p className="text-sm text-muted-foreground">123 Tech Street, Kampala, Uganda</p>
+                    <p className="text-sm text-muted-foreground">Kampala, Uganda</p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">
                   <Phone className="mt-1 h-5 w-5 text-primary" />
                   <div>
                     <p className="font-medium">Phone</p>
-                    <p className="text-sm text-muted-foreground">+256 700 123 456</p>
+                    <p className="text-sm text-muted-foreground">+256 792 895 666
+                    </p>
                   </div>
                 </div>
                 <div className="flex items-start gap-3">

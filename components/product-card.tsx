@@ -77,7 +77,7 @@ export function ProductCard({ product, showDescriptionSnippet = false }: Product
             size="sm"
             className="flex-1 h-10"
             label="Contact for Price"
-            message={`Hi! I'm interested in the ${product.name}. Could you share the price?`}
+            message={`Hi! I'm interested in the ${product.name}. Could you share the price?\n\nProduct link: ${typeof window !== 'undefined' ? window.location.origin : ''}/product/${product.id}`}
           />
         </CardFooter>
       </Card>

@@ -1,32 +1,92 @@
-import Link from "next/link"
+"use client"
+
+import { useState, useRef } from "react"
 import { Button } from "@/components/ui/button"
-import { ArrowRight } from "lucide-react"
+import { Play, Pause, Volume2, VolumeX } from "lucide-react"
 
 export function CTASection() {
-  return (
-    <section className="bg-gradient-to-r from-primary to-primary/80 py-16 h-screen flex items-center justify-center">
-      <div className="container mx-auto px-4 text-center max-w-3xl">
-        <h2 className="mb-4 text-3xl font-bold text-primary-foreground md:text-4xl">Ready to Upgrade Your Home or Office?</h2>
-        <p className="mx-auto mb-8 max-w-2xl text-lg text-primary-foreground/90">
-          Discover the latest Gizzu power solutions and accessories, enjoy expert support, and get unbeatable prices on premium, reliable devices.
+  const [isPlaying, setIsPlaying] = useState(true)
+  const [isMuted, setIsMuted] = useState(true)
+  const [volume, setVolume] = useState(0.5)
+  const videoRef = useRef<HTMLVideoElement>(null)
 
-        </p>
-        <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
-          <Button size="lg" variant="secondary" asChild>
-            <Link href="/products">
-              Shop Now
-              <ArrowRight className="ml-2 h-5 w-5" />
-            </Link>
-          </Button>
-          <Button
-            size="lg"
-            variant="outline"
-            className="border-primary-foreground text-primary-foreground hover:bg-primary-foreground hover:text-primary bg-transparent"
-            asChild
-          >
-            <Link href="/contact">Contact Us</Link>
-          </Button>
-        </div>
+  const togglePlayPause = () => {
+    if (videoRef.current) {
+      if (isPlaying) {
+        videoRef.current.pause()
+      } else {
+        videoRef.current.play()
+      }
+      setIsPlaying(!isPlaying)
+    }
+  }
+
+  const toggleMute = () => {
+    if (videoRef.current) {
+      videoRef.current.muted = !isMuted
+      setIsMuted(!isMuted)
+    }
+  }
+
+  const handleVolumeChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const newVolume = parseFloat(e.target.value)
+    if (videoRef.current) {
+      videoRef.current.volume = newVolume
+      setVolume(newVolume)
+    }
+  }
+
+  return (
+    <section className="relative h-[60vh] md:h-[80vh] overflow-hidden group">
+      {/* Video Background */}
+      <video
+        ref={videoRef}
+        autoPlay
+        muted
+        loop
+        playsInline
+        className="absolute inset-0 w-full h-full object-cover"
+        onLoadedData={() => {
+          if (videoRef.current) {
+            videoRef.current.volume = volume
+          }
+        }}
+      >
+        <source src="/gizzu.mp4" type="video/mp4" />
+      </video>
+      
+      {/* Video Controls */}
+      <div className="absolute bottom-4 right-4 flex items-center gap-2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 bg-black/50 rounded-lg p-2">
+        <Button
+          variant="ghost"
+          size="sm"
+          onClick={togglePlayPause}
+          className="text-white hover:bg-white/20"
+        >
+          {isPlaying ? <Pause className="h-4 w-4" /> : <Play className="h-4 w-4" />}
+        </Button>
+        
+        <Button
+          variant="ghost"
+          size="sm"
+          onClick={toggleMute}
+          className="text-white hover:bg-white/20"
+        >
+          {isMuted ? <VolumeX className="h-4 w-4" /> : <Volume2 className="h-4 w-4" />}
+        </Button>
+        
+        <input
+          type="range"
+          min="0"
+          max="1"
+          step="0.1"
+          value={volume}
+          onChange={handleVolumeChange}
+          className="w-16 h-1 bg-white/30 rounded-lg appearance-none cursor-pointer"
+          style={{
+            background: `linear-gradient(to right, #fff 0%, #fff ${volume * 100}%, rgba(255,255,255,0.3) ${volume * 100}%, rgba(255,255,255,0.3) 100%)`
+          }}
+        />
       </div>
     </section>
   )

@@ -14,7 +14,7 @@ interface WhatsAppButtonProps {
 
 export function WhatsAppButton({
   phoneNumber = "+256792895666",
-  message = "Hi! I'm interested in your products.",
+  message = "Hello Voltspire! I'm interested in your products.",
   size = "lg",
   className,
   floating = false,

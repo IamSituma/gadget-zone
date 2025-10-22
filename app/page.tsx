@@ -8,6 +8,7 @@ import { HeroSection } from "@/components/hero-section"
 import { CategorySection } from "@/components/category-section"
 import { FeaturedProducts } from "@/components/featured-products"
 import { CTASection } from "@/components/cta-section"
+import { CTASectionSecondary } from "@/components/cta-section-secondary"
 import { VideoSection } from "@/components/video-section"
 import { TestimonialsSection } from "@/components/testimonials-section"
 import { PartnersSection } from "@/components/partners-section"
@@ -27,6 +28,7 @@ export default function HomePage() {
         {/* <VideoSection /> */}
         <PartnersSection />
         <TestimonialsSection />
+        <CTASectionSecondary />
       </main>
       {/* <WhatsAppButton /> */}
     </div>

@@ -85,16 +85,16 @@ export function SiteFooter() {
             <ul className="space-y-3 text-sm">
               <li className="flex items-start gap-2">
                 <MapPin className="mt-0.5 h-4 w-4 text-muted-foreground" />
-                <span className="text-muted-foreground">123 Tech Street, Kampala, Uganda</span>
+                <span className="text-muted-foreground">Kampala, Uganda</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-muted-foreground" />
-                <span className="text-muted-foreground">+256 700 123 456</span>
+                <span className="text-muted-foreground">+256 792 895 666</span>
               </li>
-              <li className="flex items-center gap-2">
+              {/*<li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-muted-foreground" />
                 <span className="text-muted-foreground">info@voltspire.com</span>
-              </li>
+              </li> */}
             </ul>
           </div>
         </div>

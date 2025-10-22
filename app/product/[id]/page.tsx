@@ -59,7 +59,7 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
               {/* <p className="text-4xl font-bold">{formatUGX(product.price)}</p> */}
               <div className="flex items-center gap-3">
                 <p className="text-xl font-semibold">Contact for price</p>
-                <WhatsAppButton size="sm" message={`Hi! I'm interested in the ${product.name}. Could you share the price?`} />
+                <WhatsAppButton size="sm" message={`Hello Voltspire! I'm interested in the ${product.name}. Could you share the price?\n\nProduct link: ${typeof window !== 'undefined' ? window.location.origin : ''}/product/${product.id}`} />
               </div>
             </div>
 
