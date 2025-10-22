@@ -2,6 +2,7 @@ export type ProductCondition = "Brand New" | "Used"
 
 export type ProductCategory =
   | "Batteries"
+  | "On The Go"
   | "Power Stations"
   | "Power Banks"
   | "Lighting"

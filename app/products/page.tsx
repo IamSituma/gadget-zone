@@ -22,6 +22,7 @@ export default function ProductsPage() {
   const categories: (ProductCategory | "All")[] = [
     "All",
     "Batteries",
+    "On The Go",
     "Power Stations",
     "Power Banks",
     "Lighting",
