@@ -1,3 +1,7 @@
+import type { Metadata } from "next"
+export const metadata: Metadata = {
+  title: "Home - Voltspire",
+}
 import { AnnouncementBanner } from "@/components/announcement-banner"
 import { SiteHeader } from "@/components/site-header"
 import { HeroSection } from "@/components/hero-section"

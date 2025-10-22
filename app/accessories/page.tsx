@@ -7,6 +7,11 @@ import { products } from "@/lib/mock-data"
 import { Headphones, Mouse, Cable, Watch } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 import Link from "next/link"
+import type { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Accessories - Voltspire",
+}
 
 export default function AccessoriesPage() {
   const accessoryProducts = products.filter((p) => p.category === "Accessories")

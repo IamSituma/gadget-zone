@@ -1,5 +1,3 @@
-"use client"
-
 import { AnnouncementBanner } from "@/components/announcement-banner"
 import { SiteHeader } from "@/components/site-header"
 import { Card, CardContent } from "@/components/ui/card"

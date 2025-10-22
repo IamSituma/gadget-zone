@@ -16,9 +16,10 @@ import { WhatsAppButton } from "@/components/whatsapp-button"
 
 interface ProductCardProps {
   product: Product
+  showDescriptionSnippet?: boolean
 }
 
-export function ProductCard({ product }: ProductCardProps) {
+export function ProductCard({ product, showDescriptionSnippet = false }: ProductCardProps) {
   const addItem = useCartStore((state) => state.addItem)
   const router = useRouter()
 
@@ -52,6 +53,9 @@ export function ProductCard({ product }: ProductCardProps) {
           <div className="space-y-2">
             <p className="text-xs text-muted-foreground">{product.brand}</p>
             <h3 className="line-clamp-2 font-semibold leading-tight">{product.name}</h3>
+            {showDescriptionSnippet && (
+              <p className="line-clamp-1 text-sm text-muted-foreground">{product.description}</p>
+            )}
             {/* price hidden while using WhatsApp for pricing */}
           </div>
         </CardContent>

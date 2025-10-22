@@ -1,4 +1,5 @@
 import { notFound } from "next/navigation"
+import type { Metadata } from "next"
 import { AnnouncementBanner } from "@/components/announcement-banner"
 import { SiteHeader } from "@/components/site-header"
 import { Badge } from "@/components/ui/badge"
@@ -115,4 +116,11 @@ export default async function ProductPage({ params }: { params: Promise<{ id: st
       {/** Removed floating WhatsApp button below the footer */}
     </div>
   )
+}
+
+export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {
+  const { id } = await params
+  const product = await getProductById(id)
+  const title = product ? `${product.name} - Voltspire` : "Product - Voltspire"
+  return { title }
 }

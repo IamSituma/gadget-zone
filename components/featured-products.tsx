@@ -15,7 +15,7 @@ export function FeaturedProducts() {
       </div>
       <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
         {featuredProducts.map((product) => (
-          <ProductCard key={product.id} product={product} />
+          <ProductCard key={product.id} product={product} showDescriptionSnippet />
         ))}
       </div>
     </section>

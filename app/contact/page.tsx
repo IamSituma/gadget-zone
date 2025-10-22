@@ -1,3 +1,8 @@
+import type { Metadata } from "next"
+
+export const metadata: Metadata = {
+  title: "Contact Us - Voltspire",
+}
 import { AnnouncementBanner } from "@/components/announcement-banner"
 import { SiteHeader } from "@/components/site-header"
 import { SiteFooter } from "@/components/site-footer"
