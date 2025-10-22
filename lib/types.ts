@@ -15,7 +15,7 @@ export interface Product {
   id: string
   name: string
   description: string
-  price: number
+  price?: number
   category: ProductCategory
   condition: ProductCondition
   image: string
@@ -23,6 +23,7 @@ export interface Product {
   brand: string
   inStock: boolean
   specifications?: Record<string, string>
+  features?: string[]
 }
 
 export interface CartItem {

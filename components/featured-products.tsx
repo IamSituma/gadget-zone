@@ -1,9 +1,11 @@
 "use client"
 
-import { products } from "@/lib/mock-data"
+import productsData from "@/data/products.json"
+import type { Product } from "@/lib/types"
 import { ProductCard } from "./product-card"
 
 export function FeaturedProducts() {
+  const products = productsData as Product[]
   const featuredProducts = products.filter((p) => p.condition === "Brand New").slice(0, 8)
 
   return (

@@ -4,15 +4,21 @@ export const products: Product[] = [
   // Batteries
   {
     id: "b1",
-    name: "Car Battery 65Ah",
-    description: "Reliable 12V car battery suitable for most sedans",
+    name: "Slime Notebook Combination Lock",
+    description: "Protect your notebook with the Gizzu Slimline Combination Lock. Its reinforced cable and four-digit code secure your device, and the slim design fits thinner notebooks like ultrabooks.",
     price: 350000,
-    category: "Batteries",
+    category: "Accessories",
     condition: "Brand New",
     image: "/laptop-battery.png",
     images: ["/laptop-battery.png", "/placeholder.svg", "/placeholder.svg"],
     brand: "Generic",
     inStock: true,
+    features: [
+      "Slim design fits ultrabooks",
+      "Four-digit resettable code",
+      "Reinforced steel cable",
+      "Universal security slot compatibility",
+    ],
   },
   {
     id: "b2",
@@ -25,6 +31,12 @@ export const products: Product[] = [
     images: ["/laptop-battery.png", "/placeholder.svg"],
     brand: "Generic",
     inStock: true,
+    features: [
+      "200Ah capacity",
+      "Deep cycle design for solar systems",
+      "Maintenance-free",
+      "Long service life",
+    ],
   },
   // Power Stations
   {
@@ -38,6 +50,12 @@ export const products: Product[] = [
     images: ["/placeholder.jpg"],
     brand: "EcoMax",
     inStock: true,
+    features: [
+      "500W AC output",
+      "Fast USB-C PD charging",
+      "Pure sine wave inverter",
+      "Built-in LED light",
+    ],
   },
   // Power Banks
   {
@@ -51,6 +69,12 @@ export const products: Product[] = [
     images: ["/placeholder.jpg"],
     brand: "Anker",
     inStock: true,
+    features: [
+      "20,000mAh capacity",
+      "USB-C PD 20W",
+      "Dual output ports",
+      "MultiProtect safety system",
+    ],
   },
   // Lighting
   {
@@ -64,6 +88,12 @@ export const products: Product[] = [
     images: ["/placeholder.jpg"],
     brand: "BrightLite",
     inStock: true,
+    features: [
+      "100W high brightness",
+      "IP65 weather resistant",
+      "Aluminum heat sink",
+      "Wide beam angle",
+    ],
   },
   // Accessories
   {
@@ -77,6 +107,12 @@ export const products: Product[] = [
     images: ["/placeholder.jpg"],
     brand: "TravelPro",
     inStock: true,
+    features: [
+      "Covers US/EU/UK/AU plugs",
+      "Dual USB outputs",
+      "Built-in safety shutters",
+      "Compact travel design",
+    ],
   },
   // UPS Batteries
   {
@@ -90,6 +126,12 @@ export const products: Product[] = [
     images: ["/placeholder.jpg"],
     brand: "APC",
     inStock: true,
+    features: [
+      "Standard 12V 9Ah",
+      "Sealed lead-acid",
+      "Low self-discharge",
+      "Spill-proof construction",
+    ],
   },
   // Cables & Adapters
   {
@@ -103,5 +145,11 @@ export const products: Product[] = [
     images: ["/placeholder.jpg"],
     brand: "Apple",
     inStock: true,
+    features: [
+      "MFi-certified",
+      "Durable braided design",
+      "Fast charging compatible",
+      "1 meter length",
+    ],
   },
 ]

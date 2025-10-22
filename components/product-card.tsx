@@ -12,6 +12,7 @@ import type { Product } from "@/lib/types"
 import { useCartStore } from "@/lib/cart-store"
 import { ShoppingCart } from "lucide-react"
 import { useRouter } from "next/navigation"
+import { WhatsAppButton } from "@/components/whatsapp-button"
 
 interface ProductCardProps {
   product: Product
@@ -21,16 +22,16 @@ export function ProductCard({ product }: ProductCardProps) {
   const addItem = useCartStore((state) => state.addItem)
   const router = useRouter()
 
-  const handleAddToCart = (e: React.MouseEvent) => {
-    e.preventDefault()
-    addItem(product)
-  }
+  // const handleAddToCart = (e: React.MouseEvent) => {
+  //   e.preventDefault()
+  //   addItem(product)
+  // }
 
-  const handleBuyNow = (e: React.MouseEvent) => {
-    e.preventDefault()
-    addItem(product)
-    router.push("/checkout")
-  }
+  // const handleBuyNow = (e: React.MouseEvent) => {
+  //   e.preventDefault()
+  //   addItem(product)
+  //   router.push("/checkout")
+  // }
 
   return (
     <Link href={`/product/${product.id}`}>
@@ -51,11 +52,11 @@ export function ProductCard({ product }: ProductCardProps) {
           <div className="space-y-2">
             <p className="text-xs text-muted-foreground">{product.brand}</p>
             <h3 className="line-clamp-2 font-semibold leading-tight">{product.name}</h3>
-            <p className="text-2xl font-bold">{formatUGX(product.price)}</p>
+            {/* price hidden while using WhatsApp for pricing */}
           </div>
         </CardContent>
         <CardFooter className="flex gap-2 p-4 pt-0">
-          <Button
+          {/* <Button
             variant="outline"
             size="sm"
             className="flex-1 bg-transparent h-10"
@@ -67,7 +68,13 @@ export function ProductCard({ product }: ProductCardProps) {
           </Button>
           <Button size="sm" className="flex-1 h-10" onClick={handleBuyNow} disabled={!product.inStock}>
             Buy Now
-          </Button>
+          </Button> */}
+          <WhatsAppButton
+            size="sm"
+            className="flex-1 h-10"
+            label="Contact for Price"
+            message={`Hi! I'm interested in the ${product.name}. Could you share the price?`}
+          />
         </CardFooter>
       </Card>
     </Link>

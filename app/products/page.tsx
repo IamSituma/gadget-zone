@@ -8,8 +8,8 @@ import { ProductCard } from "@/components/product-card"
 import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
-import { products } from "@/lib/mock-data"
-import type { ProductCategory, ProductCondition } from "@/lib/types"
+import productsData from "@/data/products.json"
+import type { Product, ProductCategory, ProductCondition } from "@/lib/types"
 import { formatUGX } from "@/lib/utils"
 
 export default function ProductsPage() {
@@ -17,7 +17,7 @@ export default function ProductsPage() {
   const categoryParam = searchParams.get("category") as ProductCategory | null
 
   const [selectedCategory, setSelectedCategory] = useState<ProductCategory | "All">(categoryParam || "All")
-  
+  const products = productsData as Product[]
 
   const categories: (ProductCategory | "All")[] = [
     "All",
@@ -37,7 +37,7 @@ export default function ProductsPage() {
       const categoryMatch = selectedCategory === "All" || product.category === selectedCategory
       return categoryMatch
     })
-  }, [selectedCategory])
+  }, [selectedCategory, products])
 
   
 

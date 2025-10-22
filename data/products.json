@@ -1,0 +1,105 @@
+[
+  {
+    "id": "b1",
+    "name": "Slime Notebook Combination Lock",
+    "description": "Protect your notebook with the Gizzu Slimline Combination Lock. Its reinforced cable and four-digit code secure your device, and the slim design fits thinner notebooks like ultrabooks.",
+    "category": "Accessories",
+    "condition": "Brand New",
+    "image": "/laptop-battery.png",
+    "images": ["/laptop-battery.png", "/placeholder.svg", "/placeholder.svg"],
+    "brand": "Generic",
+    "inStock": true,
+    "features": [
+      "Slim design fits ultrabooks",
+      "Four-digit resettable code",
+      "Reinforced steel cable",
+      "Universal security slot compatibility"
+    ]
+  },
+  {
+    "id": "b2",
+    "name": "Solar Battery 200Ah",
+    "description": "Deep cycle battery ideal for solar storage",
+    "category": "Batteries",
+    "condition": "Brand New",
+    "image": "/laptop-battery.png",
+    "images": ["/laptop-battery.png", "/placeholder.svg"],
+    "brand": "Generic",
+    "inStock": true,
+    "features": ["200Ah capacity", "Deep cycle design for solar systems", "Maintenance-free", "Long service life"]
+  },
+  {
+    "id": "ps1",
+    "name": "Portable Power Station 500W",
+    "description": "Backup power for camping and emergencies",
+    "category": "Power Stations",
+    "condition": "Brand New",
+    "image": "/placeholder.jpg",
+    "images": ["/placeholder.jpg"],
+    "brand": "EcoMax",
+    "inStock": true,
+    "features": ["500W AC output", "Fast USB-C PD charging", "Pure sine wave inverter", "Built-in LED light"]
+  },
+  {
+    "id": "pb1",
+    "name": "20,000mAh Power Bank",
+    "description": "Fast charging PD power bank",
+    "category": "Power Banks",
+    "condition": "Brand New",
+    "image": "/placeholder.jpg",
+    "images": ["/placeholder.jpg"],
+    "brand": "Anker",
+    "inStock": true,
+    "features": ["20,000mAh capacity", "USB-C PD 20W", "Dual output ports", "MultiProtect safety system"]
+  },
+  {
+    "id": "l1",
+    "name": "LED Floodlight 100W",
+    "description": "Bright outdoor lighting solution",
+    "category": "Lighting",
+    "condition": "Brand New",
+    "image": "/placeholder.jpg",
+    "images": ["/placeholder.jpg"],
+    "brand": "BrightLite",
+    "inStock": true,
+    "features": ["100W high brightness", "IP65 weather resistant", "Aluminum heat sink", "Wide beam angle"]
+  },
+  {
+    "id": "a1",
+    "name": "Universal Travel Adapter",
+    "description": "Multi-country plug adapter",
+    "category": "Accessories",
+    "condition": "Brand New",
+    "image": "/placeholder.jpg",
+    "images": ["/placeholder.jpg"],
+    "brand": "TravelPro",
+    "inStock": true,
+    "features": ["Covers US/EU/UK/AU plugs", "Dual USB outputs", "Built-in safety shutters", "Compact travel design"]
+  },
+  {
+    "id": "u1",
+    "name": "UPS Battery 9Ah",
+    "description": "Replacement battery for UPS units",
+    "category": "UPS Batteries",
+    "condition": "Brand New",
+    "image": "/placeholder.jpg",
+    "images": ["/placeholder.jpg"],
+    "brand": "APC",
+    "inStock": true,
+    "features": ["Standard 12V 9Ah", "Sealed lead-acid", "Low self-discharge", "Spill-proof construction"]
+  },
+  {
+    "id": "c1",
+    "name": "USB-C to Lightning Cable",
+    "description": "1m durable charging cable",
+    "category": "Cables & Adapters",
+    "condition": "Brand New",
+    "image": "/placeholder.jpg",
+    "images": ["/placeholder.jpg"],
+    "brand": "Apple",
+    "inStock": true,
+    "features": ["MFi-certified", "Durable braided design", "Fast charging compatible", "1 meter length"]
+  }
+]
+
+

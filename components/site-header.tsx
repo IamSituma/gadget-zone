@@ -67,7 +67,8 @@ export function SiteHeader() {
             </div>
           </form>
 
-          {/* Shopping Cart */}
+          {/* Shopping Cart temporarily disabled while using WhatsApp for orders */}
+          {/**
           <Link href="/cart">
             <Button
               variant="ghost"
@@ -76,7 +77,7 @@ export function SiteHeader() {
             >
               <ShoppingCart
                 className="h-5 w-5 text-green-700"
-                strokeWidth={2.5} // thicker icon
+                strokeWidth={2.5}
               />
               {itemCount > 0 && (
                 <span className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-accent text-xs font-bold text-accent-foreground">
@@ -86,6 +87,7 @@ export function SiteHeader() {
               <span className="sr-only">Shopping cart</span>
             </Button>
           </Link>
+          **/}
 
           {/* Mobile Menu */}
           <Sheet>

@@ -24,7 +24,7 @@ export default function HomePage() {
         <PartnersSection />
         <TestimonialsSection />
       </main>
-      <WhatsAppButton />
+      {/* <WhatsAppButton /> */}
     </div>
   )
 }
