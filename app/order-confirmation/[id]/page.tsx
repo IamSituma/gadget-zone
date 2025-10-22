@@ -8,11 +8,10 @@ import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
 import { Separator } from "@/components/ui/separator"
 import { useOrdersStore } from "@/lib/orders-store"
-import { CheckCircle2 } from "lucide-react"
+import { CheckCircle2, Printer } from "lucide-react"
 import Image from "next/image"
 import { formatUGX } from "@/lib/utils"
 import Link from "next/link"
-import { Printer } from "lucide-react"
 
 export default function OrderConfirmationPage({ params }: { params: Promise<{ id: string }> }) {
   const { id } = use(params)
@@ -24,15 +23,16 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
   }
 
   useEffect(() => {
-    // Auto-trigger download via print-to-PDF once page is ready
-    setTimeout(() => {
-      window.print()
-    }, 300)
+    setTimeout(() => window.print(), 300)
   }, [])
 
-  const downloadReceipt = () => {
-    window.print()
-  }
+  const downloadReceipt = () => window.print()
+
+  const subtotal = order.items.reduce(
+    (sum, item) => sum + (item.product.price ?? 0) * item.quantity,
+    0
+  )
+  const shipping = order.total - subtotal
 
   return (
     <div className="min-h-screen">
@@ -47,7 +47,9 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
               </div>
             </div>
             <h1 className="mb-2 text-3xl font-bold">Order Confirmed!</h1>
-            <p className="text-muted-foreground">Thank you for your purchase. Your order has been received.</p>
+            <p className="text-muted-foreground">
+              Thank you for your purchase. Your order has been received.
+            </p>
           </div>
 
           <Card className="mb-6">
@@ -105,9 +107,13 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
                     <div>
                       <p className="font-medium">{item.product.name}</p>
                       <p className="text-sm text-muted-foreground">Quantity: {item.quantity}</p>
-                      <p className="text-sm text-muted-foreground">{formatUGX(item.product.price)} each</p>
+                      <p className="text-sm text-muted-foreground">
+                        {formatUGX(item.product.price ?? 0)} each
+                      </p>
                     </div>
-                    <p className="font-medium">{formatUGX(item.product.price * item.quantity)}</p>
+                    <p className="font-medium">
+                      {formatUGX((item.product.price ?? 0) * item.quantity)}
+                    </p>
                   </div>
                 </div>
               ))}
@@ -117,16 +123,12 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
               <div className="space-y-2">
                 <div className="flex justify-between text-sm">
                   <span className="text-muted-foreground">Subtotal</span>
-                  <span className="font-medium">
-                    {formatUGX(order.items.reduce((sum, item) => sum + item.product.price * item.quantity, 0))}
-                  </span>
+                  <span className="font-medium">{formatUGX(subtotal)}</span>
                 </div>
                 <div className="flex justify-between text-sm">
                   <span className="text-muted-foreground">Shipping</span>
                   <span className="font-medium">
-                    {order.total - order.items.reduce((sum, item) => sum + item.product.price * item.quantity, 0) === 0
-                      ? "Free"
-                      : formatUGX(order.total - order.items.reduce((sum, item) => sum + item.product.price * item.quantity, 0))}
+                    {shipping === 0 ? "Free" : formatUGX(shipping)}
                   </span>
                 </div>
               </div>
@@ -144,7 +146,11 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
             <Button asChild className="flex-1">
               <Link href="/products">Continue Shopping</Link>
             </Button>
-            <Button variant="outline" className="flex-1 bg-transparent" onClick={() => router.push("/")}>
+            <Button
+              variant="outline"
+              className="flex-1 bg-transparent"
+              onClick={() => router.push("/")}
+            >
               Back to Home
             </Button>
             <Button variant="outline" className="flex-1 bg-transparent" onClick={downloadReceipt}>
