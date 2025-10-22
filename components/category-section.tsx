@@ -20,12 +20,12 @@ export function CategorySection() {
           const Icon = category.icon
           return (
             <Link key={category.name} href={category.href}>
-              <Card className="group transition-all hover:shadow-md">
+              <Card className="group transition-all hover:shadow-md bg-green-600">
                 <CardContent className="flex flex-col items-center gap-3 p-6">
-                  <div className="rounded-full bg-primary/10 p-4 transition-colors group-hover:bg-primary/20">
+                  <div className="rounded-full bg-white p-4 transition-colors">
                     <Icon className="h-6 w-6 text-primary" />
                   </div>
-                  <p className="text-center text-sm font-medium">{category.name}</p>
+                  <p className="text-center text-white text-sm font-medium">{category.name}</p>
                 </CardContent>
               </Card>
             </Link>
