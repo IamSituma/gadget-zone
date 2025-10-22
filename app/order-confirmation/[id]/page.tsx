@@ -13,7 +13,11 @@ import Image from "next/image"
 import { formatUGX } from "@/lib/utils"
 import Link from "next/link"
 
-export default function OrderConfirmationPage({ params }: { params: Promise<{ id: string }> }) {
+export default function OrderConfirmationPage({
+  params,
+}: {
+  params: Promise<{ id: string }>
+}) {
   const { id } = use(params)
   const order = useOrdersStore((state) => state.getOrderById(id))
   const router = useRouter()
@@ -28,6 +32,7 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
 
   const downloadReceipt = () => window.print()
 
+  // Safe calculations with fallback to 0
   const subtotal = order.items.reduce(
     (sum, item) => sum + (item.product.price ?? 0) * item.quantity,
     0
@@ -40,6 +45,7 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
       <SiteHeader />
       <main className="container mx-auto px-4 py-8">
         <div className="mx-auto max-w-3xl">
+          {/* Header */}
           <div className="mb-8 text-center">
             <div className="mb-4 flex justify-center">
               <div className="rounded-full bg-green-100 p-3">
@@ -52,6 +58,7 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
             </p>
           </div>
 
+          {/* Order Details */}
           <Card className="mb-6">
             <CardHeader>
               <CardTitle>Order Details</CardTitle>
@@ -64,7 +71,9 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Order Date</p>
-                  <p className="font-medium">{new Date(order.createdAt).toLocaleDateString()}</p>
+                  <p className="font-medium">
+                    {new Date(order.createdAt).toLocaleDateString()}
+                  </p>
                 </div>
                 <div>
                   <p className="text-sm text-muted-foreground">Payment Method</p>
@@ -88,6 +97,7 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
             </CardContent>
           </Card>
 
+          {/* Order Items */}
           <Card className="mb-6">
             <CardHeader>
               <CardTitle>Order Items</CardTitle>
@@ -106,7 +116,9 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
                   <div className="flex flex-1 justify-between">
                     <div>
                       <p className="font-medium">{item.product.name}</p>
-                      <p className="text-sm text-muted-foreground">Quantity: {item.quantity}</p>
+                      <p className="text-sm text-muted-foreground">
+                        Quantity: {item.quantity}
+                      </p>
                       <p className="text-sm text-muted-foreground">
                         {formatUGX(item.product.price ?? 0)} each
                       </p>
@@ -142,6 +154,7 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
             </CardContent>
           </Card>
 
+          {/* Buttons */}
           <div className="flex gap-4">
             <Button asChild className="flex-1">
               <Link href="/products">Continue Shopping</Link>
@@ -161,4 +174,16 @@ export default function OrderConfirmationPage({ params }: { params: Promise<{ id
       </main>
     </div>
   )
+}
+
+/**
+ * Optional: Static paths for export.
+ * Only implement if you have a way to fetch all orders.
+ */
+export async function generateStaticParams() {
+  // Example: fetch all order IDs
+  // const orders = await getAllOrders()
+  // return orders.map((order) => ({ id: order.id.toString() }))
+
+  return [] // Empty for now if dynamic orders are not known
 }
