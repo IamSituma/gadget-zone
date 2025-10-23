@@ -101,13 +101,13 @@ export default function ContactPage() {
                     </p>
                   </div>
                 </div>
-                <div className="flex items-start gap-3">
+                {/*<div className="flex items-start gap-3">
                   <Mail className="mt-1 h-5 w-5 text-primary" />
                   <div>
                     <p className="font-medium">Email</p>
                     <p className="text-sm text-muted-foreground">info@techstore.com</p>
                   </div>
-                </div>
+                </div> */}
                 <div className="flex items-start gap-3">
                   <Clock className="mt-1 h-5 w-5 text-primary" />
                   <div>
