@@ -17,6 +17,8 @@ export default function ProductsPage() {
   const categoryParam = searchParams.get("category") as ProductCategory | null
 
   const [selectedCategory, setSelectedCategory] = useState<ProductCategory | "All">(categoryParam || "All")
+  const [selectedBrand, setSelectedBrand] = useState<"All" | "Gizzu" | "Xiaomi">("All")
+
   const products = productsData as Product[]
 
   const categories: (ProductCategory | "All")[] = [
@@ -29,21 +31,23 @@ export default function ProductsPage() {
     "Accessories",
     "UPS Batteries",
     "Cables & Adapters",
+    "Projectors",
+    "Cameras",
   ]
 
-  
+  const brands: ("All" | "Gizzu" | "Xiaomi")[] = ["All", "Gizzu", "Xiaomi"]
 
   const filteredProducts = useMemo(() => {
     return products.filter((product) => {
       const categoryMatch = selectedCategory === "All" || product.category === selectedCategory
-      return categoryMatch
+      const brandMatch = selectedBrand === "All" || product.brand === selectedBrand
+      return categoryMatch && brandMatch
     })
-  }, [selectedCategory, products])
-
-  
+  }, [selectedCategory, selectedBrand, products])
 
   const clearFilters = () => {
     setSelectedCategory("All")
+    setSelectedBrand("All")
   }
 
   return (
@@ -55,6 +59,7 @@ export default function ProductsPage() {
 
         <div className="grid gap-8 lg:grid-cols-[250px_1fr]">
           <aside className="space-y-6">
+            {/* Category Filter */}
             <div>
               <h3 className="mb-4 text-lg font-semibold">Category</h3>
               <RadioGroup value={selectedCategory} onValueChange={(value) => setSelectedCategory(value as any)}>
@@ -69,7 +74,20 @@ export default function ProductsPage() {
               </RadioGroup>
             </div>
 
-            
+            {/* Brand Filter */}
+            <div>
+              <h3 className="mb-4 text-lg font-semibold">Brand</h3>
+              <RadioGroup value={selectedBrand} onValueChange={(value) => setSelectedBrand(value as any)}>
+                {brands.map((brand) => (
+                  <div key={brand} className="flex items-center space-x-2">
+                    <RadioGroupItem value={brand} id={`brand-${brand}`} />
+                    <Label htmlFor={`brand-${brand}`} className="cursor-pointer">
+                      {brand}
+                    </Label>
+                  </div>
+                ))}
+              </RadioGroup>
+            </div>
 
             <Button variant="outline" className="w-full bg-transparent" onClick={clearFilters}>
               Clear Filters

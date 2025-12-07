@@ -2,13 +2,12 @@
   {
     "id": "b1",
     "name": "Slimline Notebook Combination Lock",
-    "description": "Protect your notebook with the Gizzu Slimline Combination Lock. Its reinforced cable and 4-digit code secure your device, and the slim design fits thinner notebooks like ultrabooks. The cable connection pivots and rotates for effortless installation, while its pull-resistant design enhances protection against forced entry. Simple to set up, this lock offers a reliable way to physically secure your device and prevent theft."
-    ,
+    "description": "Protect your notebook with the Gizzu Slimline Combination Lock. Its reinforced cable and 4-digit code secure your device, and the slim design fits thinner notebooks like ultrabooks. The cable connection pivots and rotates for effortless installation, while its pull-resistant design enhances protection against forced entry. Simple to set up, this lock offers a reliable way to physically secure your device and prevent theft.",
     "category": "Accessories",
     "condition": "Brand New",
     "image": "/lock cable.jpg",
     "images": ["/lock cable.jpg", "/lock cable1.jpg"],
-    "brand": "Gizzu Lock Cable",
+    "brand": "Gizzu",
     "inStock": true,
     "features": [
       "Easy to Install",
@@ -39,7 +38,7 @@
     "condition": "Brand New",
     "image": "/bulb.jpg",
     "images": ["/bulb.jpg", "/bulb4.jpg", "/bulb1.png", "/bulb5.jpg","/bulb2.png", "/bulb3.jpg"],
-    "brand": "Gizzu Bulb",
+    "brand": "Gizzu",
     "inStock": true,
     "features": ["Up to 25000-hours", "Smart Bulb Technology", "Automatically switches to emergency mode in the event of loadshedding or a power failure", "Select between 3 brightness levels to prolong battery life (the default brightness level is 100%)", "Keep your lights powered for up to 5 additional hours"]
   },
@@ -63,7 +62,7 @@
     "condition": "Brand New",
     "image": "/hero.jpg",
     "images": ["/hero1.jpg", "/hero2.jpg", "/hero3.jpg"],
-    "brand": "Gizzu Hero Max",
+    "brand": "Gizzu",
     "inStock": true,
     "features": ["1024Wh lithium iron phosphate (LiFePO4) batteries with 3x more battery cycles than a typical lithium ion battery.", "Features UPS functionality with 10ms switchover", "Recharge the battery from 0% to 100% within 1.3 hours", "Multiple input charging options (car, solar panel or from wall sockets).", "AC Input: 220-240V/50Hz 1000W Max (1.3hrs)", "Battery Capacity: 1024Wh", "Lifespan: 3500 cycles to 80%", "Short-Circuit & Over-Current Protection", "Over-Voltage & Under-Voltage Protection", "Over-Load & Temperature Protection"]
   },
@@ -75,34 +74,59 @@
     "condition": "Brand New",
     "image": "/gizzu pro1.jpg",
     "images": ["/gizzu pro.jpg", "/gizzu pro1.jpg", "/gizzu pro2.jpg", "/gizzu pro3.jpg"],
-    "brand": "Gizzu Hero",
+    "brand": "Gizzu",
     "inStock": true,
     "features": ["2048Wh Lithium Iron Phosphate (LiFePO4) batteries", "Features UPS functionality with 10ms switchover", "Charge from 0-100 in 2 hours", "AC Input: 220-240V/50Hz 1100W Max (2hrs)", "MPPT (Anderson) Input: 11.5-50V/25A 500W Max (4.8hrs)", "Short-Circuit & Over-Current Protection", "Over-Voltage & Under-Voltage Protection", "Over-Load & Temperature Protection"]
   },
   {
     "id": "u1",
-    "name": "UPS Battery 9Ah",
-    "description": "Replacement battery for UPS units",
-    "category": "UPS Batteries",
+    "name": "Mi Smart LED Desk Lamp Pro",
+    "description": "This smart desk lamp offers wide, even lighting with flexible three-axis adjustment, a 116 mm LED panel, and eye-friendly, flicker-free illumination. It features stepless brightness and colour temperature control plus dual voice-control support, giving you customizable, comfortable light for any workspace.",
+    "category": "Lighting",
     "condition": "Brand New",
-    "image": "/placeholder.jpg",
-    "images": ["/placeholder.jpg"],
-    "brand": "APC",
+    "image": "/table4.jpg",
+    "images": ["/table1.jpg", "/table2.jpg", "/table3.jpg"],
+    "brand": "Xiaomi",
     "inStock": true,
-    "features": ["Standard 12V 9Ah", "Sealed lead-acid", "Low self-discharge", "Spill-proof construction"]
+    "features": ["Reading and writing desk lamp", "Color Temperature 2500–4800K", "25,000 hours Service Life Approx.", "Rated Input: 100–240 V, 50/60 Hz, 0.5 A", "Wi-Fi IEEE 802.11b/g/n 2.4 GHz   Bluetooth 4.2 BLE", "Android 4.4 or iOS 9.0 and above"]
   },
   {
     "id": "c1",
-    "name": "USB-C to Lightning Cable",
-    "description": "1m durable charging cable",
-    "category": "Cables & Adapters",
+    "name": "Mi 4K Laser Projector 150 Inch",
+    "description": "Enjoy a true home-theater experience with this ultra short-throw laser projector, capable of projecting an 80–150 inch screen from just 5–50 cm away. Powered by ALPD 3.0 technology and a 3000:1 native contrast ratio, it delivers bright, sharp, and colour-rich visuals with 1080p resolution and HDR support. Its anti-direct vision sensor enhances eye safety, while the compact design fits easily on a TV cabinet or wall mount.",
+    "category": "Projectors",
     "condition": "Brand New",
-    "image": "/placeholder.jpg",
-    "images": ["/placeholder.jpg"],
-    "brand": "Apple",
+    "image": "/projector.jpg",
+    "images": ["/projector.jpg", "/projector1.jpg", "/projector2.jpg"],
+    "brand": "Xiaomi",
     "inStock": true,
-    "features": ["MFi-certified", "Durable braided design", "Fast charging compatible", "1 meter length"]
+    "features": ["Projects a large 80–150 inch screen from an ultra short distance of just 5–50 cm.", "Uses ALPD 3.0 laser technology for bright, sharp, and vivid image quality.", "Offers a high 3000:1 native contrast ratio for clear detail in dark scenes.", "Features DLP projection and efficient 15W performance", "Supports Full HD 1080p resolution and HDR content for enhanced viewing.", "Includes an anti-direct vision sensor to protect eyes from direct laser exposure."]
+  },  
+  {
+    "id": "u2",
+    "name": "Xiaomi Smart Camera C500 Pro",
+    "description": "The Xiaomi Smart Camera C500 Pro offers ultra-clear 3K video, 360° coverage, and smart AI detection for humans, pets, and baby cries. It features two-way audio, voice assistant support, and a retractable lens shield with advanced encryption, ensuring full security and privacy.",
+    "category": "Cameras",
+    "condition": "Brand New",
+    "image": "/camera.jpg",
+    "images": ["/camera.jpg", "/camera1.jpg", "/camera2.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Captures ultra-clear 3K video (5 MP sensor) with HDR and low-light color or infrared modes. ", "Provides 360° horizontal and 114° vertical coverage via dual-motor pan–tilt–zoom — no blind spots. ", "Smart AI detection notifies you about humans, pets, baby cries or loud noises, with customizable monitoring zones. ", "Offers two-way voice communication, plus support for voice control through Alexa or Google Assistant.", "Includes a physical retractable lens shield and MJA1 security chip with AES-128 encryption for strong privacy protection.", "Supports flexible storage options: microSD (up to 256 GB), NAS or encrypted cloud, with efficient H.265 video encoding."]
+  },
+  {
+    "id": "u3",
+    "name": "Mi Smart Kettle Pro",
+    "description": "The Mi Smart Kettle Pro is a high‑capacity smart electric kettle that brings precision temperature control and modern convenience to your kitchen. With a clear HD digital display, adjustable temperature settings (40 – 90 °C), and a 1.5 L stainless‑steel interior, it lets you boil water quickly or keep water warm for hours — ideal for tea, coffee, baby formula, and more. Its double‑wall design keeps the exterior cool, while built‑in safety protections and automatic shut‑off give you peace of mind. Sleek, practical, and easy to use, this kettle blends performance, safety, and style. ",
+    "category": "Accessories",
+    "condition": "Brand New",
+    "image": "/kettle.jpg",
+    "images": ["/kettle.jpg", "/kettle1.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Real‑time temperature display on an HD digital screen.", "Adjustable temperature modes from 40 °C to 90 °C for different uses (e.g. warm water, tea, coffee, baby formula).", "1.5 L capacity — enough to serve multiple cups without frequent refilling.", "1800 W high‑power heating for fast boiling.", "Interior made of food‑grade 304 stainless steel, resistant to rust and odors, and easy to clean.", "Double‑wall insulated body — stays cool outside while keeping water hot inside.", "Triple safety protection: automatic shut-off after boiling, dry‑burn prevention, and electric shock protection.", "Large, easy-clean spout and a well-designed lid for safe pouring and maintenance.", "Neat design with a power cord storage base for a tidy kitchen look."]
   }
+  
 ]
 
 

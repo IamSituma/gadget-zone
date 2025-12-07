@@ -9,6 +9,8 @@ export type ProductCategory =
   | "Accessories"
   | "UPS Batteries"
   | "Cables & Adapters"
+  | "Projectors"
+  | "Cameras"
 
 export type PaymentMethod = "MTN Mobile Money" | "Airtel Money" | "Cash on Delivery" | "Visa"
 
