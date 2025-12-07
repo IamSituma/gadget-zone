@@ -140,7 +140,7 @@
   },
   {
     "id": "u5",
-    "name": "Xiaomi Mi Power Bank 3 Ultra Compact 10000 mAh",
+    "name": "Xiaomi Mi Power Bank 3 Ultra Compact",
     "description": "The Xiaomi 10000mAh Mi Power Bank 3 Ultra Compact is a lightweight, pocket-sized power bank capable of charging your smartphone up to three times. With triple-device charging, Type-C two-way fast charging, and multiple input/output ports, it’s ideal for smartphones, tablets, and devices like the Nintendo Switch. Advanced circuitry ensures stable voltage, high conversion efficiency, and multi-protection, making it a reliable everyday power companion.",
     "category": "Power Banks",
     "condition": "Brand New",
@@ -149,8 +149,40 @@
     "brand": "Xiaomi",
     "inStock": true,
     "features": ["Ultra-compact and portable design (≈200 g).", "10000 mAh high capacity for multiple full charges.", "OTriple-device charging with Type-C + 2 USB-A ports.", "Type-C two-way fast charging, up to 22.5 W.", "Multiple input options: Type-C and Micro-USB.", "Advanced circuitry with voltage stabilization and multi-protection.", "Compatible with smartphones, tablets, and the Switch."]
+  },
+  {
+    "id": "u6",
+    "name": "Xiaomi Mi Power Bank 3 Ultra Compact",
+    "description": "The Xiaomi Mi USB‑C Cable (White) is a simple yet reliable charging and data cable, compact, reversible, and built for everyday use. It connects Type‑C devices (phones, tablets, laptops, power banks) with ease and supports both charging and data transfer in a sturdy, flexible design.",
+    "condition": "Brand New",
+    "image": "/cable.jpg",
+    "images": ["/cable.jpg","/cable1.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Reversible USB‑C connector. Plug in either way without worrying about orientation.", "Supports fast charging (up to 3A) and standard data transfer, delivering reliable power and syncing.", "Durable build with a flexible TPE outer jacket and reinforced connector joints to resist bending and wear.", "USB 2.0-compatible. Provides stable charging and data transfer for most modern devices using USB‑C."]
+  },
+  {
+    "id": "c6",
+    "name": "Mi Wireless Outdoor Security Camera 1080",
+    "description": "The Xiaomi Mi Wireless Outdoor Security Camera 1080p Set is a fully‑wireless, weather‑resistant surveillance solution ideal for securing homes, gardens, driveways, or small businesses. With a Full HD 1080p camera, wide-angle view, battery power, and an included indoor receiver. It delivers clear video day or night, smart motion detection, and flexible storage options. Installation is simple and cable‑free, while robust build and IP65 rating make it suitable for outdoor use in varied weather.",
+    "condition": "Brand New",
+    "image": "/mi4.jpg",
+    "images": ["/mi1.jpg","/mi2.jpg", "/mi3.jpg", "/mi4.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Full HD (1920×1080) resolution with a 130° wide‑angle lens and F2.1 aperture for broad coverage and sharp detail.", "Wire‑free design with a 5700 mAh built‑in battery. Lasts up to ~90 days on a single charge (depending on usage).", "PIR human motion detection (up to ~7 m range), sending instant alerts to your phone when movement is sensed.", "Night vision + wide dynamic range (WDR) ensures clear video even in low light or contrasting light conditions.", "IP65 dust‑ and water‑resistant housing, built to withstand outdoor conditions from –20°C to 50°C.", "Flexible storage options: Save video locally via MicroSD (up to 32 GB) or USB drive, or use cloud storage via the indoor receiver." , "One indoor receiver can support up to four outdoor cameras. Useful for monitoring multiple areas with a single hub.", "Two‑way audio (built-in microphone and speaker). Lets you talk directly through the camera (e.g. to delivery people or guests) when paired with the companion app."]
+  },
+  {
+    "id": "c7",
+    "name": "Xiaomi 1080P Wireless Camera and Receiver",
+    "description": "The Xiaomi Mi Wireless Outdoor Security Camera 1080p is a wireless, weatherproof camera with Full HD video, 130° wide-angle view, night vision, two-way audio, and motion alerts, providing easy, reliable outdoor security with flexible storage options.",
+    "condition": "Brand New",
+    "image": "/cam.jpg",
+    "images": ["/cam.jpg","/cam1.jpg", "/cam2.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Full HD 1080p resolution for clear detail day and night.", "130° wide-angle lens for broad coverage of driveways, gardens, or entrances.", "Wireless, battery-powered design (built-in ~5700 mAh battery) for up to 90 days per charge. No wiring needed.", "PIR human detection with ~7 m range, sending instant alerts on motion or suspicious activity.", "Night vision + WDR technology + f/2.1 aperture. Ensures clear video even in low light or backlit conditions.", "Weatherproof with IP65 rating. Works reliably outdoors in temperatures from about –20 °C to 50 °C.", "Two-way audio (microphone + speaker). Lets you communicate through the camera via your smartphone.", "Supports multiple storage options. Local (MicroSD card / USB) or optional cloud storage, depending on your preference."]
   }
-  
 ]
 
 

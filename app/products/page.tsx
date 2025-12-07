@@ -9,8 +9,7 @@ import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
 import productsData from "@/data/products.json"
-import type { Product, ProductCategory, ProductCondition } from "@/lib/types"
-import { formatUGX } from "@/lib/utils"
+import type { Product, ProductCategory } from "@/lib/types"
 
 export default function ProductsPage() {
   const searchParams = useSearchParams()
@@ -58,6 +57,7 @@ export default function ProductsPage() {
         <h1 className="mb-8 text-3xl font-bold">All Products</h1>
 
         <div className="grid gap-8 lg:grid-cols-[250px_1fr]">
+          {/* Sidebar Filters */}
           <aside className="space-y-6">
             {/* Category Filter */}
             <div>
@@ -94,6 +94,7 @@ export default function ProductsPage() {
             </Button>
           </aside>
 
+          {/* Main Content */}
           <div>
             <div className="mb-6 flex items-center justify-between">
               <p className="text-muted-foreground">
@@ -101,6 +102,17 @@ export default function ProductsPage() {
               </p>
             </div>
 
+            {/* CTA Banner */}
+            {/*
+            <div className="mb-10 w-full overflow-hidden rounded-xl bg-muted">
+              <img
+                src="/banner.png" // Change to your CTA image path
+                alt="Special Offer"
+                className="w-full h-auto object-cover"
+              />
+            </div>
+
+            {/* Product Grid */}
             {filteredProducts.length > 0 ? (
               <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
                 {filteredProducts.map((product) => (
