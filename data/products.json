@@ -125,6 +125,30 @@
     "brand": "Xiaomi",
     "inStock": true,
     "features": ["Real‑time temperature display on an HD digital screen.", "Adjustable temperature modes from 40 °C to 90 °C for different uses (e.g. warm water, tea, coffee, baby formula).", "1.5 L capacity — enough to serve multiple cups without frequent refilling.", "1800 W high‑power heating for fast boiling.", "Interior made of food‑grade 304 stainless steel, resistant to rust and odors, and easy to clean.", "Double‑wall insulated body — stays cool outside while keeping water hot inside.", "Triple safety protection: automatic shut-off after boiling, dry‑burn prevention, and electric shock protection.", "Large, easy-clean spout and a well-designed lid for safe pouring and maintenance.", "Neat design with a power cord storage base for a tidy kitchen look."]
+  },
+  {
+    "id": "u4",
+    "name": "Xiaomi LCD Writing Tablet 13.5 Inch",
+    "description": "The Xiaomi 13.5 Color LCD Writing Tablet lets you write, draw, and erase instantly with vivid, pressure-sensitive strokes. Lightweight, portable, and eye-friendly, it’s perfect for notes, sketches, and creative ideas anywhere.",
+    "category": "Accessories",
+    "condition": "Brand New",
+    "image": "/tab1.jpg",
+    "images": ["/tab1.jpg", "/tab2.jpg", "/tab3.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["13.5 inch color LCD panel with vivid, paper-like strokes.", "Pressure-sensitive writing for expressive lines.", "One-tap erase for instant clearing.", "Magnetic stylus with built-in storage.", "Slim, lightweight, and portable design.", "Eye-friendly display with no blue-light emission.", "Long-lasting battery, up to a year."]
+  },
+  {
+    "id": "u5",
+    "name": "Xiaomi Mi Power Bank 3 Ultra Compact 10000 mAh",
+    "description": "The Xiaomi 10000mAh Mi Power Bank 3 Ultra Compact is a lightweight, pocket-sized power bank capable of charging your smartphone up to three times. With triple-device charging, Type-C two-way fast charging, and multiple input/output ports, it’s ideal for smartphones, tablets, and devices like the Nintendo Switch. Advanced circuitry ensures stable voltage, high conversion efficiency, and multi-protection, making it a reliable everyday power companion.",
+    "category": "Power Banks",
+    "condition": "Brand New",
+    "image": "/bank.jpg",
+    "images": ["/bank.jpg","/bank1.jpg", "/bank2.jpg", "/bank3.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Ultra-compact and portable design (≈200 g).", "10000 mAh high capacity for multiple full charges.", "OTriple-device charging with Type-C + 2 USB-A ports.", "Type-C two-way fast charging, up to 22.5 W.", "Multiple input options: Type-C and Micro-USB.", "Advanced circuitry with voltage stabilization and multi-protection.", "Compatible with smartphones, tablets, and the Switch."]
   }
   
 ]
