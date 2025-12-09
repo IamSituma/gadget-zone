@@ -70,7 +70,7 @@ export default function ProductsPage() {
       <main className="container mx-auto px-4 py-8">
         {/* Header */}
         <div className="flex items-center justify-between mb-6">
-          <h1 className="text-2xl sm:text-3xl font-bold">All Products</h1>
+          <h1 className="text-2xl sm:text-3xl font-bold">View All Products</h1>
 
           {/* Mobile Filters Button */}
           <div className="md:hidden">
