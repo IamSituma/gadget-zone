@@ -25,7 +25,9 @@ export function SiteHeader() {
   const navLinks = [
     { href: "/", label: "Home" },
     { href: "/products", label: "All Products" },
-    { href: "/our-company", label: "Our Company" },
+
+    // { href: "/our-company", label: "Our Company" }, // 🔥 COMMENTED OUT
+
     { href: "/contact", label: "Contact Us" },
   ]
 
@@ -67,28 +69,6 @@ export function SiteHeader() {
             </div>
           </form>
 
-          {/* Shopping Cart temporarily disabled while using WhatsApp for orders */}
-          {/**
-          <Link href="/cart">
-            <Button
-              variant="ghost"
-              size="icon"
-              className="relative bg-transparent hover:bg-transparent"
-            >
-              <ShoppingCart
-                className="h-5 w-5 text-green-700"
-                strokeWidth={2.5}
-              />
-              {itemCount > 0 && (
-                <span className="absolute -right-1 -top-1 flex h-5 w-5 items-center justify-center rounded-full bg-accent text-xs font-bold text-accent-foreground">
-                  {itemCount}
-                </span>
-              )}
-              <span className="sr-only">Shopping cart</span>
-            </Button>
-          </Link>
-          **/}
-
           {/* Mobile Menu */}
           <Sheet>
             <SheetTrigger asChild className="md:hidden">
@@ -111,6 +91,7 @@ export function SiteHeader() {
                     />
                   </div>
                 </form>
+
                 {navLinks.map((link) => (
                   <Link
                     key={link.href}

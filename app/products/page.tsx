@@ -18,6 +18,10 @@ export default function ProductsPage() {
   const [selectedCategory, setSelectedCategory] = useState<ProductCategory | "All">(categoryParam || "All")
   const [selectedBrand, setSelectedBrand] = useState<"All" | "Gizzu" | "Xiaomi">("All")
 
+  // 👉 Pagination states
+  const [currentPage, setCurrentPage] = useState(1)
+  const productsPerPage = 12
+
   const products = productsData as Product[]
 
   const categories: (ProductCategory | "All")[] = [
@@ -36,6 +40,7 @@ export default function ProductsPage() {
 
   const brands: ("All" | "Gizzu" | "Xiaomi")[] = ["All", "Gizzu", "Xiaomi"]
 
+  // 👉 Filter products
   const filteredProducts = useMemo(() => {
     return products.filter((product) => {
       const categoryMatch = selectedCategory === "All" || product.category === selectedCategory
@@ -44,10 +49,25 @@ export default function ProductsPage() {
     })
   }, [selectedCategory, selectedBrand, products])
 
+  // 👉 Reset to page 1 after changing filters
+  const handleFilterChange = (type: "category" | "brand", value: any) => {
+    if (type === "category") setSelectedCategory(value)
+    if (type === "brand") setSelectedBrand(value)
+    setCurrentPage(1)
+  }
+
   const clearFilters = () => {
     setSelectedCategory("All")
     setSelectedBrand("All")
+    setCurrentPage(1)
   }
+
+  // 👉 Pagination calculations
+  const indexOfLast = currentPage * productsPerPage
+  const indexOfFirst = indexOfLast - productsPerPage
+  const currentProducts = filteredProducts.slice(indexOfFirst, indexOfLast)
+
+  const totalPages = Math.ceil(filteredProducts.length / productsPerPage)
 
   return (
     <div className="min-h-screen">
@@ -59,10 +79,14 @@ export default function ProductsPage() {
         <div className="grid gap-8 lg:grid-cols-[250px_1fr]">
           {/* Sidebar Filters */}
           <aside className="space-y-6">
+
             {/* Category Filter */}
             <div>
               <h3 className="mb-4 text-lg font-semibold">Category</h3>
-              <RadioGroup value={selectedCategory} onValueChange={(value) => setSelectedCategory(value as any)}>
+              <RadioGroup
+                value={selectedCategory}
+                onValueChange={(value) => handleFilterChange("category", value)}
+              >
                 {categories.map((category) => (
                   <div key={category} className="flex items-center space-x-2">
                     <RadioGroupItem value={category} id={`category-${category}`} />
@@ -77,7 +101,10 @@ export default function ProductsPage() {
             {/* Brand Filter */}
             <div>
               <h3 className="mb-4 text-lg font-semibold">Brand</h3>
-              <RadioGroup value={selectedBrand} onValueChange={(value) => setSelectedBrand(value as any)}>
+              <RadioGroup
+                value={selectedBrand}
+                onValueChange={(value) => handleFilterChange("brand", value)}
+              >
                 {brands.map((brand) => (
                   <div key={brand} className="flex items-center space-x-2">
                     <RadioGroupItem value={brand} id={`brand-${brand}`} />
@@ -102,20 +129,10 @@ export default function ProductsPage() {
               </p>
             </div>
 
-            {/* CTA Banner */}
-            {/*
-            <div className="mb-10 w-full overflow-hidden rounded-xl bg-muted">
-              <img
-                src="/banner.png" // Change to your CTA image path
-                alt="Special Offer"
-                className="w-full h-auto object-cover"
-              />
-            </div>
-
             {/* Product Grid */}
-            {filteredProducts.length > 0 ? (
+            {currentProducts.length > 0 ? (
               <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                {filteredProducts.map((product) => (
+                {currentProducts.map((product) => (
                   <ProductCard key={product.id} product={product} />
                 ))}
               </div>
@@ -125,6 +142,45 @@ export default function ProductsPage() {
                   <p className="text-lg font-medium">No products found</p>
                   <p className="mt-2 text-muted-foreground">Try adjusting your filters</p>
                 </div>
+              </div>
+            )}
+
+            {/* Pagination */}
+            {totalPages > 1 && (
+              <div className="mt-10 flex items-center justify-center gap-2">
+
+                {/* Prev */}
+                <Button
+                  variant="outline"
+                  disabled={currentPage === 1}
+                  onClick={() => setCurrentPage((p) => p - 1)}
+                >
+                  Previous
+                </Button>
+
+                {/* Page numbers */}
+                {[...Array(totalPages)].map((_, i) => {
+                  const page = i + 1
+                  return (
+                    <Button
+                      key={page}
+                      variant={page === currentPage ? "default" : "outline"}
+                      onClick={() => setCurrentPage(page)}
+                    >
+                      {page}
+                    </Button>
+                  )
+                })}
+
+                {/* Next */}
+                <Button
+                  variant="outline"
+                  disabled={currentPage === totalPages}
+                  onClick={() => setCurrentPage((p) => p + 1)}
+                >
+                  Next
+                </Button>
+
               </div>
             )}
           </div>
