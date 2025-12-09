@@ -2,16 +2,13 @@
 
 import type React from "react"
 import Link from "next/link"
-import { Search, ShoppingCart, Menu } from "lucide-react"
+import { Search, Menu } from "lucide-react"
 import { Button } from "@/components/ui/button"
-import { Input } from "@/components/ui/input"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
-import { useCartStore } from "@/lib/cart-store"
 import { useState } from "react"
 import { useRouter } from "next/navigation"
 
 export function SiteHeader() {
-  const itemCount = useCartStore((state) => state.getItemCount())
   const [searchQuery, setSearchQuery] = useState("")
   const router = useRouter()
 
@@ -25,51 +22,49 @@ export function SiteHeader() {
   const navLinks = [
     { href: "/", label: "Home" },
     { href: "/products", label: "All Products" },
-
     // { href: "/our-company", label: "Our Company" }, // 🔥 COMMENTED OUT
-
     { href: "/contact", label: "Contact Us" },
   ]
 
   return (
     <header className="z-50 w-full border-b bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-      <div className="container mx-auto flex h-16 items-center justify-between gap-4 px-4">
-        {/* Logo and Navigation */}
-        <div className="flex items-center gap-6">
-          <Link href="/" className="flex items-center gap-2">
-            <img src="/volts2.png" alt="Voltspire Logo" className="h-12 w-16" />
-          </Link>
+      <div className="container mx-auto flex h-16 items-center justify-between px-4">
+        {/* Logo */}
+        <Link href="/" className="flex items-center gap-2">
+          <img
+            src="/volts2.png"
+            alt="Voltspire Logo"
+            className="h-10 w-14 sm:h-12 sm:w-16"
+          />
+        </Link>
 
-          <nav className="hidden items-center gap-8 md:flex">
-            {navLinks.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                className="text-sm font-semibold text-black transition-colors hover:text-gray-700"
-              >
-                {link.label}
-              </Link>
-            ))}
-          </nav>
-        </div>
+        {/* Desktop Navigation */}
+        <nav className="hidden md:flex items-center gap-8">
+          {navLinks.map((link) => (
+            <Link
+              key={link.href}
+              href={link.href}
+              className="text-sm font-semibold text-black transition-colors hover:text-gray-700"
+            >
+              {link.label}
+            </Link>
+          ))}
+        </nav>
 
-        {/* Search and Cart */}
-        <div className="flex flex-1 items-center gap-4 md:max-w-md">
-          {/* Search */}
-          <form onSubmit={handleSearch} className="hidden flex-1 md:block">
-            <div className="relative">
-              <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
-              <Input
-                type="search"
-                placeholder="Search products..."
-                className="pl-9 rounded-[30px]"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-              />
-            </div>
-          </form>
+        {/* Right Side: Search + Mobile Hamburger */}
+        <div className="flex items-center gap-4 md:gap-6 ml-auto">
+          {/* Mobile Search Icon */}
+          <Button
+            variant="ghost"
+            size="icon"
+            className="md:hidden"
+            onClick={() => router.push("/search")}
+          >
+            <Search className="h-5 w-5" />
+            <span className="sr-only">Search</span>
+          </Button>
 
-          {/* Mobile Menu */}
+          {/* Mobile Hamburger */}
           <Sheet>
             <SheetTrigger asChild className="md:hidden">
               <Button variant="ghost" size="icon">
@@ -77,26 +72,18 @@ export function SiteHeader() {
                 <span className="sr-only">Toggle menu</span>
               </Button>
             </SheetTrigger>
-            <SheetContent side="right">
-              <nav className="flex flex-col gap-4">
-                <form onSubmit={handleSearch} className="mb-4">
-                  <div className="relative">
-                    <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
-                    <Input
-                      type="search"
-                      placeholder="Search products..."
-                      className="pl-9 rounded-[30px]"
-                      value={searchQuery}
-                      onChange={(e) => setSearchQuery(e.target.value)}
-                    />
-                  </div>
-                </form>
 
+            <SheetContent
+              side="right"
+              className="bg-white dark:bg-gray-900 w-[280px] p-6 shadow-2xl rounded-l-2xl"
+            >
+              {/* Nav Links Only (smaller, normal weight) */}
+              <nav className="flex flex-col gap-4 text-base font-normal mt-6">
                 {navLinks.map((link) => (
                   <Link
                     key={link.href}
                     href={link.href}
-                    className="text-lg font-semibold text-black transition-colors hover:text-gray-700"
+                    className="text-gray-900 dark:text-white hover:text-green-700 transition-colors"
                   >
                     {link.label}
                   </Link>
