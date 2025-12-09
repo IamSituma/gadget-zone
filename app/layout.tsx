@@ -9,7 +9,7 @@ import { SiteFooter } from "@/components/site-footer"
 
 export const metadata: Metadata = {
   title: "Voltspire - Your Official Gizzu Electronics Store",
-  description: "Shop the latest power banks, power stations, batterues, lighting bulbs, and accessories.",
+  description: "Shop the latest power banks, power stations, batteries, lighting bulbs, and accessories.",
 }
 
 export default function RootLayout({
