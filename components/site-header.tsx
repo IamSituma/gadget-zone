@@ -19,7 +19,7 @@ export function SiteHeader() {
 
   return (
     <header className="w-full border-b bg-white font-[Poppins]">
-      <div className="container mx-auto flex items-center justify-between py-4 px-4">
+      <div className="container mx-auto flex items-center justify-between py-3 px-4">
 
         <Link href="/" className="flex items-center space-x-2">
       {/* Image Logo */}

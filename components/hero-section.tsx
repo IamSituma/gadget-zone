@@ -12,7 +12,7 @@ export function HeroSection() {
       />
 
       {/* Optional Overlay */}
-      <div className="absolute inset-0 bg-black/10 pointer-events-none" />
+      <div className="absolute inset-0 bg-black/60 pointer-events-none" />
     </section>
   )
 }

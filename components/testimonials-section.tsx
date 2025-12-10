@@ -14,7 +14,7 @@ const testimonials = [
     name: "David Mukasa",
     role: "Student",
     content:
-      "Got my Gizzu UPS from here. Top quality, fair pricing, and quick delivery. Definitely my go-to store for power solutions!",
+      "Got my UPS Battery from here. Top quality, fair pricing, and quick delivery. Definitely my go-to store for power solutions!",
     rating: 5,
     image: "/young-man-portrait.png",
   },
@@ -22,7 +22,7 @@ const testimonials = [
     name: "Grace Nambi",
     role: "Photographer",
     content:
-      "Great experience! Bought a Gizzu power bank and battery. Both work perfectly and hold charge for days. Fantastic value!",
+      "Great experience! Bought a couple of accessories from Voltspire. Both work perfectly and hold charge for days. Fantastic value!",
     rating: 5,
     image: "/woman-photographer-portrait.png",
   },
