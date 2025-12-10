@@ -46,7 +46,6 @@ export function ProductCard({ product, showDescriptionSnippet = false }: Product
               className="object-contain transition-transform group-hover:scale-105"
             />
             <div className="absolute right-2 top-2 flex flex-col gap-2">
-              <Badge variant={product.condition === "Brand New" ? "default" : "secondary"}>{product.condition}</Badge>
               {!product.inStock && <Badge variant="destructive">Out of Stock</Badge>}
             </div>
           </div>
@@ -59,27 +58,6 @@ export function ProductCard({ product, showDescriptionSnippet = false }: Product
             {/* price hidden while using WhatsApp for pricing */}
           </div>
         </CardContent>
-        <CardFooter className="flex gap-2 p-4 pt-0">
-          {/* <Button
-            variant="outline"
-            size="sm"
-            className="flex-1 bg-transparent h-10"
-            onClick={handleAddToCart}
-            disabled={!product.inStock}
-          >
-            <ShoppingCart className="mr-2 h-4 w-4" />
-            Add to Cart
-          </Button>
-          <Button size="sm" className="flex-1 h-10" onClick={handleBuyNow} disabled={!product.inStock}>
-            Buy Now
-          </Button> */}
-          <WhatsAppButton
-            size="sm"
-            className="flex-1 h-10"
-            label="Contact for Price"
-            message={`Hi! I'm interested in the ${product.name}. Could you share the price?\n\nProduct link: ${typeof window !== 'undefined' ? window.location.origin : ''}/product/${product.id}`}
-          />
-        </CardFooter>
       </Card>
     </Link>
   )
