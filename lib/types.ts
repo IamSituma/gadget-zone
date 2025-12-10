@@ -4,6 +4,8 @@ export type ProductCategory =
   | "Batteries"
   | "On The Go"
   | "Home Appliances"
+  | "Bathroom Appliances"
+  | "Audio & Video"
   | "Power Stations"
   | "Power Banks"
   | "Lighting"

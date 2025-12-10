@@ -124,7 +124,7 @@
     "images": ["/kettle.jpg", "/kettle1.jpg"],
     "brand": "Xiaomi",
     "inStock": true,
-    "features": ["Real‑time temperature display on an HD digital screen.", "Adjustable temperature modes from 40 °C to 90 °C for different uses (e.g. warm water, tea, coffee, baby formula).", "1.5 L capacity — enough to serve multiple cups without frequent refilling.", "1800 W high‑power heating for fast boiling.", "Interior made of food‑grade 304 stainless steel, resistant to rust and odors, and easy to clean.", "Double‑wall insulated body — stays cool outside while keeping water hot inside.", "Triple safety protection: automatic shut-off after boiling, dry‑burn prevention, and electric shock protection.", "Large, easy-clean spout and a well-designed lid for safe pouring and maintenance.", "Neat design with a power cord storage base for a tidy kitchen look."]
+    "features": ["Real‑time temperature display on an HD digital screen.", "Adjustable temperature modes from 40 °C to 90 °C for different uses (e.g. warm water, tea, coffee, baby formula).", "1.5 L capacity, enough to serve multiple cups without frequent refilling.", "1800 W high‑power heating for fast boiling.", "Interior made of food‑grade 304 stainless steel, resistant to rust and odors, and easy to clean.", "Double‑wall insulated body. Stays cool outside while keeping water hot inside.", "Triple safety protection: automatic shut-off after boiling, dry‑burn prevention, and electric shock protection.", "Large, easy-clean spout and a well-designed lid for safe pouring and maintenance.", "Neat design with a power cord storage base for a tidy kitchen look."]
   },
   {
     "id": "u4",
@@ -220,7 +220,7 @@
     "images": ["/cleaner.jpg", "/cleaner1.jpg"],
     "brand": "Xiaomi",
     "inStock": true,
-    "features": ["Extension dock included — comes with an extra dock to charge and store the replacement battery.", "Simultaneous charging — once the expansion dock is placed on the main charging dock, both the vacuum and the spare battery can charge at the same time with a single cable.", "Extended runtime — provides up to 65 minutes of extra working time in Eco mode (on top of the regular battery).", "Rechargeable Li‑ion battery — the extra battery uses a lithium‑ion cell with 3000 mAh capacity.", "Plug‑and‑play spare battery — designed specifically to be compatible with the Xiaomi G10 Plus vacuum model.", "Lightweight & compact pack — battery pack weight ~ 600 g and compact dimensions — easy to store and handle."]
+    "features": ["Extension dock included: comes with an extra dock to charge and store the replacement battery.", "Simultaneous charging: Once the expansion dock is placed on the main charging dock, both the vacuum and the spare battery can charge at the same time with a single cable.", "Extended runtime: Provides up to 65 minutes of extra working time in Eco mode (on top of the regular battery).", "Rechargeable Li‑ion battery: The extra battery uses a lithium‑ion cell with 3000 mAh capacity.", "Plug‑and‑play spare battery: Tesigned specifically to be compatible with the Xiaomi G10 Plus vacuum model.", "Lightweight & compact pack: Battery pack weight ~ 600 g and compact dimensions. Easy to store and handle."]
   },
   {
     "id": "c11",
@@ -232,7 +232,151 @@
     "images": ["/BHR4779GL_wr_02.jpg", "/BHR4779GL_wr_01.jpg", "/BHR4779GL_wr_03.jpg", "/BHR4779GL_wr_04.jpg"],
     "brand": "Xiaomi",
     "inStock": true,
-    "features": ["45‑tooth high‑precision ratchet — provides smooth and efficient ratcheting action.", "Three ratchet settings (R / locked / L) — tighten screws, loosen screws, or use direct drive without ratchet.", "Up to 20 N·m torque — enough force for many household and electronics‑repair tasks.", "16‑in‑1 bit set (8 double‑ended bits) — supports a wide variety of screw types (slotted, Phillips, Pozidriv, hex, Torx, etc.).", "Bits made from S2 alloy steel — offering good hardness (about 60 HRC) and durability for long‑term use.", "Detachable extension rod (≈110 mm) — helps reach screws in deep or narrow spaces.", "Magnetic pop‑up bit magazine built into the handle — stores all bits neatly inside the handle and keeps them secure.", "Ergonomic handle with non-slip grip — handle uses nylon + fiberglass and a TPE rubber coating for comfort and better control.", "Compact and portable — makes it suitable for home use, electronics repair, and general maintenance."]
+    "features": ["45‑tooth high‑precision ratchet: Provides smooth and efficient ratcheting action.", "Three ratchet settings (R / locked / L): Tighten screws, loosen screws, or use direct drive without ratchet.", "Up to 20 N·m torque: Enough force for many household and electronics‑repair tasks.", "16‑in‑1 bit set (8 double‑ended bits): Supports a wide variety of screw types (slotted, Phillips, Pozidriv, hex, Torx, etc.).", "Bits made from S2 alloy steel: Offering good hardness (about 60 HRC) and durability for long‑term use.", "Detachable extension rod (≈110 mm) — helps reach screws in deep or narrow spaces.", "Magnetic pop‑up bit magazine built into the handle: Stores all bits neatly inside the handle and keeps them secure.", "Ergonomic handle with non-slip grip: Handle uses nylon + fiberglass and a TPE rubber coating for comfort and better control.", "Compact and portable: Makes it suitable for home use, electronics repair, and general maintenance."]
+  },
+  {
+    "id": "c12",
+    "name": "Xiaomi Mi Portable Bluetooth Speaker - Grey",
+    "description": "The Xiaomi Mi Portable Bluetooth Speaker is a compact, travel‑friendly speaker designed to bring powerful, rich sound wherever you go. Despite its small size, it delivers clear audio with dual drivers, offers up to 10 hours of music playback on a single charge, and resists dust and water — making it ideal for both indoor use and outdoors. With Bluetooth 5.0 connectivity and optional stereo pairing, it’s a versatile choice for music, calls, and portable audio needs.",
+    "category": "Audio & Video",
+    "condition": "Brand New",
+    "image": "/BHR4802GL_wr_01.jpg",
+    "images": ["/BHR4802GL_wr_02.jpg", "/BHR4802GL_wr_03.jpg", "/BHR4802GL_wr_04.jpg", "/BHR4802GL_wr_05.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Dual Drivers: For balanced, full‑range sound with clear detail and good bass.", "Up to 10 Hours Play Time: 2000 mAh battery lets you enjoy music for long sessions on a full charge.", "Bluetooth 5.0: Ensures stable, fast wireless connection with phones, tablets and other devices.", "True Wireless Stereo (TWS) Mode: You can pair two units for stereo left-right sound for a more immersive experience.", "IP67 Dustproof & Water‑Resistant: Protected against dust and water splashes, good for outdoor use or near water.", "Compact & Portable: Small enough to fit in your bag or palm, making it easy to carry everywhere.", "USB‑C Charging: Modern and convenient charging method.", "Built‑in Microphone & Call Support: Lets you take calls directly through the speaker for convenience.", "10 m Wireless Range: Reliable connection up to about 10 meters in open spaces."]
+  },
+  {
+    "id": "c13",
+    "name": "Xiaomi Smart Standing Fan 2 Pro",
+    "description": "The Xiaomi Smart Standing Fan 2 Pro is a modern, portable standing fan that blends smart‑control convenience with powerful, natural airflow. It runs on a rechargeable battery (so you’re not tied to a wall socket), offers ultra‑quiet, energy‑efficient operation, and lets you control airflow, speed, oscillation, and more, either manually, via app, or by voice. Ideal for homes, offices, or spaces where mobility and silent performance matter. ",
+    "category": "Home Appliances",
+    "condition": "Brand New",
+    "image": "/BHR4828GL_wr_01.jpg",
+    "images": ["/BHR4828GL_wr_02.jpg", "/BHR4828GL_wr_03.jpg", "/BHR4802GL_wr_04.jpg", "/BHR4828GL_wr_04.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Wireless & Portable: Runs on a built‑in 33.6 Wh lithium‑ion battery, so you can place it anywhere without needing a constant power plug.", "Up to ~18 Hours Battery Life: On low speed (with oscillation), the fan can run about 18 hours on a full charge; on higher speed with oscillation, about 2.7 hours.", "7+5 Double‑Layer Fan Blades: Dual‑layer blades create a softer, more natural breeze by reducing air vortex and spreading airflow more evenly.", "Wide & Long‑Range Airflow: 140° oscillation and up to 14 m ventilation range. Enough to cool a whole room.", "100 Precise Speed Levels: Through the companion app you can finely adjust air flow to suit your comfort needs.", "Brushless DC Motor (BLDC): More energy‑efficient, quieter, and longer-lasting than traditional AC motors, while delivering stable airflow.", "Ultra‑Quiet Operation: Noise levels range from as low as ~28.1 dB(A) (very quiet) to a maximum ~56.3 dB(A) at highest airflow. Roughly comparable to gentle rain up to normal conversation.", "Smart Controls: Compatible with the Mi Home app and supports AI voice control (via voice assistants), for remote and hands‑free operation.", "Dual Use: Floor or Table: Adjustable height and detachable stand make it easy to use on the floor or a desk/table.", "Magnetic Charging Dock with Indicator: Easy to charge and check battery status; charging stops automatically when full to protect battery health."]
+  },
+  {
+    "id": "c13",
+    "name": "Xiaomi Body Scale 2 Pro",
+    "description": "The Xiaomi Mi Body Composition Scale 2 is a sleek, smart bathroom scale that doesn’t just show your weight. It uses bioelectrical impedance and Bluetooth to deliver a full-body health overview (body fat, muscle mass, water, bone, metabolism, etc.) to your phone. It supports multiple user profiles, syncs seamlessly with the companion app, and works as a compact, modern fitness tool for the whole family. ",
+    "category": "Home Appliances",
+    "condition": "Brand New",
+    "image": "/NUN4048GL_wr_01.jpg",
+    "images": ["/NUN4048GL_wr_02.jpg", "/NUN4048GL_wr_03.jpg", "/NUN4048GL_wr_01.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Measures weight, body fat, muscle mass, water, bone mass, visceral fat, basal metabolic rate, BMI, protein, body score and other body composition metrics. Up to 13 data points.", "High‑precision sensor accurate to ±50 g: Detects small changes reliably.", "Supports 100 g–150 kg weight range, with units switchable between kilograms, pounds, and others.", "Connects via Bluetooth 5.0 to send data automatically to the app for tracking over time.", "Can store up to 16 distinct user profiles. Ideal for family use.", "Sleek, minimalist design: sturdy tempered-glass top, hidden LED display that lights up when you step on it, and non‑slip surface.", "Also features body balance test (standing on one foot with eyes closed) to help assess stability and balance.", "Battery powered: Uses 4 × AAA batteries, with long battery life.", "Compatible with Android and iOS (via companion app) and can sync data to health platforms (e.g. Google Fit, Apple Health via Mi Fit or similar apps) for comprehensive tracking."]
+  },
+  {
+    "id": "c14",
+    "name": "Xiaomi Smart Scale 2",
+    "description": "The Mi Smart Scale 2 is a sleek, lightweight smart scale that measures your body weight accurately and syncs the data via Bluetooth to your phone. It’s great for daily weight tracking, making it easy to monitor changes over time, whether for fitness, health or general wellness.",
+    "category": "Home Appliances",
+    "condition": "Brand New",
+    "image": "/NUN4056GL_wr_01.jpg",
+    "images": ["/NUN4056GL_wr_02.jpg", "/NUN4056GL_wr_04.jpg", "/NUN4056GL_wr_05.jpg", "/NUN4056GL_wr_06.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["High‑precision sensors: Detect changes from as little as 50 g.", "Weighing range from 100 g up to 150 kg: suitable for adults, children, and even small items.", "Dual mode for people and objects: Can weigh human body or small items/packages.", "Bluetooth 5.0 connectivity: Syncs data to your phone smoothly.", "Supports up to 16 user profiles: Odeal for family use; automatically recognizes different users.", "Hidden LED display: Clean, minimalist design; display lights up when you step on the scale.", "Compact, modern design: Tempered‑glass top with rounded edges; fits well in any home setting.", "Measures and tracks weight history and trends via companion app: Helps monitor progress over time."]
+  },
+  {
+    "id": "c15",
+    "name": "Xiaomi Mi Smart Electric Toothbrush T500",
+    "description": "The Mi Smart Electric Toothbrush T500 uses a powerful sonic motor and smart sensors to clean teeth more deeply and gently than a regular toothbrush. It adapts to your brushing style (“smart over‑pressure protection”), connects to an app for brushing data, and offers customizable cleaning modes — making it a practical everyday choice for oral care.",
+    "category": "Home Appliances",
+    "condition": "Brand New",
+    "image": "/NUN4087GL_wr_01.jpg",
+    "images": ["/NUN4087GL_wr_02.jpg", "/NUN4087GL_wr_03.jpg", "/NUN4087GL_wr_04.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["High‑frequency sonic motor: Vibrates ~31,000 times per minute for effective plaque and stain removal.", "Smart over‑pressure protection: Detects if you’re brushing too hard and reduces vibration to protect gums.", "Customizable cleaning modes: Standard, soft (for sensitive gums), and custom modes to match user preferences.", "Position detection & app data: Tracks brushing angle, coverage, pressure events, and gives brushing performance feedback via app.", "High‑density, metal‑free (anti‑rust) brush head with soft bristles for hygienic cleaning.", "IPX7 waterproof: Fully washable, safe for shower or bathroom use.", "Long battery life: Rechargeable battery, with up to ~18 days of usage per charge according to official specs.", "Wireless inductive charging: Convenient charging without plugging directly into the brush."]
+  },
+  {
+    "id": "c16",
+    "name": "Xiaomi Mi Electric Shaver S500",
+    "description": "The Xiaomi Mi Electric Shaver S500 is a compact, waterproof electric shaver built for comfort and precision. Its 360° floating shaving heads adapt to your facial contours to deliver a close shave. Whether you prefer dry or wet shaving. The S500 is easy to use, portable, and rechargeable via USB‑C, making it a convenient grooming tool for home or travel.",
+    "category": "Bathroom Appliances",
+    "condition": "Brand New",
+    "image": "/NUN4131GL_wr_01.jpg",
+    "images": ["/NUN4131GL_wr_02.jpg", "/NUN4131GL_wr_01.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["360° Floating Shaver‑Heads: Three flexible heads that adjust to facial curves for a clean, even shave.", "Dual‑Layer / Twin‑Blade Cutting System: Lifts and cuts hair efficiently for smoother results.", "IPX7 Waterproof Body: Fully washable, supports both wet and dry shaving.", "LED Digital Display: Shows battery level, speed mode, cleaning/maintenance reminders, and travel‑lock status.", "Two Shaving Modes (Standard & Speed/Turbo): Choose a gentle shave or a more powerful mode for thick beards.", "USB‑C Charging & Plug‑and‑Play Use: Rechargeable for ~60 min of usage per charge; can be used while charging.", "Compact & Travel‑Friendly Design: Portable size and light enough for easy carrying."]
+  },
+  {
+    "id": "c17",
+    "name": "Mi Electric Shaver S500 Replacement Head",
+    "description": "The replacement head restores your S500 to “like‑new” shaving performance: with dual‑track foils, twin‑blade cutters, and precision‑machined steel parts, it delivers a close, clean shave, even on short stubble while remaining washable and easy to install.",
+    "category": "Bathroom Appliances",
+    "condition": "Brand New",
+    "image": "/NUN4132GL_wr_01.jpg",
+    "images": ["/NUN4132GL_wr_02.jpg", "/NUN4132GL_wr_03.jpg", "/NUN4132GL_wr_04.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Dual‑track foils + Twin‑blade system: Inner and outer tracks with a total of 15 blades for 50 % more hair intake vs a single‑track shaver.", "Secondary lifting foil (0.08 mm): Lifts hairs before the main blades cut them, improving closeness and reducing missed stubble.", "High‑quality imported steel + ECM-finished foils: Foils and blades are finished using electrochemical machining for a smoother surface, fewer burrs, and better wear resistance.", "360° floating / “Infinite Float” design: The head adjusts to facial contours for a comfortable and evenly close shave.", "Waterproof & washable (IPX7): Safe for wet or dry shaving, and easy to clean under running water.", "Easy to install / replace: Designed to snap into place on the original shaver without tools.", "Compatible with Xiaomi Mi Electric Shaver S500 only: Not guaranteed to work with other Xiaomi shaver models."]
+  },
+  {
+    "id": "c18",
+    "name": "Xiaomi Mi TV Stick Streaming Stick 4K 2022",
+    "description": "Turn any regular TV into a Smart‑TV with the Xiaomi Mi TV Stick 4K. A compact streaming stick running Android TV/Google TV. It delivers sharp 4K HDR video, supports major streaming apps, and lets you control everything with a voice‑enabled remote and Chromecast built-in.",
+    "category": "Audio & Video",
+    "condition": "Brand New",
+    "image": "/PFJ4122EU_wr_01a.jpg",
+    "images": ["/PFJ4122EU_wr_01a.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Streams video in 4K Ultra HD with HDR support: For crisp, vibrant visuals on compatible TVs.", "Android TV / Google TV OS: Easy access to popular streaming services and apps.", "Built‑in Chromecast: Cast videos, music, or photos from your phone, tablet or laptop directly to the TV.", "Voice Remote with Google Assistant: Control playback, search, and smart‑home devices with voice commands.", "Dual‑band Wi‑Fi (2.4 GHz & 5 GHz): For stable and fast streaming connection.", "Compact, plug‑and‑play design: Easy Setup through HDMI, and ideal for TVs without Smart‑TV features."]
+  },
+  {
+    "id": "c19",
+    "name": "Xiaomi Mi Compact Bluetooth Speaker 2",
+    "description": "The speaker is a tiny, ultra‑portable Bluetooth speaker that delivers clear, balanced sound despite its small size. It’s perfect for carrying in a bag or pocket, playing music on the go, and even making hands‑free calls.",
+    "category": "Audio & Video",
+    "condition": "Brand New",
+    "image": "/QBH4141EU_wr_01.jpg",
+    "images": ["/QBH4141EU_wr_02.jpg", "/QBH4141EU_wr_03.jpg", "/QBH4141EU_wr_04.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["2 W powerful sound output: Compact but delivers solid audio.", "Portable, lightweight, and easy to carry. Ideal for travel or outdoor use.", "Built-in Bluetooth 4.2: Quick and stable connection up to ~10 m range.", "Up to 6 hours playback on a single charge (at ~80 % volume).", "Built‑in microphone: Supports hands‑free calling.", "Simple controls: Power on/off, play/pause, call answer via a single button.", "Compatible with many devices: Phone, tablet, laptop or any Bluetooth‑enabled music source."]
+  },
+  {
+    "id": "c20",
+    "name": "Xiaomi Mi Smart Speaker",
+    "description": "The Xiaomi Mi Smart Speaker brings rich, room-filling sound plus full smart-home and voice-assistant features. With built-in Google Assistant and Chromecast, Wi-Fi and Bluetooth support, and a powerful 12 W speaker tuned for deep bass and clear vocals, it’s a versatile choice for music, smart-home control, and hands-free convenience.",
+    "category": "Audio & Video",
+    "condition": "Brand New",
+    "image": "/QBH4190GL_wr_01.jpg",
+    "images": ["/QBH4190GL_wr_02.jpg", "/QBH4190GL_wr_03.jpg", "/QBH4190GL_wr_04.jpg", "/QBH4190GL_wr_05.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["12 W full-frequency speaker with 63.5 mm driver for powerful, balanced sound.", "Audio tuned by DTS / HARMAN AudioEFX for distortion-free playback at any volume.", "Built-in Google Assistant: Use voice commands to play music, check weather, set alarms, control smart devices, and more.", "Built-in Chromecast. Stream music, movies, or shows from your phone, tablet, or laptop directly to the speaker (or cast to TV).", "Wi-Fi (2.4 GHz / 5 GHz) and Bluetooth 4.2 connectivity: Gives flexible streaming options.", "Two far-field microphones with accurate voice wake-up: Lets the speaker pick up voice commands from across the room.", "Touch-sensitive control panel on top: Manual control if you prefer not to use voice.", "Compact, modern design: With a light ring on top for ambience and a small footprint that fits well in any room."]
+  },
+  {
+    "id": "c21",
+    "name": "Xiaomi Mi Smart Clock",
+    "description": "The Xiaomi Mi Smart Clock is a compact, smart display with built-in voice assistant that shows time, weather, calendar, and more, while doubling as a music player, smart-home controller, and alarm clock.",
+    "category": "Accessories",
+    "condition": "Brand New",
+    "image": "/QBH4191GL_wr_01.jpg",
+    "images": ["/QBH4191GL_wr_02.jpg", "/QBH4191GL_wr_03.jpg", "/QBH4191GL_wr_01.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["4-inch touchscreen display (resolution 800×480): Shows time, weather, calendar events, commute info, news.", "Built-in voice assistant (via “Ok Google”); Control alarms, get answers, play music, and control smart home devices with voice.", "Full-range speaker (1.5inch): Can play music, podcasts or radio via online services.", "Wi-Fi (2.4 GHz) and Bluetooth 5.0 connectivity: For Internet services, voice-assistant access, and pairing with other devices.", "Smart-home hub capabilities: Use it to control compatible smart devices (lights, purifier, etc.) with voice or touch.", "Chromecast support: Cast music, shows or videos from your phone or laptop directly to TV or speakers via the clock.", "Compact & lightweight: About 272 g, and sized ~113 × 68 × 81.5 mm, so it fits on nightstand, desk or shelf." ]
+  },
+  {
+    "id": "c22",
+    "name": "Xiaomi Mi Portable Bluetooth Speaker 16W",
+    "description": "The Xiaomi Mi Smart Clock is a compact, smart display with built-in voice assistant that shows time, weather, calendar, and more, while doubling as a music player, smart-home controller, and alarm clock.",
+    "category": "Audio & Video",
+    "condition": "Brand New",
+    "image": "/QBH4195GL_wr_01.jpg",
+    "images": ["/QBH4195GL_wr_02.jpg", "/QBH4195GL_wr_03.jpg", "/QBH4195GL_wr_04.jpg", "/QBH4195GL_wr_05.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["16 W total output (2× 8 W): Delivers balanced, loud audio with clear highs and decent bass.", "Bluetooth 5.0 + AUX input: Easy wireless connection to phones, tablets or laptops; also supports 3.5 mm wired input.", "IPX7 Waterproof: Resistant to water splashes, rain, or accidental spills: Use indoors or outdoors without worry.",  "Up to ~13 hours playback: Thanks to a 2600 mAh built-in battery, great for long listening sessions.", "True Wireless Stereo (TWS): Pair two units for stereo left-right sound and fuller audio experience.", "Built-in microphone & hands-free calling: Use the speaker to take calls directly, convenient for calls or meetings. ", "Wide frequency range (≈ 80 Hz–20 kHz): Covers bass to treble for balanced sound across music genres. ", "Portable design: Compact dimensions (~21.3 × 7.4 × 7.4 cm) and easy to carry, making it suitable for travel or outdoor use."]
   }
 ]
 
