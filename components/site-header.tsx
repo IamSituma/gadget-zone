@@ -31,6 +31,9 @@ export function SiteHeader() {
 
         {/* Desktop Nav */}
         <nav className="hidden md:flex items-center space-x-8 font-normal">
+          <Link href="/products?category=All" className="hover:text-primary">
+            Products
+          </Link>
           {categories.map((cat) => (
             <Link
               key={cat}
@@ -52,6 +55,9 @@ export function SiteHeader() {
 
           <SheetContent side="right" className="w-[250px] pt-10 font-[Poppins]">
             <nav className="flex flex-col space-y-4 text-lg">
+              <Link href="/products?category=All" onClick={() => setOpen(false)}>
+                Products
+              </Link>
               {categories.map((cat) => (
                 <Link
                   key={cat}
