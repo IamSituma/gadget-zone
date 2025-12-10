@@ -17,11 +17,12 @@ export default function ProductsPage() {
 
   const [selectedCategory, setSelectedCategory] = useState<ProductCategory | "All">("All")
   const [selectedBrand, setSelectedBrand] = useState<"All" | "Gizzu" | "Xiaomi">("All")
-  const [searchTerm, setSearchTerm] = useState("") // search input
+  const [searchTerm, setSearchTerm] = useState("")
 
   const [currentPage, setCurrentPage] = useState(1)
-  const productsPerPage = 12
+  const productsPerPage = 16
   const products = productsData as Product[]
+
 
   const categories: (ProductCategory | "All")[] = [
     "All",
@@ -51,9 +52,16 @@ export default function ProductsPage() {
 
   const filteredProducts = useMemo(() => {
     return products.filter((product) => {
-      const categoryMatch = selectedCategory === "All" || product.category === selectedCategory
-      const brandMatch = selectedBrand === "All" || product.brand === selectedBrand
-      const searchMatch = product.name.toLowerCase().includes(searchTerm.toLowerCase())
+      const categoryMatch =
+        selectedCategory === "All" || product.category === selectedCategory
+
+      const brandMatch =
+        selectedBrand === "All" || product.brand === selectedBrand
+
+      const searchMatch = product.name
+        .toLowerCase()
+        .includes(searchTerm.toLowerCase())
+
       return categoryMatch && brandMatch && searchMatch
     })
   }, [selectedCategory, selectedBrand, searchTerm, products])
@@ -71,10 +79,24 @@ export default function ProductsPage() {
     setCurrentPage(1)
   }
 
-  const indexOfLast = currentPage * productsPerPage
-  const indexOfFirst = indexOfLast - productsPerPage
-  const currentProducts = filteredProducts.slice(indexOfFirst, indexOfLast)
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage)
+
+  // Clamp page changes so we never go out of bounds
+  const handlePageChange = (newPage: number) => {
+    const clamped = Math.min(Math.max(1, newPage), Math.max(1, totalPages))
+    if (clamped === currentPage) return
+    setCurrentPage(clamped)
+    window.scrollTo({ top: 0, behavior: "smooth" })
+  }
+
+  // Use a safe page value when slicing to avoid negative or out-of-range indices
+  const safePage = Math.max(1, Math.min(currentPage, totalPages || 1))
+
+  const indexOfFirst = (safePage - 1) * productsPerPage
+  const indexOfLast = indexOfFirst + productsPerPage
+  const currentProducts = filteredProducts.slice(indexOfFirst, indexOfLast)
+  // Final safety cap: ensure we never render more than `productsPerPage` items
+  const displayedProducts = currentProducts.slice(0, productsPerPage)
 
   return (
     <div className="min-h-screen">
@@ -86,7 +108,7 @@ export default function ProductsPage() {
 
           {/* Desktop Sidebar */}
           <aside className="hidden md:flex md:flex-col md:space-y-6">
-            {/* Search */}
+
             <div>
               <input
                 id="desktop-search"
@@ -98,7 +120,6 @@ export default function ProductsPage() {
               />
             </div>
 
-            {/* Categories */}
             <div>
               <h3 className="mb-2 text-lg font-medium">Categories</h3>
               <RadioGroup
@@ -114,7 +135,6 @@ export default function ProductsPage() {
               </RadioGroup>
             </div>
 
-            {/* Brands */}
             <div>
               <h3 className="mb-2 text-lg font-medium">Brand</h3>
               <RadioGroup
@@ -135,16 +155,17 @@ export default function ProductsPage() {
             </Button>
           </aside>
 
-          {/* Product Grid */}
+          {/* Products */}
           <div>
             <p className="text-sm text-muted-foreground mb-6">
-              Showing {filteredProducts.length} {filteredProducts.length === 1 ? "product" : "products"}
+              Showing {filteredProducts.length}{" "}
+              {filteredProducts.length === 1 ? "product" : "products"}
             </p>
 
             {currentProducts.length > 0 ? (
-              <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-4">
-                {currentProducts.map((product) => (
-                  <ProductCard key={product.id} product={product} />
+              <div className="grid grid-cols-4 gap-4">
+                {displayedProducts.map((product, idx) => (
+                  <ProductCard key={`${product.id}-${idx}`} product={product} />
                 ))}
               </div>
             ) : (
@@ -159,10 +180,11 @@ export default function ProductsPage() {
             {/* Pagination */}
             {totalPages > 1 && (
               <div className="mt-6 flex items-center justify-center gap-2">
+
                 <Button
                   variant="outline"
-                  disabled={currentPage === 1}
-                  onClick={() => setCurrentPage((p) => p - 1)}
+                  disabled={safePage === 1}
+                  onClick={() => handlePageChange(safePage - 1)}
                   size="sm"
                 >
                   Previous
@@ -173,9 +195,9 @@ export default function ProductsPage() {
                   return (
                     <Button
                       key={page}
-                      variant={page === currentPage ? "default" : "outline"}
+                      variant={page === safePage ? "default" : "outline"}
                       size="sm"
-                      onClick={() => setCurrentPage(page)}
+                      onClick={() => handlePageChange(page)}
                     >
                       {page}
                     </Button>
@@ -184,12 +206,13 @@ export default function ProductsPage() {
 
                 <Button
                   variant="outline"
-                  disabled={currentPage === totalPages}
-                  onClick={() => setCurrentPage((p) => p + 1)}
+                  disabled={safePage === totalPages}
+                  onClick={() => handlePageChange(safePage + 1)}
                   size="sm"
                 >
                   Next
                 </Button>
+
               </div>
             )}
           </div>
