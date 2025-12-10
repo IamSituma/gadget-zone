@@ -154,6 +154,7 @@
     "id": "u6",
     "name": "Xiaomi Mi Power Bank 3 Ultra Compact",
     "description": "The Xiaomi Mi USB‑C Cable (White) is a simple yet reliable charging and data cable, compact, reversible, and built for everyday use. It connects Type‑C devices (phones, tablets, laptops, power banks) with ease and supports both charging and data transfer in a sturdy, flexible design.",
+    "category": "Power Banks",
     "condition": "Brand New",
     "image": "/cable.jpg",
     "images": ["/cable.jpg","/cable1.jpg"],
@@ -165,6 +166,7 @@
     "id": "c6",
     "name": "Mi Wireless Outdoor Security Camera 1080",
     "description": "The Xiaomi Mi Wireless Outdoor Security Camera 1080p Set is a fully‑wireless, weather‑resistant surveillance solution ideal for securing homes, gardens, driveways, or small businesses. With a Full HD 1080p camera, wide-angle view, battery power, and an included indoor receiver. It delivers clear video day or night, smart motion detection, and flexible storage options. Installation is simple and cable‑free, while robust build and IP65 rating make it suitable for outdoor use in varied weather.",
+    "category": "Cameras",
     "condition": "Brand New",
     "image": "/mi4.jpg",
     "images": ["/mi1.jpg","/mi2.jpg", "/mi3.jpg", "/mi4.jpg"],
@@ -176,12 +178,61 @@
     "id": "c7",
     "name": "Xiaomi 1080P Wireless Camera and Receiver",
     "description": "The Xiaomi Mi Wireless Outdoor Security Camera 1080p is a wireless, weatherproof camera with Full HD video, 130° wide-angle view, night vision, two-way audio, and motion alerts, providing easy, reliable outdoor security with flexible storage options.",
+    "category": "Cameras",
     "condition": "Brand New",
     "image": "/cam.jpg",
     "images": ["/cam.jpg","/cam1.jpg", "/cam2.jpg"],
     "brand": "Xiaomi",
     "inStock": true,
     "features": ["Full HD 1080p resolution for clear detail day and night.", "130° wide-angle lens for broad coverage of driveways, gardens, or entrances.", "Wireless, battery-powered design (built-in ~5700 mAh battery) for up to 90 days per charge. No wiring needed.", "PIR human detection with ~7 m range, sending instant alerts on motion or suspicious activity.", "Night vision + WDR technology + f/2.1 aperture. Ensures clear video even in low light or backlit conditions.", "Weatherproof with IP65 rating. Works reliably outdoors in temperatures from about –20 °C to 50 °C.", "Two-way audio (microphone + speaker). Lets you communicate through the camera via your smartphone.", "Supports multiple storage options. Local (MicroSD card / USB) or optional cloud storage, depending on your preference."]
+  },
+  {
+    "id": "c8",
+    "name": "Xiaomi Mi Smart Sport Wireless Watch",
+    "description": "Stay on top of your fitness with the Xiaomi Sporty Smart Wireless Watch, the ultimate companion for an active lifestyle. Featuring a sleek, sporty design, this watch offers a range of smart features including 24-hour heart rate monitoring, 117 sports modes, and water resistance up to 5 ATM. Track your workouts, monitor your daily activity, and make the most of every exercise with this versatile and stylish wearable.",
+    "category": "Accessories",
+    "condition": "Brand New",
+    "image": "/watch.jpg",
+    "images": ["/watch.jpg","/watch1.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["24-Hour Continuous Heart Rate Monitoring – Track your heart performance during exercise and rest.", "117 Custom Sports Modes – Supports a wide range of sports and activities.", "Water Resistant up to 5 ATM – Swim or shower without worry.", "Sleep Quality Monitoring – Provides detailed analysis of sleep stages.", "Long-Lasting Battery – Up to 14 days of regular use.", "Built-in GPS – Records outdoor activities accurately.", "Magnetic Fast Charging – Quick and convenient charging."]
+  },
+  {
+    "id": "c9",
+    "name": "Xiaomi Handheld Vacuum Cleaner G9/G10 HEPA Filter",
+    "description": "Revitalize your Mi Vacuum Cleaner G10 or G9 with the Xiaomi Mi Vacuum Cleaner G10/G9 HEPA Filter Pack. This pack includes 2 pre-HEPA filters and 1 HEPA filter for superior cleaning performance. It’s easy to install, simple to clean, budget-friendly, and delivers H12 filtration efficiency, while the pre-HEPA filters help maintain stronger suction and longer-lasting performance.",
+    "category": "Home Appliances",
+    "condition": "Brand New",
+    "image": "/filter.png",
+    "images": ["/filter1.png","/filter2.png", "/filter.png", "/filter3.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["2 × Pre‑HEPA Filters and 1 × HEPA Filter included.", "H12‑grade filtering performance for cleaner exhaust air.", "Washable and reusable filters — easy to clean for repeated use.", "Budget‑friendly replacement pack.", "Compatible with Xiaomi Mi Vacuum Cleaner G9 and G10 models.", "Made from high‑density filter material for durability and efficiency.", "Simple to install — plug & play replacement without hassle.", "Helps maintain strong suction and prolong vacuum cleaner’s lifespan by trapping larger particles before they reach the main HEPA filter."]
+  },
+  {
+    "id": "c10",
+    "name": "Xiaomi Vacuum Cleaner G10 Plus Battery Pack",
+    "description": "Extend your cleaning sessions with the Xiaomi Vacuum Cleaner G10 Plus Extended Battery Pack. This pack includes an expansion dock that lets you charge and store an extra battery while you clean. Simply place the expansion dock on the charging dock, and both the vacuum and replacement battery can charge simultaneously using a single cable. Designed for Xiaomi G10 Plus vacuums, it provides up to 65 minutes of additional runtime in Eco mode, ensuring uninterrupted cleaning.",
+    "category": "Home Appliances",
+    "condition": "Brand New",
+    "image": "/cleaner1.jpg",
+    "images": ["/cleaner.jpg", "/cleaner1.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["Extension dock included — comes with an extra dock to charge and store the replacement battery.", "Simultaneous charging — once the expansion dock is placed on the main charging dock, both the vacuum and the spare battery can charge at the same time with a single cable.", "Extended runtime — provides up to 65 minutes of extra working time in Eco mode (on top of the regular battery).", "Rechargeable Li‑ion battery — the extra battery uses a lithium‑ion cell with 3000 mAh capacity.", "Plug‑and‑play spare battery — designed specifically to be compatible with the Xiaomi G10 Plus vacuum model.", "Lightweight & compact pack — battery pack weight ~ 600 g and compact dimensions — easy to store and handle."]
+  },
+  {
+    "id": "c11",
+    "name": "Mi 16-in-1 Ratchet Screwdriver",
+    "description": "Extend your cleaning sessions with the Xiaomi Vacuum Cleaner G10 Plus Extended Battery Pack. This pack includes an expansion dock that lets you charge and store an extra battery while you clean. Simply place the expansion dock on the charging dock, and both the vacuum and replacement battery can charge simultaneously using a single cable. Designed for Xiaomi G10 Plus vacuums, it provides up to 65 minutes of additional runtime in Eco mode, ensuring uninterrupted cleaning.",
+    "category": "Accessories",
+    "condition": "Brand New",
+    "image": "/BHR4779GL_wr_01.jpg",
+    "images": ["/BHR4779GL_wr_02.jpg", "/BHR4779GL_wr_01.jpg", "/BHR4779GL_wr_03.jpg", "/BHR4779GL_wr_04.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "features": ["45‑tooth high‑precision ratchet — provides smooth and efficient ratcheting action.", "Three ratchet settings (R / locked / L) — tighten screws, loosen screws, or use direct drive without ratchet.", "Up to 20 N·m torque — enough force for many household and electronics‑repair tasks.", "16‑in‑1 bit set (8 double‑ended bits) — supports a wide variety of screw types (slotted, Phillips, Pozidriv, hex, Torx, etc.).", "Bits made from S2 alloy steel — offering good hardness (about 60 HRC) and durability for long‑term use.", "Detachable extension rod (≈110 mm) — helps reach screws in deep or narrow spaces.", "Magnetic pop‑up bit magazine built into the handle — stores all bits neatly inside the handle and keeps them secure.", "Ergonomic handle with non-slip grip — handle uses nylon + fiberglass and a TPE rubber coating for comfort and better control.", "Compact and portable — makes it suitable for home use, electronics repair, and general maintenance."]
   }
 ]
 

@@ -27,6 +27,7 @@ export default function ProductsPage() {
     "All",
     "Batteries",
     "On The Go",
+    "Home Appliances",
     "Power Stations",
     "Power Banks",
     "Lighting",

@@ -3,6 +3,7 @@ export type ProductCondition = "Brand New" | "Used"
 export type ProductCategory =
   | "Batteries"
   | "On The Go"
+  | "Home Appliances"
   | "Power Stations"
   | "Power Banks"
   | "Lighting"
@@ -11,6 +12,7 @@ export type ProductCategory =
   | "Cables & Adapters"
   | "Projectors"
   | "Cameras"
+
 
 export type PaymentMethod = "MTN Mobile Money" | "Airtel Money" | "Cash on Delivery" | "Visa"
 
