@@ -44,8 +44,8 @@ export default async function ProductPage({
           {/* Product Info */}
           <div className="space-y-6">
             <div>
-              <p className="text-sm text-muted-foreground">{product.brand}</p>
-              <h1 className="mt-2 text-3xl font-bold">{product.name}</h1>
+              <p className="text-xs sm:text-sm text-muted-foreground">{product.brand}</p>
+              <h1 className="mt-2 text-xl sm:text-2xl lg:text-3xl font-bold">{product.name}</h1>
 
               <div className="mt-4 flex items-center gap-3">
                 <Badge
@@ -89,15 +89,15 @@ export default async function ProductPage({
 
             {/* Description */}
             <div>
-              <h2 className="mb-2 text-lg font-semibold">Description</h2>
-              <p className="text-muted-foreground">{product.description}</p>
+              <h2 className="mb-2 text-base sm:text-lg font-semibold">Description</h2>
+              <p className="text-sm sm:text-base text-muted-foreground">{product.description}</p>
             </div>
 
             {/* Features */}
             {(product.features ?? []).length > 0 && (
               <div>
-                <h2 className="mb-2 text-lg font-semibold">Features</h2>
-                <ul className="list-disc pl-6 text-muted-foreground space-y-1">
+                <h2 className="mb-2 text-base sm:text-lg font-semibold">Features</h2>
+                <ul className="list-disc pl-6 text-sm sm:text-base text-muted-foreground space-y-1">
                   {(product.features ?? []).map((feature) => (
                     <li key={feature}>{feature}</li>
                   ))}
@@ -134,7 +134,7 @@ export default async function ProductPage({
           <div className="mt-16">
             <h2 className="mb-6 text-2xl font-bold">Related Products</h2>
 
-            <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            <div className="grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-4">
               {relatedProducts.map((rp) => (
                 <ProductCard key={rp.id} product={rp} />
               ))}

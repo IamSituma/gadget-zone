@@ -10,7 +10,7 @@ export function AnnouncementBanner() {
 
   return (
     <div className="relative bg-black text-primary-foreground">
-      <div className="mx-auto flex items-center justify-center gap-4 px-4 py-3 text-sm font-medium">
+      <div className="mx-auto flex items-center justify-center gap-4 px-4 py-2 sm:py-3 text-xs sm:text-sm font-medium">
         <p className="text-center">Free Shipping on Orders Over UGX 500,000 | Shop now and save up to 10% on selected items</p>
         <button
           onClick={() => setIsVisible(false)}
