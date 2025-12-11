@@ -29,6 +29,7 @@ export interface Product {
   images: string[]
   brand: string
   inStock: boolean
+  color?: string
   specifications?: Record<string, string>
   features?: string[]
 }

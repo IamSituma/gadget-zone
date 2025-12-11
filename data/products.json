@@ -378,6 +378,20 @@
     "inStock": true,
     "features": ["16 W total output (2× 8 W): Delivers balanced, loud audio with clear highs and decent bass.", "Bluetooth 5.0 + AUX input: Easy wireless connection to phones, tablets or laptops; also supports 3.5 mm wired input.", "IPX7 Waterproof: Resistant to water splashes, rain, or accidental spills: Use indoors or outdoors without worry.",  "Up to ~13 hours playback: Thanks to a 2600 mAh built-in battery, great for long listening sessions.", "True Wireless Stereo (TWS): Pair two units for stereo left-right sound and fuller audio experience.", "Built-in microphone & hands-free calling: Use the speaker to take calls directly, convenient for calls or meetings. ", "Wide frequency range (≈ 80 Hz–20 kHz): Covers bass to treble for balanced sound across music genres. ", "Portable design: Compact dimensions (~21.3 × 7.4 × 7.4 cm) and easy to carry, making it suitable for travel or outdoor use."]
   }
+  ,
+  {
+    "id": "c23",
+    "name": "Xiaomi Mi Portable Bluetooth Speaker 16W",
+    "description": "Portable Bluetooth speaker with 16W output, IPX7 waterproofing, TWS support and long battery life — available in Blue.",
+    "category": "Audio & Video",
+    "condition": "Brand New",
+    "image": "/QBH4197GL_wr_01.jpg",
+    "images": ["/QBH4197GL_wr_02.jpg", "/QBH4197GL_wr_03.jpg", "/QBH4197GL_wr_04.jpg", "/QBH4197GL_wr_05.jpg"],
+    "brand": "Xiaomi",
+    "inStock": true,
+    "color": "Blue",
+    "features": ["16 W total output (2× 8 W): Delivers balanced, loud audio with clear highs and decent bass.", "Bluetooth 5.0 + AUX input: Easy wireless connection to phones, tablets or laptops; also supports 3.5 mm wired input.", "IPX7 Waterproof: Resistant to water splashes, rain, or accidental spills: Use indoors or outdoors without worry.", "Up to ~13 hours playback: Thanks to a 2600 mAh built-in battery, great for long listening sessions.", "True Wireless Stereo (TWS): Pair two units for stereo left-right sound and fuller audio experience.", "Built-in microphone & hands-free calling: Use the speaker to take calls directly, convenient for calls or meetings.", "Wide frequency range (≈ 80 Hz–20 kHz): Covers bass to treble for balanced sound across music genres.", "Portable design: Compact dimensions (~21.3 × 7.4 × 7.4 cm) and easy to carry, making it suitable for travel or outdoor use."]
+  }
 ]
 
 
