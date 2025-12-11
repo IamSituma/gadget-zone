@@ -8,6 +8,7 @@ import {
   Lightbulb,
   Cable,
   Plug,
+  Watch,
 } from "lucide-react"
 import { Card, CardContent } from "@/components/ui/card"
 
@@ -17,7 +18,7 @@ const categories = [
   { name: "Power Banks", icon: Zap, href: "/products?category=Power%20Banks" },
   { name: "Lighting", icon: Lightbulb, href: "/products?category=Lighting" },
   { name: "Accessories", icon: Plug, href: "/products?category=Accessories" },
-  { name: "Cables & Adapters", icon: Cable, href: "/products?category=Cables%20%26%20Adapters" },
+  { name: "Wearables", icon: Watch, href: "/products?category=Wearables" },
 ]
 
 export function CategorySection() {
