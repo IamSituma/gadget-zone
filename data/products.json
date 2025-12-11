@@ -365,7 +365,7 @@
     "id": "xiaomi-mi-smart-sport-wireless-watch",
     "name": "Xiaomi Mi Smart Sport Wireless Watch",
     "description": "Stay on top of your fitness with the Xiaomi Sporty Smart Wireless Watch, the ultimate companion for an active lifestyle. Featuring a sleek, sporty design, this watch offers a range of smart features including 24-hour heart rate monitoring, 117 sports modes, and water resistance up to 5 ATM. Track your workouts, monitor your daily activity, and make the most of every exercise with this versatile and stylish wearable.",
-    "category": "Accessories",
+    "category": "Wearables",
     "condition": "Brand New",
     "image": "/watch.jpg",
     "images": [
@@ -436,7 +436,7 @@
     "id": "mi-16-in-1-ratchet-screwdriver",
     "name": "Mi 16-in-1 Ratchet Screwdriver",
     "description": "Extend your cleaning sessions with the Xiaomi Vacuum Cleaner G10 Plus Extended Battery Pack. This pack includes an expansion dock that lets you charge and store an extra battery while you clean. Simply place the expansion dock on the charging dock, and both the vacuum and replacement battery can charge simultaneously using a single cable. Designed for Xiaomi G10 Plus vacuums, it provides up to 65 minutes of additional runtime in Eco mode, ensuring uninterrupted cleaning.",
-    "category": "Accessories",
+    "category": "Tools",
     "condition": "Brand New",
     "image": "/BHR4779GL_wr_01.jpg",
     "images": [
@@ -1052,5 +1052,233 @@
       "Dual 5W Speakers: Integrated speakers deliver rich sound for movies and media.",
       "Multiple Ports: Includes HDMI 2.0, USB 2.0, and 3.5 mm audio jack for flexible device connections."
     ]
-  }
+  },
+  {
+  "id": "xiaomi-mi-camera-2k-magnetic-mount-1",
+  "name": "Xiaomi Mi Camera 2K Magnetic Mount",
+  "description": "The Xiaomi Mi Camera 2K Magnetic Mount is a compact smart security camera designed for flexible, magnetic placement and clear 2K monitoring. It features advanced AI motion detection, invisible infrared night vision, two-way voice communication, and secure cloud storage. Ideal for home or office surveillance, it offers simple installation, strong privacy protection, and reliable day-and-night recording.",
+  "category": "Cameras",
+  "condition": "Brand New",
+  "image": "/BHR5255GL_wr_01.jpg",
+  "images": [
+    "/BHR5255GL_wr_02.jpg",
+    "/BHR5255GL_wr_03.jpg",
+    "/BHR5255GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "2K Ultra-Clear Resolution: Records video at 2304 × 1296 for crisp and detailed footage.",
+    "Invisible 940 nm Infrared Night Vision: Provides clear night monitoring without a visible red glow.",
+    "Magnetic Rotating Mount: Flexible magnetic base allows quick installation and 180° angle adjustment.",
+    "AI Human Detection: Reduces false alarms by identifying people and filtering background movement.",
+    "Two-Way Voice Communication: Built-in mic and speaker allow clear audio conversations through the app.",
+    "Threefold Data Encryption: Strong security for communication, transmission, and cloud storage.",
+    "Free 7-Day Rolling Cloud Storage: Automatically stores motion-triggered videos for up to a week."
+  ]
+},
+{
+  "id": "xiaomi-mi-5-blade-electric-shaver",
+  "name": "Xiaomi Mi 5-Blade Electric Shaver",
+  "description": "The Xiaomi Mi 5-Blade Electric Shaver combines a high-performance linear magnetic suspension motor with omnidirectional floating heads for a smooth, precise shave. Its five-blade design handles all beard types in a single pass, while IPX7 waterproofing and cavitation bubble cleaning make maintenance easy. Featuring USB-C charging, ergonomic grip, and LED battery indicators, it’s a reliable grooming tool for daily use",
+  "category": "Bathroom Appliances",
+  "condition": "Brand New",
+  "image": "/BHR5265GL_wr_01.jpg",
+  "images": [
+    "/BHR5265GL_wr_02.jpg",
+    "/BHR5265GL_wr_03.jpg",
+    "/BHR5265GL_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Five-Blade System: Two deep bionic foil shavers, one precision lifting blade, and two curved blades trim all beard types in a single pass.",
+    "Omnidirectional Floating Heads: Adjusts to facial contours for a smoother, more efficient shave.",
+    "Linear Magnetic Suspension Motor: Drives inner blades up to high speeds for powerful and consistent cutting.",
+    "30° Ultra-Sharp Blades: Precision stainless steel inner blades cut hair at the root for close shaving.",
+    "IPX7 Waterproof Rating: Safe for both wet and dry use and easy cleaning under running water.",
+    "USB-C Fast Charging: 2000 mAh battery provides up to ~90 min runtime and quick top-ups via USB-C.",
+    "Acoustic Cavitation Bubble Cleaning: High-frequency sonic waves help remove dirt and debris from foils.",
+    "Ergonomic One-Piece Design: Comfortable grip and intuitive use with LED battery level indicators."
+  ]
+},
+{
+  "id": "xiaomi-5-blade-electric-shaver-replacement-head-1",
+  "name": "Xiaomi 5-Blade Electric Shaver Replacement Head",
+  "description": "The Xiaomi 5-Blade Electric Shaver Replacement Head restores your shaver’s original precision with a multi-blade floating system designed for a clean, comfortable shave. It features five coordinated stainless-steel blades, a flexible floating structure that adapts to facial contours, and a magnetic snap-on design for quick installation. With its IPX7 waterproof build and easy-wash cleaning, it maintains peak shaving performance with minimal effort.",
+  "category": "Bathroom Appliances",
+  "condition": "Brand New",
+  "image": "/BHR5266GL_wr_01.png",
+  "images": [
+    "/BHR5266GL_wr_01.png"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Integrated Floating Blade Head: Flexible omnidirectional floating design adapts to facial contours for precise shaving.",
+    "Five-Blade Cutting System: Features deep-cut foils, lifting blades, and curved blades to handle long, short, and coarse hair efficiently.",
+    "30° Stainless-Steel Sharp Blades: Ultra-sharp angled blades ensure fast, clean trimming with reduced pulling.",
+    "Magnetic Snap-On Design: Quick and convenient attachment for effortless replacement.",
+    "IPX7 Waterproof Rating: Fully washable construction supports wet and dry cleaning.",
+    "Acoustic Cavitation Cleaning: High-frequency vibration produces micro-bubbles that help clean the foil slots thoroughly.",
+    "Durable Dual-Layer Foils: Skin-friendly protective mesh ensures smooth, irritation-free shaving."
+  ]
+},
+{
+  "id": "xiaomi-mi-portable-electric-air-compressor-2-1",
+  "name": "Xiaomi Mi Portable Electric Air Compressor 2",
+  "description": "The Xiaomi Mi Portable Electric Air Compressor 2 is a compact, cordless tire inflator designed for fast and accurate inflation on the go. It features digital pressure control with ±1 psi accuracy, a built‑in LED light for low‑light use, and multiple valve adapters for cars, bikes, motorcycles, and sports equipment. Its rechargeable battery and easy‑to‑read display make it a convenient and reliable tool for home or travel use.",
+  "category": "On The Go",
+  "condition": "Brand New",
+  "image": "/BHR5277GL_wr_01.jpg",
+  "images": [
+    "/BHR5277GL_wr_02.jpg",
+    "/BHR5277GL_wr_03.jpg",
+    "/BHR5277GL_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Digital Pressure Accuracy: Precise pressure monitoring with ±1 psi accuracy for reliable inflation control.",
+    "Cordless & Portable Design: Compact build with built‑in rechargeable battery for convenient on‑the‑go use.",
+    "Multiple Valve Adapter Support: Includes adapters for car, bike, motorcycle, and sports balls.",
+    "Fast Inflation: Efficient motor delivers rapid air delivery for quick tire inflation.",
+    "LED Display Screen: Clear digital readout shows real‑time pressure for accurate adjustments.",
+    "Built‑In LED Light: Integrated flashlight aids visibility in low‑light or roadside situations.",
+    "Auto Shut‑Off Function: Stops inflation automatically when the preset pressure is reached.",
+    "USB‑C Rechargeable: Modern charging port for easy recharging with standard cables."
+  ]
+},
+{
+  "id": "xiaomi-motion-activated-night-light-2-1",
+  "name": "Xiaomi Motion Activated Night Light 2",
+  "description": "The Xiaomi Motion Activated Night Light 2 is a smart 3‑in‑1 lighting device that automatically illuminates when it detects motion, even in the dark. It provides warm 2800K light with no visible flicker or harmful blue light, and can be placed on flat surfaces or mounted using its adhesive base. With a wide 120° motion sensor, long battery life of up to 180 days, app‑controlled brightness settings, and Bluetooth connectivity for smart link automation, it's ideal for hands‑free lighting in hallways, bedrooms, stairs, and wardrobes. :contentReference[oaicite:0]{index=0}",
+  "category": "Lighting",
+  "condition": "Brand New",
+  "image": "/BHR5278GL_wr_01.jpg",
+  "images": [
+    "/BHR5278GL_wr_02.jpg",
+    "/BHR5278GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Motion‑Activated Lighting: Automatically turns on when movement is detected in dark conditions, offering hands‑free illumination. :contentReference[oaicite:1]{index=1}",
+    "Wide 120° Detection Range: Custom Fresnel lens detects motion up to 6 m in front and 2.5 m to the sides. :contentReference[oaicite:2]{index=2}",
+    "Warm 2800K Light Output: Gentle yellow light with no visible flicker or harmful blue light, ideal for night use. :contentReference[oaicite:3]{index=3}",
+    "360° Magnetic Rotation: Adjustable position allows flexible lighting angles and better coverage. :contentReference[oaicite:4]{index=4}",
+    "Bluetooth 4.2 Connection: Supports smart link functions when paired with a Bluetooth gateway for automation. :contentReference[oaicite:5]{index=5}",
+    "Low Energy Consumption: Efficient power usage offers long battery life — up to 180 days at highest brightness. :contentReference[oaicite:6]{index=6}",
+    "Light & Motion Detection: Senses both ambient light and motion so it only lights when needed to save energy. :contentReference[oaicite:7]{index=7}"
+  ]
+},
+{
+  "id": "xiaomi-watch-s1-active-1",
+  "name": "Xiaomi Watch S1 Active",
+  "description": "The Xiaomi Watch S1 Active is a sporty full‑featured smartwatch with a bright 1.43\" AMOLED display, durable metal frame, and long battery life. It offers advanced health and activity tracking including heart rate, SpO2, sleep analysis, and up to 117 workout modes. With Bluetooth calling, GPS, customizable watch faces, and water resistance up to 50 m, it’s designed for both daily use and fitness tracking. :contentReference[oaicite:0]{index=0}",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR5380GL_wr_01.jpg",
+  "images": [
+    "/BHR5380GL_wr_02.jpg",
+    "/BHR5380GL_wr_03.jpg",
+    "/BHR5380GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "1.43\" AMOLED Display: High‑resolution screen with 466 × 466 pixels for crisp visuals. :contentReference[oaicite:1]{index=1}",
+    "117 Sports Modes: Broad range of workout tracking including 19 professional modes. :contentReference[oaicite:2]{index=2}",
+    "Dual‑Band GPS: Integrated GPS with GLONASS, Galileo, BDS, and QZSS support for precise tracking. :contentReference[oaicite:3]{index=3}",
+    "24/7 Heart Rate & SpO2 Monitoring: Tracks continuous heart rate and blood oxygen levels. :contentReference[oaicite:4]{index=4}",
+    "5 ATM Water Resistance: Safe for swimming and water activities down to 50 m. :contentReference[oaicite:5]{index=5}",
+    "Bluetooth Calling: Built‑in speaker and mic support call handling via Bluetooth. :contentReference[oaicite:6]{index=6}",
+    "Customizable Watch Faces: Over 200 watch faces to personalize your look. :contentReference[oaicite:7]{index=7}",
+    "Long Battery Life: Up to 12 days typical use with efficient power management. :contentReference[oaicite:8]{index=8}",
+    "Wi‑Fi & Bluetooth Connectivity: Supports Bluetooth 5.2 and Wi‑Fi 2.4 GHz for smart functionality. :contentReference[oaicite:9]{index=9}",
+    "Multi‑Sensor Health Tracking: Includes accelerometer, gyroscope, geomagnetic, atmospheric, and light sensors. :contentReference[oaicite:10]{index=10}"
+  ]
+},
+{
+  "id": "xiaomi-redmi-watch-2-lite-1",
+  "name": "Xiaomi Redmi Watch 2 Lite",
+  "description": "The Xiaomi Redmi Watch 2 Lite is a feature‑packed smartwatch with a large 1.55\" HD touchscreen, health and activity tracking, built‑in GPS with multi‑system support, and up to 10 days of battery life. It monitors heart rate, blood oxygen (SpO₂), sleep, stress, and breathing patterns, and offers over 100 workout modes. Designed with a lightweight body and magnetic charging, it supports app sync for detailed data and personalised insights.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR5436GL_wr_02.jpg",
+  "images": [
+    "/BHR5436GL_wr_03.jpg",
+    "/BHR5436GL_wr_04.jpg",
+    "/BHR5436GL_wr_05.jpg",
+    "/BHR5436GL_wr_02.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "1.55\" HD Touch Display: High‑resolution, colourful screen with a larger view and responsive touch.",
+    "100+ Workout Modes: Includes 17 professional modes and 100 extended modes such as HIIT and Yoga for versatile activity tracking.",
+    "Built‑In GNSS GPS: Supports four major global positioning systems for precise location tracking.",
+    "Blood Oxygen (SpO₂) Monitoring: Measures SpO₂ levels anytime for peace of mind during daily wear.",
+    "24/7 Heart Rate Tracking: Continuous heart rate monitoring with alerts for abnormal readings.",
+    "Sleep & Stress Monitoring: Tracks sleep patterns and stress levels for better wellbeing insights.",
+    "Female Health Tracking: Logs menstrual cycles and provides useful reminders.",
+    "App Sync & Insights: Syncs with Xiaomi Wear/Wear Lite app for detailed data and sharing with apps like Strava.",
+    "Magnetic Charging: Easy touch magnetic charging for convenience and fast power‑ups.",
+    "Long Battery Life: Up to 10 days of typical use on a single charge."
+  ]
+},
+{
+  "id": "xiaomi-mi-electric-precision-screwdriver-1",
+  "name": "Xiaomi Mi Electric Precision Screwdriver",
+  "description": "The Xiaomi Mi Electric Precision Screwdriver Kit is a compact, powerful cordless tool designed to handle everyday precision repairs on electronics, watches, laptops, cameras, and more. Featuring a strong magnetic motor, two‑speed torque adjustment, and 24 anti‑rust precision bits made from imported S2 steel, this kit delivers reliable performance and comfort. The magnetic push pop‑up storage box keeps bits organized and secure, while the rechargeable battery offers long runtime for multiple screwdriving tasks. :contentReference[oaicite:0]{index=0}",
+  "category": "Tools",
+  "condition": "Brand New",
+  "image": "/BHR5474GL_wr_01.jpg",
+  "images": [
+    "/BHR5474GL_wr_02.jpg",
+    "/BHR5474GL_wr_03.jpg",
+    "/BHR5474GL_wr_01.jpg",
+    "/BHR5474GL_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Strong Magnetic Motor: Produces consistent power with a maximum speed of ~200RPM for precise screwdriving. :contentReference[oaicite:1]{index=1}",
+    "Two‑Speed Precision Torque Adjustment: Adjust between two torque levels for delicate electronics or more demanding tasks. :contentReference[oaicite:2]{index=2}",
+    "24 Anti‑Rust Precision Bits: Includes 24 durable S2 steel bits with anti‑rust treatment for long‑lasting use. :contentReference[oaicite:3]{index=3}",
+    "Aluminium Alloy Cover: Durable metal body with sand‑blasted finish for improved moisture and corrosion resistance. :contentReference[oaicite:4]{index=4}",
+    "Magnetic Push Pop‑Up Box: Bits are stored securely in a magnetic container that pops up for easy access. :contentReference[oaicite:5]{index=5}",
+    "Aluminium Alloy Handle: Smooth and comfortable grip with one‑piece moulding for better control. :contentReference[oaicite:6]{index=6}",
+    "Type‑C Charging Port: Uses modern USB‑C for convenient recharging of the built‑in lithium battery. :contentReference[oaicite:7]{index=7}",
+    "Wide Compatibility: Ideal for repairs on small electronics like phones, watches, cameras, laptops, radios, and more. :contentReference[oaicite:8]{index=8}"
+  ]
+},
+{
+  "id": "xiaomi-12v-max-brushless-cordless-drill-1",
+  "name": "Xiaomi 12V Max Brushless Cordless Drill",
+  "description": "The Xiaomi 12V Max Brushless Cordless Drill is a powerful and versatile DIY power tool designed for both drilling and screwdriving tasks. It features a brushless motor for long‑lasting performance, up to 30 N·m of torque, a smart display with real‑time feedback, and three operating modes for precise control. Its cordless design with rechargeable battery, multiple speed settings, and LED work light makes it ideal for home improvement, woodworking, and general maintenance tasks.",
+  "category": "Tools",
+  "condition": "Brand New",
+  "image": "/BHR5510GL_wr_01.jpg",
+  "images": [
+    "/BHR5510GL_wr_02.jpg",
+    "/BHR5510GL_wr_03.jpg",
+    "/BHR5510GL_wr_04.jpg",
+    "/BHR5510GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "30 N·m Max Torque: Delivers strong torque for drilling and screwdriving tasks with ease.",
+    "Brushless Motor: Efficient and durable motor with low noise and long life compared to brushed motors.",
+    "30‑Speed Precision Control: Allows fine adjustment of speed and torque for different material.",
+    "Three Operating Modes: Switch between modes for DIY projects, professional tasks, or safe precision work.",
+    "Smart Display: Real‑time feedback on settings, speed, and torque for better control.",
+    "USB‑C Rechargeable Battery: Rechargeable 2000 mAh lithium battery with convenient USB‑C charging.",
+    "Dual Mode Speeds: Up to ~1400 rpm in drilling mode and ~370 rpm in screwdriving mode.",
+    "Ergonomic Design: Comfortable grip housing for controlled use during extended jobs.",
+    "LED Work Light: Built‑in LED improves visibility in low‑light conditions.",
+    "Versatile Bits Support: Compatible with a wide range of drill and driver bits for metal, wood, plastic and more."
+  ]
+}
 ]
