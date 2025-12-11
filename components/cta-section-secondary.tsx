@@ -8,7 +8,7 @@ export function CTASectionSecondary() {
       <div className="container mx-auto px-4 text-center max-w-3xl">
         <h2 className="mb-4 text-xl sm:text-2xl md:text-3xl lg:text-4xl font-bold text-white">Ready to Upgrade Your Home or Office?</h2>
         <p className="mx-auto mb-6 sm:mb-8 max-w-2xl text-sm sm:text-base md:text-lg text-white/90">
-          Discover the latest Gizzu power solutions and accessories, enjoy expert support, and get unbeatable prices on premium, reliable devices.
+          Discover the latest power solutions and accessories, enjoy expert support, and get unbeatable prices on premium, reliable devices.
         </p>
         <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
           <Button size="lg" variant="secondary" asChild>
