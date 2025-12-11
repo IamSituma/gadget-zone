@@ -34,6 +34,7 @@ export default function ProductsPage() {
     "Audio & Video",
     "Power Stations",
     "Power Banks",
+    "Personal Care",
     "Tools",
     "Lighting",
     "Accessories",

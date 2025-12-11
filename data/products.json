@@ -595,7 +595,7 @@
     "id": "xiaomi-mi-electric-shaver-s500",
     "name": "Xiaomi Mi Electric Shaver S500",
     "description": "The Xiaomi Mi Electric Shaver S500 is a compact, waterproof electric shaver built for comfort and precision. Its 360° floating shaving heads adapt to your facial contours to deliver a close shave. Whether you prefer dry or wet shaving. The S500 is easy to use, portable, and rechargeable via USB‑C, making it a convenient grooming tool for home or travel.",
-    "category": "Bathroom Appliances",
+    "category": "Personal Care",
     "condition": "Brand New",
     "image": "/NUN4131GL_wr_01.jpg",
     "images": [
@@ -618,7 +618,7 @@
     "id": "mi-electric-shaver-s500-replacement-head",
     "name": "Mi Electric Shaver S500 Replacement Head",
     "description": "The replacement head restores your S500 to “like‑new” shaving performance: with dual‑track foils, twin‑blade cutters, and precision‑machined steel parts, it delivers a close, clean shave, even on short stubble while remaining washable and easy to install.",
-    "category": "Bathroom Appliances",
+    "category": "Personal Care",
     "condition": "Brand New",
     "image": "/NUN4132GL_wr_01.jpg",
     "images": [
@@ -1081,7 +1081,7 @@
   "id": "xiaomi-mi-5-blade-electric-shaver",
   "name": "Xiaomi Mi 5-Blade Electric Shaver",
   "description": "The Xiaomi Mi 5-Blade Electric Shaver combines a high-performance linear magnetic suspension motor with omnidirectional floating heads for a smooth, precise shave. Its five-blade design handles all beard types in a single pass, while IPX7 waterproofing and cavitation bubble cleaning make maintenance easy. Featuring USB-C charging, ergonomic grip, and LED battery indicators, it’s a reliable grooming tool for daily use",
-  "category": "Bathroom Appliances",
+  "category": "Personal Care",
   "condition": "Brand New",
   "image": "/BHR5265GL_wr_01.jpg",
   "images": [
@@ -1106,7 +1106,7 @@
   "id": "xiaomi-5-blade-electric-shaver-replacement-head-1",
   "name": "Xiaomi 5-Blade Electric Shaver Replacement Head",
   "description": "The Xiaomi 5-Blade Electric Shaver Replacement Head restores your shaver’s original precision with a multi-blade floating system designed for a clean, comfortable shave. It features five coordinated stainless-steel blades, a flexible floating structure that adapts to facial contours, and a magnetic snap-on design for quick installation. With its IPX7 waterproof build and easy-wash cleaning, it maintains peak shaving performance with minimal effort.",
-  "category": "Bathroom Appliances",
+  "category": "Personal Care",
   "condition": "Brand New",
   "image": "/BHR5266GL_wr_01.png",
   "images": [
@@ -1279,6 +1279,389 @@
     "Ergonomic Design: Comfortable grip housing for controlled use during extended jobs.",
     "LED Work Light: Built‑in LED improves visibility in low‑light conditions.",
     "Versatile Bits Support: Compatible with a wide range of drill and driver bits for metal, wood, plastic and more."
+  ]
+},
+{
+  "id": "xiaomi-vacuum-cleaner-g11-1",
+  "name": "Xiaomi Vacuum Cleaner G11",
+  "description": "The Xiaomi Vacuum Cleaner G11 is a powerful cordless stick vacuum designed for efficient home cleaning with up to 185 AW suction power and smart automatic adjustment. It features tangle‑free technology, an interactive LCD display, multiple brush heads, and up to 60 minutes of runtime from its high‑capacity lithium‑ion battery. With multi‑surface cleaning, efficient filtration, and easy maintenance, it’s ideal for carpets, hardwood floors, and everyday dust removal.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR5512EU_wr_01.jpg",
+  "images": [
+    "/BHR5512EU_wr_02.jpg",
+    "/BHR5512EU_wr_03.jpg",
+    "/BHR5512EU_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Powerful 185 AW suction cleans deep and efficiently.",
+    "Smart suction adjusts automatically to surface and dust levels.",
+    "Tangle-free roller brush prevents hair from wrapping around the brush.",
+    "Up to 60 minutes of runtime on a single charge.",
+    "Multi-surface brush head works on hardwood, tiles, and carpets.",
+    "Interactive LCD displays suction mode, battery level, and alerts.",
+    "Easy-empty dust compartment allows quick one-hand disposal.",
+    "Replaceable battery design supports extended cleaning sessions.",
+    "Includes electric mite brush, crevice nozzle, and extension rod for versatility.",
+    "Multi-layer filtration captures 99.5% of dust and allergens."
+  ]
+},
+{
+  "id": "xiaomi-65w-gan-charger-type-a-type-c-1",
+  "name": "Xiaomi 65W GaN Charger (Type‑A + Type‑C)",
+  "description": "The Xiaomi 65W GaN Charger (Type‑A + Type‑C) is a compact, high‑efficiency power adapter that delivers up to 65W of fast charging via its USB‑C port and up to 18W via its USB‑A port. Powered by advanced GaN (Gallium Nitride) technology, it supports simultaneous dual‑device charging with smart power distribution. The charger includes a high‑current USB‑C to USB‑C cable and is compatible with a wide range of smartphones, tablets, laptops, and other USB‑powered devices, making it ideal for travel and everyday use.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/BHR5515GL_wr_01a.jpg",
+  "images": [
+    "/BHR5515GL_wr_02.jpg",
+    "/BHR5515GL_wr_03.jpg",
+    "/BHR5515GL_wr_04.jpg",
+    "/BHR5515GL_wr_01a.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "65W GaN Fast Charging: USB‑C port delivers up to 65W for quick charging of laptops, tablets, and phones.",
+    "Dual Port Charging: USB‑C and USB‑A allow two devices to charge at the same time.",
+    "Smart Power Distribution: Automatically adjusts power between ports for efficient dual‑device charging.",
+    "GaN Technology: Gallium Nitride construction enables higher efficiency and less heat in a compact body.",
+    "Universal Compatibility: Works with most USB‑powered devices, including smartphones, tablets, and laptops.",
+    "High‑Current Cable Included: Comes with a 5A USB‑C to USB‑C cable with E‑Marker chip for fast, safe charging.",
+    "Portable & Travel‑Friendly: Small, lightweight design fits easily in bags or pockets.",
+    "Comprehensive Safety Protections: Built‑in protections against over‑current, over‑voltage, and over‑temperature.",
+    "Wide Input Range: Supports 100‑240 V AC input for use in different regions.",
+    "Multiple Output Profiles: Supports multiple voltage/amperage profiles for broad device support."
+  ]
+},
+{
+  "id": "xiaomi-smart-laser-measure-1",
+  "name": "Xiaomi Smart Laser Measure",
+  "description": "The Xiaomi Smart Laser Measure is a precision laser measuring tool that quickly and accurately measures distances from 0.05 m up to 40 m with ±3 mm accuracy. It includes a high‑brightness LCD display, one‑button operation, Bluetooth connectivity for app integration, and long battery life from its rechargeable 370 mAh lithium battery. When paired with the Mi Home/Xiaomi Home app, it supports advanced functions such as area/volume calculation, floor plan mapping, remote measuring, and data syncing.",
+  "category": "Tools",
+  "condition": "Brand New",
+  "image": "/BHR5596GL_wr_01.jpg",
+  "images": [
+    "/BHR5596GL_wr_02.jpg",
+    "/BHR5596GL_wr_03.jpg",
+    "/BHR5596GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Measures distances from 0.05 m to 40 m with ±3 mm accuracy.",
+    "High-brightness LCD display shows measurement results, historical data, battery status, units, and Bluetooth status.",
+    "One-button operation for power, measurement start/stop, and front/back reference switching.",
+    "Bluetooth connectivity works with Mi Home/Xiaomi Home app for data sync, advanced calculation, and remote control.",
+    "Supports automatic area and volume calculation based on saved measurements.",
+    "Enables floor plan mapping and auto-mapping in the app for room layouts and sharing.",
+    "Remote measurement control allows triggering measurements from a smartphone.",
+    "Rechargeable 370 mAh battery provides up to ~3000 measurements per charge.",
+    "USB-C charging interface for fast and convenient recharging.",
+    "Durable lightweight build with aluminium alloy and engineering plastics for portability."
+  ]
+},
+{
+  "id": "xiaomi-massage-gun-3-levels-quiet-brushless-motor-1",
+  "name": "Xiaomi Massage Gun – 3 Levels, Quiet Brushless Motor",
+  "description": "The Xiaomi Massage Gun features a powerful brushless motor, three adjustable speed levels, and interchangeable massage heads to help relieve muscle tension and soreness after workouts or daily activity. With a compact, ergonomic design, pressure detection, long battery life, and ultra‑quiet operation, it’s ideal for deep tissue massage and muscle recovery.",
+  "category": "Personal Care",
+  "condition": "Brand New",
+  "image": "/BHR5608EU_wr_01.jpg",
+  "images": [
+    "/BHR5608EU_wr_02.jpg",
+    "/BHR5608EU_wr_03.jpg",
+    "/BHR5608EU_wr_04.jpg",
+    "/BHR5608EU_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Brushless motor generates up to 570 mN of force and reaches speeds up to 3,200 rpm for deep muscle penetration.",
+    "Three adjustable speed levels let you match massage intensity to your needs.",
+    "Three interchangeable massage heads target different muscle groups for versatile relief.",
+    "Pressure detection provides real‑time feedback to ensure precise and effective massage application.",
+    "Quiet operation and noise reduction technology create a peaceful massage experience.",
+    "Dynamic balance design keeps the device stable and minimizes body vibration during use.",
+    "Up to 5 hours of battery life on a single charge supports extended massage sessions.",
+    "USB‑C charging allows convenient recharging with common cables.",
+    "Lightweight and ergonomic body design makes it comfortable and easy to handle.",
+    "Includes easy‑to‑carry storage case for portability and organized storage."
+  ]
+},
+{
+  "id": "xiaomi-water-ionic-hair-dryer-h500-1",
+  "name": "Xiaomi Water‑Ionic Hair Dryer H500",
+  "description": "The Xiaomi Water‑Ionic Hair Dryer H500 uses advanced negative‑ion water‑ionic technology to dry hair quickly while reducing frizz and heat damage. With a powerful brushless motor, multiple heat and speed settings, and a lightweight ergonomic design, it provides salon‑like results at home with comfortable, efficient performance.",
+  "category": "Personal Care",
+  "condition": "Brand New",
+  "image": "/BHR5851EU_wr_01.jpg",
+  "images": [
+    "/BHR5851EU_wr_02.jpg",
+    "/BHR5851EU_wr_03.jpg",
+    "/BHR5851EU_wr_04.jpg",
+    "/BHR5851EU_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Water‑ionic technology combines negative ions with water particles to hydrate and reduce frizz during drying.",
+    "High‑speed brushless motor delivers strong airflow for fast and efficient drying.",
+    "Multiple heat and speed settings allow for customized drying and styling options.",
+    "Lightweight ergonomic design reduces hand fatigue during use.",
+    "Nozzle attachment focuses airflow for more precise styling control.",
+    "Overheat protection ensures safety and prevents damage from excessive heat.",
+    "Quiet operation provides a more comfortable drying experience.",
+    "Foldable handle makes it convenient for travel and compact storage.",
+    "Universal voltage compatibility allows use in different regions.",
+    "Sleek modern finish and easy‑to‑clean exterior enhance everyday usability."
+  ]
+},
+{
+  "id": "xiaomi-smart-air-purifier-4-compact-1",
+  "name": "Xiaomi Smart Air Purifier 4 Compact",
+  "description": "The Xiaomi Smart Air Purifier 4 Compact is a powerful yet compact air purifier designed to deliver clean air in rooms up to around 27 m² with a 230 m³/h CADR and multiple smart controls. It features a high‑efficiency 3‑in‑1 filtration system that removes up to 99.97% of particles as small as 0.3 µm, real‑time air quality monitoring with automatic adjustment, ultra‑quiet operation, and app/voice control support for a healthier indoor environment.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR5860EU_wr_01.jpg",
+  "images": [
+    "/BHR5860EU_wr_02.jpg",
+    "/BHR5860EU_wr_03.jpg",
+    "/BHR5860EU_wr_04.jpg",
+    "/BHR5860EU_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "High‑efficiency 3‑in‑1 filtration traps up to 99.97% of particles as small as 0.3 µm.",
+    "Particle CADR of 230 m³/h provides effective air purification for rooms up to about 27 m².",
+    "360° air intake design draws air from all directions for thorough purification.",
+    "Ultra‑quiet brushless DC motor operates as low as 20 dB in sleep mode for a peaceful environment.",
+    "Real‑time air quality monitoring adjusts fan speed automatically based on detected conditions.",
+    "Smart control via Mi Home/Xiaomi Home app allows remote operation and scheduling.",
+    "Voice assistant support works with Google Assistant and Amazon Alexa for hands‑free control.",
+    "Intuitive four‑colour air quality indicator displays current indoor air conditions.",
+    "Low energy consumption uses around 27 W for efficient continuous operation.",
+    "Easy one‑step filter replacement and reminders ensure timely maintenance."
+  ]
+},
+{
+  "id": "xiaomi-smart-air-purifier-4-compact-filter-1",
+  "name": "Xiaomi Smart Air Purifier 4 Compact Filter",
+  "description": "The Xiaomi Smart Air Purifier 4 Compact Filter is a three‑layer high‑efficiency replacement filter designed specifically for the Xiaomi Smart Air Purifier 4 Compact. It includes a durable primary filter to trap large particles, a high‑efficiency filter that removes up to 99.97% of fine particles, and an activated carbon layer to neutralise odours. With a lifespan of 6–12 months depending on usage and easy app‑based replacement reminders, it helps keep indoor air fresh and clean.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR5861GL_wr_01.jpg",
+  "images": [
+    "/BHR5861GL_wr_02.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Three‑layer filtration combines a primary filter, high‑efficiency filter, and activated carbon for thorough air cleaning.",
+    "Primary filter traps large particles such as dust, hair, lint and fine debris.",
+    "High‑efficiency filter captures up to 99.97% of particles as small as 0.3 µm, including PM2.5 and allergens.",
+    "Activated carbon layer helps absorb odours and volatile organic compounds from indoor air.",
+    "Designed for use exclusively with the Xiaomi Smart Air Purifier 4 Compact model.",
+    "Filter lifespan is estimated at 6–12 months depending on daily use and air quality conditions.",
+    "Mi Home/Xiaomi Home app provides filter usage tracking and replacement reminders.",
+    "Easy bottom pull‑out design makes replacing the filter quick and simple.",
+    "Durable construction resists crease, oil and acids for reliable performance.",
+    "Maintains optimal purification efficiency when replaced as recommended."
+  ]
+},
+{
+  "id": "xiaomi-22-5w-power-bank-10000mah-1",
+  "name": "Xiaomi 22.5W Power Bank 10000mAh",
+  "description": "The Xiaomi 22.5W Power Bank 10000mAh is a compact and portable external battery designed to keep your devices charged on the go. With a high‑capacity 10000 mAh battery and fast charging support, it powers smartphones, tablets, and accessories quickly and reliably. Featuring three output ports, two USB‑A and one USB‑C, as well as safety protections and a sleek design, it’s ideal for everyday travel and backup power needs.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/BHR5884GL_wr_01a.jpg",
+  "images": [
+    "/BHR5884GL_wr_02a.jpg",
+    "/BHR5884GL_wr_01a.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "10000mAh capacity provides ample power to recharge smartphones and small devices multiple times.",
+    "22.5W fast charging support ensures quicker charging for compatible devices.",
+    "Two USB‑A and one USB‑C port allow charging of up to three devices at the same time.",
+    "Type‑C port supports two‑way fast charging for both input and output functions.",
+    "Compact and lightweight design makes it easy to carry for travel and everyday use.",
+    "Supports multiple fast charge protocols including PD and QC3+ for wide device compatibility.",
+    "Built‑in safety protections guard against overcharging, over‑discharging, over‑current, and short circuits.",
+    "LED indicators show remaining battery level at a glance.",
+    "Durable construction meets international aviation standards for carry‑on battery packs.",
+    "Wide compatibility works with smartphones, tablets, earbuds, smart watches, and other USB‑powered devices."
+  ]
+},
+{
+  "id": "xiaomi-hair-clipper-1",
+  "name": "Xiaomi Hair Clipper",
+  "description": "The Xiaomi Hair Clipper is a versatile and ergonomic cordless trimmer with a powerful low‑noise DC motor, titanium‑coated ceramic blades, adjustable length settings, and up to 180 minutes of runtime. Its IPX7 waterproof body makes cleaning easy, and built‑in smart oil‑level reminders ensure consistent performance. With multiple comb attachments and fine length precision, it’s ideal for a wide range of hairstyles and family grooming needs.",
+  "category": "Personal Care",
+  "condition": "Brand New",
+  "image": "/BHR5891GL_wr_01.jpg",
+  "images": [
+    "/BHR5891GL_wr_02.jpg",
+    "/BHR5891GL_wr_03.jpg",
+    "/BHR5891GL_wr_04.jpg",
+    "/BHR5891GL_wr_01.jpg",
+    "/BHR5891GL_wr_05.jpg",
+    "/BHR5891GL_wr_06.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Low‑noise DC motor with strong torque and up to 6200 rpm for smooth and efficient trimming.",
+    "Titanium‑coated ceramic blades offer sharp, durable cutting performance and resist corrosion.",
+    "Five fine blade adjustment levels from 0.5 mm to 1.7 mm for precise styling.",
+    "Two adjustable combs provide length ranges from 3 mm to 41 mm for versatile haircuts.",
+    "IPX7 waterproof design allows easy rinsing and hygienic cleaning under running water.",
+    "Up to 180 minutes of cordless runtime per charge to cover extended grooming sessions.",
+    "Type‑C charging supports convenient recharging and pass‑through power during use.",
+    "Smart oil‑level reminder alerts when lubrication is needed for consistent performance.",
+    "Rounded, skin‑friendly blade head design minimises the risk of cuts and irritation.",
+    "Comes with multiple combs and accessories for a complete home grooming toolkit."
+  ]
+},
+{
+  "id": "xiaomi-smart-tower-fan-1",
+  "name": "Xiaomi Smart Tower Fan",
+  "description": "The Xiaomi Smart Tower Fan is a Wi‑Fi‑enabled smart cooling tower fan that delivers a gentle and natural breeze with low noise and wide adjustable airflow. It features variable frequency DC motor technology, a fine child‑safe grille, smart voice control, app control, and energy‑saving operation, making it ideal for cooling living spaces efficiently and quietly.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR5956EU_wr_01.jpg",
+  "images": [
+    "/BHR5956EU_wr_02.jpg",
+    "/BHR5956EU_wr_03.jpg",
+    "/BHR5956EU_wr_04.jpg",
+    "/BHR5956EU_wr_01.jpg",
+    "/BHR5956EU_wr_05.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Variable frequency DC motor delivers a gentle and comfortable breeze with stable airflow.",
+    "Low noise operation as quiet as 34.6 dB(A) on the lowest speed for peaceful rest.",
+    "Wide adjustable 150° airflow angle to spread cool air throughout the room.",
+    "Fine 6.9 mm air outlet grille protects children’s fingers and ensures safety.",
+    "High airflow output with a maximum air volume of 541 m³/h for rapid cooling.",
+    "Smart voice control works with Google Assistant and Alexa for hands‑free operation.",
+    "Mi Home app control lets you adjust settings remotely and schedule operation.",
+    "Energy‑efficient design consumes only about 3.48 kWh over an entire summer.",
+    "Compact tower body fits easily in living rooms without taking up much space.",
+    "Top button controls provide convenient on‑device operation without bending."
+  ]
+},
+{
+  "id": "xiaomi-smart-blender-bhr5960eu-1",
+  "name": "Xiaomi Smart Blender BHR5960EU",
+  "description": "The Xiaomi Smart Blender BHR5960EU is a versatile high‑power blender that handles both hot and cold blending with a 1000 W motor, a large borosilicate glass jug, multiple variable speed settings, smart app control, and a scheduling feature for convenient meal preparation.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR5960EU_wr_01.jpg",
+  "images": [
+    "/BHR5960EU_wr_02.jpg",
+    "/BHR5960EU_wr_03.jpg",
+    "/BHR5960EU_wr_04.jpg",
+    "/BHR5960EU_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "1000 W high‑power motor delivers strong blending performance for smooth results.",
+    "Hot and cold dual‑mode blending supports making both soups and cold drinks.",
+    "High‑borosilicate glass jug withstands rapid temperature changes and holds up to 1600 mL of cold drinks or 1200 mL of hot drinks.",
+    "9 variable speed settings let you match blending power to different ingredients.",
+    "OLED knob control with touch buttons makes selecting modes and functions intuitive.",
+    "Smart app connectivity lets you control, schedule, and send cloud recipes via the Mi Home/Xiaomi Home app.",
+    "8 stainless steel multi‑angle blades chop and blend ingredients thoroughly.",
+    "Scheduling function allows you to set start times up to 12 hours ahead.",
+    "Smart cleaning mode helps you clean the blender easily by running water at high speed.",
+    "Built‑in safety protections include automatic shut‑off when the lid is opened and overheat protection."
+  ]
+},
+{
+  "id": "xiaomi-smart-band-7-1",
+  "name": "Xiaomi Smart Band 7",
+  "description": "The Xiaomi Smart Band 7 is a feature‑rich fitness tracker with a large AMOLED display, continuous heart rate and SpO₂ monitoring, multiple workout modes, sleep tracking, and smart notifications. Designed for all‑day wear, it offers long battery life, personalised health insights, and a lightweight, comfortable design for everyday activity tracking and wellness support.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR6008GL_wr_01.jpg",
+  "images": [
+    "/BHR6008GL_wr_02.jpg",
+    "/BHR6008GL_wr_03.jpg",
+    "/BHR6008GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Large AMOLED Display: Bright and colourful experience with touch support for easy navigation.",
+    "24/7 Heart Rate Monitoring: Continuously tracks heart rate during activity and rest.",
+    "Blood Oxygen (SpO₂) Monitoring: Measures blood oxygen levels to support health insights.",
+    "Sleep Tracking: Monitors sleep stages and provides insights for better rest.",
+    "Multiple Workout Modes: Supports a wide range of exercise types for detailed activity tracking.",
+    "Long Battery Life: Extended usage up to multiple days on a single charge.",
+    "Smart Notifications: Displays calls, messages, and app alerts on your wrist.",
+    "Water Resistant: Suitable for use during swimming and water activities.",
+    "Custom Watch Faces: Personalise the look with multiple fun and dynamic faces.",
+    "Lightweight Comfortable Design: Slim and comfortable for all‑day wear."
+  ]
+},
+{
+  "id": "xiaomi-smart-humidifier-2-1",
+  "name": "Xiaomi Smart Humidifier 2",
+  "description": "The Xiaomi Smart Humidifier 2 delivers fine, comfortable mist to maintain ideal indoor humidity levels in medium‑to‑large spaces while operating quietly and efficiently. With app and voice control support, real‑time humidity sensing, scheduled operation, and a modern minimalist design, it enhances comfort in homes, bedrooms, and offices.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR6026EU_wr_01.jpg",
+  "images": [
+    "/BHR6026EU_wr_02.jpg",
+    "/BHR6026EU_wr_03.jpg",
+    "/BHR6026EU_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Smart Humidification: Delivers a fine mist to maintain comfortable humidity levels.",
+    "Quiet Operation: Ultra‑low noise design prevents unwanted disturbances during sleep or work.",
+    "Large Coverage Capacity: Suitable for medium‑to‑large rooms for consistent humidity control.",
+    "Real‑Time Humidity Sensing: Built‑in sensor detects current humidity and adjusts mist output.",
+    "App Control: Mi Home/Xiaomi Home app allows remote control and monitoring.",
+    "Voice Assistant Support: Works with Google Assistant and Alexa for hands‑free operation.",
+    "Scheduled & Timer Modes: Set timers and schedules to automate humidifier operation.",
+    "Easy Top‑Fill Design: Simple top‑fill opening makes refilling water quick and mess‑free.",
+    "Energy Efficient: Uses minimal power while maintaining consistent mist output.",
+    "Modern Minimalist Design: Blends seamlessly with home interiors with a clean, stylish look."
+  ]
+},{
+  "id": "xiaomi-usb-a-to-usb-c-6a-1m-cable-1",
+  "name": "Xiaomi USB‑A to USB‑C 6A 1m Cable",
+  "description": "The Xiaomi USB‑A to USB‑C 6A 1 m Cable is a durable data and charging cable featuring USB‑A and Type‑C connectors, a flexible TPU exterior, support for up to 6 A high current, and fast data transfer — ideal for powering and syncing smartphones, tablets, and other USB‑C devices.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/BHR6032GL_wr_01.jpg",
+  "images": [
+    "/BHR6032GL_wr_02.jpg",
+    "/BHR6032GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Supports up to 6 A high current for fast charging of compatible devices.",
+    "USB‑A to USB‑C connectors ensure wide compatibility with phones, tablets, and more.",
+    "Durable TPU cable exterior resists wear and extends overall cable life.",
+    "1 m cable length provides convenient reach for daily charging and syncing.",
+    "Fast data transfer capability lets you sync files between devices and computers.",
+    "Reversible USB‑C end makes plugging in easier and faster.",
+    "Universal design works with any device that has a USB‑C port.",
+    "Lightweight and flexible build is easy to coil and store.",
+    "Reliable construction prevents frequent breakage at connector joints.",
+    "Designed for reliable charging and data performance with Xiaomi devices and beyond."
   ]
 }
 ]
