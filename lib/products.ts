@@ -25,4 +25,10 @@ export async function getRelatedProducts(product: Product, limit = 4): Promise<P
   return all.filter((p) => p.category === product.category && p.id !== product.id).slice(0, limit)
 }
 
+export async function getVariants(product: Product): Promise<Product[]> {
+  const all = await getAllProducts()
+  // Find products with the exact same name (different colors/variants)
+  return all.filter((p) => p.name === product.name)
+}
+
 

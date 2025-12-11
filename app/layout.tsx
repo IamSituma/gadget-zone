@@ -24,8 +24,8 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en" className={poppins.variable}>
-      <body className="antialiased font-poppins">
+    <html lang="en" suppressHydrationWarning>
+      <body className={`${poppins.variable} antialiased font-poppins`}>
         {children}
         <SiteFooter />
         <Analytics />

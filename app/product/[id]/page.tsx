@@ -4,11 +4,12 @@ import { AnnouncementBanner } from "@/components/announcement-banner"
 import { SiteHeader } from "@/components/site-header"
 import { Badge } from "@/components/ui/badge"
 import { Separator } from "@/components/ui/separator"
-import { getProductById, getAllProducts, getRelatedProducts } from "@/lib/products"
+import { getProductById, getAllProducts, getRelatedProducts, getVariants } from "@/lib/products"
 import { Check } from "lucide-react"
 import { ProductCard } from "@/components/product-card"
 import { ProductActions } from "@/components/product-actions"
 import { ProductImageGallery } from "@/components/product-image-gallery"
+import ProductGalleryVariants from "@/components/product-gallery-variants"
 import { ProductShare } from "@/components/product-share"
 import { WhatsAppButton } from "@/components/whatsapp-button"
 import { formatUGX } from "@/lib/utils"
@@ -25,6 +26,7 @@ export default async function ProductPage({
   if (!product) notFound()
 
   const relatedProducts = await getRelatedProducts(product)
+  const variants = await getVariants(product)
 
   return (
     <div className="min-h-screen">
@@ -33,12 +35,11 @@ export default async function ProductPage({
 
       <main className="container mx-auto px-4 py-8">
         <div className="grid gap-8 lg:grid-cols-2">
-          {/* Image Gallery */}
-          <ProductImageGallery
-            images={product.images}
-            productName={product.name}
-            mainImage={product.image}
-          />
+          {/* Image Gallery (with variants) */}
+          {/* ProductGalleryVariants is a client component that will handle variant selection */}
+          {/* Import it dynamically to avoid server/client mismatch */}
+          {/* @ts-ignore-next-line */}
+          <ProductGalleryVariants product={product} variants={variants} />
 
           {/* Product Info */}
           <div className="space-y-6">
@@ -80,6 +81,7 @@ export default async function ProductPage({
                 message={`Hello Voltspire! I'm interested in the ${product.name}. Could you share the price?\n\nProduct link: ${
                   typeof window !== "undefined" ? window.location.origin : ""
                 }/product/${product.id}`}
+                productId={product.id}
               />
             </div>
 
@@ -96,7 +98,7 @@ export default async function ProductPage({
               <div>
                 <h2 className="mb-2 text-lg font-semibold">Features</h2>
                 <ul className="list-disc pl-6 text-muted-foreground space-y-1">
-                  {product.features.map((feature) => (
+                  {(product.features ?? []).map((feature) => (
                     <li key={feature}>{feature}</li>
                   ))}
                 </ul>

@@ -52,6 +52,10 @@ export default function ProductsPage() {
 
   const filteredProducts = useMemo(() => {
     return products.filter((product) => {
+      // Hide variant-only entries from the main listing. Variants are marked
+      // by having a `color` field (e.g. the Blue variant `c23`). Keep them
+      // available to the product detail page via `getVariants`.
+      if (product.color) return false
       const categoryMatch =
         selectedCategory === "All" || product.category === selectedCategory
 
