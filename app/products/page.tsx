@@ -7,6 +7,8 @@ import { SiteHeader } from "@/components/site-header"
 import { Button } from "@/components/ui/button"
 import { Label } from "@/components/ui/label"
 import { RadioGroup, RadioGroupItem } from "@/components/ui/radio-group"
+import { Drawer, DrawerContent, DrawerHeader, DrawerTitle } from "@/components/ui/drawer"
+import { Filter } from "lucide-react"
 import productsData from "@/data/products.json"
 import type { Product, ProductCategory } from "@/lib/types"
 import { ProductCard } from "@/components/product-card"
@@ -18,6 +20,7 @@ export default function ProductsPage() {
   const [selectedCategory, setSelectedCategory] = useState<ProductCategory | "All">("All")
   const [selectedBrand, setSelectedBrand] = useState<"All" | "Gizzu" | "Xiaomi">("All")
   const [searchTerm, setSearchTerm] = useState("")
+  const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
 
   const [currentPage, setCurrentPage] = useState(1)
   const productsPerPage = 16
@@ -113,6 +116,77 @@ export default function ProductsPage() {
       <main className="container mx-auto px-4 py-8 font-normal">
         <div className="grid gap-8 lg:grid-cols-[250px_1fr]">
 
+          {/* Mobile Filter Button */}
+          <div className="md:hidden flex items-center gap-2 mb-4">
+            <input
+              id="mobile-search"
+              type="text"
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Search products..."
+              className="flex-1 rounded-lg border px-3 py-2 text-sm"
+            />
+            <Button
+              variant="outline"
+              size="sm"
+              onClick={() => setMobileFilterOpen(true)}
+              className="gap-2"
+            >
+              <Filter className="h-4 w-4" />
+              <span className="sr-only">Filters</span>
+            </Button>
+          </div>
+
+          {/* Mobile Filter Drawer */}
+          <Drawer open={mobileFilterOpen} onOpenChange={setMobileFilterOpen}>
+            <DrawerContent className="max-h-[80vh]">
+              <DrawerHeader>
+                <DrawerTitle>Filters</DrawerTitle>
+              </DrawerHeader>
+              <div className="flex-1 overflow-y-auto space-y-6 px-4 pb-6">
+                <div>
+                  <h3 className="mb-3 text-lg font-medium">Categories</h3>
+                  <RadioGroup
+                    value={selectedCategory}
+                    onValueChange={(value) => {
+                      handleFilterChange("category", value)
+                      setMobileFilterOpen(false)
+                    }}
+                  >
+                    {categories.map((category) => (
+                      <div key={category} className="flex items-center space-x-2 mb-2">
+                        <RadioGroupItem value={category} id={`category-mobile-${category}`} />
+                        <Label htmlFor={`category-mobile-${category}`}>{category}</Label>
+                      </div>
+                    ))}
+                  </RadioGroup>
+                </div>
+
+                <div>
+                  <h3 className="mb-3 text-lg font-medium">Brand</h3>
+                  <RadioGroup
+                    value={selectedBrand}
+                    onValueChange={(value) => {
+                      handleFilterChange("brand", value)
+                      setMobileFilterOpen(false)
+                    }}
+                  >
+                    {brands.map((brand) => (
+                      <div key={brand} className="flex items-center space-x-2 mb-2">
+                        <RadioGroupItem value={brand} id={`brand-mobile-${brand}`} />
+                        <Label htmlFor={`brand-mobile-${brand}`}>{brand}</Label>
+                      </div>
+                    ))}
+                  </RadioGroup>
+                </div>
+
+                <Button variant="outline" className="w-full" onClick={clearFilters}>
+                  Clear Filters
+                </Button>
+              </div>
+            </DrawerContent>
+          </Drawer>
+
           {/* Desktop Sidebar */}
           <aside className="hidden md:flex md:flex-col md:space-y-6">
 
@@ -170,7 +244,7 @@ export default function ProductsPage() {
             </p>
 
             {currentProducts.length > 0 ? (
-              <div className="grid grid-cols-4 gap-4">
+              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                 {displayedProducts.map((product, idx) => (
                   <ProductCard key={`${product.id}-${idx}`} product={product} />
                 ))}

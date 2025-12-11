@@ -37,7 +37,7 @@ export function CTASection() {
   }
 
   return (
-    <section className="relative h-[60vh] md:h-[80vh] overflow-hidden group">
+    <section className="relative h-[40vh] md:h-[80vh] overflow-hidden group">
       {/* Video Background */}
       <video
         ref={videoRef}
