@@ -9,6 +9,7 @@ export type ProductCategory =
   | "Audio & Video"
   | "Power Stations"
   | "Power Banks"
+  | "Personal Care"
   | "Tools"
   | "Lighting"
   | "Accessories"
