@@ -38,6 +38,7 @@ export default function ProductsPage() {
     "Power Stations",
     "Power Banks",
     "Personal Care",
+    "Pet Supplies",
     "Tools",
     "Lighting",
     "Accessories",

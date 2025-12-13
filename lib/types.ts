@@ -10,6 +10,7 @@ export type ProductCategory =
   | "Power Stations"
   | "Power Banks"
   | "Personal Care"
+  |  "Pet Supplies"
   | "Tools"
   | "Lighting"
   | "Accessories"

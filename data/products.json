@@ -1586,33 +1586,6 @@
   ]
 },
 {
-  "id": "xiaomi-smart-band-7-1",
-  "name": "Xiaomi Smart Band 7",
-  "description": "The Xiaomi Smart Band 7 is a feature‑rich fitness tracker with a large AMOLED display, continuous heart rate and SpO₂ monitoring, multiple workout modes, sleep tracking, and smart notifications. Designed for all‑day wear, it offers long battery life, personalised health insights, and a lightweight, comfortable design for everyday activity tracking and wellness support.",
-  "category": "Wearables",
-  "condition": "Brand New",
-  "image": "/BHR6008GL_wr_01.jpg",
-  "images": [
-    "/BHR6008GL_wr_02.jpg",
-    "/BHR6008GL_wr_03.jpg",
-    "/BHR6008GL_wr_01.jpg"
-  ],
-  "brand": "Xiaomi",
-  "inStock": true,
-  "features": [
-    "Large AMOLED Display: Bright and colourful experience with touch support for easy navigation.",
-    "24/7 Heart Rate Monitoring: Continuously tracks heart rate during activity and rest.",
-    "Blood Oxygen (SpO₂) Monitoring: Measures blood oxygen levels to support health insights.",
-    "Sleep Tracking: Monitors sleep stages and provides insights for better rest.",
-    "Multiple Workout Modes: Supports a wide range of exercise types for detailed activity tracking.",
-    "Long Battery Life: Extended usage up to multiple days on a single charge.",
-    "Smart Notifications: Displays calls, messages, and app alerts on your wrist.",
-    "Water Resistant: Suitable for use during swimming and water activities.",
-    "Custom Watch Faces: Personalise the look with multiple fun and dynamic faces.",
-    "Lightweight Comfortable Design: Slim and comfortable for all‑day wear."
-  ]
-},
-{
   "id": "xiaomi-smart-humidifier-2-1",
   "name": "Xiaomi Smart Humidifier 2",
   "description": "The Xiaomi Smart Humidifier 2 delivers fine, comfortable mist to maintain ideal indoor humidity levels in medium‑to‑large spaces while operating quietly and efficiently. With app and voice control support, real‑time humidity sensing, scheduled operation, and a modern minimalist design, it enhances comfort in homes, bedrooms, and offices.",
@@ -1662,6 +1635,614 @@
     "Lightweight and flexible build is easy to coil and store.",
     "Reliable construction prevents frequent breakage at connector joints.",
     "Designed for reliable charging and data performance with Xiaomi devices and beyond."
+  ]
+},
+{
+  "id": "xiaomi-usb-c-wall-charger-67w-1",
+  "name": "Xiaomi USB-C Wall Charger 67W",
+  "description": "The Xiaomi USB-C Wall Charger 67W is a compact and powerful fast-charging adapter designed to efficiently charge smartphones, tablets, laptops, and other USB-C devices. With support for multiple fast-charging protocols and intelligent power management, it delivers safe, stable, and high-speed charging in a travel-friendly design suitable for everyday use at home or on the go.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/BHR6034EU_wr_01.jpg",
+  "images": [
+    "/BHR6034EU_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "67W High-Power Fast Charging: Delivers up to 67W output for rapid charging of compatible Xiaomi phones, tablets, and USB-C laptops.",
+    "USB-C Single Port Output: Modern USB-C interface ensures efficient and stable power delivery to a wide range of devices.",
+    "Multiple Fast-Charging Protocols: Supports PD, QC, and Xiaomi fast-charge standards for broad device compatibility.",
+    "Intelligent Power Management: Automatically adjusts output power to match the connected device for safe charging.",
+    "Advanced Safety Protection: Built-in safeguards protect against over-voltage, overheating, short-circuit, and over-current.",
+    "Compact Travel-Friendly Design: Lightweight and small form factor makes it easy to carry for daily use or travel.",
+    "Wide Voltage Input: Supports 100–240V input for reliable worldwide use.",
+    "Durable Build Quality: High-quality materials ensure long-term reliability and stable performance."
+  ]
+},
+{
+  "id": "xiaomi-wireless-mouse-lite-2-1",
+  "name": "Xiaomi Wireless Mouse Lite 2",
+  "description": "The Xiaomi Wireless Mouse Lite 2 is a lightweight and ergonomic wireless mouse designed for smooth, precise, and comfortable everyday use. It features a minimalist design, reliable 2.4 GHz wireless connectivity, and an accurate optical sensor, making it ideal for office work, study, and casual home use on both laptops and desktop computers.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "BHR6099GL_wr_01.jpg",
+  "images": [
+    "/BHR6099GL_wr_02.jpg",
+    "/BHR6099GL_wr_03.jpg",
+    "/BHR6099GL_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "2.4 GHz Wireless Connection: Provides stable and responsive wireless performance via USB receiver with minimal latency.",
+    "High-Precision Optical Sensor: Ensures accurate tracking and smooth cursor movement for daily productivity tasks.",
+    "Lightweight Ergonomic Design: Comfortable shape and low weight reduce hand fatigue during extended use.",
+    "Silent Button Clicks: Soft and quiet clicks make it suitable for offices, classrooms, and shared spaces.",
+    "Plug-and-Play Setup: Works instantly without drivers by simply inserting the USB receiver.",
+    "Energy-Efficient Operation: Optimized power consumption extends battery life for long-term use.",
+    "Wide Compatibility: Supports Windows, macOS, and other common operating systems.",
+    "Minimalist Xiaomi Design: Clean, modern look that complements laptops and workspaces."
+  ]
+},
+{
+  "id": "xiaomi-wireless-keyboard-and-mouse-combo-1",
+  "name": "Xiaomi Wireless Keyboard and Mouse Combo",
+  "description": "The Xiaomi Wireless Keyboard and Mouse Combo is a clean, minimalist desktop set designed for efficient and comfortable everyday computing. It includes a full-sized wireless keyboard with low-profile keys and a lightweight ergonomic mouse, both connecting via a single 2.4 GHz USB receiver. With quiet typing, smooth cursor control, and plug-and-play convenience, it is ideal for office work, study, and home setups.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/BHR6100GL_wr_01.jpg",
+  "images": [
+    "/BHR6100GL_wr_01.jpg",
+    "/BHR6100GL_wr_02.jpg",
+    "/BHR6100GL_wr_03.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "2.4 GHz Wireless Connectivity: Both keyboard and mouse connect reliably through a single USB receiver for a clutter-free desk.",
+    "Full-Sized Keyboard Layout: Includes standard keys and numeric keypad for comfortable and efficient typing.",
+    "Quiet Low-Profile Keys: Soft keystrokes reduce noise and improve typing comfort during long work sessions.",
+    "Ergonomic Wireless Mouse: Lightweight design with smooth tracking for everyday productivity tasks.",
+    "Plug-and-Play Setup: Simply insert the USB receiver into any available USB port to start using instantly.",
+    "Stable and Responsive Performance: Delivers consistent input with minimal lag for office and home use.",
+    "Energy-Efficient Design: Optimized power usage extends battery life for both keyboard and mouse.",
+    "Minimalist Xiaomi Design: Clean and modern aesthetic that fits neatly into any workspace."
+  ]
+},
+{
+  "id": "xiaomi-magnetic-charging-cable-1",
+  "name": "Xiaomi Magnetic Charging Cable (Compatible with Amazfit)",
+  "description": "The Xiaomi Magnetic Charging Cable is a versatile magnetic power cable designed for fast and reliable charging of compatible Amazfit smartwatches and other devices. Featuring strong magnetic alignment, USB-A connectivity, and a durable design, it delivers a secure connection and easy one-hand attachment, making charging effortless at home, office, or travel.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/BHR6118GL_wr_01.jpg",
+  "images": [
+    "/BHR6118GL_wr_01.jpg"
+  ],
+    "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Magnetic Attachment: Strong magnetic connection ensures secure alignment and easy docking every time.",
+    "USB-A Plug: Works with USB-A ports on laptops, chargers, power banks, and more.",
+    "Fast and Stable Charging: Reliable power delivery for consistent charging performance.",
+    "Durable Cable Design: Built to withstand daily bending and use.",
+    "Compact and Portable: Lightweight and easy to carry for travel and on-the-go charging.",
+    "One-Hand Magnetic Docking: Makes connecting and disconnecting the cable simple and convenient.",
+    "Wide Compatibility: Designed for Amazfit smartwatches and other magnetic charging devices.",
+    "No Tools or Adapters Needed: Ready to use right out of the box with standard USB power sources.",
+    "Low-Resistance Charge Path: Minimizes energy loss for efficient charging.",
+    "Secure Fit During Charge: Stays connected even with slight movement of the device."
+  ]
+},
+{
+  "id": "xiaomi-smart-pet-food-feeder-1",
+  "name": "Xiaomi Smart Pet Food Feeder (EU)",
+  "description": "The Xiaomi Smart Pet Food Feeder is an automated food dispenser that lets you schedule and manage feeding times for your pets with precision. It features Wi-Fi and app control for remote feeding, portion control to prevent overfeeding, and a large hopper for extended feeding cycles, making it ideal for cats, small dogs, and other small pets.",
+  "category": "Pet Supplies",
+  "condition": "Brand New",
+  "image": "/BHR6143EU_wr_01.jpg",
+  "images": [
+    "/BHR6143EU_wr_02.jpg",
+    "/BHR6143EU_wr_01.jpg",
+    "/BHR6143EU_wr_03.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "App Control Feeding: Schedule feeding times and portions remotely through the Mi Home/Xiaomi Home app.",
+    "Custom Portion Control: Set precise food portion sizes to help manage pet diet and avoid overfeeding.",
+    "Large Food Hopper: Holds ample dry kibble for extended periods between refills.",
+    "Wi-Fi Connectivity: Connects to your home network for remote control and real-time notifications.",
+    "Voice Assistant Support: Works with compatible voice assistants for hands-free feeding commands.",
+    "Easy Cleaning Design: Detachable feeding tray and hopper allow hassle-free cleaning.",
+    "Low-Food Alerts: Sends alerts when the food level is low to remind you to refill.",
+    "Quiet Operation: Smooth, quiet dispensing minimizes noise that could disturb your pet.",
+    "Stable Base Build: Designed to stay steady during feeding to prevent tipping.",
+    "Secure Lid Lock: Keeps food fresh and prevents pets from accessing the hopper directly."
+  ]
+},
+{
+  "id": "xiaomi-smart-pet-food-feeder-desiccant-cartridge-1",
+  "name": "Xiaomi Smart Pet Food Feeder Desiccant Cartridge",
+  "description": "The Xiaomi Smart Pet Food Feeder Desiccant Cartridge is designed to keep pet food dry, fresh, and nutritious by effectively absorbing moisture inside the feeder. Made with environmentally friendly materials, it helps prevent dampness, mold, and food spoilage, ensuring every meal stays crisp and safe for your pet.",
+  "category": "Pet Supplies",
+  "condition": "Brand New",
+  "image": "/BHR6144GL_wr_01.jpg",
+  "images": [
+    "/BHR6144GL_wr_02.jpg",
+    "/BHR6144GL_wr_01.jpg",
+    "/BHR6144GL_wr_03.jpg",
+    "/BHR6144GL_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Moisture Absorption: Effectively absorbs excess moisture to keep pet food dry and fresh.",
+    "Food Freshness Protection: Helps prevent mold growth and preserves food flavor and nutrition.",
+    "Eco-Friendly Materials: Made from environmentally friendly desiccant materials safe for home use.",
+    "Durable Particle Design: Strong desiccant particles resist breaking and maintain long-term performance.",
+    "Smart Expiry Reminders: Works with the Mi Home/Xiaomi Home app to notify you when replacement is needed.",
+    "Secure Safety Lock: Built-in safety lock keeps the cartridge firmly in place inside the feeder.",
+    "Easy Installation: Simple to insert and remove without tools.",
+    "Feeder Compatibility: Specifically designed for use with Xiaomi Smart Pet Food Feeders.",
+    "Low Maintenance: Requires minimal effort while providing continuous freshness protection."
+  ]
+},
+{
+  "id": "xiaomi-smart-pet-fountain-filter-1",
+  "name": "Xiaomi Smart Pet Fountain Filter",
+  "description": "The Xiaomi Smart Pet Fountain Filter is a replacement filtration cartridge designed to keep your pet’s drinking water clean and healthy. It uses a four-stage deep filtering system to remove impurities and reduce odours, helping support overall pet hydration and urinary health.",
+  "category": "Pet Supplies",
+  "condition": "Brand New",
+  "image": "/BHR6148GL_wr_01.jpg",
+  "images": [
+    "/BHR6148GL_wr_02.jpg",
+    "/BHR6148GL_wr_01.jpg",
+    "/BHR6148GL_wr_03.jpg",
+    "/BHR6148GL_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Four-Stage Deep Filtration: Removes particles, hair, sediment, and impurities from water.",
+    "Activated Carbon Layer: Reduces odours and improves water taste for pets.",
+    "Protects Pet Health: Helps support hydration and urinary health by providing cleaner water.",
+    "Easy Installation: Designed for simple replacement in compatible pet fountains.",
+    "Optimal Flow Design: Maintains steady water flow while filtering effectively.",
+    "Long-Lasting Performance: Durable filter material ensures reliable use between changes.",
+    "Low-Maintenance Design: Minimal upkeep required for continuous clean water.",
+    "Safe & Non-Toxic Materials: Made from pet-safe, BPA-free components.",
+    "Compatible with Smart Pet Fountains: Works with Xiaomi Smart Pet Fountain models.",
+    "Promotes Daily Hydration: Encourages pets to drink more water with cleaner, fresher supply."
+  ]
+},
+{
+  "id": "xiaomi-smart-pet-fountain-1",
+  "name": "Xiaomi Smart Pet Fountain",
+  "description": "The Xiaomi Smart Pet Fountain is an intelligent water dispenser designed to provide pets with clean, flowing water using a multi-layer filtration system and quiet pump operation, helping encourage regular hydration while supporting overall pet health.",
+  "category": "Pet Supplies",
+  "condition": "Brand New",
+  "image": "/BHR6161EU_wr_01.jpg",
+  "images": [
+    "/BHR6161EU_wr_02.jpg",
+    "/BHR6161EU_wr_03.jpg",
+    "/BHR6161EU_wr_04.jpg",
+    "/BHR6161EU_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Four-Stage Filtration System cleans water by removing hair, sediment, impurities, and odours for safer drinking.",
+    "Circulating Flow Design keeps water fresh and oxygenated to encourage pets to drink more frequently.",
+    "Ultra-Quiet Water Pump operates with low noise to avoid disturbing pets or household environments.",
+    "Large Capacity Water Tank provides sufficient water supply for multiple days of use.",
+    "Smart Pump Protection automatically stops operation when water levels are too low to prevent damage.",
+    "Pet-Safe Materials ensure all water-contact components are BPA-free and safe for daily use.",
+    "Easy-Disassembly Design allows quick cleaning and maintenance without tools.",
+    "Low Power Consumption supports continuous operation with minimal energy usage.",
+    "Anti-Slip Base Design keeps the fountain stable during use by active pets.",
+    "Compatible Replacement Filters ensure long-term use with simple filter replacement."
+  ]
+},
+{
+  "id": "xiaomi-smart-band-7-1",
+  "name": "Xiaomi Smart Band 7",
+  "description": "The Xiaomi Smart Band 7 is a feature‑rich fitness tracker with a large AMOLED display, continuous heart rate and SpO₂ monitoring, multiple workout modes, sleep tracking, and smart notifications. Designed for all‑day wear, it offers long battery life, personalised health insights, and a lightweight, comfortable design for everyday activity tracking and wellness support.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR6008GL_wr_01.jpg",
+  "images": [
+    "/BHR6008GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Large AMOLED Display: Bright and colourful experience with touch support for easy navigation.",
+    "24/7 Heart Rate Monitoring: Continuously tracks heart rate during activity and rest.",
+    "Blood Oxygen (SpO₂) Monitoring: Measures blood oxygen levels to support health insights.",
+    "Sleep Tracking: Monitors sleep stages and provides insights for better rest.",
+    "Multiple Workout Modes: Supports a wide range of exercise types for detailed activity tracking.",
+    "Long Battery Life: Extended usage up to multiple days on a single charge.",
+    "Smart Notifications: Displays calls, messages, and app alerts on your wrist.",
+    "Water Resistant: Suitable for use during swimming and water activities.",
+    "Custom Watch Faces: Personalise the look with multiple fun and dynamic faces.",
+    "Lightweight Comfortable Design: Slim and comfortable for all‑day wear."
+  ]
+},
+{
+  "id": "xiaomi-smart-band-7-1-green",
+  "name": "Xiaomi Smart Band 7",
+  "description": "The Xiaomi Smart Band 7 is a feature‑rich fitness tracker with a large AMOLED display, continuous heart rate and SpO₂ monitoring, multiple workout modes, sleep tracking, and smart notifications. Designed for all‑day wear, it offers long battery life, personalised health insights, and a lightweight, comfortable design for everyday activity tracking and wellness support.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR6198GL_wr_01.jpg",
+  "images": [
+    "/BHR6198GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "color": "Forest Green",
+  "features": [
+    "Large AMOLED Display: Bright and colourful experience with touch support for easy navigation.",
+    "24/7 Heart Rate Monitoring: Continuously tracks heart rate during activity and rest.",
+    "Blood Oxygen (SpO₂) Monitoring: Measures blood oxygen levels to support health insights.",
+    "Sleep Tracking: Monitors sleep stages and provides insights for better rest.",
+    "Multiple Workout Modes: Supports a wide range of exercise types for detailed activity tracking.",
+    "Long Battery Life: Extended usage up to multiple days on a single charge.",
+    "Smart Notifications: Displays calls, messages, and app alerts on your wrist.",
+    "Water Resistant: Suitable for use during swimming and water activities.",
+    "Custom Watch Faces: Personalise the look with multiple fun and dynamic faces.",
+    "Lightweight Comfortable Design: Slim and comfortable for all‑day wear."
+  ]
+},
+{
+  "id": "xiaomi-smart-band-7-1-white",
+  "name": "Xiaomi Smart Band 7",
+  "description": "The Xiaomi Smart Band 7 is a feature‑rich fitness tracker with a large AMOLED display, continuous heart rate and SpO₂ monitoring, multiple workout modes, sleep tracking, and smart notifications. Designed for all‑day wear, it offers long battery life, personalised health insights, and a lightweight, comfortable design for everyday activity tracking and wellness support.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR6199GL_wr_01.jpg",
+  "images": [
+    "/BHR6199GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "color": "White",
+  "features": [
+    "Large AMOLED Display: Bright and colourful experience with touch support for easy navigation.",
+    "24/7 Heart Rate Monitoring: Continuously tracks heart rate during activity and rest.",
+    "Blood Oxygen (SpO₂) Monitoring: Measures blood oxygen levels to support health insights.",
+    "Sleep Tracking: Monitors sleep stages and provides insights for better rest.",
+    "Multiple Workout Modes: Supports a wide range of exercise types for detailed activity tracking.",
+    "Long Battery Life: Extended usage up to multiple days on a single charge.",
+    "Smart Notifications: Displays calls, messages, and app alerts on your wrist.",
+    "Water Resistant: Suitable for use during swimming and water activities.",
+    "Custom Watch Faces: Personalise the look with multiple fun and dynamic faces.",
+    "Lightweight Comfortable Design: Slim and comfortable for all‑day wear."
+  ]
+},
+{
+  "id": "xiaomi-smart-band-7-1-cream-white",
+  "name": "Xiaomi Smart Band 7",
+  "description": "The Xiaomi Smart Band 7 is a full-featured fitness tracker with a large AMOLED display, advanced health monitoring, and multiple workout modes, designed to help you stay active and informed throughout your day.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR6197GL_wr_01.jpg",
+  "images": [
+    "/BHR6197GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "color": "Cream White",
+  "features": [
+    "Large AMOLED Display provides bright, clear visuals and easy navigation.",
+    "24/7 Heart Rate Monitoring tracks your heart rate continuously during activity and rest.",
+    "Blood Oxygen (SpO₂) Monitoring measures oxygen levels in your blood for health insights.",
+    "Sleep Tracking analyzes sleep patterns to help you understand and improve rest quality.",
+    "Multiple Workout Modes supports tracking for a wide range of exercises and sports.",
+    "Long Battery Life delivers extended usage on a single charge for daily wear.",
+    "Smart Notifications display calls, messages, and app alerts directly on your wrist.",
+    "Water Resistance allows use while swimming or in the rain without worry.",
+    "Custom Watch Faces let you personalise the look to suit your style.",
+    "Lightweight Comfortable Design makes it easy to wear all day without discomfort."
+  ]
+},
+{
+  "id": "xiaomi-smart-band-7-1-blue",
+  "name": "Xiaomi Smart Band 7",
+  "description": "The Xiaomi Smart Band 7 is a full-featured fitness tracker with a large AMOLED display, advanced health monitoring, and multiple workout modes, designed to help you stay active and informed throughout your day.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR6200GL_wr_01.jpg",
+  "images": [
+    "/BHR6200GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "color": "Blue",
+  "features": [
+    "Large AMOLED Display provides bright, clear visuals and easy navigation.",
+    "24/7 Heart Rate Monitoring tracks your heart rate continuously during activity and rest.",
+    "Blood Oxygen (SpO₂) Monitoring measures oxygen levels in your blood for health insights.",
+    "Sleep Tracking analyzes sleep patterns to help you understand and improve rest quality.",
+    "Multiple Workout Modes supports tracking for a wide range of exercises and sports.",
+    "Long Battery Life delivers extended usage on a single charge for daily wear.",
+    "Smart Notifications display calls, messages, and app alerts directly on your wrist.",
+    "Water Resistance allows use while swimming or in the rain without worry.",
+    "Custom Watch Faces let you personalise the look to suit your style.",
+    "Lightweight Comfortable Design makes it easy to wear all day without discomfort."
+  ]
+},
+{
+  "id": "xiaomi-smart-band-7-1-orange",
+  "name": "Xiaomi Smart Band 7",
+  "description": "The Xiaomi Smart Band 7 is a full-featured fitness tracker with a large AMOLED display, advanced health monitoring, and multiple workout modes, designed to help you stay active and informed throughout your day.",
+  "category": "Wearables",
+  "condition": "Brand New",
+  "image": "/BHR6202GL_wr_01.jpg",
+  "images": [
+    "/BHR6202GL_wr_01.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "color": "Orange",
+  "features": [
+    "Large AMOLED Display provides bright, clear visuals and easy navigation.",
+    "24/7 Heart Rate Monitoring tracks your heart rate continuously during activity and rest.",
+    "Blood Oxygen (SpO₂) Monitoring measures oxygen levels in your blood for health insights.",
+    "Sleep Tracking analyzes sleep patterns to help you understand and improve rest quality.",
+    "Multiple Workout Modes supports tracking for a wide range of exercises and sports.",
+    "Long Battery Life delivers extended usage on a single charge for daily wear.",
+    "Smart Notifications display calls, messages, and app alerts directly on your wrist.",
+    "Water Resistance allows use while swimming or in the rain without worry.",
+    "Custom Watch Faces let you personalise the look to suit your style.",
+    "Lightweight Comfortable Design makes it easy to wear all day without discomfort."
+  ]
+},
+{
+  "id": "xiaomi-truclean-w10-pro-1",
+  "name": "Xiaomi TruClean W10 Pro Wet & Dry Vacuum",
+  "description": "The Xiaomi TruClean W10 Pro Wet & Dry Vacuum is a versatile cordless cleaning solution that handles both dry debris and wet spills with powerful suction, a self-cleaning system, and a long-lasting rechargeable battery — perfect for complete home floor care.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR6278EU_wr_01.jpg",
+  "images": [
+    "/BHR6278EU_wr_02.jpg",
+    "/BHR6278EU_wr_03.jpg",
+    "/BHR6278EU_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Wet and dry vacuuming handles both dry debris and liquid spills in one machine.",
+    "One-Click Self-Cleaning Programme rinses the brush and suction path with minimal effort.",
+    "Tangle-Free Roller Brush keeps hair and fibres from wrapping around the brush during use.",
+    "Up to 35 Minutes of Runtime on a full charge supports extended cleaning sessions.",
+    "IPX4 Water Resistance protects the unit from splashes while vacuuming wet messes.",
+    "3700 mAh High-Capacity Battery provides sustained suction power and battery life.",
+    "Multiple Cleaning Modes adjust suction and water flow for various floor types.",
+    "Compact and Ergonomic Design makes it easy to manoeuvre around the home.",
+    "Washable Dust Bin and Filters simplify maintenance and prolong usability.",
+    "Versatile Floor HeadWorks on tiles, hardwood, carpet, and other surfaces."
+  ]
+},
+{
+  "id": "xiaomi-robot-vacuum-x10-plus-1",
+  "name": "Xiaomi Robot Vacuum X10 Plus",
+  "description": "The Xiaomi Robot Vacuum X10 Plus is an intelligent robot vacuum that combines powerful suction, automated mopping, and smart navigation to efficiently clean your home, including carpets and hard floors, with minimal intervention.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR6363EU_wr_01.jpg",
+  "images": [
+    "/BHR6363EU_wr_02.jpg",
+    "/BHR6363EU_wr_03.jpg",
+    "/BHR6363EU_wr_03.jpg",
+    "/BHR6363EU_wr_01.jpg",
+    "/BHR6363EU_wr_05.jpg",
+    "/BHR6363EU_wr_06.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Strong Suction Power efficiently picks up dust, dirt, and debris on carpets and hard floors.",
+    "Automated Mopping with high-pressure water flow and fast rotating pads cleans floors thoroughly.",
+    "Smart Navigation uses LiDAR mapping and sensors to plan optimal cleaning paths.",
+    "Anti-Collision and Climb Sensors prevent bumping into furniture and climbing over obstacles.",
+    "Multiple Cleaning Modes including spot, edge, and scheduled cleaning for versatile control.",
+    "Long Battery Life supports extended cleaning sessions without interruption.",
+    "Auto Recharge and Resume allows the robot to return to the dock and continue cleaning automatically.",
+    "Carpet Detection adjusts suction and avoids wetting carpets during mopping.",
+    "Low Noise Operation maintains a quiet cleaning environment.",
+    "App Control and Voice Assistant Compatibility enables remote control and scheduling via smartphone or smart home devices."
+  ]
+},
+{
+  "id": "xiaomi-outdoor-camera-aw200-1",
+  "name": "Xiaomi Outdoor Camera AW200",
+  "description": "The Xiaomi Outdoor Camera AW200 is a high-definition security camera designed for outdoor surveillance, offering clear 2K video, color night vision, motion detection alerts, and durable weatherproof construction for reliable home security.",
+  "category": "Cameras",
+  "condition": "Brand New",
+  "image": "/BHR6398GL_wr_01.jpg",
+  "images": [
+    "/BHR6398GL_wr_02.jpg",
+    "/BHR6398GL_wr_03.jpg",
+    "/BHR6398GL_wr_04.jpg",
+    "/BHR6398GL_wr_05.jpg"
+    ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "2K HD Resolution provides clear and detailed video for enhanced security monitoring.",
+    "Color Night Vision with spotlight LEDs allows visibility even in complete darkness.",
+    "Motion Detection Alerts instantly notify you of detected movement via the app.",
+    "IP66 Weatherproof Rating ensures reliable performance in rain, dust, and harsh outdoor conditions.",
+    "Two-Way Audio lets you communicate with visitors or intruders remotely.",
+    "Smart AI Detection differentiates humans from pets or other moving objects to reduce false alarms.",
+    "Wide-Angle Lens covers a broad area for more comprehensive surveillance.",
+    "Cloud & Local Storage options provide flexible recording and playback choices.",
+    "App Control enables live streaming, playback, and camera settings via the Mi Home/Xiaomi Home app.",
+    "Easy Installation supports wall or ceiling mounting with included hardware."
+  ]
+},
+{
+  "id": "xiaomi-smart-camera-c300-2k-1",
+  "name": "Xiaomi Smart Camera C300 2K",
+  "description": "The Xiaomi Smart Camera C300 2K is a versatile 360° home surveillance camera with high‑resolution video, AI‑powered human detection, a large F1.4 aperture with 6P lens for clear low‑light visuals, and full encryption for secure privacy protection.",
+  "category": "Cameras",
+  "condition": "Brand New",
+  "image": "/BHR6540GL_wr_01.jpg",
+  "images": [
+    "/BHR6540GL_wr_02.jpg",
+    "/BHR6540GL_wr_03.jpg",
+    "/BHR6540GL_wr_04.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "2K resolution delivers crisp and detailed video for reliable home monitoring.",
+    "360° panoramic vision lets you cover the entire room without blind spots.",
+    "AI human detection filters out false alerts and sends accurate notifications.",
+    "F1.4 large aperture and upgraded 6P lens capture more light for clearer images in low light.",
+    "Enhanced color night vision displays vivid footage even in dark environments.",
+    "Full encryption protects video data and ensures secure privacy.",
+    "Dual‑band Wi‑Fi (2.4GHz and 5GHz) provides stable and fast connectivity.",
+    "Smart cruise modes allow scheduled or automatic 360° patrols of key areas.",
+    "Built‑in microphone and speaker support clear two‑way audio communication.",
+    "Smart app control lets you view live video and adjust settings remotely."
+  ]
+},
+{
+  "id": "xiaomi-smart-humidifier-4l-1",
+  "name": "Xiaomi Smart Humidifier 4L",
+  "description": "The Xiaomi Smart Humidifier 4L is a quiet, efficient home humidifier with a large 4‑liter water tank, capable of running continuously for up to 40 hours. It features app and voice control via Mi Home/Xiaomi Home, a 360° air outlet for uniform humidification, and automatic humidity adjustment for comfortable indoor air quality.",
+  "category": "Home Appliances",
+  "condition": "Brand New",
+  "image": "/BHR6605EU_wr_01.jpg",
+  "images": [
+    "/BHR6605EU_wr_02.jpg",
+    "/BHR6605EU_wr_03.jpg",
+    "/BHR6605EU_wr_04.jpg",
+    "/BHR6605EU_wr_05.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Large 4L water tank provides up to 40 hours of continuous humidification.",
+    "Quiet operation ensures minimal noise for bedrooms or workspaces.",
+    "360° air outlet distributes moisture evenly throughout the room.",
+    "Mi Home/Xiaomi Home app support allows remote control and monitoring.",
+    "Voice control compatible with Google Assistant and Alexa.",
+    "Automatic humidity adjustment maintains optimal indoor comfort.",
+    "LED touch display for easy operation and monitoring of humidity levels.",
+    "Water-level detection prevents operation when the tank is empty.",
+    "Easy to clean and refill design reduces maintenance effort.",
+    "Compact, sleek design fits seamlessly into modern home interiors."
+  ]
+},
+{
+  "id": "xiaomi-smart-camera-c400-1",
+  "name": "Xiaomi Smart Camera C400",
+  "description": "The Xiaomi Smart Camera C400 is a high-resolution indoor security camera with a large-diameter sensor and F1.4 large aperture lens, delivering sharp 2K video. It features AI human detection, two-way audio, 360° coverage with pan & tilt, enhanced night vision, and full encryption for secure and clear monitoring of your home.",
+  "category": "Cameras",
+  "condition": "Brand New",
+  "image": "/BHR6619GL_wr_01.jpg",
+  "images": [
+    "/BHR6619GL_wr_02.jpg",
+    "/BHR6619GL_wr_03.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "2K High-Resolution Video: Captures sharp and detailed indoor footage.",
+    "AI Human Detection: Detects people specifically to reduce false alerts.",
+    "Pan & Tilt 360° Coverage: Rotates horizontally and vertically for full room monitoring.",
+    "F1.4 Large Aperture Lens: Improves low-light performance and color accuracy.",
+    "Enhanced Night Vision: Provides clear video in low-light conditions.",
+    "Two-Way Audio: Built-in microphone and speaker enable clear communication.",
+    "Full Encryption: Ensures privacy and secure storage of recorded footage.",
+    "Motion Tracking: Automatically follows moving objects within the frame.",
+    "Mi Home/Xiaomi Home App Integration: Remote access and control from your smartphone.",
+    "Compact and Stylish Design: Fits seamlessly into home environments."
+  ]
+},
+{
+  "id": "xiaomi-electric-scooter-riding-gloves-large-1",
+  "name": "Xiaomi Electric Scooter Riding Gloves – Large",
+  "description": "The Xiaomi Electric Scooter Riding Gloves are durable, ergonomic gloves designed for riders and outdoor adventurers, featuring touchscreen‑friendly fingertips and waterproof construction for comfortable hand protection in varied weather conditions.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/BHR6749GL_wr_01a.jpg",
+  "images": [
+    "/BHR6749GL_wr_02a.jpg",
+    "/BHR6749GL_wr_03a.jpg",
+    "/BHR6749GL_wr_04a.jpg",
+    "/BHR6749GL_wr_01a.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Waterproof Construction keeps hands dry in wet riding conditions.",
+    "Touchscreen‑Friendly Fingertips allow easy use of phones and devices without removing gloves.",
+    "Ergonomic Fit for comfortable wear during long rides or adventures.",
+    "Reinforced Palm Protection enhances grip and reduces impact on rough surfaces.",
+    "Breathable Fabric panels improve airflow and reduce hand sweat.",
+    "Adjustable Wrist Strap ensures secure and custom fit for each user.",
+    "Durable Materials resist wear and tear for long‑lasting use.",
+    "Non‑Slip Silicone Grip improves control of handlebars and devices.",
+    "Lightweight Design reduces fatigue while maintaining protection.",
+    "Universal Use for electric scooters, bicycles, motorcycles, and outdoor activities."
+  ]
+},
+{
+  "id": "xiaomi-electric-scooter-cable-lock-1",
+  "name": "Xiaomi Electric Scooter Cable Lock",
+  "description": "The Xiaomi Electric Scooter Cable Lock is a sturdy anti-theft solution for scooters and bikes, featuring a zinc alloy locking pin and steel braided cable for enhanced security and durability.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/BHR6751GL_wr_01a.jpg",
+  "images": [
+    "/BHR6751GL_wr_02a.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "Zinc Alloy Locking Pin provides strong resistance against tampering.",
+    "Steel Braided Cable enhances security and prevents cutting.",
+    "Flexible Cable allows easy attachment to scooters, bikes, and fixed objects.",
+    "Compact Design makes it portable for daily use and travel.",
+    "Durable Construction ensures long-lasting anti-theft protection.",
+    "Lightweight for easy carrying without adding bulk.",
+    "Weather-Resistant Materials protect against rust and corrosion.",
+    "Quick and Easy Operation for locking and unlocking.",
+    "Universal Compatibility with Xiaomi scooters and most bicycles.",
+    "Peace of Mind with reliable theft deterrence in public spaces."
+  ]
+},
+{
+  "id": "xiaomi-smart-camera-c200-1",
+  "name": "Xiaomi Smart Camera C200",
+  "description": "The Xiaomi Smart Camera C200 is an intelligent indoor security camera with 360° panoramic viewing, AI human detection, clear high‑resolution video, enhanced night vision, and full privacy encryption, designed to help you monitor your home with reliable performance and smart voice control.",
+  "category": "Security & Surveillance",
+  "condition": "Brand New",
+  "image": "/BHR6766GL_wr_02a.jpg",
+  "images": [
+    "/BHR6766GL_wr_03a.jpg",
+    "/BHR6766GL_wr_04a.jpg"
+  ],
+  "brand": "Xiaomi",
+  "inStock": true,
+  "features": [
+    "360° panoramic vision provides full room coverage with no blind spots.",
+    "AI human detection reduces false alerts by focusing on human movement.",
+    "High‑resolution video delivers crisp and clear footage for reliable monitoring.",
+    "Enhanced night vision captures detailed video even in low‑light conditions.",
+    "Full encryption protects your privacy and secures stored video data.",
+    "Smart voice control lets you operate the camera using voice assistants.",
+    "Fast‑forward playback speed makes reviewing recorded footage quicker.",
+    "Two‑way audio lets you speak and listen through the camera remotely.",
+    "App control allows live view and settings access from your smartphone.",
+    "Compact design blends seamlessly into home environments."
   ]
 }
 ]
