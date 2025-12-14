@@ -21,11 +21,10 @@ export default function ProductsPage() {
   const [selectedBrand, setSelectedBrand] = useState<"All" | "Gizzu" | "Xiaomi">("All")
   const [searchTerm, setSearchTerm] = useState("")
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
-
   const [currentPage, setCurrentPage] = useState(1)
+
   const productsPerPage = 16
   const products = productsData as Product[]
-
 
   const categories: (ProductCategory | "All")[] = [
     "All",
@@ -58,16 +57,11 @@ export default function ProductsPage() {
 
   const filteredProducts = useMemo(() => {
     return products.filter((product) => {
-      // Hide variant-only entries from the main listing. Variants are marked
-      // by having a `color` field (e.g. the Blue variant `c23`). Keep them
-      // available to the product detail page via `getVariants`.
       if (product.color) return false
       const categoryMatch =
         selectedCategory === "All" || product.category === selectedCategory
-
       const brandMatch =
         selectedBrand === "All" || product.brand === selectedBrand
-
       const searchMatch = product.name
         .toLowerCase()
         .includes(searchTerm.toLowerCase())
@@ -91,7 +85,6 @@ export default function ProductsPage() {
 
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage)
 
-  // Clamp page changes so we never go out of bounds
   const handlePageChange = (newPage: number) => {
     const clamped = Math.min(Math.max(1, newPage), Math.max(1, totalPages))
     if (clamped === currentPage) return
@@ -99,32 +92,30 @@ export default function ProductsPage() {
     window.scrollTo({ top: 0, behavior: "smooth" })
   }
 
-  // Use a safe page value when slicing to avoid negative or out-of-range indices
   const safePage = Math.max(1, Math.min(currentPage, totalPages || 1))
-
   const indexOfFirst = (safePage - 1) * productsPerPage
   const indexOfLast = indexOfFirst + productsPerPage
   const currentProducts = filteredProducts.slice(indexOfFirst, indexOfLast)
-  // Final safety cap: ensure we never render more than `productsPerPage` items
   const displayedProducts = currentProducts.slice(0, productsPerPage)
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen overflow-x-hidden">
       <AnnouncementBanner />
       <SiteHeader />
 
-      <main className="container mx-auto px-4 py-8 font-normal">
+      {/* Add padding-top to avoid overlap with header */}
+      <main className="container mx-auto px-4 pt-24 pb-8 font-normal">
         <div className="grid gap-8 lg:grid-cols-[250px_1fr]">
 
-          {/* Mobile Filter Button */}
-          <div className="md:hidden flex items-center gap-2 mb-4">
+          {/* Mobile Filter & Search */}
+          <div className="md:hidden flex items-center gap-2 mb-4 w-full">
             <input
               id="mobile-search"
               type="text"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               placeholder="Search products..."
-              className="flex-1 rounded-lg border px-3 py-2 text-sm"
+              className="flex-1 w-full rounded-lg border px-3 py-2 text-sm"
             />
             <Button
               variant="outline"
@@ -189,7 +180,6 @@ export default function ProductsPage() {
 
           {/* Desktop Sidebar */}
           <aside className="hidden md:flex md:flex-col md:space-y-6">
-
             <div>
               <input
                 id="desktop-search"
@@ -244,7 +234,7 @@ export default function ProductsPage() {
             </p>
 
             {currentProducts.length > 0 ? (
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              <div className="grid grid-cols-2 gap-4">
                 {displayedProducts.map((product, idx) => (
                   <ProductCard key={`${product.id}-${idx}`} product={product} />
                 ))}
@@ -260,8 +250,7 @@ export default function ProductsPage() {
 
             {/* Pagination */}
             {totalPages > 1 && (
-              <div className="mt-6 flex items-center justify-center gap-2">
-
+              <div className="mt-6 flex flex-wrap items-center justify-center gap-2">
                 <Button
                   variant="outline"
                   disabled={safePage === 1}
@@ -293,7 +282,6 @@ export default function ProductsPage() {
                 >
                   Next
                 </Button>
-
               </div>
             )}
           </div>
