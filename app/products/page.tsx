@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useMemo, useEffect } from "react"
+import { useState, useMemo, useEffect, useRef } from "react"
 import { useSearchParams } from "next/navigation"
 import { AnnouncementBanner } from "@/components/announcement-banner"
 import { SiteHeader } from "@/components/site-header"
@@ -17,15 +17,22 @@ export default function ProductsPage() {
   const searchParams = useSearchParams()
   const urlCategory = searchParams.get("category")
 
-  const [selectedCategory, setSelectedCategory] = useState<ProductCategory | "All">("All")
-  const [selectedBrand, setSelectedBrand] = useState<"All" | "Gizzu" | "Xiaomi">("All")
+  const [selectedCategory, setSelectedCategory] =
+    useState<ProductCategory | "All">("All")
+  const [selectedBrand, setSelectedBrand] =
+    useState<"All" | "Gizzu" | "Xiaomi">("All")
   const [searchTerm, setSearchTerm] = useState("")
   const [mobileFilterOpen, setMobileFilterOpen] = useState(false)
 
   const [currentPage, setCurrentPage] = useState(1)
   const productsPerPage = 16
-  const products = productsData as Product[]
 
+  const [visibleCount, setVisibleCount] = useState(productsPerPage)
+  const [isMobile, setIsMobile] = useState(false)
+
+  const loadMoreRef = useRef<HTMLDivElement | null>(null)
+
+  const products = productsData as Product[]
 
   const categories: (ProductCategory | "All")[] = [
     "All",
@@ -55,78 +62,92 @@ export default function ProductsPage() {
 
   const brands: ("All" | "Gizzu" | "Xiaomi")[] = ["All", "Gizzu", "Xiaomi"]
 
+  /* Detect mobile */
+  useEffect(() => {
+    const checkMobile = () => setIsMobile(window.innerWidth < 768)
+    checkMobile()
+    window.addEventListener("resize", checkMobile)
+    return () => window.removeEventListener("resize", checkMobile)
+  }, [])
+
+  /* Sync URL category */
   useEffect(() => {
     if (urlCategory && categories.includes(urlCategory as any)) {
       setSelectedCategory(urlCategory as any)
       setCurrentPage(1)
+      setVisibleCount(productsPerPage)
     }
   }, [urlCategory])
 
+  /* Reset on filter change */
+  useEffect(() => {
+    setVisibleCount(productsPerPage)
+    setCurrentPage(1)
+  }, [selectedCategory, selectedBrand, searchTerm])
+
+  /* Filter products */
   const filteredProducts = useMemo(() => {
     return products.filter((product) => {
-      // Hide variant-only entries from the main listing. Variants are marked
-      // by having a `color` field (e.g. the Blue variant `c23`). Keep them
-      // available to the product detail page via `getVariants`.
       if (product.color) return false
+
       const categoryMatch =
         selectedCategory === "All" || product.category === selectedCategory
-
       const brandMatch =
         selectedBrand === "All" || product.brand === selectedBrand
-
       const searchMatch = product.name
         .toLowerCase()
         .includes(searchTerm.toLowerCase())
 
       return categoryMatch && brandMatch && searchMatch
     })
-  }, [selectedCategory, selectedBrand, searchTerm, products])
+  }, [products, selectedCategory, selectedBrand, searchTerm])
 
-  const handleFilterChange = (type: "category" | "brand", value: any) => {
-    if (type === "category") setSelectedCategory(value)
-    if (type === "brand") setSelectedBrand(value)
-    setCurrentPage(1)
-  }
+  /* Infinite scroll (mobile only) */
+  useEffect(() => {
+    if (!isMobile) return
 
-  const clearFilters = () => {
-    setSelectedCategory("All")
-    setSelectedBrand("All")
-    setSearchTerm("")
-    setCurrentPage(1)
-  }
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0].isIntersecting) {
+          setVisibleCount((prev) =>
+            Math.min(prev + productsPerPage, filteredProducts.length)
+          )
+        }
+      },
+      { threshold: 1 }
+    )
 
+    if (loadMoreRef.current) observer.observe(loadMoreRef.current)
+    return () => observer.disconnect()
+  }, [isMobile, filteredProducts.length])
+
+  /* Pagination (desktop) */
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage)
 
-  // Clamp page changes so we never go out of bounds
-  const handlePageChange = (newPage: number) => {
-    const clamped = Math.min(Math.max(1, newPage), Math.max(1, totalPages))
-    if (clamped === currentPage) return
-    setCurrentPage(clamped)
+  const handlePageChange = (page: number) => {
+    setCurrentPage(page)
     window.scrollTo({ top: 0, behavior: "smooth" })
   }
 
-  // Use a safe page value when slicing to avoid negative or out-of-range indices
-  const safePage = Math.max(1, Math.min(currentPage, totalPages || 1))
-
-  const indexOfFirst = (safePage - 1) * productsPerPage
-  const indexOfLast = indexOfFirst + productsPerPage
-  const currentProducts = filteredProducts.slice(indexOfFirst, indexOfLast)
-  // Final safety cap: ensure we never render more than `productsPerPage` items
-  const displayedProducts = currentProducts.slice(0, productsPerPage)
+  /* Products to render */
+  const displayedProducts = isMobile
+    ? filteredProducts.slice(0, visibleCount)
+    : filteredProducts.slice(
+        (currentPage - 1) * productsPerPage,
+        currentPage * productsPerPage
+      )
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen overflow-x-hidden">
       <AnnouncementBanner />
       <SiteHeader />
 
-      <main className="container mx-auto px-4 py-8 font-normal">
-        <div className="grid gap-8 lg:grid-cols-[250px_1fr]">
+      <main className="container mx-auto px-4 pt-6 pb-8">
+        <div className="grid gap-4 lg:grid-cols-[250px_1fr]">
 
-          {/* Mobile Filter Button */}
-          <div className="md:hidden flex items-center gap-2 mb-4">
+          {/* Mobile Search + Filter */}
+          <div className="md:hidden flex items-center gap-2">
             <input
-              id="mobile-search"
-              type="text"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
               placeholder="Search products..."
@@ -136,10 +157,8 @@ export default function ProductsPage() {
               variant="outline"
               size="sm"
               onClick={() => setMobileFilterOpen(true)}
-              className="gap-2"
             >
               <Filter className="h-4 w-4" />
-              <span className="sr-only">Filters</span>
             </Button>
           </div>
 
@@ -149,44 +168,50 @@ export default function ProductsPage() {
               <DrawerHeader>
                 <DrawerTitle>Filters</DrawerTitle>
               </DrawerHeader>
-              <div className="flex-1 overflow-y-auto space-y-6 px-4 pb-6">
+
+              <div className="px-4 pb-6 space-y-6 overflow-y-auto">
                 <div>
-                  <h3 className="mb-3 text-lg font-medium">Categories</h3>
+                  <h3 className="mb-2 font-medium">Categories</h3>
                   <RadioGroup
                     value={selectedCategory}
-                    onValueChange={(value) => {
-                      handleFilterChange("category", value)
+                    onValueChange={(v) => {
+                      setSelectedCategory(v as any)
                       setMobileFilterOpen(false)
                     }}
                   >
-                    {categories.map((category) => (
-                      <div key={category} className="flex items-center space-x-2 mb-2">
-                        <RadioGroupItem value={category} id={`category-mobile-${category}`} />
-                        <Label htmlFor={`category-mobile-${category}`}>{category}</Label>
+                    {categories.map((c) => (
+                      <div key={c} className="flex items-center space-x-2 mb-1">
+                        <RadioGroupItem value={c} id={`m-${c}`} />
+                        <Label htmlFor={`m-${c}`}>{c}</Label>
                       </div>
                     ))}
                   </RadioGroup>
                 </div>
 
                 <div>
-                  <h3 className="mb-3 text-lg font-medium">Brand</h3>
+                  <h3 className="mb-2 font-medium">Brand</h3>
                   <RadioGroup
                     value={selectedBrand}
-                    onValueChange={(value) => {
-                      handleFilterChange("brand", value)
+                    onValueChange={(v) => {
+                      setSelectedBrand(v as any)
                       setMobileFilterOpen(false)
                     }}
                   >
-                    {brands.map((brand) => (
-                      <div key={brand} className="flex items-center space-x-2 mb-2">
-                        <RadioGroupItem value={brand} id={`brand-mobile-${brand}`} />
-                        <Label htmlFor={`brand-mobile-${brand}`}>{brand}</Label>
+                    {brands.map((b) => (
+                      <div key={b} className="flex items-center space-x-2 mb-1">
+                        <RadioGroupItem value={b} id={`mb-${b}`} />
+                        <Label htmlFor={`mb-${b}`}>{b}</Label>
                       </div>
                     ))}
                   </RadioGroup>
                 </div>
 
-                <Button variant="outline" className="w-full" onClick={clearFilters}>
+                <Button variant="outline" className="w-full" onClick={() => {
+                  setSelectedCategory("All")
+                  setSelectedBrand("All")
+                  setSearchTerm("")
+                  setMobileFilterOpen(false)
+                }}>
                   Clear Filters
                 </Button>
               </div>
@@ -194,112 +219,82 @@ export default function ProductsPage() {
           </Drawer>
 
           {/* Desktop Sidebar */}
-          <aside className="hidden md:flex md:flex-col md:space-y-6">
+          <aside className="hidden md:flex flex-col space-y-6">
+            <input
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              placeholder="Search products..."
+              className="rounded-lg border px-3 py-2 text-sm"
+            />
 
             <div>
-              <input
-                id="desktop-search"
-                type="text"
-                value={searchTerm}
-                onChange={(e) => setSearchTerm(e.target.value)}
-                placeholder="Search products..."
-                className="w-full rounded-lg border px-3 py-2 text-sm"
-              />
-            </div>
-
-            <div>
-              <h3 className="mb-2 text-lg font-medium">Categories</h3>
+              <h3 className="mb-2 font-medium">Categories</h3>
               <RadioGroup
                 value={selectedCategory}
-                onValueChange={(value) => handleFilterChange("category", value)}
+                onValueChange={(v) => setSelectedCategory(v as any)}
               >
-                {categories.map((category) => (
-                  <div key={category} className="flex items-center space-x-2 mb-1">
-                    <RadioGroupItem value={category} id={`category-desktop-${category}`} />
-                    <Label htmlFor={`category-desktop-${category}`}>{category}</Label>
+                {categories.map((c) => (
+                  <div key={c} className="flex items-center space-x-2 mb-1">
+                    <RadioGroupItem value={c} id={`d-${c}`} />
+                    <Label htmlFor={`d-${c}`}>{c}</Label>
                   </div>
                 ))}
               </RadioGroup>
             </div>
 
             <div>
-              <h3 className="mb-2 text-lg font-medium">Brand</h3>
+              <h3 className="mb-2 font-medium">Brand</h3>
               <RadioGroup
                 value={selectedBrand}
-                onValueChange={(value) => handleFilterChange("brand", value)}
+                onValueChange={(v) => setSelectedBrand(v as any)}
               >
-                {brands.map((brand) => (
-                  <div key={brand} className="flex items-center space-x-2 mb-1">
-                    <RadioGroupItem value={brand} id={`brand-desktop-${brand}`} />
-                    <Label htmlFor={`brand-desktop-${brand}`}>{brand}</Label>
+                {brands.map((b) => (
+                  <div key={b} className="flex items-center space-x-2 mb-1">
+                    <RadioGroupItem value={b} id={`db-${b}`} />
+                    <Label htmlFor={`db-${b}`}>{b}</Label>
                   </div>
                 ))}
               </RadioGroup>
             </div>
 
-            <Button variant="outline" className="w-full mt-2" onClick={clearFilters}>
+            <Button
+              variant="outline"
+              onClick={() => {
+                setSelectedCategory("All")
+                setSelectedBrand("All")
+                setSearchTerm("")
+              }}
+            >
               Clear Filters
             </Button>
           </aside>
 
           {/* Products */}
           <div>
-            <p className="text-sm text-muted-foreground mb-6">
-              Showing {filteredProducts.length}{" "}
-              {filteredProducts.length === 1 ? "product" : "products"}
-            </p>
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
+              {displayedProducts.map((product, i) => (
+                <ProductCard key={`${product.id}-${i}`} product={product} />
+              ))}
+            </div>
 
-            {currentProducts.length > 0 ? (
-              <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-                {displayedProducts.map((product, idx) => (
-                  <ProductCard key={`${product.id}-${idx}`} product={product} />
-                ))}
-              </div>
-            ) : (
-              <div className="flex min-h-[400px] items-center justify-center text-center">
-                <div>
-                  <p className="text-lg font-medium">No products found</p>
-                  <p className="text-muted-foreground mt-2">Try adjusting your filters</p>
-                </div>
-              </div>
+            {/* Infinite scroll trigger (mobile) */}
+            {isMobile && visibleCount < filteredProducts.length && (
+              <div ref={loadMoreRef} className="h-10" />
             )}
 
-            {/* Pagination */}
-            {totalPages > 1 && (
-              <div className="mt-6 flex items-center justify-center gap-2">
-
-                <Button
-                  variant="outline"
-                  disabled={safePage === 1}
-                  onClick={() => handlePageChange(safePage - 1)}
-                  size="sm"
-                >
-                  Previous
-                </Button>
-
-                {[...Array(totalPages)].map((_, i) => {
-                  const page = i + 1
-                  return (
-                    <Button
-                      key={page}
-                      variant={page === safePage ? "default" : "outline"}
-                      size="sm"
-                      onClick={() => handlePageChange(page)}
-                    >
-                      {page}
-                    </Button>
-                  )
-                })}
-
-                <Button
-                  variant="outline"
-                  disabled={safePage === totalPages}
-                  onClick={() => handlePageChange(safePage + 1)}
-                  size="sm"
-                >
-                  Next
-                </Button>
-
+            {/* Pagination (desktop) */}
+            {!isMobile && totalPages > 1 && (
+              <div className="mt-6 flex justify-center gap-2">
+                {[...Array(totalPages)].map((_, i) => (
+                  <Button
+                    key={i}
+                    size="sm"
+                    variant={currentPage === i + 1 ? "default" : "outline"}
+                    onClick={() => handlePageChange(i + 1)}
+                  >
+                    {i + 1}
+                  </Button>
+                ))}
               </div>
             )}
           </div>
