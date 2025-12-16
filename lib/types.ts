@@ -4,6 +4,7 @@ export type ProductCategory =
   | "Batteries"
   | "Wearables"
   | "Networking"
+  | "Audio Accessories"
   | "Mobile Phones & Tablets"
   | "Car Accessories"
   | "Computer Accessories"

@@ -3,7 +3,7 @@
     "id": "slimline-notebook-combination-lock",
     "name": "Slimline Notebook Combination Lock",
     "description": "Protect your notebook with the Gizzu Slimline Combination Lock. Its reinforced cable and 4-digit code secure your device, and the slim design fits thinner notebooks like ultrabooks. The cable connection pivots and rotates for effortless installation, while its pull-resistant design enhances protection against forced entry. Simple to set up, this lock offers a reliable way to physically secure your device and prevent theft.",
-    "category": "Accessories",
+    "category": "Computer Accessories",
     "condition": "Brand New",
     "image": "/lock cable.jpg",
     "images": [
@@ -25,7 +25,7 @@
     "id": "gizzu-standard-security-key-lock",
     "name": "Gizzu Standard Security Key Lock",
     "description": "Protect your device against theft with the Gizzu T-Bar Standard Security Lock. Wrap the reinforced cable around a secure object, insert the lock into your notebook’s lock slot, and secure with your key.",
-    "category": "Accessories",
+    "category": "Computer Accessories",
     "condition": "Brand New",
     "image": "/security.jpg",
     "images": [
@@ -245,7 +245,7 @@
     "id": "xiaomi-lcd-writing-tablet-13-5-inch",
     "name": "Xiaomi LCD Writing Tablet 13.5 Inch",
     "description": "The Xiaomi 13.5 Color LCD Writing Tablet lets you write, draw, and erase instantly with vivid, pressure-sensitive strokes. Lightweight, portable, and eye-friendly, it’s perfect for notes, sketches, and creative ideas anywhere.",
-    "category": "Accessories",
+    "category": "Mobile Phones & Tablets",
     "condition": "Brand New",
     "image": "/tab1.jpg",
     "images": [
@@ -3698,6 +3698,810 @@
     "Compatible with multiple devices including TVs, PCs, laptops, headphones, and mobile devices.",
     "Lightweight and rechargeable via USB for on-the-go usage.",
     "Ideal for converting non-Bluetooth audio devices to wireless audio transmission."
+  ]
+},
+{
+  "id": "gizzu-bluetooth-5-usb-qc3-type-c-pd-power-microsd-fm-transmitter-handsfree-bc67",
+  "name": "Gizzu Bluetooth 5 USB QC3.0 Type-C PD Power + MicroSD FM Transmitter Handsfree Kit (BC67)",
+  "description": "The Gizzu Bluetooth 5 USB QC3.0 Type-C PD Power + MicroSD FM Transmitter Handsfree Kit (BC67) is a versatile car accessory that allows you to play music via Bluetooth, USB, or MicroSD, charge devices with fast charging capabilities, and make hands-free calls while driving.",
+  "category": "Car Accessories",
+  "condition": "Brand New",
+  "image": "/BC58_wr_01.jpg",
+  "images": [
+    "/BC58_wr_01a.jpg",
+    "/BC58_wr_03a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Bluetooth 5.0 connectivity for stable wireless audio streaming.",
+    "USB QC3.0 and Type-C PD fast charging ports for efficient device charging.",
+    "Built-in MicroSD slot and USB port for playing music from external storage.",
+    "FM transmitter function to broadcast music to car stereo systems.",
+    "Hands-free calling with integrated microphone for safe driving.",
+    "Compact and portable design fits easily in any car cigarette lighter socket.",
+    "Supports multiple music playback sources including Bluetooth, USB, and MicroSD.",
+    "LED display for FM frequency, battery voltage, and call information.",
+    "Easy to install with plug-and-play operation.",
+    "Ideal car accessory for combining music playback, charging, and hands-free calling in one device."
+  ]
+},
+{
+  "id": "gizzu-bluetooth-5-usb-qc3-fm-transmitter-handsfree-kit",
+  "name": "Gizzu Bluetooth 5.0 USB QC3.0 FM Transmitter Handsfree Kit",
+  "description": "The Gizzu Bluetooth 5.0 USB QC3.0 FM Transmitter Handsfree Kit allows you to stream music wirelessly from your smartphone to your car stereo, make hands-free calls, and charge your devices quickly while driving.",
+  "category": "Car Accessories",
+  "condition": "Brand New",
+  "image": "/BC67_wr_01.jpg",
+  "images": [
+    "/BC67_wr_02a.jpg",
+    "/BC67_wr_03a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Bluetooth 5.0 connectivity for stable and clear wireless audio streaming.",
+    "FM transmitter function sends audio directly to your car radio.",
+    "USB QC3.0 fast charging port for quick and efficient device charging.",
+    "Supports hands-free calling with built-in microphone for safer driving.",
+    "Allows music playback from smartphones and compatible Bluetooth devices.",
+    "LED display shows FM frequency and device status clearly.",
+    "Simple plug-and-play installation via car cigarette lighter socket.",
+    "Multi-function control knob for volume, calls, and track control.",
+    "Compact design blends neatly with car interiors.",
+    "Ideal solution for upgrading car audio and charging capabilities."
+  ]
+},
+{
+  "id": "gizzu-35mm-male-to-dual-35mm-female-audio-adapter-02m",
+  "name": "Gizzu 3.5mm Male to Dual 3.5mm Female Audio Adapter (0.2m)",
+  "description": "The Gizzu 3.5mm Male to Dual 3.5mm Female Audio Adapter allows two audio devices such as headphones or speakers to be connected to a single 3.5mm audio source, making it ideal for shared listening.",
+  "category": "Audio Accessories",
+  "condition": "Brand New",
+  "image": "/GA35M-2X35F_wr_01.jpg",
+  "images": [
+    "/GA35M-2X35F_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Allows two headphones or audio devices to connect to one 3.5mm audio source.",
+    "Compact and lightweight design for easy portability.",
+    "Durable cable construction designed for everyday use.",
+    "Provides clear and balanced audio output to both connected devices.",
+    "Simple plug-and-play functionality with no setup required.",
+    "Ideal for sharing music, movies, or audio during travel.",
+    "Flexible cable reduces strain on connected devices.",
+    "Compatible with smartphones, tablets, laptops, and audio players.",
+    "Neat and minimal design fits easily into bags or pockets.",
+    "Reliable audio accessory for personal and shared listening."
+  ]
+},
+{
+  "id": "gizzu-35mm-female-to-dual-35mm-male-headset-adapter",
+  "name": "Gizzu 3.5mm Female to Dual 3.5mm Male Headset Jack Adapter Cable",
+  "description": "The Gizzu 3.5mm Female to Dual 3.5mm Male Headset Jack Adapter Cable allows a single headset with microphone to be used with devices that have separate audio and microphone ports, making it ideal for laptops and desktop computers.",
+  "category": "Audio Accessories",
+  "condition": "Brand New",
+  "image": "/GA35F-2X35M_wr_01.jpg",
+  "images": [
+    "/GA35F-2X35M_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Converts a single 3.5mm headset jack into separate audio and microphone connections.",
+    "Allows use of headsets with PCs and laptops that have dual audio ports.",
+    "Compact and lightweight cable design for easy portability.",
+    "Durable connectors ensure stable and reliable audio transmission.",
+    "Provides clear sound output and microphone input.",
+    "Plug-and-play functionality with no drivers required.",
+    "Flexible cable reduces strain and improves longevity.",
+    "Compatible with most standard 3.5mm headsets and devices.",
+    "Ideal for online meetings, gaming, and voice calls.",
+    "Practical audio solution for home and office setups."
+  ]
+},
+{
+  "id": "gizzu-type-c-to-35mm-aux-audio-adapter",
+  "name": "Gizzu Type-C to 3.5mm AUX Audio Adapter",
+  "description": "The Gizzu Type-C to 3.5mm AUX Audio Adapter allows you to connect wired headphones or audio cables to devices that use a USB Type-C port and do not have a built-in 3.5mm audio jack.",
+  "category": "Audio Accessories",
+  "condition": "Brand New",
+  "image": "/GACUCAW_wr_01.jpg",
+  "images": [
+    "/GACUCAW_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Converts USB Type-C port to a standard 3.5mm audio output.",
+    "Allows use of wired headphones, earphones, and AUX cables.",
+    "Compact and lightweight design for everyday portability.",
+    "Durable connector construction for reliable long-term use.",
+    "Provides clear and stable audio output.",
+    "Plug-and-play operation with no additional software required.",
+    "Ideal for smartphones and tablets without a 3.5mm jack.",
+    "Supports music playback and audio output for calls and media.",
+    "Minimalist design blends seamlessly with modern devices.",
+    "Convenient solution for continued use of wired audio accessories."
+  ]
+},
+{
+  "id": "gizzu-displayport-male-to-dvi-female-adapter-015m",
+  "name": "Gizzu DisplayPort Male to DVI Female Adapter (0.15m)",
+  "description": "The Gizzu DisplayPort Male to DVI Female Adapter allows you to connect a DisplayPort-enabled device to a DVI display, making it easy to use monitors or projectors with different video interfaces.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GADPDVI_wr_01.jpg",
+  "images": [
+    "/GADPDVI_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects DisplayPort source devices to DVI-enabled monitors or displays.",
+    "Compact 0.15m cable length for minimal desk clutter.",
+    "Supports high-quality video output for clear visuals.",
+    "Reliable signal conversion for stable display performance.",
+    "Plug-and-play functionality with no drivers required.",
+    "Durable connectors ensure long-lasting use.",
+    "Ideal for office, home, and professional setups.",
+    "Compatible with desktops, laptops, and workstations.",
+    "Lightweight and portable adapter design.",
+    "Convenient solution for extending display compatibility."
+  ]
+},
+{
+  "id": "gizzu-displayport-male-to-dvi-female-adapter-015m",
+  "name": "Gizzu DisplayPort Male to DVI Female Adapter (0.15m)",
+  "description": "The Gizzu DisplayPort Male to DVI Female Adapter allows you to connect a DisplayPort-enabled device to a DVI display, making it easy to use monitors or projectors with different video interfaces.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GADPHDMIAB_wr_01.jpg",
+  "images": [
+    "/GADPHDMIAB_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects DisplayPort source devices to DVI-enabled monitors or displays.",
+    "Compact 0.15m cable length for minimal desk clutter.",
+    "Supports high-quality video output for clear visuals.",
+    "Reliable signal conversion for stable display performance.",
+    "Plug-and-play functionality with no drivers required.",
+    "Durable connectors ensure long-lasting use.",
+    "Ideal for office, home, and professional setups.",
+    "Compatible with desktops, laptops, and workstations.",
+    "Lightweight and portable adapter design.",
+    "Convenient solution for extending display compatibility."
+  ]
+},
+{
+  "id": "gizzu-4k-displayport-to-vga-active-adapter",
+  "name": "Gizzu 4K DisplayPort to VGA Active Adapter",
+  "description": "The Gizzu 4K DisplayPort to VGA Active Adapter allows you to connect a DisplayPort-enabled device to a VGA monitor or projector, supporting resolutions up to 4K for high-quality video output.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GADPVGAB_wr_01.jpg",
+  "images": [
+    "/GADPVGAB_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Active adapter converts DisplayPort signal to VGA output.",
+    "Supports resolutions up to 4K for crisp and clear visuals.",
+    "Plug-and-play functionality with no drivers required.",
+    "Durable construction ensures long-term reliability.",
+    "Compact and portable design for easy transport.",
+    "Compatible with laptops, desktops, and projectors.",
+    "Ideal for office, gaming, or educational setups.",
+    "Provides stable video signal with minimal interference.",
+    "Lightweight design minimizes cable clutter.",
+    "Convenient solution for connecting modern devices to older displays."
+  ]
+},
+{
+  "id": "gizzu-usb-c-to-vga-adapter-white",
+  "name": "Gizzu USB-C to VGA Adapter - White",
+  "description": "The Gizzu USB-C to VGA Adapter allows you to connect USB-C enabled devices such as laptops or tablets to VGA monitors or projectors, supporting high-quality video output for presentations, gaming, or work.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAHDMIVGAW_wr_01.jpg",
+  "images": [
+    "/GAHDMIVGAW_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects USB-C devices to VGA monitors or projectors.",
+    "Supports high-resolution video output for clear visuals.",
+    "Compact and portable design for easy use on the go.",
+    "Plug-and-play setup with no drivers required.",
+    "Durable build for reliable long-term use.",
+    "Compatible with laptops, tablets, and smartphones with USB-C Alt Mode.",
+    "Lightweight design minimizes desk and cable clutter.",
+    "Ideal for presentations, meetings, and home office setups.",
+    "Provides stable and consistent video signal.",
+    "Convenient solution for connecting modern devices to older displays."
+  ]
+},
+{
+  "id": "gizzu-mini-dp-to-hdmi-adapter-white",
+  "name": "Gizzu Mini DP to HDMI Adapter - White",
+  "description": "The Gizzu Mini DisplayPort to HDMI Adapter allows you to connect Mini DisplayPort-enabled devices to HDMI displays, such as monitors, TVs, or projectors, supporting high-quality video and audio output.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAMDPHDMIW_wr_01a.jpg",
+  "images": [
+    "/GAMDPHDMIW_wr_01a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Converts Mini DisplayPort signal to HDMI output for video and audio.",
+    "Gold-plated connectors for improved signal quality and durability.",
+    "Supports high-definition resolutions for clear visuals.",
+    "Plug-and-play operation with no drivers required.",
+    "Compact and portable design for easy transport.",
+    "Compatible with laptops, desktops, and tablets with Mini DP.",
+    "Lightweight design reduces cable clutter.",
+    "Reliable signal transmission for presentations, gaming, or media streaming.",
+    "Durable construction ensures long-term usage.",
+    "Ideal solution for connecting modern devices to HDMI displays."
+  ]
+},
+{
+  "id": "gizzu-mini-displayport-to-vga-adapter-white",
+  "name": "Gizzu Mini DisplayPort to VGA Adapter - White",
+  "description": "The Gizzu Mini DisplayPort to VGA Adapter allows you to connect Mini DisplayPort-enabled devices such as laptops or tablets to VGA monitors or projectors, providing high-quality video output without additional power.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAMDPVGAW_wr_01.jpg",
+  "images": [
+    "/GAMDPVGAW_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects Mini DisplayPort devices to VGA displays for video output.",
+    "No additional power required for operation.",
+    "Compact and portable design for easy transport.",
+    "Supports high-quality resolution for clear visuals.",
+    "Plug-and-play functionality with no drivers needed.",
+    "Durable construction for long-lasting use.",
+    "Compatible with laptops, desktops, and tablets with Mini DP.",
+    "Lightweight design minimizes cable clutter.",
+    "Ideal for presentations, office work, and multimedia use.",
+    "Reliable video signal transmission without interference."
+  ]
+},
+{
+  "id": "gizzu-usb-c-multiport-adapter-hdmi-vga-usb-ethernet",
+  "name": "Gizzu USB-C Multiport Adapter (HDMI, VGA, USB-A, Ethernet)",
+  "description": "The Gizzu USB-C Multiport Adapter allows you to expand a single USB-C port into multiple interfaces including HDMI, VGA, USB-A, and Ethernet, making it perfect for presentations, work, or connecting multiple peripherals at once.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAUCCUGHPD_wr_01.png",
+  "images": [
+    "/GAUCCUGHPD_wr_01.png"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Expands a single USB-C port to HDMI, VGA, USB-A, and Ethernet connections.",
+    "Supports 4K HDMI output for high-definition video.",
+    "VGA output compatible with older monitors and projectors.",
+    "Provides USB-A ports for peripherals such as keyboards, mice, and storage devices.",
+    "Ethernet port allows wired internet connectivity for stable networking.",
+    "Compact and portable design ideal for travel and office use.",
+    "Plug-and-play operation with no software installation required.",
+    "Durable build ensures long-term reliability.",
+    "Compatible with laptops, tablets, and smartphones with USB-C.",
+    "Ideal solution for multitasking and connecting multiple devices simultaneously."
+  ]
+},
+{
+  "id": "gizzu-usb-c-to-gigabit-ethernet-adapter",
+  "name": "Gizzu USB-C to Gigabit Ethernet Adapter",
+  "description": "The Gizzu USB-C to Gigabit Ethernet Adapter allows you to connect USB-C enabled devices to wired Ethernet networks, providing fast and stable internet connectivity without the need for additional drivers.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAUCGB_wr_01.jpg",
+  "images": [
+    "/GAUCGB_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Provides a Gigabit Ethernet port for USB-C devices.",
+    "Supports fast and stable wired internet connections.",
+    "Plug-and-play operation with no driver installation required.",
+    "Compact and portable design for easy use on the go.",
+    "Durable build ensures long-term reliability.",
+    "Compatible with laptops, tablets, and other USB-C enabled devices.",
+    "Lightweight design minimizes desk and travel clutter.",
+    "Ideal for home, office, or remote work setups.",
+    "Ensures reliable network connectivity for streaming, gaming, and work.",
+    "Easy solution for devices without built-in Ethernet ports."
+  ]
+},
+{
+  "id": "gizzu-high-speed-type-c-to-gigabit-lan-adapter",
+  "name": "Gizzu High‑Speed Type‑C to Gigabit LAN Adapter",
+  "description": "The Gizzu High‑Speed Type‑C to Gigabit LAN Adapter allows you to connect USB‑C enabled devices directly to wired Gigabit Ethernet networks, offering fast and stable internet connectivity ideal for work, gaming, and streaming.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAUCGBFFP_wr_01.jpg",
+  "images": [
+    "/GAUCGBFFP_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Provides a high‑speed Gigabit Ethernet port for USB‑C enabled devices.",
+    "Supports fast and reliable wired internet connectivity.",
+    "Compact and lightweight design ideal for travel and mobile use.",
+    "Plug‑and‑play functionality with no additional drivers required.",
+    "Durable construction for long‑lasting reliability.",
+    "Compatible with laptops, tablets, and smartphones with USB‑C.",
+    "Ensures smooth performance for streaming, gaming, and remote work.",
+    "Easy to use with simple connection and setup.",
+    "Ideal accessory for devices without built‑in Ethernet ports.",
+    "Helps reduce network latency and improve connection stability."
+  ]
+},
+{
+  "id": "gizzu-type-c-to-hdmi-4k-adapter",
+  "name": "Gizzu Type-C to HDMI 4K Adapter",
+  "description": "The Gizzu Type-C to HDMI 4K Adapter allows you to connect USB-C enabled devices such as laptops, tablets, or smartphones to HDMI displays, supporting ultra-high-definition 4K video output.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAUCHDMIW_wr_01.jpg",
+  "images": [
+    "/GAUCHDMIW_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects USB-C devices to HDMI-enabled monitors, TVs, or projectors.",
+    "Supports 4K resolution for ultra-high-definition video output.",
+    "Compact and portable design for travel and mobility.",
+    "Plug-and-play operation with no drivers required.",
+    "Durable construction for long-term use.",
+    "Compatible with laptops, tablets, and smartphones with USB-C Alt Mode.",
+    "Lightweight design reduces desk and travel clutter.",
+    "Reliable and stable video signal transmission.",
+    "Ideal for presentations, gaming, and multimedia streaming.",
+    "Enhances connectivity options for modern USB-C devices."
+  ]
+},
+{
+  "id": "gizzu-12v-lifepo4-replacement-battery",
+  "name": "Gizzu 12V LiFePO4 Replacement Battery",
+  "description": "The Gizzu 12V LiFePO4 Replacement Battery is a high-quality replacement battery suitable for various devices, providing reliable power with long-lasting performance and safety features.",
+  "category": "Batteries",
+  "condition": "Brand New",
+  "image": "/GB12V7AH_wr_01a.jpg",
+  "images": [
+    "/GB12V7AH_wr_02a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "12V LiFePO4 replacement battery for various compatible devices.",
+    "Provides stable and reliable power output.",
+    "Long-lasting battery life and high energy efficiency.",
+    "Compact and lightweight design for easy installation.",
+    "Built-in safety protections against overcharge, over-discharge, and short circuits.",
+    "Maintains performance in a wide range of temperatures.",
+    "Easy to install and compatible with original device connectors.",
+    "Durable construction for long-term use.",
+    "Ideal for replacing old or worn-out batteries.",
+    "Supports continuous and reliable operation without device interruptions."
+  ]
+},
+{
+  "id": "gizzu-usb-to-lightning-data-charging-cable",
+  "name": "Gizzu USB to Lightning Data & Charging Cable",
+  "description": "The Gizzu USB to Lightning Data & Charging Cable is a certified Apple‑compatible cable designed for fast data transfer and reliable charging of iPhone, iPad, and iPod devices with a Lightning port.",
+  "category": "Cables & Adapters",
+  "condition": "Brand New",
+  "image": "/GCALB1MS_wr_01.jpg",
+  "images": [
+    "/GCALB1MS_wr_02a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Made for Apple certified Lightning cable for iPhone, iPad, and iPod devices.",
+    "Durable cable construction for reliable long‑term use.",
+    "Supports fast charging and stable data sync between devices.",
+    "Connector ends reinforced for reduced strain and enhanced durability.",
+    "Compact and tangle‑resistant design for everyday convenience.",
+    "Compatible with iOS devices that use a Lightning connector.",
+    "Plug‑and‑play functionality with no additional software required.",
+    "Ideal for home, office, or travel charging and syncing.",
+    "Lightweight and portable for easy storage.",
+    "Reliable cable for charging and data transfer needs."
+  ]
+},
+{
+  "id": "gizzu-usb-c-to-displayport-adapter-cable",
+  "name": "Gizzu USB‑C to DisplayPort Adapter Cable",
+  "description": "The Gizzu USB‑C to DisplayPort Adapter Cable allows you to connect USB‑C enabled laptops, tablets, and smartphones to DisplayPort monitors or projectors, supporting high‑definition video and audio output up to 4K resolution for work, presentations, or entertainment.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCCDP18_wr_01.jpg",
+  "images": [
+    "/GCCDP18_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects USB‑C enabled devices to DisplayPort monitors or displays.",
+    "Supports up to 4K UHD video resolution for clear and sharp visuals.",
+    "Plug‑and‑play functionality with no driver installation required.",
+    "Compact and lightweight design for travel and portability.",
+    "Durable cable construction for reliable long‑term performance.",
+    "Compatible with laptops, tablets, and smartphones supporting USB‑C video output.",
+    "Ideal for presentations, gaming, and home entertainment setups.",
+    "Stable signal transmission with minimal latency.",
+    "Lightweight and tangle‑free cable design for convenience.",
+    "Easy solution for expanding connectivity on modern USB‑C devices."
+  ]
+},
+{
+  "id": "gizzu-usb-c-to-displayport-adapter-cable",
+  "name": "Gizzu USB‑C to DisplayPort Adapter Cable",
+  "description": "The Gizzu USB‑C to DisplayPort Adapter Cable allows you to connect USB‑C enabled laptops, tablets, and smartphones to DisplayPort monitors or projectors, supporting high‑definition video and audio output up to 4K resolution for work, presentations, or entertainment.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCCEXT1_wr_01.jpg",
+  "images": [
+    "/GCCEXT1_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects USB‑C enabled devices to DisplayPort monitors or displays.",
+    "Supports up to 4K UHD video resolution for clear and sharp visuals.",
+    "Plug‑and‑play functionality with no driver installation required.",
+    "Compact and lightweight design for travel and portability.",
+    "Durable cable construction for reliable long‑term performance.",
+    "Compatible with laptops, tablets, and smartphones supporting USB‑C video output.",
+    "Ideal for presentations, gaming, and home entertainment setups.",
+    "Stable signal transmission with minimal latency.",
+    "Lightweight and tangle‑free cable design for convenience.",
+    "Easy solution for expanding connectivity on modern USB‑C devices."
+  ]
+},
+{
+  "id": "gizzu-laptop-lock-plate",
+  "name": "Gizzu Laptop Lock Plate",
+  "description": "The Gizzu Laptop Lock Plate provides a secure solution to protect laptops and other portable devices from theft, offering easy installation and robust design for everyday use.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCCLP_wr_01.jpg",
+  "images": [
+    "/GCCLP_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Provides secure locking solution for laptops and portable devices.",
+    "Easy and hassle-free installation.",
+    "Durable metal construction for long-term protection.",
+    "Compatible with most laptop models.",
+    "Compact and lightweight design for portability.",
+    "Includes necessary hardware for quick setup.",
+    "Helps prevent theft in office, school, or public spaces.",
+    "Robust design ensures device stability while locked.",
+    "Ideal for everyday use at home or work.",
+    "Simple and reliable security solution for portable electronics."
+  ]
+},
+{
+  "id": "gizzu-2m-8k-displayport-cable",
+  "name": "Gizzu 2m 8K DisplayPort Cable",
+  "description": "The Gizzu 2m 8K DisplayPort Cable is a high‑performance video cable that supports ultra‑high‑definition resolution up to 8K. It’s ideal for connecting PCs, laptops, and gaming rigs to compatible monitors or displays, delivering crisp and smooth visuals.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCDD2M14FFP_wr_01.jpg",
+  "images": [
+    "/GCDD2M14FFP_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "2‑meter long DisplayPort video cable for flexible connectivity.",
+    "Supports ultra‑high‑definition resolutions up to 8K for stunning picture quality.",
+    "High‑bandwidth performance ideal for gaming, multimedia, and professional displays.",
+    "Durable connectors for secure and reliable connections.",
+    "Gold‑plated plugs to enhance signal quality and reduce interference.",
+    "Plug‑and‑play design with no software required.",
+    "Compatible with desktop PCs, laptops, and other devices with a DisplayPort output.",
+    "Tightly shielded cable construction for minimal signal loss.",
+    "Ideal solution for high‑resolution monitors and projectors.",
+    "Reliable and long‑lasting cable for everyday use."
+  ]
+},
+{
+  "id": "gizzu-active-displayport-to-vga-adapter-6ft",
+  "name": "Gizzu Active DisplayPort to VGA Adapter - 6ft",
+  "description": "The Gizzu Active DisplayPort to VGA Adapter allows you to connect DisplayPort-enabled devices such as laptops and desktops to VGA monitors or projectors. Its active conversion ensures compatibility with older VGA displays while maintaining high-quality video output.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCDPVGA18_wr_01.jpg",
+  "images": [
+    "/GCDPVGA18_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects DisplayPort devices to VGA monitors or projectors.",
+    "Active conversion ensures compatibility with older VGA displays.",
+    "6ft cable length provides flexibility in device placement.",
+    "High-quality video signal transmission with minimal loss.",
+    "Plug-and-play operation with no drivers required.",
+    "Durable and robust cable construction.",
+    "Ideal for presentations, office setups, and home use.",
+    "Compact and lightweight design for easy transport.",
+    "Reliable performance for both professional and personal use.",
+    "Supports smooth and clear video output on VGA displays."
+  ]
+},
+{
+  "id": "gizzu-dvi-male-to-hdmi-male-cable-5ft",
+  "name": "Gizzu DVI Male to HDMI Male Cable - 5ft",
+  "description": "The Gizzu DVI Male to HDMI Male Cable allows you to connect DVI-enabled devices to HDMI displays or projectors, supporting high-definition video up to 1080p for presentations, streaming, and multimedia use.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCHDVI18_wr_01.jpg",
+  "images": [
+    "/GCHDVI18_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects DVI devices to HDMI monitors, TVs, or projectors.",
+    "Supports high-definition video up to 1080p resolution.",
+    "Bi-directional design allows DVI-to-HDMI or HDMI-to-DVI use.",
+    "5ft cable length for flexible device placement.",
+    "Durable construction for long-lasting performance.",
+    "Plug-and-play operation with no drivers required.",
+    "Compatible with PCs, laptops, and multimedia devices.",
+    "Ideal for presentations, gaming, and streaming.",
+    "Ensures clear and stable video signal transmission.",
+    "Compact and easy to manage for home or office setups."
+  ]
+},
+{
+  "id": "gizzu-high-speed-hdmi-2-0-cable-1m",
+  "name": "Gizzu High-Speed HDMI 2.0 Cable - 1m",
+  "description": "The Gizzu High-Speed HDMI 2.0 Cable allows you to connect HDMI-enabled devices such as laptops, gaming consoles, and TVs, supporting high-definition video and audio transmission up to 4K resolution.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCHH1M_wr_01.jpg",
+  "images": [
+    "/GCHH5M_wr_01.jpg",
+    "/GCHH06M_wr_01.jpg",
+    "/GCHH18MFFP_wr_02a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Supports HDMI 2.0 for high-speed data transmission.",
+    "Delivers high-definition video up to 4K resolution.",
+    "Compatible with TVs, monitors, laptops, and gaming consoles.",
+    "Durable cable construction for long-term reliability.",
+    "Compact and flexible design for easy setup.",
+    "Plug-and-play functionality with no drivers required.",
+    "Supports both audio and video signals.",
+    "Ideal for home entertainment, office, and gaming setups.",
+    "Ensures stable and clear signal transmission.",
+    "1-meter length provides convenience for most setups."
+  ]
+},
+{
+  "id": "gizzu-4k-hdmi-2-0-cable-20m",
+  "name": "Gizzu 4K HDMI 2.0 Cable - 20m",
+  "description": "The Gizzu 4K HDMI 2.0 Cable allows you to connect HDMI-enabled devices over long distances, supporting ultra-high-definition video and audio up to 4K resolution with a bandwidth of 18Gbps.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCHH10MV2_wr_01a.jpg",
+  "images": [
+    "/GCHH10MV2_wr_01a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Supports HDMI 2.0 standard for high-speed video and audio transmission.",
+    "Ultra HD 4K resolution for crisp, detailed visuals.",
+    "Bandwidth up to 18Gbps for smooth signal transfer.",
+    "20-meter length ideal for long-distance connections.",
+    "Durable cable construction ensures reliability over time.",
+    "Plug-and-play functionality with no drivers required.",
+    "Compatible with TVs, monitors, projectors, and gaming consoles.",
+    "Maintains stable and clear signal over extended distances.",
+    "Ideal for home theaters, offices, and conference setups.",
+    "High-quality connectors for minimal signal interference."
+  ]
+},
+{
+  "id": "gizzu-8k-hdmi-2-1-cable-3m",
+  "name": "Gizzu 8K HDMI 2.1 Cable - 3m",
+  "description": "The Gizzu 8K HDMI 2.1 Cable allows you to connect HDMI-enabled devices to enjoy ultra-high-definition 8K video and immersive audio, delivering stunning visuals and engaging multimedia experiences.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCHHV2118_wr_01.jpg",
+  "images": [
+    "/GCHHV2118_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Supports HDMI 2.1 standard for next-generation video and audio.",
+    "Ultra HD 8K resolution for crystal-clear visuals.",
+    "3-meter length for flexible device placement.",
+    "Durable cable construction for reliable long-term use.",
+    "High-quality connectors ensure minimal signal interference.",
+    "Plug-and-play functionality with no drivers required.",
+    "Compatible with TVs, monitors, projectors, and gaming consoles.",
+    "Provides immersive audio and pristine video quality.",
+    "Ideal for home entertainment, gaming, and professional setups.",
+    "Maintains stable and clear signal transmission over distance."
+  ]
+},
+{
+  "id": "gizzu-mini-displayport-to-displayport-cable-3ft",
+  "name": "Gizzu Mini DisplayPort to DisplayPort Cable - 3ft",
+  "description": "The Gizzu Mini DisplayPort to DisplayPort Cable allows you to connect Mini DisplayPort-enabled devices to DisplayPort monitors or displays, supporting high-resolution video up to 4K for crisp visuals and smooth performance.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCMDPDP3M_wr_01.jpg",
+  "images": [
+    "/GCMDPDP3M_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects Mini DisplayPort devices to DisplayPort monitors or displays.",
+    "Supports video resolutions up to 4K for sharp, clear visuals.",
+    "3ft cable length for flexible setup and connectivity.",
+    "Durable construction ensures long-term reliability.",
+    "Plug-and-play functionality with no drivers required.",
+    "Compatible with laptops, desktops, and other Mini DisplayPort devices.",
+    "Provides stable signal transmission for multimedia and gaming.",
+    "Compact and lightweight design for easy handling and storage.",
+    "High-quality connectors reduce signal interference.",
+    "Ideal for office, home, and professional use."
+  ]
+},
+{
+  "id": "gizzu-micro-hdmi-cable-3m",
+  "name": "Gizzu Micro HDMI Cable - 3m",
+  "description": "The Gizzu Micro HDMI Cable allows you to connect Micro HDMI-enabled devices such as tablets, laptops, and cameras to HDMI displays, projectors, or TVs, supporting high-definition video and audio for an enhanced multimedia experience.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GCMHH18_wr_01.jpg",
+  "images": [
+    "/GCMHH18_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Connects Micro HDMI devices to HDMI displays, projectors, or TVs.",
+    "Supports high-definition video and audio for clear and immersive media.",
+    "3-meter length provides flexibility in device placement.",
+    "Durable construction for long-lasting use.",
+    "Plug-and-play operation with no drivers required.",
+    "Compatible with tablets, laptops, cameras, and other Micro HDMI devices.",
+    "Ensures stable signal transmission for streaming, presentations, or entertainment.",
+    "Compact and lightweight design for easy handling and storage.",
+    "High-quality connectors reduce signal interference.",
+    "Ideal for home, office, and professional multimedia setups."
+  ]
+},
+{
+  "id": "gizzu-micro-usb-braided-cable-2m-black",
+  "name": "Gizzu Micro USB 2m Braided Cable - Black",
+  "description": "The Gizzu Micro USB 2m Braided Cable in black provides reliable charging and data transfer for devices with Micro USB ports. Its durable braided design ensures long-lasting performance and tangle-free use.",
+  "category": "Cables & Adapters",
+  "condition": "Brand New",
+  "image": "/GCMUB1M_wr_01.jpg",
+  "images": [
+    "/GCMUB1M_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "2-meter long cable for extended reach.",
+    "Durable braided design resists tangling and fraying.",
+    "Supports fast charging and reliable data transfer.",
+    "Compatible with devices that have Micro USB ports.",
+    "Black color for a sleek and modern look.",
+    "Compact and flexible for easy use and storage.",
+    "Plug-and-play operation with no drivers required.",
+    "Ideal for home, office, and travel use.",
+    "High-quality connectors for stable connection.",
+    "Reliable and long-lasting cable for everyday use."
+  ]
+},
+{
+  "id": "gizzu-type-c-to-type-c-240w-cable-1m-black",
+  "name": "Gizzu Type-C to Type-C 240W 1m Charging Cable - Black",
+  "description": "The Gizzu Type-C to Type-C 240W 1m Charging Cable provides ultra-fast charging and reliable data transfer for compatible devices, reducing charging time significantly while ensuring safe and efficient performance.",
+  "category": "Cables & Adapters",
+  "condition": "Brand New",
+  "image": "/GCU31CUC1MB_wr_01.jpg",
+  "images": [
+    "/GCU31CUC1MB_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Supports ultra-fast 240W charging for compatible devices.",
+    "1-meter length provides convenience and flexibility.",
+    "Durable construction ensures long-lasting performance.",
+    "Type-C to Type-C connection for modern devices.",
+    "Black color for a sleek and professional look.",
+    "Supports data transfer alongside charging.",
+    "Plug-and-play design with no drivers required.",
+    "Compact and tangle-free cable design.",
+    "Safe charging with built-in protection against overcurrent and overheating.",
+    "Ideal for home, office, and travel use."
+  ]
+},
+{
+  "id": "gizzu-usb-c-to-lightning-8pin-2m-black",
+  "name": "Gizzu USB-C to Lightning 8Pin 2m Cable - Black",
+  "description": "The Gizzu USB-C to Lightning 8Pin 2m Cable provides fast charging and reliable data transfer for Apple devices, combining durability with convenience for everyday use.",
+  "category": "Cables & Adapters",
+  "condition": "Brand New",
+  "image": "/GCUC8PIN1MB_wr_01a.jpg",
+  "images": [
+    "/GCUC8PIN1MB_wr_01a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "2-meter length provides extended reach for charging and syncing.",
+    "Durable design resists fraying and tangling.",
+    "Supports fast charging for Apple devices with USB-C adapters.",
+    "Reliable data transfer for syncing music, videos, and files.",
+    "Black color for a sleek and stylish appearance.",
+    "Plug-and-play design with no drivers required.",
+    "Compatible with iPhone, iPad, and other Lightning devices.",
+    "Compact and flexible cable for convenient use and storage.",
+    "Safe charging with overcurrent and overvoltage protection.",
+    "Ideal for home, office, and travel use."
+  ]
+},
+{
+  "id": "gizzu-usb-c-to-micro-usb-2m-black",
+  "name": "Gizzu USB-C to Micro USB 2m Cable - Black",
+  "description": "The Gizzu USB-C to Micro USB 2m Cable provides reliable charging and data transfer for Micro USB devices from USB-C sources, combining durability with convenience for daily use.",
+  "category": "Cables & Adapters",
+  "condition": "Brand New",
+  "image": "/GCUCMB1MB_wr_01a.jpg",
+  "images": [
+    "/GCUCMB1MB_wr_01a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "2-meter cable length for extended reach.",
+    "Durable design resists fraying and tangling.",
+    "Supports charging and data transfer for Micro USB devices.",
+    "USB-C connector provides compatibility with modern devices.",
+    "Black color for a sleek and professional look.",
+    "Plug-and-play design with no drivers required.",
+    "Compact and flexible for easy use and storage.",
+    "Ensures stable and efficient data and power transfer.",
+    "Safe charging with built-in protection against overcurrent.",
+    "Ideal for home, office, and travel use."
   ]
 }
 

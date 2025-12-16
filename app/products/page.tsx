@@ -38,6 +38,7 @@ export default function ProductsPage() {
     "All",
     "Batteries",
     "Wearables",
+    "Audio Accessories",
     "Networking",
     "Mobile Phones & Tablets",
     "Car Accessories",
