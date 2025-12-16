@@ -2,7 +2,6 @@ export type ProductCondition = "Brand New" | "Used"
 
 export type ProductCategory =
   | "Batteries"
-  | "On The Go"
   | "Wearables"
   | "Networking"
   | "Mobile Phones & Tablets"

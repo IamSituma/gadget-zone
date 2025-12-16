@@ -72,7 +72,7 @@
     "id": "1000a-jump-starter-10400mah",
     "name": "1000A Jump Starter 10400mAh",
     "description": "Give your car a boost with the Gizzu 1000A Smart Jump Starter. It features a 10400mAh high capacity lithium-ion battery, a compact design, comes with a sparkless smart cable, built-in LED flashlight, Smart Protection, a durable carry case and supports up to 5l petrol and 3l diesel vehicles.",
-    "category": "On The Go",
+    "category": "Car Accessories",
     "condition": "Brand New",
     "image": "/Jump.jpg",
     "images": [
@@ -1128,7 +1128,7 @@
   "id": "xiaomi-mi-portable-electric-air-compressor-2-1",
   "name": "Xiaomi Mi Portable Electric Air Compressor 2",
   "description": "The Xiaomi Mi Portable Electric Air Compressor 2 is a compact, cordless tire inflator designed for fast and accurate inflation on the go. It features digital pressure control with ±1 psi accuracy, a built‑in LED light for low‑light use, and multiple valve adapters for cars, bikes, motorcycles, and sports equipment. Its rechargeable battery and easy‑to‑read display make it a convenient and reliable tool for home or travel use.",
-  "category": "On The Go",
+  "category": "Car Accessories",
   "condition": "Brand New",
   "image": "/BHR5277GL_wr_01.jpg",
   "images": [
@@ -2783,7 +2783,7 @@
   "id": "xiaomi-redmi-9a-smartphone-32gb-2gb-ram-granite-gray",
   "name": "Xiaomi Redmi 9A Smartphone (32GB, 2GB RAM, Dual SIM, Granite Gray)",
   "description": "The Xiaomi Redmi 9A is an affordable Android 10 smartphone with a large 6.53\" HD+ display, a powerful 5000 mAh battery, and an efficient MediaTek Helio G25 octa‑core processor. It’s designed for everyday use with basic apps, browsing, messaging, and video calling.",
-  "category": "Mobile Phones",
+  "category": "Mobile Phones & Tablets",
   "condition": "Brand New",
   "image": "/MZB0AKPEU_wr_01.jpg",
   "images": [
@@ -2809,7 +2809,7 @@
   "id": "xiaomi-redmi-note-11-pro-5g",
   "name": "Xiaomi Redmi Note 11 Pro 5G",
   "description": "The Xiaomi Redmi Note 11 Pro 5G is a mid‑range 5G smartphone with a large Super AMOLED 6.67\" FHD+ display with 120 Hz refresh rate, Qualcomm Snapdragon 695 mobile platform, versatile triple‑camera system, long‑lasting 5000 mAh battery with 67 W fast charging, and expandable storage — designed for smooth performance, immersive visuals, and reliable everyday use.",
-  "category": "Mobile Phones",
+  "category": "Mobile Phones & Tablets",
   "condition": "Brand New",
   "image": "/MZB0ASBEU_wr_02.jpg",
   "images": [
@@ -2835,7 +2835,7 @@
   "id": "xiaomi-redmi-note-10-pro",
   "name": "Xiaomi Redmi Note 10 Pro",
   "description": "The Xiaomi Redmi Note 10 Pro is a mid‑range smartphone with a large 6.67\" AMOLED display with 120 Hz refresh rate, Qualcomm Snapdragon 732G processor, versatile quad‑camera system, long‑lasting 5020 mAh battery with 33 W fast charging, stereo speakers, and a highly immersive viewing experience for everyday photography, gaming, and media consumption.",
-  "category": "Mobile Phones",
+  "category": "Mobile Phones & Tablets",
   "condition": "Brand New",
   "image": "/MZB08BMEU_wr_01.jpg",
   "images": [
@@ -3616,13 +3616,13 @@
   "features": [
     "Replacement main brush cover designed for the Xiaomi Mi Robot Vacuum‑Mop Pro robotic cleaner.",
     "Durable ABS plastic construction for lasting use and protection.",
-    "Helps protect the central brush from dust, hair, and debris buildup during cleaning cycles. :contentReference[oaicite:0]{index=0}",
-    "Snap‑on, tool‑free installation makes replacing the cover quick and easy. :contentReference[oaicite:1]{index=1}",
-    "Black finish that integrates with the original vacuum aesthetic. :contentReference[oaicite:2]{index=2}",
-    "Helps maintain brush tension and consistent rolling action for optimal cleaning. :contentReference[oaicite:3]{index=3}",
-    "Ideal replacement part if the original brush cover is cracked, worn, or lost. :contentReference[oaicite:4]{index=4}",
-    "Lightweight design does not burden the vacuum assembly during operation. :contentReference[oaicite:5]{index=5}",
-    "Essential maintenance part to keep your robot vacuum performing effectively. :contentReference[oaicite:6]{index=6}"
+    "Helps protect the central brush from dust, hair, and debris buildup during cleaning cycles.",
+    "Snap‑on, tool‑free installation makes replacing the cover quick and easy.",
+    "Black finish that integrates with the original vacuum aesthetic.",
+    "Helps maintain brush tension and consistent rolling action for optimal cleaning.",
+    "Ideal replacement part if the original brush cover is cracked, worn, or lost.",
+    "Lightweight design does not burden the vacuum assembly during operation.",
+    "Essential maintenance part to keep your robot vacuum performing effectively."
   ]
 },
 {
@@ -3638,17 +3638,17 @@
   "brand": "Xiaomi",
   "inStock": true,
   "features": [
-    "High‑density microfiber fabric lifts dust, fine particles, and sticky stains effectively from hard floors. :contentReference[oaicite:0]{index=0}",
-    "Precisely fitted for the mop water tank module of the Xiaomi Robot Vacuum‑Mop Pro (STYTJ02YM) ensuring secure attachment. :contentReference[oaicite:1]{index=1}",
-    "Strong water absorption and even retention for consistent damp mopping without streaks. :contentReference[oaicite:2]{index=2}",
-    "Machine‑washable and reusable for multiple cycles, reducing waste compared to disposable pads. :contentReference[oaicite:3]{index=3}",
-    "Safe on all sealed hard floor surfaces including tile, laminate, vinyl, marble, and sealed hardwood floors. :contentReference[oaicite:4]{index=4}",
-    "Attaches via built‑in Velcro or slide‑in tracks on the mop plate for easy installation and removal. :contentReference[oaicite:5]{index=5}",
-    "Durable and long‑lasting design ideal for regular maintenance cleaning. :contentReference[oaicite:6]{index=6}",
-    "Ideal for everyday use in high‑traffic areas where repeated mopping is needed. :contentReference[oaicite:7]{index=7}",
-    "Gently cleans surface soils while protecting floor finishes. :contentReference[oaicite:8]{index=8}",
-    "Light grey color with stitched edges for durability and reinforcement. :contentReference[oaicite:9]{index=9}",
-    "Washable pads help cut down on replacement costs over time. :contentReference[oaicite:10]{index=10}"
+    "High‑density microfiber fabric lifts dust, fine particles, and sticky stains effectively from hard floors.",
+    "Precisely fitted for the mop water tank module of the Xiaomi Robot Vacuum‑Mop Pro (STYTJ02YM) ensuring secure attachment.",
+    "Strong water absorption and even retention for consistent damp mopping without streaks.",
+    "Machine‑washable and reusable for multiple cycles, reducing waste compared to disposable pads.",
+    "Safe on all sealed hard floor surfaces including tile, laminate, vinyl, marble, and sealed hardwood floors.",
+    "Attaches via built‑in Velcro or slide‑in tracks on the mop plate for easy installation and removal.",
+    "Durable and long‑lasting design ideal for regular maintenance cleaning.",
+    "Ideal for everyday use in high‑traffic areas where repeated mopping is needed.",
+    "Gently cleans surface soils while protecting floor finishes.",
+    "Light grey color with stitched edges for durability and reinforcement.",
+    "Washable pads help cut down on replacement costs over time."
   ]
 },
 {
@@ -3666,13 +3666,13 @@
   "features": [
     "Replacement water tank designed for the Xiaomi Mi Robot Vacuum‑Mop Pro robotic cleaner.",
     "Transparent tank construction for easy visual monitoring of water level.",
-    "Approximately 200 ml water capacity suitable for regular mopping cycles. :contentReference[oaicite:0]{index=0}",
-    "Easy to install and remove for refilling or replacement. :contentReference[oaicite:1]{index=1}",
-    "Made from high‑quality durable plastic to withstand regular use. :contentReference[oaicite:2]{index=2}",
-    "Provides a tight seal to prevent water leakage during operation. :contentReference[oaicite:3]{index=3}",
-    "Delivers water evenly to the mop pad for consistent cleaning results. :contentReference[oaicite:4]{index=4}",
-    "Compatible with Xiaomi Mi Robot Vacuum‑Mop Pro models such as SKV4109GL and SKV4110GL. :contentReference[oaicite:5]{index=5}",
-    "Ideal replacement if the original water tank becomes damaged or worn. :contentReference[oaicite:6]{index=6}"
+    "Approximately 200 ml water capacity suitable for regular mopping cycles.",
+    "Easy to install and remove for refilling or replacement.",
+    "Made from high‑quality durable plastic to withstand regular use.",
+    "Provides a tight seal to prevent water leakage during operation.",
+    "Delivers water evenly to the mop pad for consistent cleaning results.",
+    "Compatible with Xiaomi Mi Robot Vacuum‑Mop Pro models such as SKV4109GL and SKV4110GL.",
+    "Ideal replacement if the original water tank becomes damaged or worn."
   ]
 }
 

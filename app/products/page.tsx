@@ -37,7 +37,6 @@ export default function ProductsPage() {
   const categories: (ProductCategory | "All")[] = [
     "All",
     "Batteries",
-    "On The Go",
     "Wearables",
     "Networking",
     "Mobile Phones & Tablets",
