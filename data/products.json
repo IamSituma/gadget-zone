@@ -52,10 +52,6 @@
     "image": "/bulb.jpg",
     "images": [
       "/bulb.jpg",
-      "/bulb4.jpg",
-      "/bulb1.png",
-      "/bulb5.jpg",
-      "/bulb2.png",
       "/bulb3.jpg"
     ],
     "brand": "Gizzu",
@@ -294,7 +290,7 @@
     "id": "xiaomi-mi-usb-c-cable",
     "name": "Xiaomi Mi USB‑C Cable",
     "description": "The Xiaomi Mi USB‑C Cable (White) is a simple yet reliable charging and data cable, compact, reversible, and built for everyday use. It connects Type‑C devices (phones, tablets, laptops, power banks) with ease and supports both charging and data transfer in a sturdy, flexible design.",
-    "category": "Cables & Adapters",
+    "category": "Chargers & Adapters",
     "condition": "Brand New",
     "image": "/cable.jpg",
     "images": [
@@ -897,7 +893,7 @@
     "id": "mi-33w-wall-charger-type-a-type-c",
     "name": "Mi 33W Wall Charger (Type-A + Type-C)",
     "description": "This Xiaomi support article explains safety distance recommendations and electromagnetic field (EMF) protection guidelines for using Xiaomi products. It clarifies how devices may produce EMF, recommended distances to maintain from certain equipment during use, and ways to minimize exposure. The guidance helps users operate devices safely and stay within approved standards.",
-    "category": "Cables & Adapters",
+    "category": "Chargers & Adapters",
     "condition": "Brand New",
     "image": "/BHR4996GL_wr_01.jpg",
     "images": [
@@ -1312,7 +1308,7 @@
   "id": "xiaomi-65w-gan-charger-type-a-type-c-1",
   "name": "Xiaomi 65W GaN Charger (Type‑A + Type‑C)",
   "description": "The Xiaomi 65W GaN Charger (Type‑A + Type‑C) is a compact, high‑efficiency power adapter that delivers up to 65W of fast charging via its USB‑C port and up to 18W via its USB‑A port. Powered by advanced GaN (Gallium Nitride) technology, it supports simultaneous dual‑device charging with smart power distribution. The charger includes a high‑current USB‑C to USB‑C cable and is compatible with a wide range of smartphones, tablets, laptops, and other USB‑powered devices, making it ideal for travel and everyday use.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/BHR5515GL_wr_01a.jpg",
   "images": [
@@ -1615,7 +1611,7 @@
   "id": "xiaomi-usb-a-to-usb-c-6a-1m-cable-1",
   "name": "Xiaomi USB‑A to USB‑C 6A 1m Cable",
   "description": "The Xiaomi USB‑A to USB‑C 6A 1 m Cable is a durable data and charging cable featuring USB‑A and Type‑C connectors, a flexible TPU exterior, support for up to 6 A high current, and fast data transfer — ideal for powering and syncing smartphones, tablets, and other USB‑C devices.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/BHR6032GL_wr_01.jpg",
   "images": [
@@ -1641,7 +1637,7 @@
   "id": "xiaomi-usb-a-to-usb-c-6a-1m-cable-1-black",
   "name": "Xiaomi USB‑A to USB‑C 6A 1m Cable",
   "description": "The Xiaomi USB‑A to USB‑C 6A 1 m Cable is a durable data and charging cable featuring USB‑A and Type‑C connectors, a flexible TPU exterior, support for up to 6 A high current, and fast data transfer — ideal for powering and syncing smartphones, tablets, and other USB‑C devices.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/SJV4109GL_wr_01a.jpg",
   "images": [
@@ -1667,7 +1663,7 @@
   "id": "xiaomi-usb-a-to-usb-c-6a-1m-cable-1-red-and-black",
   "name": "Xiaomi USB‑A to USB‑C 6A 1m Cable",
   "description": "The Xiaomi USB‑A to USB‑C 6A 1 m Cable is a durable data and charging cable featuring USB‑A and Type‑C connectors, a flexible TPU exterior, support for up to 6 A high current, and fast data transfer — ideal for powering and syncing smartphones, tablets, and other USB‑C devices.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/SJV4110GL_wr_01.jpg",
   "images": [
@@ -1693,7 +1689,7 @@
   "id": "xiaomi-usb-c-wall-charger-67w-1",
   "name": "Xiaomi USB-C Wall Charger 67W",
   "description": "The Xiaomi USB-C Wall Charger 67W is a compact and powerful fast-charging adapter designed to efficiently charge smartphones, tablets, laptops, and other USB-C devices. With support for multiple fast-charging protocols and intelligent power management, it delivers safe, stable, and high-speed charging in a travel-friendly design suitable for everyday use at home or on the go.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/BHR6034EU_wr_01.jpg",
   "images": [
@@ -1766,7 +1762,7 @@
   "id": "xiaomi-magnetic-charging-cable-1",
   "name": "Xiaomi Magnetic Charging Cable (Compatible with Amazfit)",
   "description": "The Xiaomi Magnetic Charging Cable is a versatile magnetic power cable designed for fast and reliable charging of compatible Amazfit smartwatches and other devices. Featuring strong magnetic alignment, USB-A connectivity, and a durable design, it delivers a secure connection and easy one-hand attachment, making charging effortless at home, office, or travel.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/BHR6118GL_wr_01.jpg",
   "images": [
@@ -3676,8 +3672,8 @@
   ]
 },
 {
-  "id": "hidou-bluetooth-transmitter-receiver-silver",
-  "name": "HIDOU Bluetooth Transmitter / Receiver - Silver",
+  "id": "gizzu-bluetooth-transmitter-receiver-silver",
+  "name": "Gizzu Bluetooth Transmitter / Receiver",
   "description": "The HIDOU Bluetooth Transmitter / Receiver is a dual‑mode device that allows you to wirelessly transmit audio from non‑Bluetooth devices to headphones or speakers, and also receive audio from smartphones or tablets. It supports hands‑free calling and smart voice assistant integration.",
   "category": "Car Accessories",
   "condition": "Brand New",
@@ -3698,6 +3694,31 @@
     "Compatible with multiple devices including TVs, PCs, laptops, headphones, and mobile devices.",
     "Lightweight and rechargeable via USB for on-the-go usage.",
     "Ideal for converting non-Bluetooth audio devices to wireless audio transmission."
+  ]
+},
+{
+  "id": "s-link-sl-bt405-rgb-bluetooth-v5-0-fm-transmitter",
+  "name": "S‑Link SL‑BT405 RGB Bluetooth V5.0 FM Transmitter",
+  "description": "The S‑Link SL‑BT405 is a versatile FM transmitter with RGB LED display, Bluetooth V5.0 connectivity, support for TF card playback, and fast charging via dual USB ports including QC3.0 and PD18W.",
+  "category": "Car Accessories",
+  "condition": "Brand New",
+  "image": "/GFMV18PD_wr_01.jpg",
+  "images": [
+    "/GFMV18PD_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Bluetooth V5.0 for stable wireless connectivity.",
+    "RGB LED display for easy frequency and information viewing.",
+    "Supports TF/microSD card music playback.",
+    "Dual USB ports with fast charging: QC3.0 and PD18W.",
+    "FM transmitter function broadcasts audio to car radio.",
+    "Plugs directly into the car’s 12V socket.",
+    "Compatible with most smartphones and Bluetooth devices.",
+    "Adjustable LED lighting adds visual appeal.",
+    "Simple plug‑and‑play setup with no installation needed.",
+    "Provides both music streaming and charging functionality."
   ]
 },
 {
@@ -4106,7 +4127,7 @@
   "id": "gizzu-usb-to-lightning-data-charging-cable",
   "name": "Gizzu USB to Lightning Data & Charging Cable",
   "description": "The Gizzu USB to Lightning Data & Charging Cable is a certified Apple‑compatible cable designed for fast data transfer and reliable charging of iPhone, iPad, and iPod devices with a Lightning port.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/GCALB1MS_wr_01.jpg",
   "images": [
@@ -4408,7 +4429,7 @@
   "id": "gizzu-micro-usb-braided-cable-2m-black",
   "name": "Gizzu Micro USB 2m Braided Cable - Black",
   "description": "The Gizzu Micro USB 2m Braided Cable in black provides reliable charging and data transfer for devices with Micro USB ports. Its durable braided design ensures long-lasting performance and tangle-free use.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/GCMUB1M_wr_01.jpg",
   "images": [
@@ -4433,7 +4454,7 @@
   "id": "gizzu-type-c-to-type-c-240w-cable-1m-black",
   "name": "Gizzu Type-C to Type-C 240W 1m Charging Cable - Black",
   "description": "The Gizzu Type-C to Type-C 240W 1m Charging Cable provides ultra-fast charging and reliable data transfer for compatible devices, reducing charging time significantly while ensuring safe and efficient performance.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/GCU31CUC1MB_wr_01.jpg",
   "images": [
@@ -4458,7 +4479,7 @@
   "id": "gizzu-usb-c-to-lightning-8pin-2m-black",
   "name": "Gizzu USB-C to Lightning 8Pin 2m Cable - Black",
   "description": "The Gizzu USB-C to Lightning 8Pin 2m Cable provides fast charging and reliable data transfer for Apple devices, combining durability with convenience for everyday use.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/GCUC8PIN1MB_wr_01a.jpg",
   "images": [
@@ -4483,7 +4504,7 @@
   "id": "gizzu-usb-c-to-micro-usb-2m-black",
   "name": "Gizzu USB-C to Micro USB 2m Cable - Black",
   "description": "The Gizzu USB-C to Micro USB 2m Cable provides reliable charging and data transfer for Micro USB devices from USB-C sources, combining durability with convenience for daily use.",
-  "category": "Cables & Adapters",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/GCUCMB1MB_wr_01a.jpg",
   "images": [
@@ -4502,6 +4523,592 @@
     "Ensures stable and efficient data and power transfer.",
     "Safe charging with built-in protection against overcurrent.",
     "Ideal for home, office, and travel use."
+  ]
+},
+{
+  "id": "gizzu-gcpvv18-fhd-vga-cable-1-8m",
+  "name": "Gizzu GCPVV18 FHD VGA Cable 1.8m",
+  "description": "The Gizzu GCPVV18 FHD VGA Cable (1.8m) connects devices with VGA outputs to legacy VGA displays with plug‑and‑play simplicity and durable construction, supporting up to Full HD resolution.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/GCVGA3MFFP_wr_01.jpg",
+  "images": [
+    "/GCVGA3MFFP_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "1.8m cable length for flexible setups.",
+    "Connects devices to legacy VGA displays.",
+    "Supports up to 1080p Full HD resolution.",
+    "Durable build with a sturdy design.",
+    "Low voltage cable for stable signal.",
+    "Simple plug‑and‑play use with no drivers required.",
+    "Ideal for presentations, monitors, projectors and more.",
+    "Compatible with various VGA‑enabled devices.",
+    "RoHS certified for safety and reliability.",
+    "Black color complements most setups."
+  ]
+},
+{
+  "id": "gizzu-light-bulb-warm-white-b22",
+  "name": "Gizzu Light Bulb Warm White B22",
+  "description": "The Gizzu Light Bulb Warm White B22 is a warm white LED light bulb with a B22 bayonet base, designed to provide cozy illumination ideal for home and office lighting.",
+  "category": "Lighting",
+  "condition": "Brand New",
+  "image": "/bulb4.jpg",
+  "images": [
+    "/bulb3.jpg",
+    "/bulb4.jpg",
+    "/bulb5.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Warm white LED light for comfortable ambient illumination.",
+    "Suitable for standard B22 bayonet light fixtures.",
+    "Consumes 9W while providing bright light output (~810 lumens).",
+    "3000K colour temperature for a warm color tone.",
+    "Energy‑efficient LED technology for long life.",
+    "Easy replacement for traditional incandescent bulbs.",
+    "Portable and simple to install with no special tools.",
+    "Durable build suitable for everyday lighting needs. :contentReference[oaicite:7]{index=7}",
+    "Ideal for living rooms, bedrooms, kitchens, and offices.",
+    "Provides consistent light output and improves visibility indoors."
+  ]
+},
+{
+  "id": "gizzu-ggp2-nano-multi-purpose-gel-pads",
+  "name": "Gizzu GGP2 Nano Multi‑Purpose Gel Pads",
+  "description": "The Gizzu GGP2 Nano Multi‑Purpose Gel Pads are reusable sticky gel pads designed to hold small items in place on smooth surfaces, helping organize spaces like kitchens, offices, cars and more.",
+  "category": "Home Accessories",
+  "condition": "Brand New",
+  "image": "/GGP2_wr_01a.jpg",
+  "images": [
+    "/GGP2_wr_01a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": false,
+  "features": [
+    "Super sticky and reusable gel pad perfect for holding small items in place.",
+    "Helps prevent phones and other items from sliding around.",
+    "Can be used on tiles, glass, smooth walls and other flat surfaces.",
+    "Maximizes storage space in kitchen, office, bathroom and car.",
+    "Holds items like phones, remote controls, cameras and GPS units.",
+    "Easy to install and clean before first use.",
+    "Reusable — wash with warm water to restore stickiness.",
+    "Lightweight and flexible for versatile placements.",
+    "Requires clean, dry, smooth surfaces for best adhesion.",
+    "Simple solution to keep everyday items close at hand."
+  ]
+},
+{
+  "id": "gizzu-155wh-portable-power-station",
+  "name": "Gizzu 155Wh Portable Power Station",
+  "description": "The Gizzu 155Wh Portable Power Station is a compact, rugged energy solution ideal for camping, power outages, and everyday backup needs, featuring multiple output options including USB, PD, DC and AC, plus a built‑in flashlight.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/GPS150_wr_01.jpg",
+  "images": [
+    "/GPS150_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Compact portable power station with 155Wh battery capacity.",
+    "150W continuous power output with up to 200W maximum output.",
+    "Lithium‑ion battery with more than 500 charge cycles.",
+    "Multiple output ports: USB, USB QC3.0, USB‑C PD, DC and AC outlets.",
+    "Built‑in LED flashlight for emergency lighting.",
+    "Supports charging via AC adapter, car charger or solar panel.",
+    "Rugged and lightweight design for travel and outdoor use.",
+    "Protection features including short‑circuit, over‑current and over‑voltage safeguards.",
+    "Ideal for powering small electronics and devices during outages.",
+    "Simple plug‑and‑play operation with no installation required."
+  ]
+},
+{
+  "id": "gizzu-296wh-portable-power-station",
+  "name": "Gizzu 296Wh Portable Power Station",
+  "description": "The Gizzu 296Wh Portable Power Station is a robust and portable energy solution with a lithium‑ion battery, ideal for camping, power outages, load‑shedding and off‑grid use. It offers multiple output options including AC, USB, PD and DC, plus built‑in protections and an integrated LED flashlight.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/GPS300_wr_01.jpg",
+  "images": [
+    "/GPS300_wr_01.jpg",
+    "/GPS500_wr_03.jpg",
+    "/GPS300_wr_03.jpg"
+
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "296Wh high‑capacity lithium‑ion battery.",
+    "Both 300W & 500W continuous power output with pure sine wave inverter.",
+    "Multiple output ports including AC, USB‑A, USB‑C PD and DC.",
+    "Supports solar charging, car charging and wall charging.",
+    "Built‑in LED flashlight for emergency lighting.",
+    "Protection features for short‑circuit, over‑current and over‑voltage.",
+    "Portable and rugged design for outdoor and emergency use.",
+    "Ideal backup power during load‑shedding and outages.",
+    "Can power devices such as phones, routers, notebooks and small appliances.",
+    "Easy plug‑and‑play operation with no installation required."
+  ]
+},
+{
+  "id": "gizzu-hero-core-512wh-portable-power-station",
+  "name": "Gizzu Hero Core 512Wh Portable Power Station",
+  "description": "The Gizzu Hero Core 512Wh Portable Power Station is a high‑capacity, portable backup power solution with UPS functionality and multiple output options, ideal for powering devices and appliances during load‑shedding, outages, and outdoor activities.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/GPS500U_wr_02.jpg",
+  "images": [
+    "/GPS500U_wr_03.jpg",
+    "/GPS500U_wr_04.jpg",
+    "/GPS500U_wr_06.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "512Wh battery capacity for extended runtime.",
+    "Pure sine wave inverter with up to 800W rated AC output.",
+    "UPS functionality with fast switchover to battery during outages.",
+    "Multiple output ports: AC, USB‑A QC3.0, USB‑C PD, DC, car socket and XT60.",
+    "Lithium Iron Phosphate (LiFePO4) battery technology for long life.",
+    "Built‑in LED flashlight for emergencies.",
+    "Rechargeable via wall socket, car charger or solar panel.",
+    "Battery management system with safety protections.",
+    "Portable and rugged design for outdoor use.",
+    "Ideal for powering routers, laptops, TVs and small appliances."
+  ]
+},
+{
+  "id": "gizzu-challenger-max-835wh-1000w-ups-power-station",
+  "name": "Gizzu Challenger Max 835Wh 1000W UPS Power Station",
+  "description": "The Gizzu Challenger Max 835Wh 1000W UPS Power Station is a high‑capacity portable power solution with LiFePO4 battery technology, UPS switchover capability and multiple output options to support essential devices and appliances during outages, load shedding, camping or off‑grid use.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/GPS800U_wr_02a.jpg",
+  "images": [
+    "/GPS800U_wr_03a.jpg",
+    "/GPS800U_wr_01a.jpg",
+    "/GPS800U_wr_06a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "835Wh high‑capacity LiFePO4 battery with long cycle life.",
+    "1000W rated pure sine wave AC output for powering appliances.",
+    "UPS functionality with fast switchover (~20ms) during power outages.",
+    "Recharge from 0% to 100% in approximately 1.5 hours.",
+    "Multiple outlets including 3x AC sockets, USB‑A, Type‑C PD30W and PD100W, DC 5525 and car socket.",
+    "Multiple charging options: wall socket, car charger or solar panel.",
+    "Battery management system with protections like over‑charge, over‑discharge, short circuit and over‑current.",
+    "Portable and rugged design for indoor, outdoor and emergency use.",
+    "Built‑in LED torch for lighting in dark environments.",
+    "Ideal for running routers, laptops, TVs, fans and other essential devices during outages."
+  ]
+},
+{
+  "id": "gizzu-challenger-pro-1120wh-ups-power-station",
+  "name": "Gizzu Challenger Pro 1120Wh UPS Power Station",
+  "description": "The Gizzu Challenger Pro 1120Wh UPS Power Station is a high‑capacity portable power solution with UPS functionality and multiple output options, designed to provide reliable backup power for essential devices during outages, load shedding, camping, and outdoor use.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/GPS1100U_wr_02.jpg",
+  "images": [
+    "/GPS1100U_wr_01.jpg",
+    "/GPS1100U_wr_03.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "1120Wh high‑capacity Lithium Iron Phosphate (LiFePO4) battery.",
+    "UPS functionality with seamless switchover during power outages.",
+    "Pure sine wave inverter delivering stable 230V AC power.",
+    "Rated output up to 1000W for powering essential appliances.",
+    "Multiple output ports including AC sockets, USB‑C PD, USB QC3.0, USB 2.0, DC and car socket.",
+    "Recharge from 0% to 100% in under 2 hours with AC charging.",
+    "Supports charging via wall socket, car charger or solar panel.",
+    "Battery Management System with protections against over‑charge, over‑discharge and short circuits.",
+    "Robust and portable design with built‑in LED flashlight for convenience.",
+    "Ideal for load shedding, emergencies, outdoor adventures and off‑grid use."
+  ]
+},
+{
+  "id": "gizzu-hero-ultra-3840wh-ups-power-station",
+  "name": "Gizzu Hero Ultra 3840Wh UPS Power Station",
+  "description": "The Gizzu Hero Ultra 3840Wh UPS Power Station is a high‑capacity portable power solution with UPS functionality and multiple output options, designed to power essential devices, tools and appliances during load shedding, power outages, outdoor activities and off‑grid use.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/GPS3800U_wr_02b.jpg",
+  "images": [
+    "/GPS3800U_wr_01b.jpg",
+    "/GPS3800U_wr_03b.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "3840Wh high‑capacity Lithium Iron Phosphate (LiFePO4) battery with a long cycle life.",
+    "Pure sine wave inverter providing stable AC power for sensitive devices.",
+    "UPS functionality with fast (~10 ms) switchover to battery power during outages.",
+    "Multiple output ports including 3x AC outlets, USB‑A, Type‑C PD ports, DC ports, car socket and XT60 for versatile device charging.",
+    "Can recharge from wall socket, car charger or solar panel.",
+    "Battery management system with safety protections against over‑charge, over‑discharge, over‑current and short‑circuit.",
+    "AC output rated up to 3600W with higher peak capacity for powering larger appliances.",
+    "Built‑in LED torch for emergency lighting.",
+    "Portable and rugged design suitable for home, outdoor, and emergency use.",
+    "Ideal for powering household appliances, power tools, electronics and more during power cuts."
+  ]
+},
+{
+  "id": "gizzu-secure-wedge-code-cable-lock-1-8m",
+  "name": "Gizzu Secure Wedge Code Cable Lock 1.8m",
+  "description": "The Gizzu Secure Wedge Code Cable Lock 1.8m is a combination‑based security cable designed to physically secure laptops, notebooks and compatible devices with wedge security slots, helping deter theft in shared spaces like classrooms, offices and public areas.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GSCNC_wr_01.jpg",
+  "images": [
+    "/GSCNC_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "1.8m reinforced steel cable for dependable anti‑theft protection.",
+    "Combination lock system – set your own code for key‑less security.",
+    "Ideal for laptops, notebooks and devices with Noble Wedge compatible slots.",
+    "Pivoting and rotating cable head for easy installation.",
+    "Durable construction resists pull‑and‑remove attempts.",
+    "Quick setup – secure your device in seconds.",
+    "Portable security solution for travel, offices and shared spaces.",
+    "Silver finish complements most devices and setups.",
+    "No keys required, reducing risk of lost keys.",
+    "Provides basic physical theft deterrence for everyday use."
+  ]
+},
+{
+  "id": "gizzu-nano-security-cable-with-key-lock",
+  "name": "Gizzu Nano Security Cable with Key Lock",
+  "description": "The Gizzu Nano Security Cable with Key Lock is a reinforced steel security cable designed to protect laptops, desktops and other compatible devices from theft by locking them to a stationary object. It includes a key lock and additional keys, and is compatible with the Gizzu Master Key.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GSCNK_wr_01a.jpg",
+  "images": [
+    "/GSCNK_wr_01a.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Reinforced steel cable for physical security.",
+    "Key lock system with included keys.",
+    "Compatible with Gizzu Master Key.",
+    "Easy to install on laptops, desktops and devices with lock slots.",
+    "Rotating cable head for easier locking and positioning.",
+    "Pull‑resistant cable connection for added security.",
+    "Silver finish for a clean, professional look.",
+    "Portable and easy to carry with devices.",
+    "Ideal for office, school, home and public spaces.",
+    "No batteries or power required."
+  ]
+},
+{
+  "id": "gizzu-90w-portable-solar-panel",
+  "name": "Gizzu 90W Portable Solar Panel",
+  "description": "The Gizzu 90W Portable Solar Panel is a lightweight, foldable solar charger with efficient monocrystalline cells, designed to recharge compatible portable power stations and devices outdoors under direct sunlight or even cloudy conditions.",
+  "category": "Solar Panels",
+  "condition": "Brand New",
+  "image": "/GSP60W_wr_01.jpg",
+  "images": [
+    "/GSP60W_wr_02.jpg",
+    "/GSP60W_wr_04.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "90W output with efficient monocrystalline silicon solar cells.",
+    "Portable and lightweight foldable design for travel and outdoor use.",
+    "Highly sensitive cells can generate power even in cloudy conditions.",
+    "Voltage regulator to provide stable output.",
+    "Multiple outputs including USB and USB‑C for charging devices.",
+    "Waterproof construction suited for outdoor environments.",
+    "Ideal for charging portable power stations, laptops, tablets and phones.",
+    "Folds compactly for easy storage and transport.",
+    "Durable materials ensure long product life (≈5 years).",
+    "Simple plug‑and‑play operation with compatible power stations."
+  ]
+},
+{
+  "id": "gizzu-nanometer-thermal-paste",
+  "name": "Gizzu Nanometer Thermal Paste",
+  "description": "The Gizzu Nanometer Thermal Paste is a thermal interface material designed to improve heat transfer between a CPU/GPU and its heatsink by filling microscopic gaps, helping maintain optimal operating temperatures during use.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GTG2G11_wr_01.jpg",
+  "images": [
+    "/GTG2G11_wr_01.jpg",
+    "/GTG4G5_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Designed to improve heat transfer between CPU/GPU and heatsink.",
+    "High viscosity compound for filling microgaps.",
+    "Suitable for building or maintaining PCs.",
+    "Supports operational temperatures up to approximately 280°C.",
+    "Helps reduce operating temperatures under load."
+  ]
+},
+{
+  "id": "gizzu-mini-dc-ups-30w-32wh-8800mah-black",
+  "name": "Gizzu Mini DC UPS 30W 32Wh (8800mAh) - Black",
+  "description": "The Gizzu Mini DC UPS with 30W output and 32Wh (8800mAh) lithium‑ion battery provides backup power for routers, CCTV cameras, ONU devices and mobile devices during power outages, ensuring continuous operation of essential electronics.",
+  "category": "UPS Backup",
+  "condition": "Brand New",
+  "image": "/GU30W_wr_01.jpg",
+  "images": [
+    "/GU30W_wr_03.jpg",
+    "/GU30W_wr_02.jpg",
+    "/GU30W_wr_04.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "30W DC power output with multiple voltage DC outputs.",
+    "32Wh high‑capacity lithium‑ion battery (8800mAh) for backup power.",
+    "Powers devices such as routers, ONU units, CCTV cameras and mobile devices.",
+    "Includes USB port for charging phones and tablets.",
+    "Over‑charge, over‑discharge and short‑circuit protection for safety.",
+    "Compact and lightweight design for easy placement.",
+    "Simple plug‑and‑play setup with included cables.",
+    "Multiple selectable output voltages (5V, 9V/12V and 12V).",
+    "Estimated runtime of hours depending on device load.",
+    "Ideal for small electronics and networking equipment during outages."
+  ]
+},
+{
+  "id": "gizzu-30w-8800mah-dc-mini-ups",
+  "name": "Gizzu 30W 8800mAh DC Mini UPS",
+  "description": "The Gizzu 30W 8800mAh DC Mini UPS is a compact backup power solution designed to provide uninterrupted power for routers, CCTV cameras, ONU devices and other small electronics during power outages, ensuring continuous operation.",
+  "category": "UPS Backup",
+  "condition": "Brand New",
+  "image": "/GUDP36W_wr_01.jpg",
+  "images": [
+    "/GUDP36W_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "30W DC power output suitable for small electronics.",
+    "8800mAh high-capacity lithium-ion battery (32Wh).",
+    "Provides backup power for routers, CCTV cameras, ONU devices, and mobile devices.",
+    "Includes USB port for charging phones and tablets.",
+    "Safety protections: over-charge, over-discharge, and short-circuit.",
+    "Compact and lightweight design for easy placement.",
+    "Multiple selectable output voltages (5V, 9V/12V, 12V).",
+    "Plug-and-play installation with included cables.",
+    "Estimated runtime depends on connected device load.",
+    "Ideal for home, office, and small networking equipment during outages."
+  ]
+},
+{
+  "id": "gizzu-60w-mini-dc-69wh-ups-black",
+  "name": "Gizzu 60W Mini DC 69Wh UPS - Black",
+  "description": "The Gizzu Mini DC comes in both 60W & 100W. The UPS is a compact backup power unit featuring a 69Wh LiFePO4 battery and multiple DC outputs, designed to keep routers, ONU devices, CCTV cameras, VoIP phones and small electronics powered during outages.",
+  "category": "UPS Backup",
+  "condition": "Brand New",
+  "image": "/GUP60W_wr_01.jpg",
+  "images": [
+    "/GUP60W_wr_02.jpg",
+    "/GUP60W_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "60W DC power output for standby devices.",
+    "69Wh high‑capacity LiFePO4 battery (~21600mAh).",
+    "Multiple DC output ports including USB for charging phones and tablets.",
+    "Supports powering routers, ONU units and CCTV cameras.",
+    "Gigabit PoE output for compatible devices.",
+    "Over‑charge, over‑discharge and short‑circuit protection.",
+    "Compact design with lightweight construction.",
+    "Easy plug‑and‑play setup with included cables.",
+    "Estimated long run times for small electronics.",
+    "Ideal for home, office and internet backup during outages."
+  ]
+},
+{
+  "id": "gizzu-universal-travel-adapter",
+  "name": "Gizzu Universal Travel Adapter",
+  "description": "The Gizzu Universal Travel Adapter is a versatile power adapter designed to allow users to plug in electronic devices across multiple countries, supporting plug conversion for South Africa and international sockets.",
+  "category": "Accessories",
+  "condition": "Brand New",
+  "image": "/GUTASA_wr_01.jpg",
+  "images": [
+    "/GUTASA_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Universal plug adapter compatible with multiple countries.",
+    "Allows safe charging of electronics during international travel.",
+    "Compact and portable design for easy packing.",
+    "Supports South African plug conversion and international sockets.",
+    "Durable construction for long-term use.",
+    "Plug-and-play operation with no additional tools needed.",
+    "Suitable for laptops, phones, cameras and other electronic devices.",
+    "Lightweight design for convenience during travel.",
+    "Ensures stable electrical connection while traveling.",
+    "Provides versatility for multiple plug types worldwide."
+  ]
+},
+{
+  "id": "gizzu-2-x-usb-3-prong-wall-charger-white",
+  "name": "Gizzu 2 x USB 3-Prong Wall Charger - White",
+  "description": "The Gizzu 2 x USB 3-Prong Wall Charger is a compact and efficient charging adapter featuring dual USB ports, compatible with standard three-prong sockets, allowing you to charge two devices simultaneously.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/GWC2U21_wr_02.jpg",
+  "images": [
+    "/GWC2U21_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Dual USB ports for simultaneous charging of two devices.",
+    "Compatible with standard 3-prong wall sockets.",
+    "Compact and lightweight design for portability.",
+    "Provides safe and stable charging for smartphones, tablets, and other USB devices.",
+    "Overcurrent and overvoltage protection for device safety.",
+    "White finish complements modern interiors.",
+    "Easy plug-and-play operation.",
+    "Durable construction for long-lasting use.",
+    "Efficient energy conversion for faster charging.",
+    "Ideal for home, office, and travel use."
+  ]
+},
+{
+  "id": "gizzu-wall-charger-dual-usb-port-white-gwc2u34w",
+  "name": "Gizzu Wall Charger Dual USB Port - White",
+  "description": "The Gizzu Wall Charger Dual USB Port is a compact and reliable wall charger with two USB ports, designed to conveniently charge multiple devices at the same time from a standard wall socket.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/GWC2U34W_wr_01.jpg",
+  "images": [
+    "/GWC2U34W_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "Dual USB ports for charging two devices simultaneously.",
+    "Total output of up to 34W for efficient charging.",
+    "Compatible with smartphones, tablets and other USB-powered devices.",
+    "Compact wall-mounted design saves space.",
+    "White finish for a clean and modern look.",
+    "Built-in protection against overcurrent and overvoltage.",
+    "Stable and reliable power delivery.",
+    "Plug-and-play operation with no setup required.",
+    "Ideal for home, office and everyday use.",
+    "Durable construction for long-term reliability."
+  ]
+},
+{
+  "id": "gizzu-wall-charger-type-c-18w-pd-qc3-0-white",
+  "name": "Gizzu Wall Charger Type-C 18W PD & QC3.0 - White",
+  "description": "The Gizzu Wall Charger Type-C 18W is a fast-charging wall adapter featuring USB-C Power Delivery and USB-A QC3.0 technology, designed to efficiently and safely charge compatible smartphones, tablets and other devices.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/GWCPDU36W_wr_01.png",
+  "images": [
+    "/GWCPDU36W_wr_01.png"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "18W fast charging with USB-C Power Delivery support.",
+    "USB-A port with QC3.0 for quick charging compatible devices.",
+    "Charges smartphones, tablets and other USB devices efficiently.",
+    "Compact wall charger design ideal for home or office use.",
+    "Built-in protection against overcurrent, overheating and overvoltage.",
+    "Stable and reliable power output for safe charging.",
+    "White finish for a clean, modern appearance.",
+    "Plug-and-play operation with no setup required.",
+    "Energy-efficient charging performance.",
+    "Durable construction for everyday use."
+  ]
+},
+{
+  "id": "gizzu-wall-charger-type-c-20w-usb-sa-3-prong-white",
+  "name": "Gizzu Wall Charger Type-C 20W USB SA 3-Prong - White",
+  "description": "The Gizzu Wall Charger Type-C 20W USB SA 3-Prong is a compact fast-charging wall adapter designed for South African sockets, featuring a USB-C port for efficient charging of smartphones, tablets and other USB-powered devices.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/GWCUC20W_wr_01.jpg",
+  "images": [
+    "/GWCUC20W_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "20W fast charging via USB-C port.",
+    "Compatible with standard South African 3-prong wall sockets.",
+    "Ideal for charging smartphones, tablets and other USB devices.",
+    "Compact and lightweight wall charger design.",
+    "Provides stable and efficient power delivery.",
+    "Built-in protection against overcurrent and overvoltage.",
+    "White finish for a clean and modern look.",
+    "Plug-and-play operation with no setup required.",
+    "Energy-efficient charging performance.",
+    "Durable construction for everyday use."
+  ]
+},
+{
+  "id": "12v-dc-power-adapter-cable",
+  "name": "12V DC Power Adapter Cable",
+  "description": "A 12V DC power adapter cable with male and female DC connectors, designed to extend the reach of a 12-volt DC power source to devices such as LED lights, security cameras, routers and other low-voltage electronics.",
+  "category": "Cables & Power Accessories",
+  "condition": "Brand New",
+  "image": "/POE-45WP-M2F-DCCABLE_wr_01.jpg",
+  "images": [
+    "/POE-45WP-M2F-DCCABLE_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "12V DC power adapter extension cable for flexible power connectivity.",
+    "One end with male DC plug and the other with a 5.5mm × 2.1mm female socket.",
+    "Ideal for LED lighting, routers, wireless devices and CCTV cameras.",
+    "Standard 1m cable length for convenient reach options.",
+    "Stranded copper conductors with PVC insulation for durability.",
+    "Works with DC voltages from 0 to 24V.",
+    "RoHS compliant construction for safety and environmental standards.",
+    "Simple plug-and-play solution with no additional tools required.",
+    "Black cable for a clean, unobtrusive look.",
+    "Can be customized in length, gauge and color on request."
+  ]
+},
+{
+  "id": "gizzu-12v-male-to-male-extender-2-5mm-power-cable",
+  "name": "Gizzu 12V Male to Male Extender 2.5mm Power Cable",
+  "description": "The Gizzu 12V Male to Male Extender Power Cable is designed to extend the reach between compatible 12V devices and power sources, offering a reliable and compact solution for powering or charging electronics where extra cable length is required.",
+  "category": "Cables & Power Accessories",
+  "condition": "Brand New",
+  "image": "/POE-45WP-M2M-DCCABLE_wr_01.jpg",
+  "images": [
+    "/POE-45WP-M2M-DCCABLE_wr_01.jpg"
+  ],
+  "brand": "Gizzu",
+  "inStock": true,
+  "features": [
+    "12V DC male-to-male power extension cable.",
+    "2.5mm barrel connectors on both ends.",
+    "Ideal for extending power connections between devices.",
+    "Compatible with routers, UPS units, CCTV cameras and other 12V electronics.",
+    "Durable cable construction for long-term use.",
+    "Compact design helps reduce clutter and save space.",
+    "Stable and efficient power transmission.",
+    "Plug-and-play with no setup required.",
+    "Flexible cable for easy routing.",
+    "Suitable for home, office and technical setups."
   ]
 }
 

@@ -14,15 +14,17 @@ export type ProductCategory =
   | "Audio & Video"
   | "Power Stations"
   | "Power Banks"
+  | "UPS Backup"
   | "Personal Care"
   | "Pet Supplies"
   | "Tools"
   | "Lighting"
   | "Accessories"
   | "UPS Batteries"
-  | "Cables & Adapters"
+  | "Chargers & Adapters"
   | "Projectors"
   | "Cameras"
+  | "Solar Panels"
 
 
 export type PaymentMethod = "MTN Mobile Money" | "Airtel Money" | "Cash on Delivery" | "Visa"

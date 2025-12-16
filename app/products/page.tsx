@@ -49,15 +49,17 @@ export default function ProductsPage() {
     "Audio & Video",
     "Power Stations",
     "Power Banks",
+    "UPS Backup",
     "Personal Care",
     "Pet Supplies",
     "Tools",
     "Lighting",
     "Accessories",
     "UPS Batteries",
-    "Cables & Adapters",
+    "Chargers & Adapters",
     "Projectors",
     "Cameras",
+    "Solar Panels",
   ]
 
   const brands: ("All" | "Gizzu" | "Xiaomi")[] = ["All", "Gizzu", "Xiaomi"]
