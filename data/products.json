@@ -5909,5 +5909,286 @@
     "Quick installation with included mounting hardware.",
     "Budget‑friendly case suitable for everyday systems."
   ]
+},
+{
+  "id": "aoc-20e1h-flickerfree-led-monitor",
+  "name": "AOC 20E1H Flicker‑Free LED Monitor",
+  "description": "The AOC 20E1H is a 20‑inch LED monitor offering reliable display performance with flicker‑free technology, designed for comfortable everyday use in home, office, or classroom environments.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/20E1H_wr_01.jpg",
+  "images": [
+    "/20E1H_wr_02.jpg",
+    "/20E1H_wr_03.jpg",
+    "/20E1H_wr_04.jpg",
+    "/20E1H_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "20‑inch LED display with slim bezels.",
+    "Flicker‑free technology for reduced eye strain.",
+    "Energy‑efficient design meeting EnergyStar standards.",
+    "VGA and HDMI ports for flexible connectivity.",
+    "Native resolution suitable for everyday computing.",
+    "Lightweight build for versatile placement.",
+    "Ideal for home, office, or school use.",
+    "Low power consumption for energy savings.",
+    "Stable image quality at standard viewing angles.",
+    "Easy plug‑and‑play setup with no drivers required."
+  ]
+},
+{
+  "id": "aoc-24b2xh-widescreen-monitor",
+  "name": "AOC 24B2XH Widescreen Monitor",
+  "description": "The AOC 24B2XH is a sleek 23.8‑inch widescreen monitor with Full HD 1920x1080 resolution, designed to deliver crisp visuals and comfortable viewing for everyday computing, entertainment and productivity.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/22B2HN_wr_01.jpg",
+  "images": [
+    "/22B2HN_wr_02.jpg",
+    "/22B2HN_wr_03.jpg",
+    "/22B2HN_wr_04.jpg",
+    "/22B2HN_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "23.8‑inch widescreen VA panel with 1920x1080 Full HD resolution.",
+    "Thin and sleek design for modern desktops.",
+    "AOC LowBlue Mode and FlickerFree technologies for eye comfort.",
+    "Supports HDMI and VGA connectivity options.",
+    "Good viewing angles and vibrant colors.",
+    "Energy efficient and lightweight build.",
+    "Ideal for home, office, and gaming at everyday use levels.",
+    "Quick and easy setup with standard VESA mount support.",
+    "Slim bezels for multi‑monitor setups.",
+    "Reliable performance for work and entertainment."
+  ]
+},
+{
+  "id": "aoc-27g2se-gaming-monitor-27-inch",
+  "name": "AOC 27G2SE Gaming Monitor 27\"",
+  "description": "The AOC 27G2SE is a 27‑inch gaming monitor with Full HD 1920x1080 resolution, 165Hz refresh rate, 1ms response time, Adaptive‑Sync support and eye‑care features, designed for smooth, responsive gaming and multimedia.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/24G2ZE_wr_01.jpg",
+  "images": [
+    "/24G2ZE_wr_02.jpg",
+    "/24G2ZE_wr_03.jpg",
+    "/24G2ZE_wr_04.jpg",
+    "/24G2ZE_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "27‑inch VA panel with Full HD 1920x1080 resolution.",
+    "165Hz refresh rate for smoother gameplay.",
+    "1ms response time for reduced motion blur.",
+    "Adaptive‑Sync technology for tear‑free visuals.",
+    "HDR mode enhances color and contrast.",
+    "Flicker‑Free technology for eye comfort.",
+    "Black & Red gaming‑themed design.",
+    "Supports HDMI and DisplayPort inputs.",
+    "Ideal for gaming, streaming and media.",
+    "Energy efficient with low power draw."
+  ]
+},
+{
+  "id": "aoc-24b2xhm-monitor-23-8-inch",
+  "name": "AOC 24B2XHM Monitor 23.8\"",
+  "description": "The AOC 24B2XHM is a sleek 23.8‑inch Full HD (1920x1080) VA‑panel monitor with a slim 3‑sided frameless design, offering vibrant visuals and versatile connectivity for daily use at home or in the office.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/27B2H_wr_01.jpg",
+  "images": [
+    "/27B2H_wr_02.jpg",
+    "/27B2H_wr_03.jpg",
+    "/27B2H_wr_04.jpg",
+    "/27B2H_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "23.8‑inch Full HD (1920x1080) VA panel for crisp images.",
+    "75Hz refresh rate for smoother motion compared to standard 60Hz.",
+    "Slim 3‑sided frameless design for a modern look.",
+    "HDMI and VGA ports for flexible connectivity.",
+    "Good contrast and wide viewing angles from VA panel technology.",
+    "Lightweight and energy‑efficient build.",
+    "VESA mount compatibility for ergonomic setups.",
+    "Ideal for everyday productivity, web browsing and media.",
+    "Low blue light and flicker‑free features for eye comfort.",
+    "Easy plug‑and‑play installation."
+  ]
+},
+{
+  "id": "aoc-cq27g3s-27inch-165hz-gaming-monitor",
+  "name": "AOC CQ27G3S 27\" 165Hz Gaming Monitor",
+  "description": "The AOC CQ27G3S is a 27‑inch QHD (2560x1440) curved gaming monitor featuring a 165Hz refresh rate, 1ms response time, and adaptive technologies to deliver ultra‑smooth, tear‑free gaming performance with vibrant visuals.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/CQ27G3S_wr_01.jpg",
+  "images": [
+    "/CQ27G3S_wr_02.jpg",
+    "/CQ27G3S_wr_03.jpg",
+    "/CQ27G3S_wr_04.jpg",
+    "/CQ27G3S_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "27‑inch QHD (2560x1440) curved VA panel for immersive visuals.",
+    "165Hz refresh rate for ultra‑smooth gameplay.",
+    "1ms response time to reduce motion blur.",
+    "Adaptive‑Sync support for tear‑free gaming.",
+    "Enhanced color and contrast for gaming and media.",
+    "Eye‑friendly blue light reduction and flicker‑free technology.",
+    "Curved design for wider field of view.",
+    "HDMI and DisplayPort inputs for flexible connectivity.",
+    "Ideal for competitive and immersive gaming.",
+    "Stylish design with narrow bezels."
+  ]
+},
+{
+  "id": "aoc-cq32g3se-31-5-2k-165hz-va-super-curve-gaming-monitor",
+  "name": "AOC CQ32G3SE 31.5\" 2K 165Hz VA Super Curve Gaming Monitor",
+  "description": "The AOC CQ32G3SE is a curved 31.5-inch gaming monitor with Quad HD (2560×1440) resolution, 165Hz refresh rate and Fast response time, designed to deliver smooth, immersive visuals and tear-free gameplay for gaming and multimedia.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/CQ32G3SE_wr_01.jpg",
+  "images": [
+    "/CQ32G3SE_wr_02.jpg",
+    "/CQ32G3SE_wr_03.jpg",
+    "/CQ32G3SE_wr_04.jpg",
+    "/CQ32G3SE_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "31.5-inch curved VA panel with 1000R curvature for immersive viewing.",
+    "2560×1440 (QHD) resolution for crisp, detailed visuals.",
+    "165Hz refresh rate for smooth gaming performance.",
+    "1ms (MPRT) response time to reduce motion blur.",
+    "AMD FreeSync Premium support for tear-free gameplay.",
+    "HDR10 support for enhanced color and contrast.",
+    "178°/178° wide viewing angles.",
+    "Low Blue Mode and Flicker-Free technology for eye comfort.",
+    "Multiple inputs including HDMI 2.0 and DisplayPort 1.4.",
+    "Sleek frameless design ideal for multi-monitor setups."
+  ]
+},
+{
+  "id": "aoc-cu34g3s-34-inch-curved-gaming-monitor",
+  "name": "AOC CU34G3S 34\" Curved Gaming Monitor",
+  "description": "The AOC CU34G3S is a 34-inch ultrawide curved gaming monitor with immersive display, high refresh rate and adaptive sync technologies designed for smooth visuals and competitive gaming.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/CU34G3S_wr_01.jpg",
+  "images": [
+    "/CU34G3S_wr_02.jpg",
+    "/CU34G3S_wr_03.jpg",
+    "/CU34G3S_wr_04.jpg",
+    "/CU34G3S_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "34-inch ultrawide curved display for immersive gaming and productivity.",
+    "High refresh rate for smooth motion and responsive gameplay.",
+    "Adaptive sync support for tear-free visuals during gameplay.",
+    "Zero bright-dot performance for enhanced uniformity.",
+    "Multiple connectivity options including DisplayPort and HDMI.",
+    "Wide viewing angles and vibrant colors.",
+    "Built-in ergonomic stand with tilt and height adjustments.",
+    "Slim bezels for multi-monitor setups.",
+    "Flicker-free and low blue light technology for eye comfort.",
+    "Ideal for gaming, multi-tasking and entertainment."
+  ]
+},
+{
+  "id": "aoc-q34p2-34-ultrawide-desktop-monitor",
+  "name": "AOC Q34P2 34″ UW-UXGA Ultrawide Desktop Monitor",
+  "description": "The AOC Q34P2 is a 34-inch ultrawide desktop monitor with UW-UXGA (2560×1080) resolution, designed to enhance productivity and media viewing with its wide screen format and clear IPS panel.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/Q34P2_wr_01.jpg",
+  "images": [
+    "/Q34P2_wr_02.jpg",
+    "/Q34P2_wr_03.jpg",
+    "/Q34P2_wr_04.jpg",
+    "/Q34P2_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "34-inch ultrawide IPS panel with UW-UXGA (2560×1080) resolution.",
+    "75Hz refresh rate for smooth everyday use.",
+    "4ms response time for clear motion handling.",
+    "Anti-glare screen for reduced reflections and better visibility.",
+    "Wide viewing angles with IPS panel technology.",
+    "Slim bezels for a modern look and multi-monitor setups.",
+    "Multiple connectivity options including HDMI and DisplayPort.",
+    "Ergonomic stand with tilt adjustment.",
+    "Ideal for productivity, media, and general computing.",
+    "Energy-efficient design for daily use."
+  ]
+},
+{
+  "id": "aoc-u28g2x-d-28-inch-4k-gaming-monitor",
+  "name": "AOC U28G2X/D 28\" 4K Gaming Monitor",
+  "description": "The AOC U28G2X/D is a 28-inch 4K Ultra HD gaming monitor with a 3840×2160 IPS panel, 144Hz refresh rate, 1ms response time and FreeSync Premium support, designed for immersive, high-performance gaming and crisp visuals.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/U28G2X_wr_01.jpg",
+  "images": [
+    "/U28G2X_wr_02.jpg",
+    "/U28G2X_wr_03.jpg",
+    "/U28G2X_wr_04.jpg",
+    "/U28G2X_wr_05.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "28-inch IPS panel with 4K Ultra HD (3840×2160) resolution.",
+    "144Hz refresh rate for smooth gaming and motion clarity.",
+    "1ms response time for reduced motion blur in fast gameplay.",
+    "FreeSync Premium technology for tear-free visuals.",
+    "DisplayHDR 400 certified for enhanced brightness and contrast.",
+    "HDMI 2.1 port for high-bandwidth connectivity.",
+    "Adjustable stand with tilt and height options.",
+    "Wide viewing angles and vibrant color performance.",
+    "Ideal for competitive gaming and media consumption.",
+    "Slim bezels for an immersive display experience."
+  ]
+},
+{
+  "id": "aoc-u32p2c-31-5-4k-uhd-monitor",
+  "name": "AOC U32P2C 31.5\" 4K UHD Monitor",
+  "description": "The AOC U32P2C is a 31.5-inch 4K UHD (3840×2160) VA panel monitor with excellent productivity features including USB-C connectivity, adjustable ergonomics and eye-comfort technologies, designed for work, media and everyday computing.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/U32P2C_wr_01.jpg",
+  "images": [
+    "/U32P2C_wr_02.jpg",
+    "/U32P2C_wr_03.jpg",
+    "/U32P2C_wr_04.jpg",
+    "/U32P2C_wr_06.jpg"
+  ],
+  "brand": "AOC",
+  "inStock": true,
+  "features": [
+    "31.5-inch VA panel with 4K UHD (3840×2160) resolution.",
+    "60 Hz refresh rate with 4 ms response time.",
+    "USB-C connectivity with DisplayPort alternate mode and power delivery.",
+    "Multiple HDMI and DisplayPort inputs for versatile connectivity.",
+    "Built-in USB hub for easy device connection.",
+    "Height, tilt, swivel and pivot adjustable stand.",
+    "Flicker-Free and Low Blue Light technologies for reduced eye strain.",
+    "Wide 178°/178° viewing angles from VA panel.",
+    "Anti-glare coating for comfortable viewing.",
+    "Ideal for productivity, media and multitasking workflows."
+  ]
 }
+
 ]
