@@ -64,7 +64,7 @@ export default function ProductsPage() {
     "Solar Panels",
   ]
 
-  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC")[] = ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC"]
+  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC" | "ASRock")[] = ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock"]
 
   /* Detect mobile */
   useEffect(() => {
