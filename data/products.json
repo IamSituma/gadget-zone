@@ -4572,7 +4572,7 @@
     "Energy‑efficient LED technology for long life.",
     "Easy replacement for traditional incandescent bulbs.",
     "Portable and simple to install with no special tools.",
-    "Durable build suitable for everyday lighting needs. :contentReference[oaicite:7]{index=7}",
+    "Durable build suitable for everyday lighting needs.",
     "Ideal for living rooms, bedrooms, kitchens, and offices.",
     "Provides consistent light output and improves visibility indoors."
   ]
@@ -5109,6 +5109,189 @@
     "Plug-and-play with no setup required.",
     "Flexible cable for easy routing.",
     "Suitable for home, office and technical setups."
+  ]
+},
+{
+  "id": "amd-ryzen-9-5950x-16-core-32-thread-processor",
+  "name": "AMD Ryzen 9 5950X 16-Core 32-Thread Desktop Processor",
+  "description": "The AMD Ryzen 9 5950X is a high-performance desktop CPU with 16 cores and 32 threads, based on the Zen 3 architecture and designed for demanding multitasking, gaming, content creation and professional workloads.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/100-100000059WOF_wr_01a.jpg",
+  "images": [
+    "/100-100000059WOF_wr_02a.jpg",
+    "/100-100000059WOF_wr_03a.jpg",
+    "/100-100000059WOF_wr_04a.jpg"
+  ],
+  "brand": "AMD",
+  "inStock": true,
+  "features": [
+    "16 cores and 32 threads for powerful multitasking and parallel workloads.",
+    "Base clock of 3.4 GHz with boost speeds up to 4.9 GHz for high performance.",
+    "Built on advanced Zen 3 architecture for improved IPC and efficiency.",
+    "Socket AM4 compatibility with a wide range of motherboards.",
+    "64 MB of L3 cache for faster data access and responsiveness.",
+    "Unlocked multiplier for overclocking potential on supported boards.",
+    "Supports DDR4 memory up to 3200 MT/s in dual-channel configuration.",
+    "PCIe 4.0 support for high-speed storage and graphics connectivity.",
+    "105 W TDP balanced for performance and thermal efficiency.",
+    "Ideal for gaming, professional content creation and demanding applications."
+  ]
+},
+{
+  "id": "amd-ryzen-7-5800x-8-core-16-thread-unlocked-desktop-processor",
+  "name": "AMD Ryzen 7 5800X 8-Core 16-Thread Unlocked Desktop Processor",
+  "description": "The AMD Ryzen 7 5800X is a high-performance desktop CPU with 8 cores and 16 threads, based on the Zen 3 architecture. It offers strong single- and multi-thread performance for gaming, productivity and creative tasks.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/100-100000063WOF_wr_01a.jpg",
+  "images": [
+    "/100-100000063WOF_wr_02a.jpg",
+    "/100-100000063WOF_wr_04a.jpg",
+    "/100-100000063WOF_wr_03a.jpg"
+  ],
+  "brand": "AMD",
+  "inStock": true,
+  "features": [
+    "8 cores and 16 threads for high multitasking and performance.",
+    "Base clock around 3.8 GHz with boost up to 4.7 GHz.",
+    "Built on Zen 3 architecture for improved instructions per cycle (IPC).",
+    "32 MB of L3 cache for faster data access.",
+    "Unlocked multiplier for overclocking potential.",
+    "Supports DDR4 memory up to 3200 MHz.",
+    "PCIe 4.0 support for fast storage and graphics connectivity.",
+    "105 W TDP balanced for performance.",
+    "Compatible with AM4 socket motherboards (e.g., B550, X570).",
+    "Ideal for gaming, content creation and demanding workloads.",
+    "Cooler not included; high-performance cooler recommended."
+  ]
+},
+{
+  "id": "amd-ryzen-5-5500-6-core-12-thread-desktop-processor",
+  "name": "AMD Ryzen 5 5500 6-Core 12-Thread Desktop Processor",
+  "description": "The AMD Ryzen 5 5500 is a mainstream desktop CPU featuring 6 cores and 12 threads based on the Zen 3 architecture, designed for solid performance in everyday computing, gaming and productivity tasks.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/100-100000065BOX_wr_01a.jpg",
+  "images": [
+    "/100-100000065BOX_wr_04a.jpg",
+    "/100-100000065BOX_wr_03a.jpg",
+    "/100-100000065BOX_wr_02a.jpg"
+  ],
+  "brand": "AMD",
+  "inStock": true,
+  "features": [
+    "6 cores and 12 threads for multitasking and performance jobs.",
+    "Zen 3 architecture with strong instructions-per-clock performance.",
+    "Base clock around 3.6 GHz and up to 4.2 GHz max boost speed.",
+    "Unlocked for overclocking on supported AM4 motherboards.",
+    "16 MB of L3 cache for faster data access.",
+    "65 W TDP for efficient power consumption.",
+    "Socket AM4 compatibility with a range of mainstream motherboards.",
+    "Includes AMD Wraith Stealth cooler for stock cooling.",
+    "Supports DDR4 memory up to 3200 MHz.",
+    "Great value for gaming, office work, and general computing."
+  ]
+},
+{
+  "id": "amd-ryzen-5-4600g-6-core-12-thread-desktop-processor",
+  "name": "AMD Ryzen 5 4600G 6-Core 12-Thread Desktop Processor",
+  "description": "The AMD Ryzen 5 4600G is a desktop processor with 6 cores, 12 threads and integrated Radeon graphics, designed for solid performance in everyday computing, gaming and productivity tasks on AM4-based systems.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/100-100000147BOX_wr_01.jpg",
+  "images": [
+    "/100-100000147BOX_wr_02.jpg"
+  ],
+  "brand": "AMD",
+  "inStock": true,
+  "features": [
+    "6 cores and 12 processing threads for multitasking and performance.",
+    "Base clock of 3.7 GHz with boost up to 4.2 GHz.",
+    "Built on Zen 2 architecture for efficient performance.",
+    "8 MB of L3 cache for faster data access.",
+    "Integrated AMD Radeon Graphics for basic gaming and display output.",
+    "65 W TDP for balanced power and performance.",
+    "Socket AM4 compatibility with a wide range of motherboards.",
+    "Supports DDR4 memory up to 3200 MT/s.",
+    "Unlocked for overclocking on supported boards.",
+    "Includes AMD Wraith Stealth cooler in boxed version.",
+    "Ideal for gaming, content creation and everyday computing."
+  ]
+},
+{
+  "id": "amd-ryzen-5-5600x-6-core-12-thread-desktop-processor",
+  "name": "AMD Ryzen 5 5600X 6-Core 12-Thread Desktop Processor",
+  "description": "The AMD Ryzen 5 5600X is a high-performance 6-core, 12-thread desktop CPU based on the Zen 3 architecture, designed to deliver strong single- and multi-thread performance for gaming, productivity, and everyday computing tasks.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/100-100000252BOX_wr_01a.jpg",
+  "images": [
+    "/100-100000252BOX_wr_02a.jpg"
+  ],
+  "brand": "AMD",
+  "inStock": true,
+  "features": [
+    "6 cores and 12 threads for balanced performance.",
+    "Zen 3 architecture with strong instructions-per-clock performance.",
+    "Base clock around 3.7 GHz with boost up to 4.6 GHz.",
+    "Unlocked for overclocking on compatible AM4 motherboards.",
+    "32 MB of L3 cache for fast data access.",
+    "Supports DDR4 memory up to 3200 MHz.",
+    "TDP of 65 W for efficient power use.",
+    "Compatible with X570 and B550 motherboards with BIOS updates.",
+    "Includes AMD Wraith Stealth cooler for boxed versions.",
+    "Ideal for gaming, content creation, and general computing."
+  ]
+},
+{
+  "id": "amd-ryzen-7-5700g-8-core-16-thread-desktop-processor",
+  "name": "AMD Ryzen 7 5700G 8-Core 16-Thread Desktop Processor",
+  "description": "The AMD Ryzen 7 5700G is a powerful desktop processor featuring 8 cores, 16 threads and integrated Radeon graphics. Built on the Zen 3 architecture, it delivers excellent performance for gaming, productivity and everyday computing without requiring a dedicated graphics card.",
+  "category": "Computer Components",
+  "condition": "Brand New",
+  "image": "/100-100000263BOX_wr_01a.jpg",
+  "images": [
+    "/100-100000263BOX_wr_02a.jpg"
+  ],
+  "brand": "AMD",
+  "inStock": true,
+  "features": [
+    "8 cores and 16 threads for high multitasking performance.",
+    "Zen 3 architecture for improved efficiency and responsiveness.",
+    "Base clock of 3.8 GHz with boost speeds up to 4.6 GHz.",
+    "Integrated Radeon graphics for gaming and display output without a GPU.",
+    "16 MB L3 cache for fast data access.",
+    "65 W TDP for balanced power consumption and performance.",
+    "Supports dual-channel DDR4 memory up to 3200 MHz.",
+    "Socket AM4 compatibility with a wide range of motherboards.",
+    "Unlocked multiplier for overclocking on supported boards.",
+    "Ideal for gaming, content creation and everyday desktop use."
+  ]
+},
+{
+  "id": "amd-ryzen-3-4300g-4-core-8-thread-desktop-processor",
+  "name": "AMD Ryzen 3 4300G 4-Core 8-Thread Desktop Processor",
+  "description": "The AMD Ryzen 3 4300G is an entry-level desktop CPU with 4 cores and 8 threads, featuring integrated Radeon graphics. It’s built for cost-efficient systems capable of everyday computing and light gaming without requiring a separate graphics card.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/100-100000510BOX_wr_01.jpg",
+  "images": [
+    "/100-100000510BOX_wr_02.jpg"
+  ],
+  "brand": "AMD",
+  "inStock": true,
+  "features": [
+    "4 cores and 8 threads for basic multitasking.",
+    "Integrated Radeon graphics for gaming without a discrete GPU.",
+    "Base clock ~3.8 GHz with boost up to ~4.0 GHz.",
+    "AM4 socket compatible with many existing motherboards.",
+    "Built-on Zen 2 architecture for solid performance per watt.",
+    "8 MB of L3 cache for efficient data access.",
+    "Ideal for home, office and lightweight gaming builds.",
+    "Supports DDR4 memory in dual-channel mode.",
+    "Lower power consumption for budget systems.",
+    "Compact and cost-effective choice for entry-level desktops."
   ]
 }
 
