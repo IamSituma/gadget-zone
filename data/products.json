@@ -1709,12 +1709,12 @@
   ]
 },
 {
-  "id": "xiaomi-wireless-mouse-lite-2-1",
+  "id": "xiaomi-wireless-mouse-lite-2",
   "name": "Xiaomi Wireless Mouse Lite 2",
   "description": "The Xiaomi Wireless Mouse Lite 2 is a lightweight and ergonomic wireless mouse designed for smooth, precise, and comfortable everyday use. It features a minimalist design, reliable 2.4 GHz wireless connectivity, and an accurate optical sensor, making it ideal for office work, study, and casual home use on both laptops and desktop computers.",
   "category": "Computer Accessories",
   "condition": "Brand New",
-  "image": "BHR6099GL_wr_01.jpg",
+  "image": "/BHR6099GL_wr_01.jpg",
   "images": [
     "/BHR6099GL_wr_02.jpg",
     "/BHR6099GL_wr_03.jpg",
@@ -5248,7 +5248,7 @@
   "id": "amd-ryzen-7-5700g-8-core-16-thread-desktop-processor",
   "name": "AMD Ryzen 7 5700G 8-Core 16-Thread Desktop Processor",
   "description": "The AMD Ryzen 7 5700G is a powerful desktop processor featuring 8 cores, 16 threads and integrated Radeon graphics. Built on the Zen 3 architecture, it delivers excellent performance for gaming, productivity and everyday computing without requiring a dedicated graphics card.",
-  "category": "Computer Components",
+  "category": "Computer Accessories",
   "condition": "Brand New",
   "image": "/100-100000263BOX_wr_01a.jpg",
   "images": [
@@ -5293,6 +5293,621 @@
     "Lower power consumption for budget systems.",
     "Compact and cost-effective choice for entry-level desktops."
   ]
+},
+{
+  "id": "antec-a30-92mm-led-cpu-cooler",
+  "name": "Antec A30 92mm LED CPU Cooler",
+  "description": "The Antec A30 CPU cooler is a budget‑friendly air cooler featuring a 92 mm LED fan and aluminum heatsink with copper heatpipes, designed to efficiently dissipate heat from compatible Intel and AMD desktop processors.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/A30_wr_01.jpg",
+  "images": [
+    "/A30_wr_02.jpg",
+    "/A30_wr_03.jpg",
+    "/A30_wr_04.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "92 mm LED cooling fan for efficient airflow.",
+    "Straight touch copper heatpipes for improved heat transfer.",
+    "Aluminum fin heatsink for enhanced dissipation.",
+    "Compatible with Intel sockets including LGA 775/1150/1151/1155/1156/1200.",
+    "Compatible with AMD sockets including FM1, FM2, AM2, AM2+, AM3, AM3+ and AM4.",
+    "Whisper‑quiet operation with low noise levels.",
+    "Easy installation with standard mounting hardware.",
+    "Ideal for everyday desktop cooling and budget builds.",
+    "Adds a visual LED effect to your PC build.",
+    "Durable build quality for long‑term use."
+  ]
+},
+{
+  "id": "antec-a40-pro-92mm-led-cpu-cooler",
+  "name": "Antec A40 Pro 92mm LED CPU Cooler",
+  "description": "The Antec A40 Pro is a performance CPU air cooler with a whisper‑quiet 92 mm LED PWM fan, four heat pipes and a large aluminum heatsink, designed to keep your processor running cool across a wide range of Intel and AMD sockets.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/A40-PRO_wr_02.jpg",
+  "images": [
+    "/A40-PRO_wr_04.jpg",
+    "/A40-PRO_wr_05.jpg",
+    "/A40PRO_wr_06.jpg",
+    "/A40-PRO_wr_01.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "92 mm blue LED PWM fan with quiet operation.",
+    "Four embedded heat pipes for efficient heat transfer.",
+    "Large aluminum heat fin structure for improved cooling.",
+    "Straight Touch copper‑coated heatpipes for better contact.",
+    "Unique heatsink design to dissipate heat efficiently.",
+    "Compatible with multiple Intel sockets including LGA 775, 1150, 1151, 1155, 1156, 1200, 1366.",
+    "Compatible with multiple AMD sockets including AM5, AM4, FM2+, FM2, FM1, AM3+, AM3, AM2+, AM2.",
+    "Push‑pin mounting system for easy installation.",
+    "Includes thermal paste for immediate use.",
+    "Whisper‑quiet PWM fan with adjustable speed range."
+  ]
+},
+{
+  "id": "antec-a400-rgb-120mm-cpu-air-cooler",
+  "name": "Antec A400 RGB 120mm CPU Air Cooler",
+  "description": "The Antec A400 RGB CPU Air Cooler is a high‑performance cooling solution featuring a 120 mm RGB fan and aluminum heatsink with multiple heat pipes, designed to keep your CPU temperatures low while adding vibrant lighting to your build.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/A400-RGB_wr_02.jpg",
+  "images": [
+    "/A400-RGB_wr_01.jpg",
+    "/A400-RGB_wr_03.jpg",
+    "/A400-RGB_wr_04.jpg",
+    "/A400-RGB_wr_05.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "120 mm RGB fan for efficient cooling with customizable lighting.",
+    "Aluminum heatsink with multiple heat pipes for strong heat dissipation.",
+    "PWM fan control for balanced airflow and quiet operation.",
+    "Universal mounting for modern Intel and AMD sockets.",
+    "RGB lighting adds visual appeal to your PC build.",
+    "Optimized fan blade design for high airflow.",
+    "Durable construction for reliable long‑term cooling.",
+    "Easy installation with included mounting hardware.",
+    "Compatible with a wide range of processors.",
+    "Ideal for gaming, content creation and performance computing."
+  ]
+},
+{
+  "id": "antec-atom-g650-gold-650w-power-supply",
+  "name": "Antec Atom G650 Gold 650W Power Supply",
+  "description": "The Antec Atom G650 Gold 650W Power Supply is a high‑efficiency PSU designed to deliver reliable and stable power for gaming and high‑performance desktops, featuring an 80+ Gold efficiency rating and quality protection mechanisms.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/ATOM-G650_wr_01.jpg",
+  "images": [
+    "/ATOM-G650_wr_02.jpg",
+    "/ATOM-G650_wr_03.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "650W total power capacity for desktop systems.",
+    "80+ Gold efficiency for lower energy consumption and reduced heat.",
+    "Reliable power delivery for gaming, content creation, and general use.",
+    "Active Power Factor Correction (PFC) for improved stability.",
+    "Protections including OVP, UVP, OCP, SCP and OTP.",
+    "Quiet cooling fan for balanced airflow and low noise.",
+    "ATX form factor compatible with standard PC cases.",
+    "High‑quality components for long‑term durability.",
+    "Modular or semi‑modular cable design for easy cable management.",
+    "Stable voltage rails for consistent performance."
+  ]
+},
+{
+  "id": "antec-atom-g750-750w-modular-power-supply",
+  "name": "Antec Atom G750 750W Fully Modular Power Supply",
+  "description": "The Antec Atom G750 is a 750W fully modular power supply designed to deliver reliable and efficient power to desktop systems, offering clean cable management and stable performance for gaming, content creation, and everyday use.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/ATOM-G750_wr_01.jpg",
+  "images": [
+    "/ATOM-G750_wr_02.jpg",
+    "/ATOM-G750_wr_03.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "750W total power output for desktops and gaming rigs.",
+    "Fully modular cable design for easy cable management.",
+    "80+ Gold efficiency rating for lower energy loss and heat.",
+    "Stable and reliable power delivery for demanding components.",
+    "Advanced protections including over‑voltage, under‑voltage, over‑current, and short‑circuit safeguards.",
+    "Quiet cooling fan for balanced airflow and low noise.",
+    "ATX form factor compatible with standard PC cases.",
+    "High‑quality internal components for durability.",
+    "Optimized for gaming, creative workloads, and high‑performance systems.",
+    "Plug‑and‑play design with easy installation."
+  ]
+},
+{
+  "id": "antec-da601-rgb-tempered-glass-black-mid-tower-gaming-case",
+  "name": "Antec DA601 RGB Tempered Glass Black Mid Tower Gaming Case",
+  "description": "The Antec DA601 is a mid‑tower gaming PC case featuring a sleek black design with tempered glass side panel and built‑in RGB lighting support, designed to house ATX, Micro‑ATX and E‑ATX builds with excellent cooling and expandability.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/DA601_wr_01.jpg",
+  "images": [
+    "/DA601_wr_03.jpg",
+    "/DA601_wr_02.jpg",
+    "/DA601_wr_04.jpg",
+    "/DA601_wr_05.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor supporting ATX, Micro‑ATX and E‑ATX motherboards.",
+    "Tempered glass side panel to showcase internal components.",
+    "Pre‑installed RGB fans with lighting support.",
+    "Optimized airflow design for improved cooling performance.",
+    "Front panel I/O ports including USB and audio connectors.",
+    "Tool‑free drive bays for easy installation.",
+    "Support for multiple fan and radiator configurations.",
+    "PSU shroud for clean cable management.",
+    "Dust filters to keep components clean.",
+    "Compatible with fan and RGB control software."
+  ]
+},
+{
+  "id": "nzxt-h510-mid-tower-pc-case",
+  "name": "NZXT H510 Mid Tower PC Case",
+  "description": "The NZXT H510 is a sleek and modern mid‑tower PC case designed for strong airflow and a clean build experience, featuring tempered glass side panel and intuitive cable management.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/DF700-FLUX_wr_01.jpg",
+  "images": [
+    "/DF700-FLUX_wr_02.jpg",
+    "/DF700-FLUX_wr_03.jpg",
+    "/DF700-FLUX_wr_04.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor compatible with ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Tempered glass side panel for showcasing internal components.",
+    "Optimized airflow design with front and rear fan mounts.",
+    "Front USB‑C and USB‑A ports for easy connectivity.",
+    "Clean and intuitive cable management with built‑in routing channels.",
+    "Removable radiator mounting brackets for easy installation.",
+    "Tool‑less SSD trays for quick storage setup.",
+    "Supports multiple fan and liquid cooling radiators.",
+    "Durable steel construction with premium finish.",
+    "Ideal for gaming, content creation and high‑performance PC builds."
+  ]
+},
+{
+  "id": "antec-dp502-flux-tower-gaming-case",
+  "name": "Antec DP502 FLUX Tower Gaming Case",
+  "description": "The Antec DP502 FLUX is a mid‑tower gaming PC case with a sleek design, optimized airflow, and support for modern components, ideal for high‑performance gaming and custom builds.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/DP502-FLUX-WHITE_wr_01.jpg",
+  "images": [
+    "/DP502-FLUX-WHITE_wr_02.jpg",
+    "/DP502-FLUX-WHITE_wr_01.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor supporting ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Tempered glass side panel to display internal components.",
+    "Optimized airflow design with large front intake and mesh panel.",
+    "Pre‑installed ARGB fans for dynamic lighting effects.",
+    "Support for multiple fan and liquid cooling radiator configurations.",
+    "Front I/O panel with USB‑C, USB‑A, and audio connectors.",
+    "Removable filters for easy dust management.",
+    "Ample interior space for high‑end GPUs and cooling solutions.",
+    "Tool‑free drive bays for quick storage installation.",
+    "Durable steel frame with modern aesthetic design."
+  ]
+},
+{
+  "id": "antec-ea750g-earthwatts-gold-pro-750w-power-supply",
+  "name": "Antec EA750G EarthWatts Gold Pro 750W Power Supply",
+  "description": "The Antec EA750G EarthWatts Gold Pro is a high‑efficiency 750W power supply with 80+ Gold certification and a hybrid modular design, engineered to deliver stable power for gaming and high‑performance PCs.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/EA750G-PRO_wr_02.jpg",
+  "images": [
+    "/EA750G-PRO_wr_01.jpg",
+    "/EA750G-PRO_wr_03.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "750W total power capacity for desktop and gaming systems.",
+    "80+ Gold efficiency rating for lower energy consumption and heat.",
+    "Hybrid modular cable design for flexible cable management.",
+    "Reliable and stable power delivery for CPUs and GPUs.",
+    "120mm cooling fan for balanced airflow and low noise.",
+    "Multi‑rail +12V design for improved performance.",
+    "Protections including over‑voltage, under‑voltage, over‑current, short‑circuit and over‑temperature safeguards.",
+    "Compatible with SLI and CrossFire GPU configurations.",
+    "Durable components for long‑term reliability.",
+    "Easy plug‑and‑play setup for standard ATX systems."
+  ]
+},
+{
+  "id": "antec-nx250-tempered-glass-rgb-atx-case",
+  "name": "Antec NX250 Tempered Glass RGB ATX Case",
+  "description": "The Antec NX250 is an ATX mid‑tower PC case featuring a tempered glass side panel and built‑in RGB lighting, designed to offer excellent airflow, easy installation and stylish aesthetics for gaming and high‑performance builds.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/NX25B_wr_01a.jpg",
+  "images": [
+    "/NX25B_wr_01b.jpg",
+    "/NX25B_wr_02.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "ATX mid‑tower form factor supporting ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Tempered glass side panel for showcasing internal components.",
+    "Pre‑installed RGB fans for vibrant lighting effects.",
+    "Front mesh panel for improved airflow and cooling.",
+    "Spacious interior for high‑end GPUs and cooling solutions.",
+    "Easy cable management with routing channels and tie‑downs.",
+    "Multiple fan and radiator support for effective thermal performance.",
+    "Front I/O panel with USB and audio ports.",
+    "Durable steel construction with premium finish.",
+    "Tool‑free drive bays for quick storage installation."
+  ]
+},
+{
+  "id": "antec-nx260-tower-gaming-case",
+  "name": "Antec NX260 Tower Gaming Case",
+  "description": "The Antec NX260 is a mid‑tower gaming PC case that combines a sleek design with plenty of airflow and cooling support, featuring tempered glass side panels and compatibility with modern gaming components.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/NX26B_wr_01a.jpg",
+  "images": [
+    "/NX26B_wr_02.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor supporting ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Tempered glass front and side panels for immersive viewing of components.",
+    "Optimized airflow design with multiple fan/radiator mounting points.",
+    "Supports high‑end graphics cards and cooling solutions.",
+    "Front I/O panel with USB and audio connectors.",
+    "Easy cable management with dedicated routing channels.",
+    "Room for multiple storage devices including SSDs and HDDs.",
+    "Durable construction with sleek, modern aesthetics.",
+    "Tool‑free drive installation for quick setup.",
+    "Ideal for gaming and performance PC builds."
+  ]
+},
+{
+  "id": "antec-gamer-fleet-df700-mid-tower-gaming-case",
+  "name": "Antec Gamer Fleet DF700 Mid Tower Gaming Case",
+  "description": "The Antec Gamer Fleet DF700 is a mid‑tower gaming PC case designed for performance builds, featuring a high‑airflow front panel, tempered glass side window and support for multiple cooling configurations to keep components cool under load.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/NX292_wr_01a.jpg",
+  "images": [
+    "/NX292_wr_02a.jpg",
+    "/NX292_wr_03a.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor supporting ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "High‑airflow front panel for excellent cooling performance.",
+    "Tempered glass side panel to showcase internal components.",
+    "Multiple fan and radiator mounting points.",
+    "Spacious interior for large GPUs and cooling solutions.",
+    "Front I/O panel with USB and audio ports.",
+    "Easy cable management system with routing channels.",
+    "Support for top and front liquid cooling radiators.",
+    "Tool‑free drive bays for quick installation.",
+    "Modern gaming‑oriented design with RGB fan compatibility."
+  ]
+},
+{
+  "id": "antec-nx310-mid-tower-computer-case",
+  "name": "Antec NX310 Mid Tower Computer Case",
+  "description": "The Antec NX310 is a mid‑tower PC case designed for gaming and high‑performance builds, featuring a sleek exterior, good airflow and compatibility with ATX, Micro‑ATX and Mini‑ITX motherboards.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/NX310_wr_01.jpg",
+  "images": [
+    "/NX310_wr_02.jpg",
+    "/NX310_wr_03.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor supporting ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Front mesh panel for improved airflow.",
+    "Includes one pre‑installed fan at the rear.",
+    "Spacious interior for GPUs and cooling solutions.",
+    "Front I/O panel with USB and audio connectors.",
+    "Tempered or acrylic side panel (model dependent).",
+    "Easy cable management with routing options.",
+    "Support for multiple storage drives (SSD/HDD).",
+    "Tool‑free drive bays for quick installation.",
+    "Durable construction for everyday PC builds."
+  ]
+},
+{
+  "id": "antec-nx600-mid-tower-gaming-case",
+  "name": "Antec NX600 Mid Tower Gaming Case",
+  "description": "The Antec NX600 is a mid‑tower gaming PC case designed for efficient cooling and stylish build presentation, featuring a spacious interior, excellent airflow support, and compatibility with ATX, Micro‑ATX and Mini‑ITX motherboards.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/NX600_wr_01.jpg",
+  "images": [
+    "/NX600_wr_02.jpg",
+    "/NX600_wr_03.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor compatible with ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Front mesh panel for improved airflow and cooling performance.",
+    "Spacious interior to accommodate high‑end GPUs and cooling systems.",
+    "Multiple fan and radiator mounting points for custom cooling setups.",
+    "Front I/O panel with USB and audio connectivity.",
+    "Easy cable management with dedicated routing areas.",
+    "Support for SSDs and HDDs with tool‑free installation.",
+    "Durable steel construction for stable builds.",
+    "Designed for gaming, performance, and enthusiast PC builds.",
+    "Efficient airflow design keeps internal components cool under load."
+  ]
+},
+{
+  "id": "antec-p101-silent-performance-mid-tower-pc-case",
+  "name": "Antec P101 Silent Performance Series Mid Tower PC Case",
+  "description": "The Antec P101 Silent Performance Series is a mid‑tower PC case designed for quiet operation and effective cooling, featuring sound‑dampening panels and four pre‑installed 120 mm fans to keep components cool with minimal noise.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/P120-CRYSTAL_og_01a.jpg",
+  "images": [
+    "/P120-CRYSTAL_wr_02a.jpg",
+    "/P120-CRYSTAL_wr_03a.jpg",
+    "/P120-CRYSTAL_wr_04a.jpg",
+    "/P120-CRYSTAL_wr_06a.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Mid‑tower form factor supporting ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Sound‑dampening panels for quieter operation.",
+    "Four pre‑installed 120 mm cooling fans for optimized airflow.",
+    "Spacious interior for high‑end GPUs and cooling solutions.",
+    "Front I/O panel with USB and audio connectors.",
+    "Tool‑free drive bays for easy SSD/HDD installation.",
+    "Easy cable management with routing channels.",
+    "Support for multiple fan and radiator configurations.",
+    "Durable steel construction for long‑term use.",
+    "Ideal for silent performance PC builds."
+  ]
+},
+{
+  "id": "antec-prizm-120-argb-fan-pack-of-3-with-controller",
+  "name": "Antec Prizm 120 ARGB Fan Pack (3‑Pack) with Controller and RGB LED Strips",
+  "description": "The Antec Prizm 120 ARGB fan pack includes three 120 mm addressable RGB fans, an RGB controller and LED strips. Designed to provide vibrant lighting effects and efficient airflow inside gaming PC cases, it’s compatible with major motherboard RGB software.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/Prizm-120-ARGB_wr_01.jpg",
+  "images": [
+    "/Prizm-120-ARGB_wr_02.jpg",
+    "/Prizm-120-ARGB_wr_03.jpg",
+    "/Prizm-120-ARGB_wr_04.jpg",
+    "/Prizm-120-ARGB_wr_09.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Three high‑performance 120 mm ARGB fans for effective airflow.",
+    "Addressable RGB lighting with vibrant effects.",
+    "Includes RGB controller for easy lighting management.",
+    "RGB LED strips included to enhance interior aesthetics.",
+    "Compatible with major motherboard RGB software (ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, etc.).",
+    "Quiet fan operation with optimized blade design.",
+    "Standard 120 mm fan size fits most PC cases.",
+    "Durable construction for reliable performance.",
+    "Easy installation with included screws and cables.",
+    "Adds both cooling and lighting flair to gaming builds."
+  ]
+},
+{
+  "id": "antec-prizm-x-120-argb-3c-fan-pack",
+  "name": "Antec Prizm X 120 ARGB 3C Fan Pack",
+  "description": "The Antec Prizm X 120 ARGB 3C fan pack includes three 120 mm addressable RGB fans with enhanced lighting effects and optimized cooling performance, designed to elevate airflow and aesthetics in gaming and performance PC builds.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/PRIZM-120-ARGB_wr_01-1.jpg",
+  "images": [
+    "/PRIZM-120-ARGB_wr_02-1.jpg",
+    "/PRIZM-120-ARGB_wr_03-1.jpg",
+    "/PRIZM-120-ARGB_wr_06.jpg",
+    "/PRIZM-120-ARGB_wr_07.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Three 120 mm addressable RGB fans with vibrant lighting effects.",
+    "ARGB lighting compatible with major motherboard RGB software.",
+    "Optimized fan blade design for improved airflow and cooling.",
+    "Includes ARGB controller for easy lighting customization.",
+    "Quiet operation with balanced airflow and noise levels.",
+    "Durable frame and fan construction.",
+    "Standard size fits most PC cases and mounting points.",
+    "Easy installation with included screws and cables.",
+    "Ideal for gaming and high‑performance PC systems.",
+    "Enhances both thermal performance and visual aesthetics."
+  ]
+},
+{
+  "id": "antec-signature-platinum-certified-modular-psu",
+  "name": "Antec Signature Platinum Certified Modular Power Supply",
+  "description": "The Antec Signature Platinum Certified Modular Power Supply is a high‑end PSU designed to deliver premium efficiency, stable power delivery and quiet operation for demanding gaming rigs and professional workstations.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/SP1000_wr_01.jpg",
+  "images": [
+    "/SP1000_wr_02.jpg",
+    "/SP1000_wr_03.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Platinum efficiency rating for reduced energy loss and heat.",
+    "Fully modular cable design for easy cable management.",
+    "Stable and reliable power delivery for high‑performance systems.",
+    "Quiet cooling fan for low noise operation.",
+    "Advanced protections including over‑voltage, under‑voltage, over‑current and short‑circuit safeguards.",
+    "Premium internal components for long‑term durability.",
+    "ATX form factor compatible with standard PC builds.",
+    "Optimized for gaming, creator workstations and enthusiast systems.",
+    "Support for multi‑GPU setups.",
+    "Designed for stable performance under load."
+  ]
+},
+{
+  "id": "antec-symphony-240-argb-liquid-cpu-cooler",
+  "name": "Antec Symphony 240 ARGB Liquid CPU Cooler",
+  "description": "The Antec Symphony 240 ARGB is an all‑in‑one liquid CPU cooler featuring a 240 mm radiator, dual ARGB fans, and customizable lighting effects, designed to deliver efficient cooling and aesthetic flair for gaming and high‑performance PC builds.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/SYMPHONY-240-ARGB_wr_01.jpg",
+  "images": [
+    "/SYMPHONY-240-ARGB_wr_02.jpg",
+    "/SYMPHONY-240-ARGB_wr_03.jpg",
+    "/SYMPHONY-240-ARGB_wr_04.jpg",
+    "/SYMPHONY-240-ARGB_wr_05.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "240 mm radiator for effective liquid cooling performance.",
+    "Dual ARGB fans with vibrant lighting effects.",
+    "ARGB lighting compatible with major motherboard RGB software.",
+    "Efficient heat dissipation for gaming and overclocked CPUs.",
+    "Quiet pump and fan operation for minimal noise.",
+    "Pre‑filled, maintenance‑free design with long‑life coolant.",
+    "Durable tubing and secure mounting hardware.",
+    "Supports multiple Intel and AMD CPU sockets.",
+    "Easy installation with included bracket set.",
+    "Balanced airflow and cooling for high‑performance systems."
+  ]
+},
+{
+  "id": "antec-symphony-360-argb-aio-liquid-cpu-cooler-white",
+  "name": "Antec Symphony 360 ARGB 360mm AIO Liquid CPU Cooler - White",
+  "description": "The Antec Symphony 360 ARGB is a 360 mm all‑in‑one liquid CPU cooler with ARGB lighting and a white design, delivering superior thermal performance and customizable aesthetics for high‑end gaming and workstation PCs.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/SYMPHONY-360-ARGB_wr_03.jpg",
+  "images": [
+    "/SYMPHONY-360-ARGB_wr_01.jpg",
+    "/SYMPHONY-360-ARGB_wr_02.jpg",
+    "/SYMPHONY-360-ARGB_wr_04.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "360 mm radiator for high-performance liquid cooling.",
+    "Three ARGB fans for vibrant and customizable lighting effects.",
+    "White color scheme for aesthetic builds.",
+    "ARGB lighting compatible with major motherboard software.",
+    "Efficient heat dissipation for overclocked and high‑end CPUs.",
+    "Quiet pump and fan operation for minimal noise.",
+    "Pre-filled, maintenance-free liquid cooling system.",
+    "Supports a wide range of Intel and AMD CPU sockets.",
+    "Durable tubing and secure mounting hardware included.",
+    "Easy installation with included accessories and bracket set."
+  ]
+},
+{
+  "id": "antec-symphony-360-argb-360mm-aio-liquid-cpu-cooler-white",
+  "name": "Antec Symphony 360 ARGB 360mm AIO Liquid CPU Cooler - White",
+  "description": "The Antec Symphony 360 ARGB is a 360 mm all‑in‑one liquid CPU cooler featuring three ARGB fans and a white finish, designed to deliver efficient cooling performance and vibrant lighting effects for high‑end gaming and performance PC builds.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/SYMPHONY-360-ARGB-WHITE_wr_01a.jpg",
+  "images": [
+    "/SYMPHONY-360-ARGB-WHITE_wr_02a.jpg",
+    "/SYMPHONY-360-ARGB-WHITE_wr_03a.jpg",
+    "/SYMPHONY-360-ARGB-WHITE_wr_04a.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "360 mm radiator for superior liquid cooling performance.",
+    "Three ARGB fans with customizable lighting effects.",
+    "White aesthetic design to complement RGB builds.",
+    "ARGB lighting compatible with major motherboard sync software.",
+    "Efficient heat dissipation for overclocked CPUs and gaming rigs.",
+    "Quiet pump and fan operation for reduced noise.",
+    "Pre‑filled maintenance‑free liquid cooling system.",
+    "High‑quality tubing and secure mounting hardware.",
+    "Supports a wide range of Intel and AMD CPU sockets.",
+    "Easy installation with included accessories."
+  ]
+},
+{
+  "id": "antec-vp700p-700w-plus-power-supply",
+  "name": "Antec VP700P 700W Plus Power Supply",
+  "description": "The Antec VP700P 700W Plus power supply is a reliable and budget‑friendly PSU designed to deliver stable power for desktop systems, featuring a silent 120 mm fan and essential protection mechanisms.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/VP700P-PLUS_wr_01.jpg",
+  "images": [
+    "/VP700P-PLUS_wr_02.jpg",
+    "/VP700P-PLUS_wr_03.jpg",
+    "/VP700P-PLUS_wr_04.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "700W total power output for desktop PCs.",
+    "Plus efficiency rating for dependable performance.",
+    "120 mm silent cooling fan for quiet operation.",
+    "Over‑voltage, under‑voltage, and short‑circuit protections for safety.",
+    "Stable power delivery suitable for everyday computing.",
+    "ATX form factor compatible with standard PC cases.",
+    "Durable components for long‑term reliability.",
+    "Easy plug‑and‑play setup.",
+    "Adequate for mid‑range builds with moderate power needs.",
+    "Efficient thermal design to reduce heat buildup."
+  ]
+},
+{
+  "id": "antec-vsk3000-elite-mini-tower-micro-atx-case",
+  "name": "Antec VSK3000 Elite Mini Tower Micro‑ATX Case",
+  "description": "The Antec VSK3000 Elite is a compact Mini‑Tower PC case designed for Micro‑ATX systems, featuring a budget‑friendly build with USB 3.0 support and multiple drive bay options for storage expansion.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/VSK3000-ELITE_wr_01.jpg",
+  "images": [
+    "/VSK3000-ELITE_wr_02.jpg",
+    "/VSK3000-ELITE_wr_03.jpg"
+  ],
+  "brand": "Antec",
+  "inStock": true,
+  "features": [
+    "Compact Mini‑Tower design ideal for Micro‑ATX builds.",
+    "Front USB 3.0 port for fast data transfer and connectivity.",
+    "Supports multiple storage drives including SSDs and HDDs.",
+    "Airflow‑optimized chassis with ventilation panels.",
+    "Tool‑free design for easy assembly and upgrades.",
+    "Space for standard power supplies and common hardware.",
+    "Stylish black finish for neat desktop setups.",
+    "Easy cable management for clean interior layout.",
+    "Quick installation with included mounting hardware.",
+    "Budget‑friendly case suitable for everyday systems."
+  ]
 }
-
 ]

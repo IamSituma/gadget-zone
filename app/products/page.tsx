@@ -40,6 +40,7 @@ export default function ProductsPage() {
     "Wearables",
     "Audio Accessories",
     "Networking",
+    "PC Cases",
     "Mobile Phones & Tablets",
     "Car Accessories",
     "Computer Accessories",
@@ -62,7 +63,7 @@ export default function ProductsPage() {
     "Solar Panels",
   ]
 
-  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD")[] = ["All", "Gizzu", "Xiaomi", "AMD"]
+  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec")[] = ["All", "Gizzu", "Xiaomi", "AMD", "Antec"]
 
   /* Detect mobile */
   useEffect(() => {
