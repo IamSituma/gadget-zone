@@ -9,7 +9,7 @@ export type ProductCategory =
   | "Audio Accessories"
   | "Mobile Phones & Tablets"
   | "Car Accessories"
-  | "Computer Accessories"
+  | "Computers & Accessories"
   | "Home Accessories"
   | "Electric Scooters"
   | "Bathroom Accessories"

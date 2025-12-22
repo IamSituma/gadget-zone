@@ -50,7 +50,7 @@ export default function ProductsPage() {
     "PC Cases",
     "Mobile Phones & Tablets",
     "Car Accessories",
-    "Computer Accessories",
+    "Computers & Accessories",
     "Electric Scooters",
     "Home Accessories",
     "Bathroom Accessories",
@@ -69,8 +69,8 @@ export default function ProductsPage() {
     "Solar Panels",
   ]
 
-  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC" | "ASRock" | "FSP" | "GeIL")[] =
-    ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock", "FSP", "GeIL"]
+  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC" | "ASRock" | "FSP" | "GeIL" | "Giada")[] =
+    ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock", "FSP", "GeIL", "Giada"]
 
   /* Detect mobile */
   useEffect(() => {
