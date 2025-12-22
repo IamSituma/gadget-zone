@@ -30,6 +30,12 @@ export default function ProductsPage() {
   const [visibleCount, setVisibleCount] = useState(productsPerPage)
   const [isMobile, setIsMobile] = useState(false)
 
+  // States to control “View More / View Less”
+  const [showAllCategoriesMobile, setShowAllCategoriesMobile] = useState(false)
+  const [showAllCategoriesDesktop, setShowAllCategoriesDesktop] = useState(false)
+  const [showAllBrandsMobile, setShowAllBrandsMobile] = useState(false)
+  const [showAllBrandsDesktop, setShowAllBrandsDesktop] = useState(false)
+
   const loadMoreRef = useRef<HTMLDivElement | null>(null)
 
   const products = productsData as Product[]
@@ -63,7 +69,8 @@ export default function ProductsPage() {
     "Solar Panels",
   ]
 
-  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC" | "ASRock" | "FSP")[] = ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock", "FSP"]
+  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC" | "ASRock" | "FSP" | "Geil")[] =
+    ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock", "FSP", "Geil"]
 
   /* Detect mobile */
   useEffect(() => {
@@ -140,6 +147,13 @@ export default function ProductsPage() {
         currentPage * productsPerPage
       )
 
+  /* Helper to show first 10 categories / 5 brands or all */
+  const mobileCategoriesToShow = showAllCategoriesMobile ? categories : categories.slice(0, 5)
+  const desktopCategoriesToShow = showAllCategoriesDesktop ? categories : categories.slice(0, 6)
+
+  const mobileBrandsToShow = showAllBrandsMobile ? brands : brands.slice(0, 3)
+  const desktopBrandsToShow = showAllBrandsDesktop ? brands : brands.slice(0, 4)
+
   return (
     <div className="min-h-screen overflow-x-hidden">
       <AnnouncementBanner />
@@ -173,6 +187,7 @@ export default function ProductsPage() {
               </DrawerHeader>
 
               <div className="px-4 pb-6 space-y-6 overflow-y-auto">
+                {/* Categories Mobile */}
                 <div>
                   <h3 className="mb-2 font-medium">Categories</h3>
                   <RadioGroup
@@ -182,15 +197,28 @@ export default function ProductsPage() {
                       setMobileFilterOpen(false)
                     }}
                   >
-                    {categories.map((c) => (
+                    {mobileCategoriesToShow.map((c) => (
                       <div key={c} className="flex items-center space-x-2 mb-1">
                         <RadioGroupItem value={c} id={`m-${c}`} />
                         <Label htmlFor={`m-${c}`}>{c}</Label>
                       </div>
                     ))}
                   </RadioGroup>
+                  {categories.length > 10 && (
+                    <div className="mt-2">
+                      <Button
+                        variant="link"
+                        size="sm"
+                        className="text-green-600 hover:text-green-800"
+                        onClick={() => setShowAllCategoriesMobile(!showAllCategoriesMobile)}
+                      >
+                        {showAllCategoriesMobile ? "View Less" : "View More"}
+                      </Button>
+                    </div>
+                  )}
                 </div>
 
+                {/* Brands Mobile */}
                 <div>
                   <h3 className="mb-2 font-medium">Brand</h3>
                   <RadioGroup
@@ -200,13 +228,25 @@ export default function ProductsPage() {
                       setMobileFilterOpen(false)
                     }}
                   >
-                    {brands.map((b) => (
+                    {mobileBrandsToShow.map((b) => (
                       <div key={b} className="flex items-center space-x-2 mb-1">
                         <RadioGroupItem value={b} id={`mb-${b}`} />
                         <Label htmlFor={`mb-${b}`}>{b}</Label>
                       </div>
                     ))}
                   </RadioGroup>
+                  {brands.length > 5 && (
+                    <div className="mt-2">
+                      <Button
+                        variant="link"
+                        size="sm"
+                        className="text-green-600 hover:text-green-800"
+                        onClick={() => setShowAllBrandsMobile(!showAllBrandsMobile)}
+                      >
+                        {showAllBrandsMobile ? "View Less" : "View More"}
+                      </Button>
+                    </div>
+                  )}
                 </div>
 
                 <Button variant="outline" className="w-full" onClick={() => {
@@ -230,34 +270,60 @@ export default function ProductsPage() {
               className="rounded-lg border px-3 py-2 text-sm"
             />
 
+            {/* Categories Desktop */}
             <div>
               <h3 className="mb-2 font-medium">Categories</h3>
               <RadioGroup
                 value={selectedCategory}
                 onValueChange={(v) => setSelectedCategory(v as any)}
               >
-                {categories.map((c) => (
+                {desktopCategoriesToShow.map((c) => (
                   <div key={c} className="flex items-center space-x-2 mb-1">
                     <RadioGroupItem value={c} id={`d-${c}`} />
                     <Label htmlFor={`d-${c}`}>{c}</Label>
                   </div>
                 ))}
               </RadioGroup>
+              {categories.length > 10 && (
+                <div className="mt-2">
+                  <Button
+                    variant="link"
+                    size="sm"
+                    className="text-green-600 hover:text-green-800"
+                    onClick={() => setShowAllCategoriesDesktop(!showAllCategoriesDesktop)}
+                  >
+                    {showAllCategoriesDesktop ? "View Less" : "View More"}
+                  </Button>
+                </div>
+              )}
             </div>
 
+            {/* Brands Desktop */}
             <div>
               <h3 className="mb-2 font-medium">Brand</h3>
               <RadioGroup
                 value={selectedBrand}
                 onValueChange={(v) => setSelectedBrand(v as any)}
               >
-                {brands.map((b) => (
+                {desktopBrandsToShow.map((b) => (
                   <div key={b} className="flex items-center space-x-2 mb-1">
                     <RadioGroupItem value={b} id={`db-${b}`} />
                     <Label htmlFor={`db-${b}`}>{b}</Label>
                   </div>
                 ))}
               </RadioGroup>
+              {brands.length > 5 && (
+                <div className="mt-2">
+                  <Button
+                    variant="link"
+                    size="sm"
+                    className="text-green-600 hover:text-green-800"
+                    onClick={() => setShowAllBrandsDesktop(!showAllBrandsDesktop)}
+                  >
+                    {showAllBrandsDesktop ? "View Less" : "View More"}
+                  </Button>
+                </div>
+              )}
             </div>
 
             <Button
