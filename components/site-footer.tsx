@@ -67,13 +67,13 @@ export function SiteFooter() {
                 </Link>
               </li>
               <li>
-                <Link href="/products?category=UPS Batteries" className="text-muted-foreground hover:text-primary">
-                  UPS Batteries
+                <Link href="/products?category=UPS Backup" className="text-muted-foreground hover:text-primary">
+                  UPS Backup
                 </Link>
               </li>
               <li>
-                <Link href="/products?category=Cables %26 Adapters" className="text-muted-foreground hover:text-primary">
-                  Cables & Adapters
+                <Link href="/products?category=Chargers %26 Adapters" className="text-muted-foreground hover:text-primary">
+                  Chargers & Adapters
                 </Link>
               </li>
             </ul>
