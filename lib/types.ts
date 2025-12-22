@@ -42,6 +42,8 @@ export interface Product {
   brand: string
   inStock: boolean
   color?: string
+  memory?: number   
+  memoryOptions?: number []
   specifications?: Record<string, string>
   features?: string[]
 }

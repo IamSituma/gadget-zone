@@ -8,20 +8,16 @@ import { getProductById, getAllProducts, getRelatedProducts, getVariants } from 
 import { Check } from "lucide-react"
 import { ProductCard } from "@/components/product-card"
 import { ProductActions } from "@/components/product-actions"
-import { ProductImageGallery } from "@/components/product-image-gallery"
 import ProductGalleryVariants from "@/components/product-gallery-variants"
 import { ProductShare } from "@/components/product-share"
 import { WhatsAppButton } from "@/components/whatsapp-button"
-import { formatUGX } from "@/lib/utils"
 
 export default async function ProductPage({
   params,
 }: {
   params: Promise<{ id: string }>
 }) {
-  // ⬅ Next.js 15 FIX
   const { id } = await params
-
   const product = await getProductById(id)
   if (!product) notFound()
 
@@ -35,9 +31,7 @@ export default async function ProductPage({
 
       <main className="container mx-auto px-4 py-8">
         <div className="grid gap-8 lg:grid-cols-2">
-          {/* Image Gallery (with variants) */}
-          {/* ProductGalleryVariants is a client component that will handle variant selection */}
-          {/* Import it dynamically to avoid server/client mismatch */}
+          {/* Image Gallery */}
           {/* @ts-ignore-next-line */}
           <ProductGalleryVariants product={product} variants={variants} />
 
@@ -65,24 +59,9 @@ export default async function ProductPage({
                 )}
 
                 <div className="ml-auto">
-                  <ProductShare
-                    productName={product.name}
-                    productId={product.id}
-                  />
+                  <ProductShare productName={product.name} productId={product.id} />
                 </div>
               </div>
-            </div>
-
-            {/* Price / Contact */}
-            <div className="flex items-center gap-3">
-              <p className="text-xl font-semibold">Contact for price</p>
-              <WhatsAppButton
-                size="sm"
-                message={`Hello Voltspire! I'm interested in the ${product.name}. Could you share the price?\n\nProduct link: ${
-                  typeof window !== "undefined" ? window.location.origin : ""
-                }/product/${product.id}`}
-                productId={product.id}
-              />
             </div>
 
             <Separator />
@@ -105,11 +84,11 @@ export default async function ProductPage({
               </div>
             )}
 
+
             {/* Specifications */}
             {product.specifications && (
               <>
                 <Separator />
-
                 <div>
                   <h2 className="mb-4 text-lg font-semibold">Specifications</h2>
                   <div className="space-y-2">
@@ -133,7 +112,6 @@ export default async function ProductPage({
         {relatedProducts.length > 0 && (
           <div className="mt-16">
             <h2 className="mb-6 text-2xl font-bold">Related Products</h2>
-
             <div className="grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-4">
               {relatedProducts.map((rp) => (
                 <ProductCard key={rp.id} product={rp} />
@@ -147,13 +125,11 @@ export default async function ProductPage({
 }
 
 /* ----------------------------- Metadata ----------------------------- */
-
 export async function generateMetadata({
   params,
 }: {
   params: Promise<{ id: string }>
 }): Promise<Metadata> {
-  // ⬅ Next.js 15 FIX
   const { id } = await params
   const product = await getProductById(id)
 
@@ -163,10 +139,8 @@ export async function generateMetadata({
 }
 
 /* --------------------------- Static Params --------------------------- */
-
 export async function generateStaticParams() {
   const products = await getAllProducts()
-
   return products.map((product) => ({
     id: product.id.toString(),
   }))

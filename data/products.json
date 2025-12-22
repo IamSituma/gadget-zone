@@ -4588,7 +4588,7 @@
     "/GGP2_wr_01a.jpg"
   ],
   "brand": "Gizzu",
-  "inStock": false,
+  "inStock": true,
   "features": [
     "Super sticky and reusable gel pad perfect for holding small items in place.",
     "Helps prevent phones and other items from sliding around.",
@@ -6974,6 +6974,336 @@
     "Battery backup ensures safe shutdown during outages.",
     "LED indicators for power and battery status.",
     "Ideal for basic power protection and device continuity."
+  ]
+},
+{
+  "id": "geil-ddr5-polaris-rgb-32gb-kit",
+  "name": "GeIL DDR5 Polaris RGB OC 32GB Kit",
+  "description": "The GeIL DDR5 Polaris RGB 5600 OC 32GB Kit is a high‑speed dual‑channel memory kit with vibrant RGB lighting, designed for modern platforms to deliver fast performance and eye‑catching aesthetics.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAOSG532GB4800C40DC_wr_01.jpg",
+  "images": [
+    "/GAOSG532GB4800C40DC_wr_01a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "Comes in 4800MHz, 5200MHz and 5600MHz",
+    "32 GB DDR5 memory kit (2 × 16 GB) for dual‑channel performance.",
+    "Rated at 5600 MT/s with overclocking support for enhanced speed.",
+    "RGB lighting with customizable effects to match gaming builds.",
+    "High‑quality heat spreaders for thermal management.",
+    "Optimized for next‑gen platforms with DDR5 support.",
+    "Improved power efficiency compared to DDR4 modules.",
+    "Easy plug‑and‑play installation in compatible motherboards.",
+    "Supports JEDEC and XMP profiles for easy tuning.",
+    "Low‑latency performance for responsive multitasking.",
+    "Ideal for gaming, content creation and demanding workloads."
+  ]
+},
+{
+  "id": "geil-ddr5-polaris-rgb-32gb-kit-red",
+  "name": "GeIL DDR5 Polaris RGB OC 32GB Kit",
+  "description": "The GeIL DDR5 Polaris RGB 5600 OC 32GB Kit is a high‑speed dual‑channel memory kit with vibrant RGB lighting, designed for modern platforms to deliver fast performance and eye‑catching aesthetics.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAOSR532GB5200C34ADC_wr_01.jpg",
+  "images": [
+    "/GAOSR532GB5200C34ADC_wr_01.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "color": "Red & Black",
+  "features": [
+    "Comes in 4800MHz, 5200MHz and 5600MHz",
+    "32 GB DDR5 memory kit (2 × 16 GB) for dual‑channel performance.",
+    "Rated at 5600 MT/s with overclocking support for enhanced speed.",
+    "RGB lighting with customizable effects to match gaming builds.",
+    "High‑quality heat spreaders for thermal management.",
+    "Optimized for next‑gen platforms with DDR5 support.",
+    "Improved power efficiency compared to DDR4 modules.",
+    "Easy plug‑and‑play installation in compatible motherboards.",
+    "Supports JEDEC and XMP profiles for easy tuning.",
+    "Low‑latency performance for responsive multitasking.",
+    "Ideal for gaming, content creation and demanding workloads."
+  ]
+},
+{
+  "id": "geil-ddr5-polaris-rgb-32gb-kit-white",
+  "name": "GeIL DDR5 Polaris RGB OC 32GB Kit",
+  "description": "The GeIL DDR5 Polaris RGB 5600 OC 32GB Kit is a high‑speed dual‑channel memory kit with vibrant RGB lighting, designed for modern platforms to deliver fast performance and eye‑catching aesthetics.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GAOSW532GB5200C34ADC_wr_01.jpg",
+  "images": [
+    "/GAOSW532GB5200C34ADC_wr_01.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "color": "White",
+  "features": [
+    "Comes in 4800MHz, 5200MHz and 5600MHz",
+    "32 GB DDR5 memory kit (2 × 16 GB) for dual‑channel performance.",
+    "Rated at 5600 MT/s with overclocking support for enhanced speed.",
+    "RGB lighting with customizable effects to match gaming builds.",
+    "High‑quality heat spreaders for thermal management.",
+    "Optimized for next‑gen platforms with DDR5 support.",
+    "Improved power efficiency compared to DDR4 modules.",
+    "Easy plug‑and‑play installation in compatible motherboards.",
+    "Supports JEDEC and XMP profiles for easy tuning.",
+    "Low‑latency performance for responsive multitasking.",
+    "Ideal for gaming, content creation and demanding workloads."
+  ]
+},
+{
+  "id": "geil-orion-rgb-16gb-3600mhz-ddr4",
+  "name": "GeIL Orion RGB 16GB 3600MHz DDR4 Gaming Memory",
+  "description": "The GeIL Orion RGB 16GB 3600MHz DDR4 Gaming Memory delivers fast, reliable performance with stunning RGB lighting and excellent compatibility, making it ideal for gaming PCs and performance desktops.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG48GB3200C16BSC_wr_01a.jpg",
+  "images": [
+    "/GOSG48GB3200C16BSC_wr_02a.jpg",
+    "/GOSG48GB3200C16BSC_wr_03a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "16GB DDR4 desktop memory module.",
+    "Rated speed of 3600MHz for high-performance computing.",
+    "RGB lighting with smooth illumination effects.",
+    "Compatible with ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion and ASRock Polychrome.",
+    "Optimized for gaming and high-performance applications.",
+    "Intel XMP 2.0 support for easy performance tuning.",
+    "Stylish low-profile heatsink for effective cooling.",
+    "Built for stability, performance and long-term reliability.",
+    "Tested for compatibility with leading motherboard brands.",
+    "Ideal for gaming, content creation and multitasking setups."
+  ]
+},
+{
+  "id": "geil-orion-rgb-16gb-2x8gb-ddr4-3600mhz",
+  "name": "GeIL Orion RGB 16GB (2 x 8GB) DDR4-3600MHz Desktop Gaming Memory",
+  "description": "Illuminate your system with striking RGB lighting and reliable performance with the GeIL Orion RGB 16GB (2 x 8GB) DDR4-3600MHz Desktop Gaming Memory. Designed for gamers and content creators, this kit combines vibrant lighting effects with high-speed memory and broad compatibility for modern PC builds, while supporting popular motherboard lighting control systems.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG416GB3200C16BDC_wr_01a.jpg",
+  "images": [
+    "/GOSG416GB3200C16BDC_wr_02a.jpg",
+    "/GOSG416GB3200C16BDC_wr_03a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "16GB DDR4 memory kit (2 x 8GB) with RGB lighting effects.", 
+    "DDR4-3600MHz frequency for responsive gaming and multitasking performance.", 
+    "Smooth and customizable RGB illumination compatible with ASUS Aura Sync, ASRock Polychrome, Biostar RGB Sync, Gigabyte RGB Fusion 2.0, and MSI Mystic Light.", 
+    "Futuristic sci-fi pattern and heat spreader design with minimal mechanical interference.", 
+    "XMP support for easy performance tuning and overclocking.", 
+    "Tested with GeIL DYNA 4 technology for stability and compatibility.", 
+    "Ideal for gaming PCs, content creation rigs, and high-performance builds."
+  ]
+},
+{
+  "id": "geil-orion-rgb-16gb-ddr4-3200mhz",
+  "name": "GeIL Orion RGB 16GB DDR4-3200MHz Desktop Gaming Memory (Gray)",
+  "description": "The GeIL Orion RGB 16GB DDR4-3200MHz Desktop Gaming Memory delivers reliable high-speed performance for gaming and multitasking, combined with smooth RGB lighting effects. Designed for modern desktop systems with broad compatibility and a sleek gray heat spreader, it’s ideal for gamers and content creators alike.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG416GB3200C16BSC_wr_01a.jpg",
+  "images": [
+    "/GOSG416GB3200C16BSC_wr_02a.jpg",
+    "/GOSG416GB3200C16BSC_wr_03a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "16GB DDR4 desktop memory module with RGB lighting effects.",
+    "3200MHz frequency for responsive performance in gaming and multitasking.",
+    "CAS Latency: 16-20-20-40 for reliable timings under load.", 
+    "RGB lighting compatible with ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion 2.0, ASRock Polychrome and other lighting control software.",
+    "Titanium gray heat spreader for style and improved cooling.",
+    "Supports Intel XMP 2.0 for easy performance tuning.",
+    "Tested for stability and broad compatibility using GeIL DYNA 4 technology.",
+    "Ideal for content creators, gamers, and high-performance desktop systems."
+  ]
+},
+{
+  "id": "geil-orion-rgb-16gb-2x8gb-ddr4-3600mhz",
+  "name": "GeIL Orion RGB 16GB (2 × 8GB) DDR4‑3600MHz Desktop Gaming Memory",
+  "description": "The GeIL Orion RGB 16GB (2 × 8GB) DDR4‑3600MHz Desktop Gaming Memory delivers high‑speed performance, striking RGB lighting, and broad compatibility with modern desktop systems. Designed for gamers and creators, this dual‑channel kit combines fast DDR4‑3600 speed with smooth customizable RGB effects and tested stability for reliable daily use.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG416GB3600C18BDC_wr_01a.jpg",
+  "images": [
+    "/GOSG416GB3600C18BDC_wr_02a.jpg",
+    "/GOSG416GB3600C18BDC_wr_03a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "16GB DDR4 memory kit (2 × 8GB) with customizable RGB lighting.",
+    "DDR4‑3600 (PC4‑28800) frequency for responsive gaming performance.", 
+    "CAS Latency 18‑22‑22‑42 for balanced speed and latency performance.", 
+    "1.35V operating voltage for efficient power use.", 
+    "Supports Intel XMP 2.0 profiles for easy performance tuning.", 
+    "Compatible with major RGB motherboard lighting systems: ASUS Aura Sync, ASRock Polychrome, Biostar RGB SYNC, Gigabyte RGB Fusion 2.0, MSI Mystic Light.", 
+    "Designed to fit most desktop systems with standard height heat spreaders.", 
+    "Tested for stability using GeIL DYNA 4 SLT testing technology.", 
+    "Dual‑channel kit for improved multi‑tasking and gaming performance.", 
+    "Ideal for gaming PCs, content creation, and high‑performance desktop applications."
+  ]
+},
+{
+  "id": "geil-orion-rgb-16gb-ddr4-3600mhz-1x16gb",
+  "name": "GeIL Orion RGB 16GB (1 × 16GB) DDR4‑3600MHz Desktop Gaming Memory",
+  "description": "The GeIL Orion RGB 16GB (1 × 16GB) DDR4‑3600MHz Desktop Gaming Memory delivers high‑speed performance and addressable RGB lighting for gaming and multimedia systems. Featuring tested 3600MT/s speed, Intel XMP 2.0 support, and a sleek titanium grey heat spreader with dynamic RGB effects, this module blends performance with aesthetics for modern PC builds.",  
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG416GB3600C18BSC_wr_01a.jpg",
+  "images": [
+    "/GOSG416GB3600C18BSC_wr_02a.jpg",
+    "/GOSG416GB3600C18BSC_wr_03a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "16GB DDR4 desktop memory module with addressable RGB lighting.",  
+    "DDR4‑3600MT/s tested speed for responsive performance in gaming and multitasking.",  
+    "CAS Latency: CL18 for consistent performance across workloads.",  
+    "Operates at 1.35V for efficient power delivery.",  
+    "Intel XMP 2.0 compatible for quick and easy transparent overclocking.",  
+    "Titanium grey heat spreader with sleek RGB lighting effects.",  
+    "GeIL Orion Addressable RGB supported by popular motherboard lighting systems.",  
+    "Unbuffered DDR4 module with broad compatibility for modern PC builds.",  
+    "Ideal for gaming, content creation and everyday computing setups.",  
+    "Backed by a limited lifetime warranty for long‑term reliability."
+  ]
+},
+{
+  "id": "geil-orion-rgb-32gb-ddr4-3600mhz-2x16gb",
+  "name": "GeIL Orion RGB DDR4 32GB (2 × 16GB) 3600MHz Desktop Memory",
+  "description": "The GeIL Orion RGB DDR4 32GB (2 × 16GB) 3600MHz Desktop Memory kit delivers high‑speed DDR4 performance with stunning RGB lighting effects. Engineered for gamers, creators, and multimedia workflows, this dual‑channel memory supports Intel XMP 2.0 for easy overclocking and broad compatibility with Intel and AMD platforms, while its vibrant addressable RGB lighting enhances any build.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG432GB3200C16BDC_wr_01a.jpg",
+  "images": [
+    "/GOSG432GB3200C16BDC_wr_03a.jpg",
+    "/GOSG432GB3200C16BDC_wr_02a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "32GB DDR4 desktop memory kit (2 × 16GB) with addressable RGB lighting.",
+    "DDR4‑3600MHz tested speed for responsive gaming, creation, and multitasking performance.",  
+    "Dual‑channel memory configuration for optimized bandwidth and multitasking.",  
+    "Intel XMP 2.0 ready support for easy setup of high‑performance profiles.",  
+    "Non‑ECC unbuffered memory optimized for desktop systems.",  
+    "RGB lighting compatible with major motherboard lighting control software such as ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, and ASRock Polychrome.",
+    "Tested latency ~19‑20‑20‑40 and standard 1.35V operating voltage for stable performance (actual timings depend on motherboard/CPU support). :contentReference[oaicite:0]{index=0}",
+    "Sleek heat spreader with futuristic design blends performance and aesthetics.",
+    "Ideal for high‑performance gaming, multimedia content creation, and quality live streaming.",
+    "Broad compatibility with both Intel and AMD platforms."
+  ]
+},{
+  "id": "geil-orion-rgb-32gb-2x16gb-ddr4-3600mhz",
+  "name": "GeIL Orion RGB 32GB (2 × 16GB) DDR4‑3600MHz Desktop Gaming Memory",
+  "description": "The GeIL Orion RGB 32GB (2 × 16GB) DDR4‑3600MHz Desktop Gaming Memory kit combines high‑speed DDR4 performance with stunning addressable RGB lighting and a striking red heat spreader design. Ideal for gaming, content creation, and high‑performance desktop builds, this memory supports Intel XMP 2.0 for easy performance tuning and integrates seamlessly with motherboard lighting software.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG432GB3600C18BDC_wr_01a.jpg",
+  "images": [
+    "/GOSG432GB3600C18BDC_wr_02a.jpg",
+    "/GOSG432GB3600C18BDC_wr_03a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "32GB DDR4 desktop memory kit (2 × 16GB) with addressable RGB lighting.",
+    "DDR4‑3600MHz tested frequency for responsive gaming and multitasking performance.",  
+    "CAS Latency: 18‑22‑22‑42 for balanced performance under load.",  
+    "1.35V operating voltage for efficient power usage and stability.",  
+    "Intel XMP 2.0 support for quick and easy high‑performance configuration.",
+    "Smooth and customizable RGB lighting compatible with ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion 2.0, ASRock Polychrome and other systems.",
+    "Futuristic sci‑fi pattern design with a red heat spreader for eye‑catching aesthetics.",
+    "Dual‑channel kit delivers improved bandwidth for gaming and creative applications.",
+    "Tested with GeIL DYNA 4 SLT technology for reliability and compatibility.",
+    "Ideal for gamers, content creators, and performance‑oriented desktop systems."
+  ]
+},
+{
+  "id": "geil-polaris-rgb-32gb-ddr5-6000mhz-2x16gb-red",
+  "name": "GeIL Polaris RGB OC 32GB (2 × 16GB) DDR5‑6000MHz Gaming Memory – Red",
+  "description": "The GeIL Polaris RGB OC 32GB (2 × 16GB) DDR5‑6000MHz Gaming Memory kit delivers next‑generation DDR5 performance with vibrant addressable RGB lighting effects designed for gaming and high‑performance desktop builds. Featuring on‑die ECC for improved data integrity, local voltage regulation for better tuning, and broad motherboard lighting compatibility, this kit enhances both performance and visual style.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSG532GB6000C38ADC_wr_01-1.jpeg",
+  "images": [
+    "/GOSG532GB6000C38ADC_wr_02-1.jpeg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "32GB DDR5 desktop memory kit (2 × 16GB) with addressable RGB lighting.",
+    "DDR5‑6000MHz tested performance for fast gaming and demanding applications.",
+    "CAS Latency: 38‑40‑40‑82 for balanced high‑speed performance.",
+    "Operates at 1.25V with support for optimized voltage tuning.",
+    "On‑die ECC improves data integrity and system stability.",
+    "Local voltage regulation with PMIC (Power Management IC) for better power control.",
+    "Intel XMP support for easy overclocking setup.",
+    "Striking red heat spreader design to enhance visual appeal in gaming builds.",
+    "Compatible with major motherboard RGB lighting ecosystems.",
+    "Ideal for gaming, content creation, and high‑performance desktop applications."
+  ]
+},
+{
+  "id": "geil-polaris-rgb-ddr5-32gb-5600mhz-2x16gb",
+  "name": "GeIL Polaris RGB DDR5 32GB (2 × 16GB) 5600MHz Desktop Memory",
+  "description": "The GeIL Polaris RGB DDR5 32GB (2 × 16GB) 5600MHz Desktop Memory kit delivers next‑generation high‑speed DDR5 performance with eye‑catching RGB lighting effects. Designed for gaming, multimedia content creation, and immersive computing workloads, this dual‑channel memory kit supports both Intel and AMD platforms for improved bandwidth, responsiveness, and overall system performance.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSR416GB3600C18BDC_wr_01.jpg",
+  "images": [
+    "/GOSR416GB3600C18BDC_wr_01a.jpg",
+    "/GOSR416GB3600C18BDC_wr_02a.jpg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "32GB DDR5 desktop memory kit (2 × 16GB) with vibrant RGB lighting.",
+    "DDR5‑5600MHz tested speed for fast gaming, content creation, and multitasking performance.",  
+    "Dual‑channel memory configuration for optimized bandwidth and responsiveness.",  
+    "1.25V operating voltage for stable high‑speed performance.",  
+    "Intel and AMD compatible for broad platform support.",  
+    "Addressable RGB lighting compatible with major motherboard RGB ecosystems such as ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, and ASRock Polychrome.",  
+    "Enhanced performance for immersive gaming, video editing, and heavy multimedia workflows.",  
+    "Unbuffered and non‑ECC memory ideal for desktop systems.",  
+    "Supports modern performance tuning and customization features on supporting platforms.",  
+    "Excellent choice for high‑performance builds and next‑gen computing."
+  ]
+},
+{
+  "id": "geil-polaris-rgb-ddr5-32gb-5600mhz-2x16gb",
+  "name": "GeIL Polaris RGB DDR5 32GB (2 × 16GB) 5600MHz Desktop Memory",
+  "description": "The GeIL Polaris RGB DDR5 32GB (2 × 16GB) 5600MHz Desktop Memory kit delivers high‑speed DDR5 performance with vivid addressable RGB lighting. Designed for immersive gaming, multimedia content creation, and high‑performance desktop systems, this dual‑channel kit brings fast transfer speeds, broad platform compatibility, and customizable RGB effects to your PC build.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/GOSR532GB6000C38ADC_wr_01.jpeg",
+  "images": [
+    "/GOSR532GB6000C38ADC_wr_02.jpeg"
+  ],
+  "brand": "GeIL",
+  "inStock": true,
+  "features": [
+    "32GB DDR5 desktop memory kit (2 × 16GB) with addressable RGB lighting.",
+    "DDR5‑5600MHz tested speed for responsive gaming, creation, and multitasking performance.", 
+    "Dual‑channel configuration maximizes memory bandwidth and responsiveness.", 
+    "Voltage: ~1.25 V for stable high‑speed operation.", 
+    "Addressable RGB lighting compatible with major motherboard lighting ecosystems such as ASUS Aura Sync, MSI Mystic Light, Gigabyte RGB Fusion, and ASRock Polychrome.",
+    "Unbuffered non‑ECC memory designed for desktop systems.",
+    "Ideal for immersive gaming, multimedia content creation, and high‑performance workloads.",
+    "Broad platform compatibility with both Intel and AMD systems that support DDR5 memory."
   ]
 }
 
