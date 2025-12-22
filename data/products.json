@@ -7542,6 +7542,106 @@
     "Compact metal chassis (116.6 × 107.4 × 30 mm) suitable for VESA or desk mounting.",
     "Compatible with Windows 10 (64‑bit) and Linux operating systems."
   ]
+},
+{
+  "id": "intel-core-i5-12600kf",
+  "name": "Intel Core i5‑12600KF 12th Gen Desktop Processor",
+  "description": "The Intel Core i5‑12600KF is a 12th Generation Alder Lake desktop processor featuring a hybrid architecture with 10 cores (6 performance + 4 efficiency) and 16 threads, designed for high‑performance computing, gaming, and content creation. It delivers strong single‑ and multi‑threaded performance with support for both DDR4 and DDR5 memory and is unlocked for overclocking, although it lacks integrated graphics.",
+  "category": "Computers & Accessories",
+  "condition": "Used",
+  "image": "/BX8071512600KF_wr_02.jpg",
+  "images": [
+    "BX8071512600KF_wr_02.jpg"
+  ],
+  "brand": "Intel",
+  "inStock": true,
+  "features": [
+    "12th Generation Intel Core i5 desktop processor with Alder Lake architecture.",
+    "10 cores (6 performance + 4 efficient) and 16 threads for balanced performance.",
+    "Base clock: 3.7 GHz (performance cores), up to 4.90 GHz turbo boost frequency.",
+    "20 MB Intel Smart Cache for improved data throughput.",
+    "Unlocked for overclocking with compatible motherboards.",
+    "Requires a dedicated graphics card (no integrated GPU on the KF variant).",
+    "Supports up to 128 GB memory with DDR4‑3200 or DDR5‑4800 in dual‑channel configuration.",
+    "Socket: LGA1700 for modern Intel 600/700‑series motherboards.",
+    "PCIe 5.0 and 4.0 support for next‑gen GPUs and storage solutions.",
+    "Ideal for gaming, productivity, and high‑performance desktop systems."
+  ]
+},
+{
+  "id": "intel-core-i7-12700kf",
+  "name": "Intel Core i7‑12700KF 12th Gen Desktop Processor",
+  "description": "The Intel Core i7‑12700KF is a high‑performance desktop processor based on Intel’s 12th Generation Alder Lake architecture, featuring a hybrid core design with 12 cores (8 performance + 4 efficiency) and 20 threads. With a base performance clock of 3.6 GHz and turbo speeds up to 5.0 GHz, it delivers strong performance for gaming, content creation, and demanding workloads. It supports modern DDR4 and DDR5 memory standards and offers unlocked overclocking capability, though it requires a discrete GPU due to the absence of integrated graphics.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/BX8071512700KF_wr_01.jpg",
+  "images": [
+    "/BX8071512700KF_wr_01.jpg"
+  ],
+  "brand": "Intel",
+  "inStock": true,
+  "features": [
+    "12th Generation Intel Core i7 processor with Alder Lake hybrid architecture.",
+    "Total of 12 cores (8 performance + 4 efficiency) and 20 threads for multitasking and high workloads.",  
+    "Base frequency: 3.6 GHz; maximum turbo boost up to 5.0 GHz for peak performance.",  
+    "25 MB Intel Smart Cache for improved data throughput and responsiveness.",  
+    "Unlocked multiplier (KF variant) for overclocking with compatible motherboards.",  
+    "Supports both DDR4 and DDR5 memory in dual‑channel configurations.",  
+    "LGA 1700 socket compatibility with Intel 600‑series and newer motherboards.",  
+    "PCIe 5.0 and PCIe 4.0 support for next‑generation GPUs and storage.",  
+    "Requires a discrete graphics card (no integrated GPU in the KF variant).",
+    "Ideal for gaming, content creation, and demanding desktop applications."
+  ]
+},
+{
+  "id": "intel-core-i9-12900kf",
+  "name": "Intel Core i9‑12900KF 12th Gen Desktop Processor",
+  "description": "The Intel Core i9‑12900KF is a high‑performance 12th Generation desktop processor featuring a hybrid architecture with 16 cores (8 performance + 8 efficiency) and 24 threads. With a base clock of 3.2 GHz and maximum turbo boost up to 5.2 GHz, unlocked overclocking support, and compatibility with both DDR4 and DDR5 memory, it delivers exceptional performance for gaming, content creation, and demanding computing workloads. This KF variant does not include integrated graphics, requiring a discrete GPU for display output.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/BX8071512900KF_wr_01.jpg",
+  "images": [
+    "/BX8071512900KF_wr_01.jpg"
+  ],
+  "brand": "Intel",
+  "inStock": true,
+  "features": [
+    "12th Generation Intel Core i9 desktop processor with Alder Lake hybrid architecture.",
+    "16 total cores (8 Performance + 8 Efficient) and 24 threads for excellent multitasking and compute performance.",  
+    "Base clock speed of 3.2 GHz and maximum turbo clock up to 5.2 GHz for demanding applications.",  
+    "30 MB Intel Smart Cache for fast data access and reduced latency.",  
+    "Unlocked “KF” design allows overclocking with compatible motherboards.",  
+    "Supports dual‑channel DDR4‑3200 and DDR5‑4800 memory types for flexible system configurations.",  
+    "125 W base TDP with up to 241 W maximum turbo power for performance workloads.",  
+    "LGA 1700 socket compatibility with Intel 600‑series chipset motherboards.",  
+    "PCIe 5.0 and PCIe 4.0 support for next‑gen GPUs and fast storage solutions.",  
+    "Discrete graphics card required (no integrated GPU in the KF variant)."
+  ]
+},
+{
+  "id": "intel-core-i5-11400",
+  "name": "Intel Core i5‑11400 2.6 GHz LGA1200 Desktop Processor",
+  "description": "The Intel Core i5‑11400 is a 11th Generation desktop processor featuring 6 cores and 12 threads with a base clock of 2.6 GHz and turbo boost up to 4.4 GHz. It delivers balanced performance for gaming, productivity, and everyday computing, with integrated Intel UHD Graphics 730 and support for PCIe 4.0 and dual‑channel DDR4 memory.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/CM8070804496809_wr_01.jpg",
+  "images": [
+    "/CM8070804496809_wr_01.jpg"
+  ],
+  "brand": "Intel",
+  "inStock": true,
+  "features": [
+    "6 cores and 12 threads for efficient multitasking and performance.",  
+    "Base clock speed: 2.6 GHz and maximum turbo boost up to 4.4 GHz for responsive computing.",  
+    "12 MB Intel Smart Cache for improved data access.",  
+    "PCIe 4.0 support for high‑speed data transfer and next‑gen peripherals.",  
+    "Dual‑channel DDR4 memory support up to 3200 MHz for broad platform compatibility.",  
+    "Integrated Intel UHD Graphics 730 for visuals without a discrete GPU.",  
+    "LGA1200 socket compatible with 400 and 500‑series Intel motherboards.",  
+    "65 W TDP for balanced power efficiency and performance.",  
+    "Supports Intel Deep Learning Boost for accelerated AI workloads.",  
+    "Ideal for gaming, content creation, and productivity workloads."
+  ]
 }
 
 ]
