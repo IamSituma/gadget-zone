@@ -57,14 +57,13 @@ export default function ProductsPage() {
     "Tools",
     "Lighting",
     "Accessories",
-    "UPS Batteries",
     "Chargers & Adapters",
     "Projectors",
     "Cameras",
     "Solar Panels",
   ]
 
-  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC" | "ASRock")[] = ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock"]
+  const brands: ("All" | "Gizzu" | "Xiaomi" | "AMD" | "Antec" | "AOC" | "ASRock" | "FSP")[] = ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock", "FSP"]
 
   /* Detect mobile */
   useEffect(() => {

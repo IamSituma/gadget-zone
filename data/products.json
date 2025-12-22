@@ -6194,7 +6194,7 @@
   "id": "kircuit-adapter-compatible-deskmmini-desktop",
   "name": "Kircuit Power Adapter Compatible with DeskMini Desktop",
   "description": "The Kircuit Power Adapter is a reliable replacement or spare AC adapter designed for use with DeskMini and similar small form-factor desktops, providing stable power delivery with built-in protections for safe operation.",
-  "category": "Computer Accessories",
+  "category": "Chargers & Adapters",
   "condition": "Brand New",
   "image": "/04G265000600AK_wr_01.jpg",
   "images": [
@@ -6371,6 +6371,609 @@
     "Multiple USB and I/O ports for peripherals.",
     "Cooling solution included for basic thermal performance.",
     "Perfect for home, office, or HTPC builds."
+  ]
+},
+{
+  "id": "fsp-cmt211a-argb-mid-tower-pc-gaming-case",
+  "name": "FSP CMT211A ARGB Mid Tower PC Gaming Case",
+  "description": "The FSP CMT211A ARGB is a mid-tower gaming PC case featuring vibrant ARGB lighting, versatile cooling support, and ample space for hardware expansion, designed to house ATX, Micro-ATX and Mini-ITX systems.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CMT211A_wr_01.jpg",
+  "images": [
+    "/CMT211A_wr_02.jpg",
+    "/CMT211A_wr_03.jpg",
+    "/CMT211A_wr_04.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "Mid-tower form factor compatible with ATX, Micro-ATX and Mini-ITX motherboards.",
+    "ARGB lighting for customizable visual effects.",
+    "Front panel mesh and fan mounts for optimized airflow.",
+    "Includes multiple fan mounting options and support for radiators.",
+    "Support for HDD and SSD storage drives.",
+    "Tempered glass side panel to showcase internal components.",
+    "Front I/O panel with USB and audio connectivity.",
+    "Spacious interior for high-end GPUs and cooling setups.",
+    "Easy cable management design with routing channels.",
+    "Durable steel construction for gaming builds."
+  ]
+},
+{
+  "id": "fsp-cmt260-glass-side-panel-gaming-chassis",
+  "name": "FSP CMT260 Glass Side Panel Gaming Chassis",
+  "description": "The FSP CMT260 is a gaming PC case with a tempered glass side panel and sturdy SPCC steel frame, designed to support ATX, Micro-ATX and Mini-ITX motherboards while showcasing internal components.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CMT260_wr_01.jpg",
+  "images": [
+    "/CMT260_wr_02.jpg",
+    "/CMT260_wr_03.jpg",
+    "/CMT260_wr_04.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "ATX, Micro-ATX and Mini-ITX motherboard support.",
+    "Tempered glass side panel to showcase internal components.",
+    "Spacious interior compatible with up to 325mm GPUs.",
+    "CPU cooler support up to 170mm height.",
+    "Front mesh design for improved airflow.",
+    "Easy access I/O panel with USB and audio ports.",
+    "Multiple fan and radiator mounting locations.",
+    "Durable black SPCC steel construction.",
+    "Tool-free drive bays for quick SSD/HDD installation.",
+    "Ideal for gaming, productivity and custom builds."
+  ]
+},
+{
+  "id": "fsp-cmt271a-argb-mid-tower-gaming-pc-case-black",
+  "name": "FSP CMT271A ARGB Mid Tower Gaming PC Case - Black",
+  "description": "The FSP CMT271A ARGB Mid Tower Gaming PC Case is a stylish ATX chassis with vibrant ARGB lighting and a sturdy SPCC steel frame, designed to support ATX, Micro-ATX and Mini-ITX motherboards while providing good airflow and component visibility.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CMT271A_wr_01.jpg",
+  "images": [
+    "/CMT271A_wr_02.jpg",
+    "/CMT271A_wr_03.jpg",
+    "/CMT271A_wr_04.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "ARGB lighting for dynamic and customizable lighting effects.",
+    "Mid tower form factor supporting ATX, Micro-ATX and Mini-ITX motherboards.",
+    "Durable SPCC steel frame for solid construction.",
+    "Tempered glass side panel for showcasing internal components.",
+    "Front I/O panel with USB and audio ports.",
+    "Supports multiple cooling options including fan and radiator mounts.",
+    "Spacious interior for GPUs and cooling solutions.",
+    "Tool-free drive bays for easy SSD/HDD installation.",
+    "Good airflow design with mesh paneling.",
+    "Ideal for gaming and high-performance PC builds."
+  ]
+},
+{
+  "id": "fsp-cmt380w-usb3-0x2-atx-mid-tower-white",
+  "name": "FSP CMT380W ARGB ATX Mid Tower Case - White",
+  "description": "The FSP CMT380W ARGB ATX Mid Tower Case is a stylish white gaming chassis with addressable RGB lighting, USB 3.0 connectivity and flexible cooling support, designed for ATX, Micro-ATX and Mini-ITX systems with easy cable management.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CMT380W_wr_01.jpg",
+  "images": [
+    "/CMT380W_wr_01.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "ATX mid tower form factor supporting ATX, Micro-ATX and Mini-ITX motherboards.",
+    "Front USB 3.0 × 2 ports for fast connectivity.",
+    "ARGB lighting with customizable visual effects.",
+    "Tempered glass side panel showcasing internal components.",
+    "Optimized airflow design with multiple fan/radiator mounts.",
+    "Spacious interior for high-end GPUs and cooling solutions.",
+    "Easy cable management for clean builds.",
+    "Tool-free drive bays for quick SSD/HDD installation.",
+    "Durable white finish for modern aesthetics.",
+    "Ideal for gaming and performance PC builds."
+  ]
+},
+{
+  "id": "fsp-cmt520-plus-mid-tower-gaming-case",
+  "name": "FSP CMT520 Plus Mid Tower Gaming Case",
+  "description": "The FSP CMT520 Plus is a mid-tower gaming PC case designed with a modern aesthetic, featuring a tempered glass side panel, mesh front for enhanced airflow, and flexible support for ATX, Micro-ATX and Mini-ITX builds.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CMT520PLUS_wr_01.jpg",
+  "images": [
+    "/CMT520PLUS_wr_02.jpg",
+    "/CMT520PLUS_wr_03.jpg",
+    "/CMT520PLUS_wr_04.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "Mid-tower form factor supporting ATX, Micro-ATX and Mini-ITX motherboards.",
+    "Tempered glass side panel for showcasing internal components.",
+    "Mesh front panel for improved airflow and cooling performance.",
+    "Spacious interior supporting high-end GPUs and cooling solutions.",
+    "Multiple fan and radiator mounting points for custom cooling.",
+    "Front I/O panel with USB and audio ports for convenient access.",
+    "Easy cable management channels for clean internal layouts.",
+    "Tool-free drive bays for quick installation of SSDs/HDDs.",
+    "Durable steel and plastic construction for reliability.",
+    "Ideal choice for gaming, content creation, and performance builds."
+  ]
+},
+{
+  "id": "fsp-cst130a-micro-atx-mini-itx-gaming-chassis",
+  "name": "FSP CST130A Micro-ATX/Mini-ITX Gaming Chassis",
+  "description": "The FSP CST130A is a compact gaming PC case designed for Micro-ATX and Mini-ITX motherboards, featuring three pre-installed 120 mm RGB fans and a tempered glass side panel to showcase internal components with vibrant lighting.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CST130A_wr_01.jpeg",
+  "images": [
+    "/CST130A_wr_02.jpeg",
+    "/CST130A_wr_03.jpeg",
+    "/CST130A_wr_04.jpeg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "Supports Micro-ATX and Mini-ITX motherboard form factors.",
+    "Three pre-installed 120 mm RGB fans for vibrant lighting and airflow.",
+    "Tempered glass side panel for showcasing internal components.",
+    "Compact chassis ideal for small gaming and performance builds.",
+    "Front I/O panel with USB and audio ports.",
+    "Mesh front panel for optimized airflow.",
+    "Easy cable management for clean interior layout.",
+    "Tool-free drive bays for quick SSD/HDD installation.",
+    "Space for high-performance GPUs within compact dimensions.",
+    "Durable black finish for sleek aesthetics."
+  ]
+},
+{
+  "id": "fsp-cst130-basic-acrylic-side-panel-black-desktop-pc-case",
+  "name": "FSP CST130 Basic Desktop PC Case - Black",
+  "description": "The FSP CST130 Basic Desktop PC Case is a compact Micro‑ATX/Mini‑ITX chassis featuring a simple acrylic side panel, pre‑installed cooling fans and essential support for everyday systems, making it ideal for budget gaming builds and general desktop use.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CST130BASICBK_wr_01.jpg",
+  "images": [
+    "/CST130BASICBK_wr_02.jpg",
+    "/CST130BASICBK_wr_03.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "Compact PC case supporting Micro‑ATX and Mini‑ITX motherboards.",
+    "Acrylic side panel to view internal components.",
+    "Includes 3 × 120 mm pre‑installed cooling fans.",
+    "Black finish for a sleek and understated look.",
+    "Mesh front and top ventilation for airflow.",
+    "4 expansion slots for graphics and add‑on cards.",
+    "Front I/O panel with USB and audio ports.",
+    "Tool‑free drive bays for easy SSD/HDD installation.",
+    "Easy cable management for tidy builds.",
+    "Durable SPCC steel construction for reliable performance."
+  ]
+},
+{
+  "id": "fsp-cut592-atx-tempered-glass-pc-case-black",
+  "name": "FSP CUT592 ATX Tempered Glass PC Case - Black",
+  "description": "The FSP CUT592 is a stylish ATX mid‑tower PC case with a tempered glass side panel and optimized airflow, designed to house full‑sized components while showcasing your build with clean lines and good cooling performance.",
+  "category": "PC Cases",
+  "condition": "Brand New",
+  "image": "/CUT592_wr_01.jpg",
+  "images": [
+    "/CUT592_wr_02.jpg",
+    "/CUT592_wr_03.jpg",
+    "/CUT592_wr_04.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "ATX mid‑tower form factor supporting ATX, Micro‑ATX and Mini‑ITX motherboards.",
+    "Tempered glass side panel to showcase internal components.",
+    "Optimized airflow design with front mesh intake.",
+    "Spacious interior for high‑end GPUs and cooling solutions.",
+    "Front I/O panel with USB and audio ports.",
+    "Support for multiple fan and radiator configurations.",
+    "Easy cable management with routing channels.",
+    "Tool‑free drive bays for quick SSD/HDD installation.",
+    "Sleek black finish for modern aesthetics.",
+    "Ideal for gaming, productivity and custom PC builds."
+  ]
+},
+{
+  "id": "fsp-hydro-ptm-pro-1200w-platinum-modular-psu",
+  "name": "FSP Hydro PTM PRO 1200W Platinum Fully Modular Power Supply",
+  "description": "The FSP Hydro PTM PRO 1200W Platinum power supply is a high‑efficiency, fully modular PSU designed for modern high‑performance desktops, featuring ATX 3.0/PCIe Gen5 support with a native 12VHPWR connector, stable power delivery and comprehensive protections.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/HPT2-1200MGEN5_wr_01.jpg",
+  "images": [
+    "/HPT2-1200MGEN5_wr_02.jpg",
+    "/HPT2-1200MGEN5_wr_03.jpg",
+    "/HPT2-1200MGEN5_wr_04.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "1200W total output power for demanding gaming and workstation PCs.",
+    "80+ Platinum efficiency for reduced energy loss and heat.",
+    "Fully modular cable design for clean builds and easy cable management.",
+    "Native 12VHPWR (PCIe Gen5) connector for next‑gen graphics cards.",
+    "Compliant with ATX12V v3.0 and PCIe Gen5 specifications.",
+    "Active PFC and high efficiency ≥92% under typical load.",
+    "120mm fluid dynamic bearing (FDB) cooling fan for quiet operation.",
+    "Single +12V rail design for stable power delivery.",
+    "Comprehensive protections including OCP, OVP, OPP, SCP and OTP.",
+    "Compact ATX form factor suitable for modern desktops."
+  ]
+},
+{
+  "id": "fsp-typec-nbc65w-usb-c-wall-charger",
+  "name": "FSP Type‑C NBC65W USB‑C Wall Charger",
+  "description": "The FSP Type‑C NBC65W is a compact USB‑C wall charger delivering up to 65W of power, ideal for fast charging laptops, tablets, phones and other USB‑C devices with Power Delivery support.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA0450200_wr_01.jpg",
+  "images": [
+    "/PNA0450200_wr_02.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "USB‑C port with up to 65W Power Delivery output.",
+    "Compact and lightweight wall adapter design.",
+    "Fast charging for laptops, tablets and smartphones.",
+    "Smart power distribution for optimized charging.",
+    "Built‑in protections against over‑current and over‑voltage.",
+    "Universal compatibility with USB‑C PD devices.",
+    "Efficient energy conversion for reduced heat.",
+    "Foldable plug for easy travel and storage.",
+    "Durable housing for everyday use.",
+    "Ideal for home, office and on‑the‑go charging."
+  ]
+},
+{
+  "id": "fsp-type-c-65w-universal-adapter-charger-mac-compatible",
+  "name": "FSP Type‑C 65W Universal Adapter Charger (Mac Compatible)",
+  "description": "The FSP Type‑C 65W Universal Adapter Charger is a USB‑C wall charger designed to provide fast and reliable power delivery for laptops (including MacBooks), tablets, phones and other USB‑C devices with up to 65W charging capability.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA0600405_wr_01.jpg",
+  "images": [
+    "/PNA0600405_wr_01.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "USB‑C port with up to 65W Power Delivery for fast charging.",
+    "Compatible with MacBooks, laptops, tablets and phones.",
+    "Smart charging circuitry for device recognition and optimized power output.",
+    "Compact and portable design ideal for travel.",
+    "Built‑in safety protections against over‑current, over‑voltage and short‑circuit.",
+    "Universal compatibility with USB‑C PD devices.",
+    "Efficient power conversion to reduce heat generation.",
+    "Durable build quality for long‑lasting use.",
+    "Plug‑and‑play operation with no setup required.",
+    "Ideal for everyday charging at home, work and on the go."
+  ]
+},
+{
+  "id": "fsp-nbpro-90w-usb-c-power-adapter",
+  "name": "FSP NBPro 90W USB‑C Power Adapter",
+  "description": "The FSP NBPro 90W USB‑C Power Adapter is a high‑efficiency charger designed to deliver up to 90W of power for laptops, smartphones and tablets. Its compact design and wide device compatibility make it ideal for everyday use at home, in the office or on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA0902215_wr_01.jpg",
+  "images": [
+    "/PNA0902215_wr_01-1.jpg",
+    "/PNA0902215_wr_02.jpg",
+    "/PNA0902215_wr_02-1.jpg",
+    "/PNA0902215_wr_04.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "Up to 90W USB‑C Power Delivery output for fast charging.",
+    "Efficient power delivery for laptops, tablets and phones.",
+    "Compact and travel‑friendly design.",
+    "Compatible with a wide range of devices including laptops from popular brands.",
+    "Smart power management for optimized charging.",
+    "Built‑in safety protections such as over‑current and over‑voltage safeguards.",
+    "Universal USB‑C PD compatibility.",
+    "Durable construction for long‑term use.",
+    "Plug‑and‑play operation with no configuration needed.",
+    "Ideal for everyday and travel charging needs."
+  ]
+},
+{
+  "id": "fsp-nbpro-90w-usb-c-power-adapter-orange",
+  "name": "FSP NBPro 90W USB‑C Power Adapter",
+  "description": "The FSP NBPro 90W USB‑C Power Adapter is a high‑efficiency charger designed to deliver up to 90W of power for laptops, smartphones and tablets. Its compact design and wide device compatibility make it ideal for everyday use at home, in the office or on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA0902216_wr_01.jpg",
+  "images": [
+    "/PNA0902216_wr_01-1.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "color": "Orange",
+  "features": [
+    "Up to 90W USB‑C Power Delivery output for fast charging.",
+    "Efficient power delivery for laptops, tablets and phones.",
+    "Compact and travel‑friendly design.",
+    "Compatible with a wide range of devices including laptops from popular brands.",
+    "Smart power management for optimized charging.",
+    "Built‑in safety protections such as over‑current and over‑voltage safeguards.",
+    "Universal USB‑C PD compatibility.",
+    "Durable construction for long‑term use.",
+    "Plug‑and‑play operation with no configuration needed.",
+    "Ideal for everyday and travel charging needs."
+  ]
+},
+{
+  "id": "fsp-nbpro-90w-usb-c-power-adapter-black",
+  "name": "FSP NBPro 90W USB‑C Power Adapter",
+  "description": "The FSP NBPro 90W USB‑C Power Adapter is a high‑efficiency charger designed to deliver up to 90W of power for laptops, smartphones and tablets. Its compact design and wide device compatibility make it ideal for everyday use at home, in the office or on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA0902217_wr_01.jpg",
+  "images": [
+    "/PNA0902217_wr_01-1.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "color": "Black",
+  "features": [
+    "Up to 90W USB‑C Power Delivery output for fast charging.",
+    "Efficient power delivery for laptops, tablets and phones.",
+    "Compact and travel‑friendly design.",
+    "Compatible with a wide range of devices including laptops from popular brands.",
+    "Smart power management for optimized charging.",
+    "Built‑in safety protections such as over‑current and over‑voltage safeguards.",
+    "Universal USB‑C PD compatibility.",
+    "Durable construction for long‑term use.",
+    "Plug‑and‑play operation with no configuration needed.",
+    "Ideal for everyday and travel charging needs."
+  ]
+},
+{
+  "id": "fsp-nbpro-90w-usb-c-adapter-black-2-pin",
+  "name": "FSP NBPro 90W USB‑C Power Adapter 2-Pin",
+  "description": "The FSP NBPro 90W USB‑C Power Adapter 2-Pin is a high‑efficiency charger designed to deliver up to 90W of power for laptops, smartphones and tablets. Its compact design and wide device compatibility make it ideal for everyday use at home, in the office or on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA0902218_wr_01.jpg",
+  "images": [
+    "/PNA0902218_wr_01.jpg",
+    "/PNA0902218_wr_02.jpg",
+    "/PNA0902218_wr_04-1.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "Up to 90W USB‑C Power Delivery output for fast charging.",
+    "Efficient power delivery for laptops, tablets and phones.",
+    "Compact and travel‑friendly design.",
+    "Compatible with a wide range of devices including laptops from popular brands.",
+    "Smart power management for optimized charging.",
+    "Built‑in safety protections such as over‑current and over‑voltage safeguards.",
+    "Universal USB‑C PD compatibility.",
+    "Durable construction for long‑term use.",
+    "Plug‑and‑play operation with no configuration needed.",
+    "Ideal for everyday and travel charging needs."
+  ]
+},
+{
+  "id": "fsp-nbpro-90w-usb-c-power-adapter-lenovo-notebook-adapted",
+  "name": "FSP NBPro 90W USB‑C Power Adapter",
+  "description": "The FSP NBPro 90W USB‑C Power Adapter is a high‑efficiency charger designed to deliver up to 90W of power for laptops, smartphones and tablets. Its compact design and wide device compatibility make it ideal for everyday use at home, in the office or on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA0902219_wr_01.jpg",
+  "images": [
+    "/PNA0902219_wr_01.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "Up to 90W USB‑C Power Delivery output for fast charging.",
+    "Efficient power delivery for laptops, tablets and phones.",
+    "Compact and travel‑friendly design.",
+    "Compatible with a wide range of devices including laptops from popular brands.",
+    "Smart power management for optimized charging.",
+    "Built‑in safety protections such as over‑current and over‑voltage safeguards.",
+    "Universal USB‑C PD compatibility.",
+    "Durable construction for long‑term use.",
+    "Plug‑and‑play operation with no configuration needed.",
+    "Ideal for everyday and travel charging needs."
+  ]
+},
+{
+  "id": "fsp-100w-type-c-notebook-power-adapter-pna1000200",
+  "name": "FSP 100W Type-C Notebook Power Adapter (PNA1000200)",
+  "description": "The FSP 100W Type-C Notebook Power Adapter (PNA1000200) is a high-power USB-C charger with Power Delivery support, designed to efficiently charge laptops, notebooks, tablets and other USB-C devices with up to 100W output.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA1000200_wr_01.jpeg",
+  "images": [
+    "/PNA1000200_wr_01-1.jpeg",
+    "/PNA1000200_wr_02.jpeg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "100W USB-C Power Delivery for fast charging of laptops and notebooks.",
+    "Smart power delivery technology adjusts voltage to match device requirements.",
+    "Compatible with a wide range of USB-C powered devices including laptops, tablets and phones.",
+    "High-efficiency charging with reduced heat generation.",
+    "Compact and travel-friendly build.",
+    "Built-in protections including over-current, over-voltage and short-circuit safeguards.",
+    "Plug-and-play design with no driver installation required.",
+    "Durable housing for reliable long-term use.",
+    "Ideal for home, office and mobile charging setups.",
+    "Efficient energy conversion for stable power delivery."
+  ]
+},
+{
+  "id": "fsp-nb-slim-120w-universal-laptop-power-adapter",
+  "name": "FSP NB Slim 120W Universal Laptop Power Adapter",
+  "description": "The FSP NB Slim 120W is a slim, lightweight universal laptop power adapter with multiple interchangeable tips for broad compatibility with notebooks and portable devices, providing efficient power delivery with built-in protection circuits.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA1200703_wr_01.jpg",
+  "images": [
+    "/PNA1200703_wr_02.jpg",
+    "/PNA1200703_wr_01.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "120W output suitable for powering a wide range of laptops.",
+    "Slim and lightweight design ideal for travel and daily use.",
+    "Worldwide AC input (100–240V) for flexible global use.",
+    "Includes multiple interchangeable tips to fit many notebook brands.",
+    "High efficiency operation for energy savings.",
+    "Complete protections including over-current, over-voltage, short-circuit and over-temperature safeguards.",
+    "Standby power < 0.1W to reduce energy waste.",
+    "Compatible with popular laptop brands like Acer, ASUS, HP, Lenovo and more.",
+    "Meets safety and efficiency standards for reliable performance.",
+    "Perfect as a replacement or secondary power adapter."
+  ]
+},
+{
+  "id": "fsp-pna1200901-120w-type-c-universal-laptop-power-adapter",
+  "name": "FSP PNA1200901 120W Type-C Universal Laptop Power Adapter",
+  "description": "The FSP PNA1200901 120W Type-C Universal Laptop Power Adapter is a high-power USB-C charger with Power Delivery support, designed to efficiently charge laptops, notebooks, tablets and other USB-C devices with up to 120W output and wide compatibility.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/PNA1200901_wr_01.jpg",
+  "images": [
+    "/PNA1200901_wr_02.jpg",
+    "/PNA1200901_wr_04.jpg",
+    "/PNA1200901_wr_03.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "120W USB-C Power Delivery output for fast charging of laptops and notebooks.",
+    "Smart power delivery adjusts voltage and current for compatible devices.",
+    "Wide compatibility with USB-C laptops, tablets and smartphones.",
+    "Compact and travel-friendly adapter design.",
+    "Built-in protections against over-current, over-voltage and short-circuit.",
+    "Efficient power conversion for stable and safe charging.",
+    "Plug-and-play operation with no driver installation needed.",
+    "Durable construction for everyday use.",
+    "Suitable as a replacement or spare charger.",
+    "Ideal for home, office and travel charging setups."
+  ]
+},
+{
+  "id": "fsp-hyper-s-600w-power-supply",
+  "name": "FSP HYPER S 600W Power Supply",
+  "description": "The FSP HYPER S 600W power supply is an ATX desktop PSU designed for reliable performance with active PFC, efficient power delivery and essential protections, ideal for mainstream gaming and general PC builds.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/PPA6003715_wr_01.jpg",
+  "images": [
+    "/PPA6003715_wr_02.jpg",
+    "/PPA6003715_wr_03.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "600W total power output for desktop systems.",
+    "Complies with ATX 12V v2.4 & EPS 12V standards for broad compatibility.",
+    "Efficient performance with typical >85% efficiency.",
+    "Active Power Factor Correction (PFC) for improved stability.",
+    "Single +12V rail design for consistent power delivery.",
+    "120 mm quiet cooling fan for balanced airflow and reduced noise.",
+    "Complete protections including over-current, over-voltage and short-circuit safeguards.",
+    "Equipped with 6+2 pin PCIe and SATA/Molex connectors.",
+    "Durable construction for everyday use.",
+    "Ideal for gaming, productivity and standard PC builds."
+  ]
+},
+{
+  "id": "fsp-hydro-g-pro-850w-80-plus-gold-fully-modular-power-supply",
+  "name": "FSP Hydro G-Pro 850W 80+ Gold Fully Modular Power Supply",
+  "description": "The FSP Hydro G-Pro 850W 80+ Gold Fully Modular Power Supply is a high-efficiency PSU designed to deliver stable and reliable power for gaming and performance desktops. Its fully modular cabling and protective features ensure clean builds and long-term reliability.",
+  "category": "Computer Accessories",
+  "condition": "Brand New",
+  "image": "/PPA7505411_wr_01.jpg",
+  "images": [
+    "/PPA7505411_wr_02.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "850W total power output for gaming and high-performance PCs.",
+    "80+ Gold efficiency rating for reduced energy loss and better thermal performance.",
+    "Fully modular cable design for clean builds and easy cable management.",
+    "Stable power delivery for CPUs, GPUs and peripherals.",
+    "120mm cooling fan for balanced airflow and quiet operation.",
+    "Protections including over-current, over-voltage, over-power and short-circuit safeguards.",
+    "Supports ATX form factor for standard desktop builds.",
+    "Premium internal components for long-lasting reliability.",
+    "Optimized for gaming, content creation and multi-GPU systems.",
+    "Durable build quality suitable for everyday and heavy use."
+  ]
+},
+{
+  "id": "fsp-champ-tower-3k-3000va-online-ups",
+  "name": "FSP Champ Tower 3K 3000VA Online UPS",
+  "description": "The FSP Champ Tower 3K 3000VA Online UPS is a high-performance uninterruptible power supply designed to provide continuous, clean power for critical systems. It delivers true online double-conversion protection, built-in LCD status display and stable power output for servers, networking equipment and essential electronics during outages.",
+  "category": "UPS Backup",
+  "condition": "Brand New",
+  "image": "/PPF16A1910_wr_01.jpg",
+  "images": [
+    "/PPF16A1910_wr_02.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "3000VA/3kW online UPS with true double-conversion technology for clean and stable power.",
+    "High-performance design ideal for servers, workstations and networking gear.",
+    "Built-in LCD panel for real-time UPS status and configuration.",
+    "Automatic Voltage Regulation (AVR) for consistent output during sags and surges.",
+    "Wide input voltage range for enhanced compatibility.",
+    "Fast switchover to battery power during outages.",
+    "Multiple output sockets to support connected devices.",
+    "Battery management with protection against over-charge and deep discharge.",
+    "Efficient cooling and system protection to prolong UPS life.",
+    "Suitable for offices, data centres, labs and critical infrastructure."
+  ]
+},
+{
+  "id": "fsp-fp600-600va-ups-type-m-usb",
+  "name": "FSP FP600 600VA UPS with Type-M & USB",
+  "description": "The FSP FP600 600VA UPS provides reliable backup power for home and office electronics, featuring Type-M outlets and USB connectivity for powering and charging devices during small power interruptions.",
+  "category": "UPS Backup",
+  "condition": "Brand New",
+  "image": "/PPF3600741_wr_01.jpg",
+  "images": [
+    "/PPF3600741_wr_02.jpg",
+    "/PPF3600741_wr_03.jpg"
+  ],
+  "brand": "FSP",
+  "inStock": true,
+  "features": [
+    "600VA uninterruptible power supply for home and small office use.",
+    "Includes 2x Type-M outlets compatible with South African sockets.",
+    "USB port for device charging during power interruptions.",
+    "Provides backup power to computers, routers and small electronics.",
+    "Automatic voltage regulation for stable output.",
+    "Short-circuit and overload protection for connected devices.",
+    "Compact UPS design for easy placement.",
+    "Battery backup ensures safe shutdown during outages.",
+    "LED indicators for power and battery status.",
+    "Ideal for basic power protection and device continuity."
   ]
 }
 
