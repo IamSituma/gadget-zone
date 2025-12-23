@@ -8047,6 +8047,183 @@
     "Supports up to 4 simultaneous displays.",
     "Ideal for 1440p and 4K gaming, VR, and content creation workflows."
   ]
+},
+{
+  "id": "pcbuilder-ryzen-5-5600g-defender-prebuilt-pc",
+  "name": "PCBuilder AMD Ryzen 5 5600G DEFENDER Windows 11 Gaming PC",
+  "description": "The PCBuilder AMD Ryzen 5 5600G DEFENDER is an entry‑level gaming and productivity desktop built around the 6‑core Ryzen 5 5600G with integrated Radeon graphics. It includes fast DDR4 memory, NVMe SSD storage, and Windows 11 Home preinstalled in an ARGB gaming chassis — ideal for everyday use, multimedia, and light gaming.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PCB_DEFENDER_02_wr_01.jpg",
+  "images": [
+    "/PCB_DEFENDER_02_wr_11.jpg"
+  ],
+  "brand": "PCBuilder",
+  "inStock": true,
+  "features": [
+    "AMD Ryzen 5 5600G 6‑core / 12‑thread processor (3.9 GHz base, up to 4.4 GHz boost) with integrated Radeon RX Vega 7 graphics.",  
+    "MSI A520 chipset AM4 Micro‑ATX motherboard for stable performance and expandability.",  
+    "16 GB DDR4 3600 MHz memory in dual‑channel configuration for smooth multitasking.",  
+    "500 GB Gen3 NVMe M.2 SSD for fast boot and application load times.",  
+    "ARGB gaming chassis (Protector / Raidmax H701 or similar) with tempered glass side panel.",  
+    "500 W – 550 W ATX non‑modular power supply for reliable system power.",  
+    "Operating System: Microsoft Windows 11 Home pre‑installed out of the box.",  
+    "Integrated networking with Gigabit LAN and optional Wi‑Fi support depending on configuration.",  
+    "Additional software including Norton Security or trial antivirus.",  
+    "Ideal for everyday computing, light gaming, multimedia playback, and home office usage."
+  ]
+},
+{
+  "id": "pcbuilder-i5-12400-gtx1660-downforce-gaming-pc",
+  "name": "PCBuilder Intel i5‑12400 GTX1660 Downforce Gaming PC",
+  "description": "The PCBuilder Intel i5‑12400 GTX1660 Downforce Gaming PC is a complete prebuilt system designed for 1080p gaming and everyday use. It combines a 12th‑Gen Intel Core i5‑12400 CPU with an MSI GeForce GTX 1660 graphics card, fast DDR4 memory, and SSD storage, all running on Windows 11 in a stylish ARGB mid‑tower case.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PCB_DOWNFORCE_02_wr_01.jpg",
+  "images": [
+    "/PCB_DOWNFORCE_02_wr_12.jpg"
+  ],
+  "brand": "PCBuilder",
+  "inStock": true,
+  "features": [
+    "Powered by Intel Core i5‑12400 6‑core / 12‑thread processor with base 2.5 GHz and boost up to 4.4 GHz performance.",
+    "MSI GeForce GTX 1660 graphics card with 6 GB GDDR6 memory for smooth 1080p gaming.",
+    "16 GB DDR4‑3600MHz high‑speed memory for gaming and multitasking.",
+    "500 GB 2.5″ SATA SSD for fast boot and load times.",
+    "MSI B660 chipset Intel LGA1700 Micro‑ATX motherboard for platform stability.",
+    "550 W non‑modular power supply for reliable system power delivery.",
+    "Antec NX292 E‑ATX ARGB mid‑tower gaming chassis with tempered glass side panel.",
+    "Microsoft Windows 11 Operating System pre‑installed with 1 month of Xbox Game Pass Ultimate including EA Play.",
+    "Good balance of performance and expandability for gaming, multimedia, and productivity.",
+    "Includes power cable and ready to use out of the box."
+  ]
+},
+{
+  "id": "pcbuilder-i7-13700kf-front-runner-gaming-pc",
+  "name": "PCBuilder Intel i7‑13700KF FRONT RUNNER Gaming PC",
+  "description": "The PCBuilder Intel i7‑13700KF FRONT RUNNER Gaming PC is a high‑performance prebuilt gaming desktop featuring a 13th Gen Intel Core i7‑13700KF CPU, MSI RTX 3070 graphics, fast DDR4 memory and a Gen4 NVMe SSD. Housed in a Corsair iCUE 4000X RGB gaming chassis with Windows 11, it’s ready for 1080p/1440p gaming and multimedia right out of the box.",  
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PCB_FRONT-RUNNER_02_wr_01.jpg",
+  "images": [
+    "/PCB_FRONT-RUNNER_02_wr_13.jpg"
+  ],
+  "brand": "PCBuilder",
+  "inStock": true,
+  "features": [
+    "Intel Core i7‑13700KF 16‑core / 24‑thread desktop processor with base clock 2.5 GHz and boost up to 5.4 GHz.",  
+    "MSI GeForce RTX 3070 graphics card with 8 GB GDDR6 memory for powerful gaming performance.",  
+    "32 GB DDR4‑3600 MHz high‑speed memory for gaming and multitasking.",  
+    "1 TB Gen4 NVMe SSD for fast boot and load times.",  
+    "MSI Z690 chipset Intel LGA1700 ATX motherboard for stable platform and expandability.",  
+    "Corsair iCUE 4000X RGB ATX gaming chassis with tempered glass and RGB lighting.",  
+    "750 W 80Plus Gold modular power supply for efficient and reliable power delivery.",  
+    "240 mm liquid cooler with dual RGB PWM fans for efficient CPU cooling.",  
+    "Includes Corsair membrane RGB wired gaming keyboard, RGB wired gaming mouse, and large spill‑proof gaming mousepad.",  
+    "Microsoft Windows 11 Home preinstalled with Xbox Game Pass Ultimate trial."
+  ]
+},
+{
+  "id": "pcbuilder-ryzen-5-5500-scout-gaming-pc",
+  "name": "PCBuilder AMD Ryzen 5 5500 SCOUT Windows 11 Gaming PC",
+  "description": "The PCBuilder Ryzen 5 5500 SCOUT Gaming PC is a balanced prebuilt gaming desktop built around the AMD Ryzen 5 5500 6‑core processor and a dedicated Nvidia GPU, paired with 16 GB of DDR4 memory and 1 TB NVMe SSD storage. Pre‑installed with Windows 11 Home and Wi‑Fi support, it’s designed for smooth gaming, multimedia, and everyday PC use.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PCB_SCOUT_02_wr_01.jpg",
+  "images": [
+    "/PCB_SCOUT_02_wr_12.jpg"
+  ],
+  "brand": "PCBuilder",
+  "inStock": true,
+  "features": [
+    "AMD Ryzen 5 5500 6‑core / 12‑thread processor with a base clock of 3.6 GHz and boost up to 4.2 GHz on the AM4 platform.",
+    "MSI A520M AM4 Micro‑ATX motherboard for stable platform support.",
+    "16 GB DDR4‑3600 MHz dual‑channel memory (2 × 8 GB) for smooth multitasking and gaming performance.",
+    "MSI GeForce RTX 3050 6 GB GDDR6 graphics card for capable 1080p gaming performance.",
+    "1 TB Gen3 NVMe solid‑state drive for fast system boot and game load times.",
+    "550 W power supply (non‑modular) providing reliable system power delivery.",
+    "PCBuilder PROTECTOR mATX gaming chassis with tempered glass side panel and front I/O ports.",
+    "Microsoft Windows 11 Home pre‑installed for modern OS experience.",
+    "Included Norton 360 Deluxe antivirus subscription (1 year, 3 devices).",
+    "Gigabit wired LAN and optional Wi‑Fi (2.4 GHz/5 GHz) for network connectivity depending on exact configuration."
+  ]
+},
+{
+  "id": "pcbuilder-intel-i5-12500-slipstream-gaming-pc",
+  "name": "PCBuilder Intel Core i5‑12500 SLIPSTREAM Gaming PC",
+  "description": "The PCBuilder Intel Core i5‑12500 SLIPSTREAM Gaming PC is a high‑performance prebuilt system powered by an Intel 12th Gen Core i5‑12500 CPU and an MSI GeForce RTX 3060 GPU. With 16 GB DDR4 memory, a 500 GB Gen4 NVMe SSD, an MSI B660 chipset motherboard, and Windows 11 Home preinstalled, it’s designed for smooth 1080p gaming and general productivity.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PCB_SLIPSTREAM_02_wr_01.jpg",
+  "images": [
+    "/PCB_SLIPSTREAM_02_wr_13.jpg"
+  ],
+  "brand": "PCBuilder",
+  "inStock": true,
+  "features": [
+    "Intel Core i5‑12500 6‑core / 12‑thread processor with 3.0 GHz base and up to 4.6 GHz boost performance.",
+    "MSI GeForce RTX 3060 graphics card with 12 GB GDDR6 memory for smooth 1080p gaming and GPU‑accelerated workloads.",
+    "16 GB DDR4‑3600 MHz high‑speed memory for gaming and multitasking.",
+    "500 GB Gen4 NVMe SSD for fast boot times and game/application load speeds.",
+    "MSI B660 chipset Intel LGA1700 Micro‑ATX motherboard for platform stability and expandability.",
+    "750 W 80Plus Gold modular power supply for efficient and reliable system power.",
+    "240 mm liquid cooler with dual RGB PWM fans for efficient CPU cooling.",
+    "MSI MPG GUNGNIR 111R ATX gaming chassis with tempered glass and ARGB lighting for a premium look.",
+    "Microsoft Windows 11 Home preinstalled, plus one month of Xbox Game Pass Ultimate including EA Play.",
+    "Tempered glass side panel, multiple expansion slots, and ready‑to‑use out of the box with included keyboard and mouse combo."
+  ]
+},
+{
+  "id": "pcbuilder-ryzen-5-5600x-specialist-02",
+  "name": "PCBuilder Ryzen 5 5600X SPECIALIST Gaming PC",
+  "description": "The PCBuilder Ryzen 5 5600X SPECIALIST Gaming PC is a powerful prebuilt system featuring an AMD Ryzen 5 5600X 6‑core processor paired with an NVIDIA GeForce RTX 3060 Ti GPU, fast DDR4 memory, and Gen4 NVMe storage, all housed in a stylish MSI MAG FORGE 100R ATX case with Windows 11 Home preinstalled — ideal for high‑performance 1080p and 1440p gaming, multitasking, and modern applications.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PCB_SPECIALIST_02_wr_01.jpg",
+  "images": [
+    "/PCB_SPECIALIST_02_wr_13.jpg"
+  ],
+  "brand": "PCBuilder",
+  "inStock": true,
+  "features": [
+    "Operating System: Microsoft Windows 11 Home preinstalled with Xbox Game Pass Ultimate (1‑month trial).",
+    "AMD Ryzen 5 5600X 6‑core / 12‑thread processor, 3.7 GHz base clock, up to 4.6 GHz boost.",
+    "MSI GeForce RTX 3060 Ti Graphics Card with 8 GB GDDR6 memory for strong gaming performance.",
+    "MSI X570 chipset AM4 ATX motherboard for robust platform support.",
+    "32 GB DDR4 3600 MHz gaming memory for smooth multitasking and gaming.",
+    "500 GB Gen4 NVMe SSD for fast boot and load times.",
+    "750 W Gold modular power supply for efficient and reliable system power.",
+    "240 mm liquid cooler with dual ARGB PWM fans for effective CPU cooling.",
+    "MSI MAG FORGE 100R ATX gaming chassis with tempered glass panel and sleek design.",
+    "Ideal for 1080p/1440p gaming, creative workloads, and modern PC applications.",
+    "Ready‑built and tested, comes with a power cable and pre‑installed OS."
+  ]
+},
+{
+  "id": "pcbuilder-ryzen-7-7700x-tactician-gaming-pc",
+  "name": "PCBuilder Ryzen 7 7700X TACTICIAN Windows 11 Gaming PC",
+  "description": "The PCBuilder Ryzen 7 7700X TACTICIAN Gaming PC is a high-performance prebuilt desktop featuring a powerful AMD Ryzen 7 7700X processor, MSI GeForce RTX 4070 Ti graphics, DDR5 memory, and a 1 TB Gen4 NVMe SSD. Housed in an Antec P120 Crystal chassis with Windows 11 Home preinstalled, it’s designed for smooth 1080p/1440p gaming, content creation, and multitasking.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PCB_TACTICIAN_02_wr_01.jpg",
+  "images": [
+    "/PCB_TACTICIAN_02_wr_13.jpg"
+  ],
+  "brand": "PCBuilder",
+  "inStock": true,
+  "features": [
+    "AMD Ryzen 7 7700X 8-core / 16-thread desktop processor (base 4.5 GHz, boost up to 5.4 GHz) on AM5 socket.",
+    "MSI GeForce RTX 4070 Ti graphics card with 12 GB GDDR6X memory for high-performance gaming.",
+    "32 GB DDR5-5200 MHz gaming memory for smooth multitasking and gaming performance.",
+    "1 TB Gen4 NVMe SSD for fast system boot and load times.",
+    "MSI B650 chipset AM5 Micro-ATX motherboard for stable platform support.",
+    "1000 W Gold modular power supply for efficient and reliable power delivery.",
+    "360 mm liquid cooler with three RGB PWM fans for effective CPU cooling.",
+    "Antec P120 Crystal ATX mid-tower gaming chassis with tempered glass side panel.",
+    "Microsoft Windows 11 Home preinstalled with 1 month of Xbox Game Pass Ultimate (including EA Play).",
+    "1.8 m power cable included; ready to use out of the box."
+  ]
 }
+
 
 ]
