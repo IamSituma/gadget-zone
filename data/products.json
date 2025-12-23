@@ -7642,6 +7642,411 @@
     "Supports Intel Deep Learning Boost for accelerated AI workloads.",  
     "Ideal for gaming, content creation, and productivity workloads."
   ]
+},
+{
+  "id": "msi-geforce-gtx-1650-super-ventus-xs-oc",
+  "name": "MSI GeForce GTX 1650 SUPER VENTUS XS OC 4GB Graphics Card",
+  "description": "The MSI GeForce GTX 1650 SUPER VENTUS XS OC is a performance-oriented 4 GB gaming graphics card based on NVIDIA’s Turing architecture with 1280 CUDA cores and factory overclocked speeds. Designed for 1080p gaming and multimedia use, it delivers strong performance for modern titles and supports DirectX 12 and multiple monitors.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/GF-GTX1650-SUPER-VENTXSOC_wr_01.jpg",
+  "images": [
+    "/GF-GTX1650-SUPER-VENTXSOC_wr_02.jpg",
+    "/GF-GTX1650-SUPER-VENTXSOC_wr_03.jpg",
+    "/GF-GTX1650-SUPER-VENTXSOC_wr_04.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "NVIDIA GeForce GTX 1650 SUPER GPU with Turing architecture and 1280 CUDA cores for strong 1080p performance.",  
+    "Factory overclocked boost clock up to 1740 MHz for enhanced performance.",  
+    "4 GB GDDR6 video memory with 128-bit bus for smooth gaming and graphics rendering.",  
+    "Supports DirectX 12 and OpenGL for compatibility with modern games and applications.",  
+    "Display outputs include 1 × DisplayPort 1.4a, 1 × HDMI 2.0b, and 1 × DL-DVI-D for multi-monitor setups.",  
+    "PCI Express 3.0 ×16 interface for wide motherboard compatibility.",  
+    "Dual-slot active cooling with dual fans for efficient heat dissipation under load.",  
+    "100 W typical power consumption via a single 6-pin PCIe power connector (recommended PSU ~350 W).",  
+    "Supports up to three displays simultaneously for expanded desktop or gaming setups.",  
+    "Ideal for 1080p gaming, multimedia, and everyday graphics tasks."
+  ]
+},
+{
+  "id": "msi-geforce-gtx-1650-d6-ventus-xs-oc",
+  "name": "MSI GeForce GTX 1650 D6 VENTUS XS OC 4GB Graphics Card",
+  "description": "The MSI GeForce GTX 1650 D6 VENTUS XS OC is a dedicated gaming graphics card based on the NVIDIA GeForce GTX 1650 GPU. With 4 GB of GDDR6 memory, a boost clock around 1620 MHz, and a robust dual-fan cooling system, it delivers smooth performance for 1080p gaming and multimedia tasks. The card features multiple display outputs including DisplayPort, HDMI, and DVI-D, with support for modern APIs and MSI Afterburner overclocking control.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/4719072744526_wr_01.jpg",
+  "images": [
+    "/4719072744526_wr_02.jpg",
+    "/4719072744526_wr_03.jpg",
+    "/4719072744526_wr_04.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "NVIDIA GeForce GTX 1650 GPU with 896 CUDA cores for efficient 1080p gaming performance.",  
+    "Boost Clock up to approximately 1620 MHz with 4 GB GDDR6 memory at 12 Gbps for responsive graphics performance.",
+    "128-bit memory interface and PCI Express 3.0 ×16 interface for wide compatibility.",
+    "Dual-fan cooling design for effective heat dissipation under load.",
+    "Multiple display outputs including 1 × DisplayPort, 1 × HDMI, and 1 × DVI-D for flexible multi-monitor setups.",
+    "Supports modern graphics APIs including DirectX 12 and OpenGL for gaming and multimedia.",
+    "MSI Afterburner support for advanced overclocking and real-time hardware monitoring.",
+    "NVIDIA G-SYNC compatible to help reduce screen tearing in supported displays.",
+    "Ideal for 1080p gaming, esports titles, and everyday graphics workloads.",
+    "Compact dual-slot design fits most mid-tower PC builds.",
+    "Recommended PSU around 300 W for system stability."
+  ]
+},
+{
+  "id": "msi-mag-coreliquid-m240-argb-liquid-cooler",
+  "name": "MSI MAG CoreLiquid M240 ARGB 240mm Liquid Cooler",
+  "description": "The MSI MAG CoreLiquid M240 ARGB 240mm Liquid Cooler is a high-performance AIO (all-in-one) liquid cooling solution with vibrant addressable RGB lighting and broad CPU socket compatibility. Designed to keep desktop processors at optimal temperatures under load, this 240 mm cooler features two ARGB fans, a robust pump, and extensive Intel and AMD socket support for gaming and high-performance builds.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/MAGCORELIQUIDM240_wr_01.jpeg",
+  "images": [
+    "/MAGCORELIQUIDM240_wr_02.jpeg",
+    "/MAGCORELIQUIDM240_wr_03.jpeg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "240 mm radiator with aluminum construction for efficient heat dissipation.",  
+    "Dual ARGB 120 mm fans with addressable RGB lighting for both cooling performance and aesthetics.",  
+    "Fan airflow range approximately 21.63 – 78.73 CFM with dual ball bearing design.",  
+    "Fans support PWM control via 4-pin connectors for dynamic speed adjustments.",  
+    "Robust pump with 3100 RPM ± 10 % speed and ~20 dBA noise level for quiet operation.",  
+    "Pump life expectancy ~100,000 hours with ARGB integrated lighting.",  
+    "Cold plate with copper and plastic construction for strong thermal transfer.",  
+    "Broad CPU socket support including Intel LGA1150/1151/1155/1156/1200/1700/2011/2066 and AMD AM4/AM5.",  
+    "Black rubber reinforced mesh tubing for durability and leak resistance.",  
+    "Compatible with MSI Mystic Light and other motherboard ARGB control software for lighting customization."
+  ]
+},
+{
+  "id": "msi-mag-coreliquid-m360-argb-liquid-cooler",
+  "name": "MSI MAG CoreLiquid M360 ARGB 360mm Liquid Cooler",
+  "description": "The MSI MAG CoreLiquid M360 ARGB 360mm Liquid Cooler is a high-performance all-in-one CPU cooling solution featuring a large 360 mm radiator and vibrant addressable RGB lighting. Designed to deliver efficient thermal performance with broad Intel and AMD socket compatibility, this AIO cooler combines powerful cooling with customizable aesthetics for gaming and high-performance desktop builds.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/MAGCORELIQUIDM360_wr_01.jpeg",
+  "images": [
+    "/MAGCORELIQUIDM360_wr_02.jpeg",
+    "/MAGCORELIQUIDM360_wr_03.jpeg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "360 mm aluminum radiator with excellent heat dissipation surface area.",  
+    "Triple 120 mm ARGB fans with addressable RGB lighting for both cooling and aesthetic appeal.",  
+    "Fans support PWM control and deliver airflow up to 78.73 CFM with two-ball-bearing design for durability.",  
+    "Black rubber tubing with mesh exterior for enhanced durability and flexibility.",  
+    "Pump with 3100 RPM ± 10% speed, low noise (~20 dBA), and long life expectancy (~100,000 hours).",  
+    "Cold plate constructed from copper + plastic for efficient thermal transfer.",  
+    "Block dimensions ~67.26 × 59.95 × 55.9 mm for strong CPU contact.",  
+    "Broad socket support including Intel LGA 1150/1151/1155/1156/1200/1700/2011/2011-3/2066 and AMD AM5/AM4/TR4.",  
+    "ARGB lighting compatible with popular motherboard lighting ecosystems.",  
+    "Ideal for gaming, high-performance computing, and enthusiast builds seeking both cooling performance and visual style."
+  ]
+},
+{
+  "id": "msi-mag-z690-ddr4-motherboard",
+  "name": "MSI MAG Z690 DDR4 ATX Motherboard",
+  "description": "The MSI MAG Z690 DDR4 motherboard is a high-performance ATX gaming and productivity platform built on the Intel Z690 chipset with support for Intel 12th and 13th Gen processors. It features robust power delivery, multiple expansion slots including PCIe 5.0, four DDR4 memory slots with overclocking support up to DDR4-5200+, advanced networking with 2.5G LAN and Wi-Fi 6, and comprehensive connectivity for storage and peripherals.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/4719072886585_wr_01.jpg",
+  "images": [
+    "/4719072886585_wr_02.jpg",
+    "/4719072886585_wr_03.jpg",
+    "/4719072886585_wr_04.jpg",
+    "/4719072886585_wr_05.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "Intel Z690 chipset with LGA1700 socket supporting Intel 12th and 13th Gen Core processors.",
+    "Supports DDR4 memory with four DIMM slots up to 128 GB total capacity; overclocked speeds up to DDR4-5200+ (OC).",  
+    "PCIe 5.0 ×16 slot for next-gen GPU support, plus additional PCIe 3.0 expansion slots.",  
+    "Four M.2 slots and six SATA III ports for high-speed NVMe and SATA storage configurations.",  
+    "High-performance 2.5G Ethernet (Intel I225-V) and integrated Intel Wi-Fi 6 for network connectivity.",  
+    "Rear I/O includes USB 3.2 Gen2×2 Type-C, multiple USB-A ports, HDMI 2.1, and DisplayPort 1.4 outputs.",  
+    "Realtek ALC4080 7.1-channel HD audio with Audio Boost 5 for immersive sound quality.",  
+    "Supports AMD CrossFire multi-GPU technology.",  
+    "Advanced thermal design with extended heatsinks and M.2 Shield Frozr for sustained performance.",
+    "ATX form factor suitable for gaming and high-performance desktop builds."
+  ]
+},
+{
+  "id": "msi-mag-z690-ddr4-tomahawk-wifi",
+  "name": "MSI MAG Z690 DDR4 Tomahawk WiFi ATX Motherboard",
+  "description": "The MSI MAG Z690 DDR4 Tomahawk WiFi ATX motherboard is a high-performance Intel Z690 platform designed for 12th and 13th Gen Intel Core processors. Featuring robust power delivery, advanced thermal enhancements, dual-channel DDR4 memory support (up to DDR4-5200 OC), integrated Wi-Fi 6, 2.5G LAN, PCIe 5.0 expansion, multiple M.2 and SATA storage options, and comprehensive connectivity, it’s ideal for gaming, content creation, and enthusiast desktop builds.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/4719072872182_wr_01.jpg",
+  "images": [
+    "/4719072872182_wr_02.jpg",
+    "/4719072872182_wr_03.jpg",
+    "/4719072872182_wr_04.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "Intel Z690 chipset with LGA1700 socket supporting 12th and 13th Gen Intel Core, Pentium Gold, and Celeron processors.",  
+    "Supports DDR4 dual-channel memory across 4 DIMM slots with OC speeds up to DDR4-5200 MHz.",  
+    "ATX form factor with premium power design and enhanced thermal solutions including extended heatsinks and M.2 Shield Frozr.",  
+    "PCIe 5.0 ×16 expansion for next-gen GPU support plus additional PCIe 3.0 slots for connectivity options.",  
+    "Integrated 2.5G LAN (Intel I225-V) and Wi-Fi 6 wireless for fast and stable network performance.",  
+    "Four M.2 slots and six SATA III ports for versatile high-speed storage configurations.",  
+    "Rear I/O includes USB 3.2 Gen2x2 Type-C, multiple USB Type-A ports, HDMI 2.1 and DisplayPort 1.4 outputs.",  
+    "Realtek ALC4080 7.1-channel HD audio with Audio Boost for immersive sound quality.",  
+    "Supports AMD CrossFire multi-GPU configuration (for compatible GPUs).",  
+    "Ideal for high-performance gaming, overclocking, multimedia, and enthusiast desktop systems."
+  ]
+},
+{
+  "id": "msi-mag274qrf-qd-27-gaming-monitor",
+  "name": "MSI MAG274QRF-QD 27″ Esports Gaming Monitor",
+  "description": "The MSI MAG274QRF-QD is a 27-inch WQHD (2560×1440) esports gaming monitor featuring Rapid IPS technology, a 165 Hz refresh rate, 1 ms GTG response time, and NVIDIA G-SYNC compatibility. With Quantum Dot color enhancement and broad connectivity options including DisplayPort, HDMI, and USB-C (DP alt mode), it’s designed to deliver fast, smooth visuals and accurate colors for competitive gaming and high-performance use.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/4719072750336_wr_01.jpg",
+  "images": [
+    "/4719072750336_wr_02.jpg",
+    "/4719072750336_wr_03.jpg",
+    "/4719072750336_wr_04.jpg",
+    "/4719072750336_wr_05.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "27″ Rapid IPS panel with WQHD 2560 × 1440 resolution for sharp, detailed images.",  
+    "165 Hz refresh rate with 1 ms GTG response time for smooth gaming performance.",  
+    "Quantum Dot technology for rich color and wide gamut coverage (97% DCI-P3 / 147% sRGB).",  
+    "NVIDIA G-SYNC Compatible and AMD FreeSync Premium support to reduce screen tearing.",  
+    "Panel brightness of 300 nits and 1000:1 contrast ratio for balanced visuals.",  
+    "Multiple display inputs: 1 × DisplayPort 1.2a, 2 × HDMI 2.0b and 1 × USB-C (DP alt mode).",  
+    "Integrated USB hub: 2 × USB 2.0 Type-A and 1 × USB 2.0 Type-B upstream port.",  
+    "178° horizontal / 178° vertical viewing angles with anti-glare treatment.",  
+    "Adjustable stand with tilt, swivel, pivot, and height adjustments for ergonomic setup.",  
+    "VESA-compatible mount (100 × 100 mm) for flexible placement options."
+  ]
+},
+{
+  "id": "msi-pro-b650-s-wifi-amd-am5-atx-motherboard",
+  "name": "MSI PRO B650-S Wi-Fi AMD AM5 ATX Motherboard",
+  "description": "The MSI PRO B650-S Wi-Fi motherboard is an ATX-form AMD gaming and productivity platform featuring the B650 chipset and AM5 socket, designed for Ryzen 7000 (and newer) desktop processors. It offers robust power delivery, dual-channel DDR5 support, Wi-Fi 6E and Bluetooth connectivity, high-speed networking, multiple storage options including M.2 slots, and extensive USB connectivity, making it a solid choice for mainstream builds.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/PROB650-SWIFI_wr_01.jpeg",
+  "images": [
+    "/PROB650-SWIFI_wr_02.jpeg",
+    "/PROB650-SWIFI_wr_03.jpeg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "AMD Socket AM5 with support for AMD Ryzen™ 7000 and newer series desktop processors.",  
+    "AMD B650 chipset with robust 12+2 power delivery and MOSFET thermal pads for stable performance.",  
+    "Dual-channel DDR5 memory support up to DDR5-7200+ (OC) across 4 DIMM slots.",  
+    "Dual PCIe 4.0 x16 slots plus an additional PCIe 3.0 expansion slot for GPU and peripherals.",  
+    "Two Lightning Gen4 x4 M.2 slots with M.2 Shield Frozr for high-speed NVMe storage.",  
+    "Four SATA 6G ports with RAID 0/1 support for SATA storage configurations.",  
+    "Integrated Intel Wi-Fi 6E and Bluetooth 5.3 for fast wireless connectivity.",  
+    "2.5G Ethernet LAN for high-speed wired networking.",  
+    "Rear USB includes USB 3.2 Gen2×2 Type-C, multiple USB-A ports and abundant front panel USB support.",  
+    "Realtek audio codec with comprehensive I/O including HDMI and DisplayPort outputs."
+  ]
+},
+{
+  "id": "msi-pro-mp251-24-5-full-hd-monitor",
+  "name": "MSI PRO MP251 24.5″ Full HD Professional Monitor",
+  "description": "The MSI PRO MP251 is a 24.5″ Full HD (1920 × 1080) IPS monitor designed for productivity and everyday computing with a smooth 100 Hz refresh rate and quick response time. Featuring wide viewing angles, adaptive sync support, built-in speakers, and ergonomic tilt adjustments, it’s ideal for office, home, and light gaming use.",
+  "category": "Monitors & Displays",
+  "condition": "Brand New",
+  "image": "/PROMP251_wr_01b.jpeg",
+  "images": [
+    "/PROMP251_wr_02b.jpeg",
+    "/PROMP251_wr_03b.jpeg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "24.5″ IPS panel with Full HD (1920 × 1080) resolution for clear visuals and wide viewing angles.",  
+    "100 Hz refresh rate with Adaptive-Sync for smoother visuals and reduced tearing compared to standard 60 Hz panels.",  
+    "Fast 1 ms (MPRT) / 4 ms (GTG) response time for responsive everyday use and light gaming.",  
+    "300 cd/m² brightness and a typical static contrast ratio of 1300:1 for vibrant and balanced images.",  
+    "Anti-glare screen surface suitable for multi-environment use.",  
+    "Built-in 2 × 2 W speakers for basic audio without external speakers.",  
+    "Connectivity includes 1 × HDMI and 1 × D-Sub (VGA) ports for flexible device connections.",  
+    "Audio line-in and headphone-out ports for additional audio options.",  
+    "178° horizontal / 178° vertical viewing angles for consistent color and clarity from wide positions.",  
+    "100 × 100 mm VESA mount support for wall or arm mounting flexibility."
+  ]
+},
+{
+  "id": "msi-nvidia-geforce-rtx-3060-ti",
+  "name": "MSI NVIDIA GeForce RTX 3060 Ti 8GB Graphics Card",
+  "description": "The MSI NVIDIA GeForce RTX 3060 Ti is a high-performance gaming graphics card based on NVIDIA’s Ampere architecture. With 8 GB of GDDR6 memory and 4864 CUDA cores, it delivers excellent 1080p and 1440p performance, supports ray tracing and DLSS, and features modern connectivity for immersive gaming and creative workloads.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/4719072850029_wr_01.jpg",
+  "images": [
+    "/4719072850029_wr_02.jpg",
+    "/4719072850029_wr_03.jpg",
+    "/4719072850029_wr_04.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "NVIDIA GeForce RTX 3060 Ti GPU based on the Ampere architecture.",
+    "4864 CUDA cores for strong parallel processing in gaming and compute tasks.",  
+    "8 GB GDDR6 memory with a 256-bit memory interface and ~448 GB/s bandwidth for smooth performance.",  
+    "Boost clock speeds approximately in the 1665 – 1770 MHz range depending on model and cooling.",  
+    "PCI Express 4.0 ×16 interface for compatibility with modern motherboards.",  
+    "Supports hardware-accelerated ray tracing and AI-enhanced features such as DLSS.",  
+    "Multiple display outputs typically include 3 × DisplayPort 1.4a and 1 × HDMI 2.1 for high-resolution gaming.",  
+    "Recommended system power supply around 550 W – 650 W depending on factory overclock and model.",  
+    "DirectX 12 Ultimate, Vulkan and OpenGL support for broad API compatibility.",
+    "Ideal for 1080p and 1440p gaming, content creation, and real-time ray-traced graphics."
+  ]
+},
+{
+  "id": "msi-geforce-rtx-3060-ti-ventus-2x-8gb",
+  "name": "MSI GeForce RTX 3060 Ti Ventus 2X 8GB Graphics Card",
+  "description": "The MSI GeForce RTX 3060 Ti Ventus 2X 8GB graphics card is a performance‑focused GPU based on NVIDIA’s Ampere architecture with enhanced Ray Tracing and Tensor cores, delivering excellent 1080p and 1440p gaming performance. Featuring MSI’s TORX Fan 3.0 cooling and PCIe 4.0 support, it’s designed for modern gaming and multimedia workloads.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/4719072852061_wr_01.jpg",
+  "images": [
+    "/4719072852061_wr_02.jpg",
+    "/4719072852061_wr_03.jpg",
+    "/4719072852061_wr_04.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "NVIDIA GeForce RTX 3060 Ti GPU based on Ampere architecture with enhanced Ray Tracing and Tensor cores for advanced graphics performance.",  
+    "Boost clock around 1665 MHz for responsive gaming performance.",
+    "8 GB GDDR6 video memory with a 256‑bit memory bus for smooth high‑resolution rendering.",
+    "PCI Express Gen 4 × 16 interface for wide motherboard compatibility and fast data transfer.",
+    "Display outputs include 3 × DisplayPort 1.4a and 1 × HDMI 2.1 (supports up to 4K @ 120 Hz).",
+    "MSI TORX Fan 3.0 dual‑fan thermal design with Zero Frozr for silent cooling at idle and effective heat dissipation under load.",
+    "Supports NVIDIA technologies such as DLSS, G‑SYNC, and NVIDIA Reflex for improved visuals and responsiveness.",
+    "DirectX 12 Ultimate, OpenGL 4.6 support for broad API compatibility with modern games.",
+    "Recommended PSU ~600 W for stable system performance.",
+    "Maximum digital resolution up to 7680 × 4320 for high‑resolution displays.",
+    "Up to 4 displays supported simultaneously for multi‑monitor setups."
+  ]
+},
+{
+  "id": "msi-geforce-rtx-3060-ti-gaming-x-8g-lhr",
+  "name": "MSI GeForce RTX 3060 Ti GAMING X 8G LHR Graphics Card",
+  "description": "The MSI GeForce RTX 3060 Ti GAMING X 8G LHR is a premium gaming graphics card based on NVIDIA’s Ampere architecture. Featuring 8 GB of GDDR6 memory, factory overclocked performance, and MSI’s advanced TRI FROZR 2 thermal design, this card delivers excellent 1440p gaming performance with Ray Tracing, DLSS, and comprehensive connectivity for modern gaming systems.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/4719072852047_wr_01.jpg",
+  "images": [
+    "/4719072852047_wr_02.jpg",
+    "/4719072852047_wr_03.jpg",
+    "/4719072852047_wr_04.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "NVIDIA GeForce RTX 3060 Ti GPU with Ampere architecture featuring 4864 CUDA cores.",
+    "8 GB GDDR6 memory on a 256‑bit bus with high‑speed performance.",
+    "Factory overclocked boost clock for enhanced gaming performance.",
+    "MSI TRI FROZR 2 advanced thermal design with TORX Fans for efficient cooling and quiet operation.",
+    "DirectX 12 Ultimate, Vulkan, and OpenGL support for broad graphics compatibility.",
+    "PCI Express 4.0 ×16 interface for compatibility with modern motherboards.",
+    "Multiple display outputs including 3 × DisplayPort 1.4a and 1 × HDMI 2.1.",
+    "Supports real‑time ray tracing and AI‑enhanced graphics with NVIDIA DLSS.",
+    "Digital maximum resolution up to 7680 × 4320 for high‑resolution displays.",
+    "Ideal for 1440p gaming, creative workflows, and high‑fidelity graphics applications."
+  ]
+},
+{
+  "id": "msi-geforce-rtx-4060-ventus-2x-black-8g-oc",
+  "name": "MSI GeForce RTX 4060 Ventus 2X Black 8G OC Graphics Card",
+  "description": "The MSI GeForce RTX 4060 Ventus 2X Black 8G OC is a compact, high‑efficiency gaming graphics card based on NVIDIA’s Ada Lovelace architecture. With 8 GB of GDDR6 memory, factory overclocked performance, and a dual‑fan cooling solution, it delivers smooth 1080p and 1440p gameplay along with support for ray tracing, DLSS 3, and modern display standards.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/RTX4060VENTUS2X8GOCBLK_wr_01.jpeg",
+  "images": [
+    "/RTX4060VENTUS2X8GOCBLK_wr_02.jpeg",
+    "/RTX4060VENTUS2X8GOCBLK_wr_03.jpeg",
+    "/RTX4060VENTUS2X8GOCBLK_wr_04.jpeg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "NVIDIA GeForce RTX 4060 GPU with Ada Lovelace architecture and 3072 CUDA cores.",  
+    "Factory overclocked core with Extreme Performance mode up to 2505 MHz and Boost up to 2490 MHz via MSI Center optimization.",  
+    "8 GB GDDR6 memory at 17 Gbps on a 128‑bit memory interface for smooth gaming performance.",  
+    "PCI Express 4.0 ×8 interface for compatibility with modern systems.",  
+    "Dual‑fan TORX Fan 4.0 thermal design with Zero Frozr technology for efficient cooling and quiet operation.",  
+    "Display outputs: 3 × DisplayPort 1.4a and 1 × HDMI 2.1 (supports 4K@120 Hz HDR, 8K@60 Hz HDR, and VRR).",  
+    "Supports NVIDIA DLSS 3, Ray Tracing, NVIDIA Reflex, RTX Video Super Resolution, and NVIDIA Studio features.",  
+    "DirectX 12 Ultimate and OpenGL 4.6 support with G‑SYNC compatibility.",  
+    "115 W typical power consumption with a single 8‑pin power connector and recommended 550 W PSU.",  
+    "Maximum digital resolution up to 7680 × 4320 and support for up to 4 simultaneous displays."
+  ]
+},
+{
+  "id": "msi-geforce-rtx-4070-ti-suprim-x-12g",
+  "name": "MSI GeForce RTX 4070 Ti SUPRIM X 12G Graphics Card",
+  "description": "The MSI GeForce RTX 4070 Ti SUPRIM X 12G is a premium high‑end graphics card built on NVIDIA’s Ada Lovelace architecture. Featuring 12 GB of GDDR6X memory, advanced cooling with MSI’s TRI FROZR 3 thermal design, and factory‑tuned performance, this card delivers exceptional performance for 1440p gaming, real‑time ray tracing, AI‑enhanced graphics, and demanding creative workloads.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/RTX4070TISUPRIM12G_wr_01a.jpg",
+  "images": [
+    "/RTX4070TISUPRIM12G_wr_02a.jpg",
+    "/RTX4070TISUPRIM12G_wr_03a.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "NVIDIA GeForce RTX 4070 Ti GPU with Ada Lovelace architecture for high‑performance gaming and creative workloads.",
+    "12 GB GDDR6X memory with a 192‑bit memory interface for fast texture and frame buffer performance.",
+    "MSI TRI FROZR 3 cooling system featuring TorX Fan 5.0 and advanced heatsink design for superior thermal performance.",
+    "Factory‑tuned boost clocks for enhanced performance out of the box.",
+    "PCI Express 4.0 ×16 interface for full compatibility with modern systems.",
+    "Multiple display outputs including DisplayPort 1.4a and HDMI 2.1 for high‑resolution, high‑refresh‑rate displays.",
+    "Supports real‑time ray tracing, NVIDIA DLSS 3, NVIDIA Reflex, and other NVIDIA RTX technologies.",
+    "DirectX 12 Ultimate and Vulkan support for broad application and game compatibility.",
+    "Maximum digital resolution up to 7680 ×4320 for ultra‑high‑resolution displays.",
+    "Ideal for 1440p high‑FPS gaming, advanced content creation, and accelerated workflows."
+  ]
+},
+{
+  "id": "msi-radeon-rx-6800-xt-gaming-x-trio-16g",
+  "name": "MSI Radeon RX 6800 XT Gaming X Trio 16G Graphics Card",
+  "description": "The MSI Radeon RX 6800 XT Gaming X Trio 16G is a high‑performance gaming graphics card based on AMD’s RDNA 2 architecture. With 16 GB of GDDR6 memory, a factory‑tuned boost clock up to 2285 MHz, and MSI’s TRI FROZR 2 cooling system with TORX Fan 4.0, this card delivers excellent performance for 1440p and 4K gaming along with modern connectivity and support for advanced gaming features.",
+  "category": "Graphics Cards",
+  "condition": "Brand New",
+  "image": "/4719072780746_wr_01.jpg",
+  "images": [
+    "/4719072780746_wr_02.jpg",
+    "/4719072780746_wr_03.jpg",
+    "/4719072780746_wr_04.jpg"
+  ],
+  "brand": "MSI",
+  "inStock": true,
+  "features": [
+    "AMD Radeon RX 6800 XT GPU with RDNA 2 architecture and 4608 stream processors.",  
+    "Boost clock up to 2285 MHz with game clock around 2045 MHz for strong gaming performance.",
+    "16 GB of GDDR6 memory at 16 Gbps on a 256‑bit memory bus for high‑resolution textures and bandwidth.",
+    "TRI FROZR 2 cooling system with TORX Fan 4.0 and advanced airflow control for efficient thermal management.",
+    "PCI Express 4.0 ×16 interface for modern motherboard compatibility.",
+    "Display outputs include 3 × DisplayPort 1.4 and 1 × HDMI 2.1 (supports up to 4K @ 120 Hz).",
+    "Supports DirectX 12 and OpenGL 4.6 for wide API compatibility.",
+    "Recommended 750 W power supply with 2 × 8‑pin PCIe power connectors.",
+    "Maximum digital resolution up to 7680 × 4320 for ultra‑high‑resolution displays.",
+    "Supports up to 4 simultaneous displays.",
+    "Ideal for 1440p and 4K gaming, VR, and content creation workflows."
+  ]
 }
 
 ]

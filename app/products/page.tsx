@@ -46,6 +46,7 @@ export default function ProductsPage() {
     "Wearables",
     "Audio Accessories",
     "Networking",
+    "Graphics Cards",
     "Monitors & Displays",
     "PC Cases",
     "Mobile Phones & Tablets",

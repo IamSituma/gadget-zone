@@ -4,6 +4,7 @@ export type ProductCategory =
   | "Batteries"
   | "Wearables"
   | "Networking"
+  | "Graphics Cards"
   | "Monitors & Displays"
   | "PC Cases"
   | "Audio Accessories"
