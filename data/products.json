@@ -8223,7 +8223,254 @@
     "Microsoft Windows 11 Home preinstalled with 1 month of Xbox Game Pass Ultimate (including EA Play).",
     "1.8 m power cable included; ready to use out of the box."
   ]
+},
+{
+  "id": "romoss-usb-to-lightning-1m-flat-cable",
+  "name": "Romoss USB to Lightning 1m Flat Cable",
+  "description": "The Romoss USB to Lightning 1m Flat Cable is a durable and tangle-free charging and data cable designed for Apple devices with a Lightning connector. Featuring a flat cable design for easy storage and high-speed data transfer and charging, this cable is compatible with iPhones, iPads, and other Lightning-enabled devices.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/CB12B-61-G23_wr_01.jpg",
+  "images": [
+    "/CB12B-61-G23_wr_02.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "Flat cable design for tangle-free use and easy portability.",
+    "High-speed data transmission and quick charge support.",
+    "Durable construction with quality wire and connector parts.",
+    "Compatible with most Lightning-enabled Apple devices.",
+    "1 meter cable length for convenient use at home, office, or travel."
+  ]
+},
+{
+  "id": "romoss-cb25a-3-in-1-lightning-charge-1m-cable-space-grey",
+  "name": "Romoss CB25A 3-in-1 Lightning Charge 1 m Cable – Space Grey",
+  "description": "The Romoss CB25A 3-in-1 charging cable lets you charge and sync multiple devices using a single cable. It features a USB-A input and three output connectors (Micro USB, Lightning 8-pin, and USB-C), a durable nylon braided design, and fast charge support — ideal for charging smartphones, tablets, and other compatible devices.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/CB25A-63-G23_wr_01.jpg",
+  "images": [
+    "/CB25A-63-G23_wr_02.jpg",
+    "/CB25A-63-G23_wr_03.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "3-in-1 connectors: Micro USB, Apple Lightning 8-pin, and USB-C for versatile charging.",
+    "Fast Charge support for compatible devices.",
+    "Apple Lightning data sync capability.",
+    "Durable nylon braided round cable design for enhanced strength and flexibility.",
+    "100 cm (1 m) cable length for convenient use with devices and chargers."
+  ]
+},
+{
+  "id": "romoss-cb308-usb-to-type-c-3a-cable-white",
+  "name": "Romoss USB to Type-C 3A Cable – White",
+  "description": "The Romoss CB308 USB-to-Type-C cable (1 m) is a versatile charging and data cable with a USB-A connector on one end and a reversible Type-C connector on the other. It supports up to 3 A fast charging and standard-speed data transfer, making it suitable for most USB-C smartphones, tablets, and accessories.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/CB308-61-123_wr_01.jpg",
+  "images": [
+    "/CB308-61-123_wr_02.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "USB-A to USB-C interface compatible with USB-C enabled devices such as phones, tablets, and accessories.",
+    "Supports up to 3 A maximum fast charging for quicker power delivery.",
+    "Durable ABS plastic shell construction for long-lasting use.",
+    "High-speed USB data transfer alongside charging capability.",
+    "1 m (100 cm) cable length for flexible everyday use.",
+    "Reversible USB-C connector for easy plug-in without orientation concerns."
+  ]
+},
+{
+  "id": "romoss-zeus-60000mah-fast-charging-power-bank-black",
+  "name": "Romoss Zeus 60000mAh Fast Charging Power Bank – Black",
+  "description": "The Romoss Zeus 60000mAh Power Bank is a high-capacity fast-charging portable battery designed for phones, tablets, accessories, and USB-powered devices. It features multiple outputs for simultaneous charging, an LED digital display for accurate power readings, and comprehensive multi-layer protection for reliable and safe performance.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/PEA60-152-2142_wr_01a.jpg",
+  "images": [
+    "/PEA60-152-2142_wr_02a.jpg",
+    "/PEA60-152-2142_wr_03a.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "Massive 60000mAh battery capacity suitable for extended power backup.",
+    "Supports fast charging to quickly power compatible devices.",
+    "Multiple USB output ports allow charging of several devices simultaneously.",
+    "LED digital display shows remaining battery percentage and charging status in real time.",
+    "Built-in multi-layer protection for safety against overcharging, overheating, and short circuits.",
+    "Durable build quality designed for heavy and long-term usage.",
+    "Capable of charging smartphones multiple times before needing a recharge.",
+    "Compatible with smartphones, tablets, Bluetooth headphones, speakers, and other USB-powered gadgets.",
+    "Smart power management helps optimize charging speed and power efficiency.",
+    "Reliable power companion for travel, outdoor activities, work, emergency backup, and everyday use.",
+    "Designed to maintain stable performance even under continuous and heavy usage.",
+    "Portable yet powerful design suitable for both personal and professional use."
+  ]
+},
+{
+  "id": "romoss-pulse-10-10000mah-power-bank-white",
+  "name": "Romoss Pulse 10 10000mAh Power Bank – White",
+  "description": "The Romoss Pulse 10 10000mAh Power Bank is a slim and lightweight portable charger designed for on-the-go charging of smartphones, tablets, and other USB-powered devices. It features dual USB outputs for simultaneous charging, a compact ergonomic design, and built-in safety protections for reliable use.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/PPB10-201-1A45_wr_01.jpg",
+  "images": [
+    "/PPB10-201-1A45_wr_02.jpg",
+    "/PPB10-201-1A45_wr_03.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "Slim, lightweight and easy to carry design for everyday portability.",
+    "10000mAh high-capacity battery for charging smartphones multiple times on a single charge.",
+    "Dual USB output ports allow simultaneous charging of two devices.",
+    "Fit Charge technology ensures compatibility with a wide range of devices.",
+    "Ergonomic and comfortable design makes holding and handling easy.",
+    "LED battery indicator shows remaining charge status.",
+    "Intelligent ten-fold safety protection against overcharge, overcurrent, over-discharge, temperature fluctuations, power surges, anti-reverse, short circuits and RFI.",
+    "High-quality lithium polymer battery for improved durability and performance.",
+    "Compatible with phones, tablets, Bluetooth devices and other USB-powered gadgets.",
+    "Ideal for travel, commuting, work or everyday backup power needs."
+  ]
+},
+{
+  "id": "romoss-pulse-20-20000mah-power-bank",
+  "name": "Romoss Pulse 20 20000mAh Power Bank",
+  "description": "The Romoss Pulse 20 20000mAh Power Bank is a high-capacity portable charger designed to keep your smartphones, tablets, and other USB-powered devices charged throughout the day. Featuring dual USB outputs for simultaneous charging, built-in safety protections, and a reliable battery pack, it’s ideal for travel, work, and everyday use.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/PPB20-101-1A45_wr_01.jpg",
+  "images": [
+    "/PPB20-101-1A45_wr_02.jpg",
+    "/PPB20-101-1A45_wr_03.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "High 20000mAh capacity suitable for multiple full charges of smartphones and tablets.",
+    "Dual USB output ports for charging two devices at the same time.",
+    "Compact and portable design making it easy to carry in bags or pockets.",
+    "Built-in multi-layer safety protections against over-charge, over-discharge, over-current, short circuits and RFI.",
+    "LED indicator lights to show remaining battery charge level.",
+    "Durable construction with quality materials for long service life.",
+    "Compatible with a wide range of USB-powered devices including phones, tablets and Bluetooth accessories.",
+    "Reliable power solution for travel, outdoor activities, and everyday backup needs.",
+    "Smart charging technology optimizes output to match connected device requirements.",
+    "Ergonomic design with non-slip finish for comfortable handling."
+  ]
+},
+{
+  "id": "romoss-simple-10-10000mah-portable-power-bank-white",
+  "name": "Romoss Simple 10 10000mAh Portable Power Bank – White",
+  "description": "The Romoss Simple 10 10000mAh Portable Power Bank in white is a compact and reliable external battery designed to recharge your smartphones, tablets, and USB‑powered gadgets on the go. With dual USB outputs and intelligent power delivery, it offers convenient simultaneous charging and essential safety protections.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/PSL10-101-1134_wr_01.jpg",
+  "images": [
+    "/PSL10-101-1134_wr_02.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "10000mAh (Li‑polymer cell) capacity for charging smartphones and small tablets multiple times.",
+    "Dual USB outputs allow charging two devices simultaneously.",
+    "Input support via Micro‑USB or USB‑C for flexible recharging.",
+    "Output: 5V 1A (USB‑A1) and 5V 2.1A (USB‑A2) with combined maximum of 2.1A.",
+    "Compact and lightweight design for convenient portability in bags or pockets.",
+    "Durable build quality to handle daily usage.",
+    "LED indicators to display remaining power and charging status.",
+    "Smart power management to optimize charging efficiency and protect connected devices.",
+    "Compatible with most USB‑powered devices including phones, earbuds, and portable speakers.",
+    "Ideal for travel, commuting, outdoor use, and as an emergency power solution."
+  ]
+},
+{
+  "id": "romoss-thunder-series-231wh-power-station-rs300",
+  "name": "Romoss Thunder Series 231Wh Power Station (RS300)",
+  "description": "The Romoss Thunder RS300 231Wh Power Station is a portable and reliable energy solution designed to power USB‑powered devices, small appliances, and electronics on the go, during outdoor activities, or for power backup. It features multiple output ports, fast charging support, and built‑in safety protections to keep your devices powered safely and efficiently.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/RS300-2B2-G1C3H_wr_01a.jpg",
+  "images": [
+    "/RS300-2B2-G1C3H_wr_02a.jpg",
+    "/RS300-2B2-G1C3H_wr_03a.jpg",
+    "/RS300-2B2-G1C3H_wr_04a.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "231Wh high‑capacity built‑in battery for powering phones, laptops, lights, and other devices.",
+    "Multiple output ports including AC, USB‑A, USB‑C, and DC to support a wide range of devices.",
+    "Fast charging capability for USB‑C and USB‑A enabled devices.",
+    "LCD display shows remaining power, input/output status, and operating mode.",
+    "Portable and lightweight design ideal for camping, travel, and emergency backup.",
+    "Built‑in multi‑layer safety protection against over‑charge, over‑discharge, over‑current, and short circuits.",
+    "Pure sine wave AC output for stable and safe power to sensitive electronics.",
+    "Supports pass‑through charging — power the station while charging connected devices.",
+    "Ergonomic design with easy‑to‑use button interface for power control and mode selection.",
+    "Durable construction built for daily use, adventure, and home backup needs."
+  ]
+},
+{
+  "id": "romoss-thunder-series-231wh-power-station-rs300",
+  "name": "Romoss Thunder Series 231Wh Power Station (RS300)",
+  "description": "The Romoss Thunder RS300 231Wh Power Station is a portable and reliable energy solution designed to power USB‑powered devices, small appliances, and electronics on the go, during outdoor activities, or for power backup. It features multiple output ports, fast charging support, and built‑in safety protections to keep your devices powered safely and efficiently.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/RS500-2B2-G1C3H_wr_01b.jpg",
+  "images": [
+    "/RS500-2B2-G1C3H_wr_02b.jpg",
+    "/RS500-2B2-G1C3H_wr_03b.jpg",
+    "/RS500-2B2-G1C3H_wr_04b.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "231Wh high‑capacity built‑in battery for powering phones, laptops, lights, and other devices.",
+    "Multiple output ports including AC, USB‑A, USB‑C, and DC to support a wide range of devices.",
+    "Fast charging capability for USB‑C and USB‑A enabled devices.",
+    "LCD display shows remaining power, input/output status, and operating mode.",
+    "Portable and lightweight design ideal for camping, travel, and emergency backup.",
+    "Built‑in multi‑layer safety protection against over‑charge, over‑discharge, over‑current, and short circuits.",
+    "Pure sine wave AC output for stable and safe power to sensitive electronics.",
+    "Supports pass‑through charging — power the station while charging connected devices.",
+    "Ergonomic design with easy‑to‑use button interface for power control and mode selection.",
+    "Durable construction built for daily use, adventure, and home backup needs."
+  ]
+},
+{
+  "id": "romoss-rx1000-1000w-continuous-2000w-peak-portable-power-station",
+  "name": "Romoss RX1000 1000W Continuous / 2000W Peak Portable Power Station",
+  "description": "The Romoss RX1000 Portable Power Station delivers 1000W continuous and 2000W peak power, making it suitable for powering a wide range of devices from smartphones and laptops to small appliances. With a large battery capacity of approximately 1008Wh, multiple output ports including AC, USB‑A, USB‑C, DC and wireless, and built‑in safety protections, this versatile unit is ideal for camping, outdoor use, and emergency backup power.",
+  "category": "Power Stations",
+  "condition": "Brand New",
+  "image": "/RS1000-2B2-G1C3H_wr_01b.jpg",
+  "images": [
+    "/RS1000-2B2-G1C3H_wr_02b.jpg",
+    "/RS1000-2B2-G1C3H_wr_03b.jpg",
+    "/RS1000-2B2-G1C3H_wr_04b.jpg"
+  ],
+  "brand": "Romoss",
+  "inStock": true,
+  "features": [
+    "1000W continuous output and 2000W peak output for powering a variety of electronics and small appliances.",
+    "Large ~1008Wh (315000mAh) LiFePO₄ battery capacity for extended runtime and reliable performance.",
+    "Multiple output options including 2 × AC outlets to support devices that require mains power.",
+    "USB‑A and USB‑C ports for charging phones, tablets, and other USB‑powered devices.",
+    "DC and car socket outputs for powering DC appliances and accessories.",
+    "Wireless charging pad for compatible devices for cord‑free convenience.",
+    "LCD display showing battery level, remaining time, power modes, and input/output status.",
+    "Supports solar panel, AC wall charger, and car charging input options for flexible recharging.",
+    "Pure sine wave AC output for stable and safe power delivery to sensitive electronics.",
+    "Built‑in comprehensive safety protections against over‑charge, over‑discharge, short circuit, and temperature extremes."
+  ]
 }
-
 
 ]
