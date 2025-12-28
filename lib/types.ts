@@ -6,6 +6,8 @@ export type ProductCategory =
   | "Networking"
   | "Graphics Cards"
   | "Monitors & Displays"
+  | "Bags & Backpacks"
+  | "Apparel & Accessories"
   | "PC Cases"
   | "Audio Accessories"
   | "Mobile Phones & Tablets"
@@ -44,6 +46,8 @@ export interface Product {
   inStock: boolean
   color?: string
   connectionType?: string
+  size?: string
+  sizeOptions?: string[]
   memory?: number
   memoryOptions?: number []
   specifications?: Record<string, string>

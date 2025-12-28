@@ -11,6 +11,7 @@ import { ProductActions } from "@/components/product-actions"
 import ProductGalleryVariants from "@/components/product-gallery-variants"
 import { ProductShare } from "@/components/product-share"
 import { WhatsAppButton } from "@/components/whatsapp-button"
+import { SizeSelector } from "@/components/size-selector"
 
 export default async function ProductPage({
   params,
@@ -71,6 +72,14 @@ export default async function ProductPage({
               <h2 className="mb-2 text-base sm:text-lg font-semibold">Description</h2>
               <p className="text-sm sm:text-base text-muted-foreground">{product.description}</p>
             </div>
+
+            {/* Size Selection */}
+            {(product.sizeOptions ?? []).length > 0 && (
+              <div>
+                <h2 className="mb-2 text-base sm:text-lg font-semibold">Size</h2>
+                <SizeSelector product={product} />
+              </div>
+            )}
 
             {/* Features */}
             {(product.features ?? []).length > 0 && (

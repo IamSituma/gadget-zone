@@ -8,10 +8,9 @@ export function FeaturedProducts() {
   // Cast JSON data to Product[]
   const products = productsData as Product[]
 
-  // Filter out duplicates (variants) and color variants, then filter only Brand New products and take first 8
+  // Filter out duplicates (variants) by showing only one per variant group, then filter only Brand New products and take first 8
   const seenNames = new Set<string>()
   const uniqueProducts = products.filter((product) => {
-    if (product.color) return false // Skip color variants
     if (seenNames.has(product.name)) return false // Skip duplicate names (variants)
     seenNames.add(product.name)
     return true

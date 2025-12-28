@@ -47,6 +47,8 @@ export default function ProductsPage() {
     "Wearables",
     "Audio Accessories",
     "Networking",
+    "Bags & Backpacks",
+    "Apparel & Accessories",
     "Graphics Cards",
     "Monitors & Displays",
     "PC Cases",
@@ -71,8 +73,8 @@ export default function ProductsPage() {
     "Solar Panels",
   ]
 
-  const brands: ("All" |"Gizzu"|"Xiaomi"|"AMD"|"Antec"|"AOC"|"ASRock"|"FSP"|"GeIL"|"Giada"|"Intel"|"MSI"|"PCBuilder"|"Romoss"|"WinX")[] =
-    ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock", "FSP", "GeIL", "Giada", "Intel", "MSI", "PCBuilder", "Romoss", "WinX"]
+  const brands: ("All" |"Gizzu"|"Xiaomi"|"AMD"|"Antec"|"AOC"|"ASRock"|"FSP"|"GeIL"|"Giada"|"Intel"|"MSI"|"PCBuilder"|"Romoss"|"WinX"|"Redragon" )[] =
+    ["All", "Gizzu", "Xiaomi", "AMD", "Antec", "AOC", "ASRock", "FSP", "GeIL", "Giada", "Intel", "MSI", "PCBuilder", "Romoss", "WinX", "Redragon"]
 
   /* Detect mobile */
   useEffect(() => {
@@ -97,11 +99,10 @@ export default function ProductsPage() {
     setCurrentPage(1)
   }, [selectedCategory, selectedBrand, searchTerm])
 
-  /* Filter products - remove duplicates (variants) and color variants */
+  /* Filter products - remove duplicates (variants) by showing only one per variant group */
   const uniqueProducts = useMemo(() => {
     const seenNames = new Set<string>()
     return products.filter((product) => {
-      if (product.color) return false // Skip color variants
       if (seenNames.has(product.name)) return false // Skip duplicate names (variants)
       seenNames.add(product.name)
       return true

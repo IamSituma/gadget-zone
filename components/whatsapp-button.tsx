@@ -25,17 +25,32 @@ export function WhatsAppButton({
 }: WhatsAppButtonProps) {
   const [selectedColor, setSelectedColor] = useState<string | undefined>(undefined)
   const [selectedConnectionType, setSelectedConnectionType] = useState<string | undefined>(undefined)
+  const [selectedSize, setSelectedSize] = useState<string | undefined>(undefined)
 
   // Listen for variant selection events and update the message for the matching product
   useEffect(() => {
     const handler = (e: Event) => {
       try {
         const ev = e as CustomEvent
-        const detail = ev.detail as { productId?: string; variantId?: string; color?: string; connectionType?: string }
+        const detail = ev.detail as { productId?: string; variantId?: string; color?: string; connectionType?: string; size?: string }
         if (!detail) return
         if (!productId || detail.productId === productId) {
           setSelectedColor(detail.color)
           setSelectedConnectionType(detail.connectionType)
+          setSelectedSize(detail.size)
+        }
+      } catch (err) {
+        // ignore
+      }
+    }
+
+    const sizeHandler = (e: Event) => {
+      try {
+        const ev = e as CustomEvent
+        const detail = ev.detail as { productId?: string; size?: string }
+        if (!detail) return
+        if (!productId || detail.productId === productId) {
+          setSelectedSize(detail.size)
         }
       } catch (err) {
         // ignore
@@ -43,13 +58,18 @@ export function WhatsAppButton({
     }
 
     window.addEventListener("variant-selected", handler as EventListener)
-    return () => window.removeEventListener("variant-selected", handler as EventListener)
+    window.addEventListener("size-selected", sizeHandler as EventListener)
+    return () => {
+      window.removeEventListener("variant-selected", handler as EventListener)
+      window.removeEventListener("size-selected", sizeHandler as EventListener)
+    }
   }, [productId])
   const handleWhatsAppClick = () => {
     const sanitized = phoneNumber.replace(/\D/g, "")
     const colorPart = selectedColor ? `\nColor: ${selectedColor}` : ""
     const connectionPart = selectedConnectionType ? `\nConnection: ${selectedConnectionType}` : ""
-    const finalMessage = `${message}${colorPart}${connectionPart}`
+    const sizePart = selectedSize ? `\nSize: ${selectedSize}` : ""
+    const finalMessage = `${message}${colorPart}${connectionPart}${sizePart}`
     const url = `https://wa.me/${sanitized}?text=${encodeURIComponent(finalMessage)}`
     window.open(url, "_blank")
   }
