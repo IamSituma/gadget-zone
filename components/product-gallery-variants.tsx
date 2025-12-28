@@ -17,7 +17,7 @@ export default function ProductGalleryVariants({ product, variants }: Props) {
   // Dispatch a global event so other client components (eg. WhatsApp button)
   // can react to variant changes without prop-drilling.
   useEffect(() => {
-    const detail = { productId: product.id, variantId: selected.id, color: (selected as Product).color }
+    const detail = { productId: product.id, variantId: selected.id, color: (selected as Product).color, connectionType: (selected as Product).connectionType }
     const ev = new CustomEvent("variant-selected", { detail })
     // Fire once on mount and on selected change
     window.dispatchEvent(ev)

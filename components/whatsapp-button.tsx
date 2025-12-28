@@ -24,16 +24,18 @@ export function WhatsAppButton({
   productId,
 }: WhatsAppButtonProps) {
   const [selectedColor, setSelectedColor] = useState<string | undefined>(undefined)
+  const [selectedConnectionType, setSelectedConnectionType] = useState<string | undefined>(undefined)
 
   // Listen for variant selection events and update the message for the matching product
   useEffect(() => {
     const handler = (e: Event) => {
       try {
         const ev = e as CustomEvent
-        const detail = ev.detail as { productId?: string; variantId?: string; color?: string }
+        const detail = ev.detail as { productId?: string; variantId?: string; color?: string; connectionType?: string }
         if (!detail) return
         if (!productId || detail.productId === productId) {
           setSelectedColor(detail.color)
+          setSelectedConnectionType(detail.connectionType)
         }
       } catch (err) {
         // ignore
@@ -46,7 +48,8 @@ export function WhatsAppButton({
   const handleWhatsAppClick = () => {
     const sanitized = phoneNumber.replace(/\D/g, "")
     const colorPart = selectedColor ? `\nColor: ${selectedColor}` : ""
-    const finalMessage = `${message}${colorPart}`
+    const connectionPart = selectedConnectionType ? `\nConnection: ${selectedConnectionType}` : ""
+    const finalMessage = `${message}${colorPart}${connectionPart}`
     const url = `https://wa.me/${sanitized}?text=${encodeURIComponent(finalMessage)}`
     window.open(url, "_blank")
   }

@@ -8911,6 +8911,7 @@
   ],
   "brand": "WinX",
   "inStock": true,
+  "connectionType": "USB",
   "features": [
     "USB plug‑and‑play connection for easy setup without drivers.",
     "Built‑in noise‑cancelling microphone for clear voice communication.",
@@ -8922,9 +8923,9 @@
   ]
 },
 {
-  "id": "winx-call-clear-usb-headset",
+  "id": "winx-call-clear-pin-headset",
   "name": "WINX CALL Clear USB & Pin Headset",
-  "description": "The WINX CALL Clear USB Headset is a plug‑and‑play wired headset designed for clear communication and comfort during calls, online meetings, and remote work. It features a built‑in noise‑cancelling microphone for improved voice clarity and an in‑line control module for quick access to volume and mute functions. The adjustable headband and cushioned ear pads make it suitable for extended use.",
+  "description": "The WINX CALL Clear Pin Headset is a plug‑and‑play wired headset designed for clear communication and comfort during calls, online meetings, and remote work. It features a built‑in noise‑cancelling microphone for improved voice clarity and an in‑line control module for quick access to volume and mute functions. The adjustable headband and cushioned ear pads make it suitable for extended use.",
   "category": "Audio & Video",
   "condition": "Brand New",
   "image": "/WX-HS105_wr_01.jpg",
@@ -8933,8 +8934,9 @@
   ],
   "brand": "WinX",
   "inStock": true,
+  "connectionType": "Pin",
   "features": [
-    "USB plug‑and‑play connection for easy setup without drivers.",
+    "Pin plug‑and‑play connection for easy setup without drivers.",
     "Built‑in noise‑cancelling microphone for clear voice communication.",
     "In‑line control for adjusting volume and muting instantly.",
     "Adjustable headband for a comfortable fit.",
