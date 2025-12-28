@@ -97,11 +97,20 @@ export default function ProductsPage() {
     setCurrentPage(1)
   }, [selectedCategory, selectedBrand, searchTerm])
 
+  /* Filter products - remove duplicates (variants) and color variants */
+  const uniqueProducts = useMemo(() => {
+    const seenNames = new Set<string>()
+    return products.filter((product) => {
+      if (product.color) return false // Skip color variants
+      if (seenNames.has(product.name)) return false // Skip duplicate names (variants)
+      seenNames.add(product.name)
+      return true
+    })
+  }, [products])
+
   /* Filter products */
   const filteredProducts = useMemo(() => {
-    return products.filter((product) => {
-      if (product.color) return false
-
+    return uniqueProducts.filter((product) => {
       const categoryMatch =
         selectedCategory === "All" || product.category === selectedCategory
       const brandMatch =
@@ -112,7 +121,7 @@ export default function ProductsPage() {
 
       return categoryMatch && brandMatch && searchMatch
     })
-  }, [products, selectedCategory, selectedBrand, searchTerm])
+  }, [uniqueProducts, selectedCategory, selectedBrand, searchTerm])
 
   /* Infinite scroll (mobile only) */
   useEffect(() => {

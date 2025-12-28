@@ -8502,8 +8502,7 @@
   "condition": "Brand New",
   "image": "/WX-AD103_wr_01.jpg",
   "images": [
-    "/WX-AD103_wr_01-1.jpg",
-    "/WX-AD103_wr_03.jpg"
+    "/WX-AD103_wr_01-1.jpg"
   ],
   "brand": "WinX",
   "inStock": true,
@@ -8944,5 +8943,433 @@
     "Ideal for calls, video conferencing, online classes, and remote work.",
     "Durable build for everyday use."
   ]
+},
+{
+  "id": "winx-wired-numpad-usb-wx-kb101",
+  "name": "WINX Wired Numpad USB (WX‑KB101)",
+  "description": "The WINX Wired Numpad USB (WX‑KB101) is a compact USB numeric keypad designed to provide quick and efficient number input for laptops and desktops. Featuring a slim profile and responsive keys, it offers a comfortable typing experience for data entry, accounting, and calculator tasks. The wired USB connection ensures reliable performance without the need for batteries or pairing.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-KB101_wr_01.jpg",
+  "images": [
+    "/WX-KB101_wr_02.jpg",
+    "/WX-KB101_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Compact USB wired numeric keypad for quick number entry.",
+    "Slim profile ideal for use with laptops and desktops.",
+    "Responsive keys for efficient data entry and calculator tasks.",
+    "Plug‑and‑play USB connection — no drivers or pairing required.",
+    "Lightweight build for easy portability.",
+    "Durable construction for everyday use.",
+    "Compatible with a wide range of USB‑enabled devices."
+  ]
+},
+{
+  "id": "winx-do-more-wireless-and-bluetooth-mouse",
+  "name": "WINX DO More Wireless and Bluetooth Mouse",
+  "description": "The WINX DO More Wireless and Bluetooth Mouse offers flexible connectivity through both a 2.4 GHz USB receiver and Bluetooth, making it suitable for laptops, desktops, tablets, and other devices. With adjustable DPI settings and an ergonomic design, it delivers responsive tracking and comfortable use for everyday computing, work, and browsing tasks.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-KB102_wr_01.jpg",
+  "images": [
+    "/WX-KB102_wr_02.jpg",
+    "/WX-KB102_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Dual connectivity via 2.4 GHz USB receiver and Bluetooth for versatile use.",
+    "Adjustable DPI for responsive cursor control.",
+    "Ergonomic design for comfortable all‑day use.",
+    "Plug‑and‑play setup with no drivers required.",
+    "Compact, lightweight build ideal for travel and everyday computing.",
+    "Compatible with Windows, macOS, and Android devices.",
+    "Long battery life for extended use between changes."
+  ]
+},
+{
+  "id": "winx-do-more-wireless-bluetooth-mouse-black",
+  "name": "WINX DO More Wireless & Bluetooth Mouse (Black)",
+  "description": "The WINX DO More Wireless & Bluetooth Mouse (Black) is a versatile wireless mouse that supports both 2.4 GHz USB dongle and Bluetooth connections, offering reliable connectivity up to 20 m. Featuring reduced click noise for quieter use, adjustable DPI settings, and an ergonomic design, it’s suitable for everyday computing on laptops, desktops, tablets, and other Bluetooth‑enabled devices.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-KB103_wr_01.jpg",
+  "images": [
+    "/WX-KB103_wr_02.jpg",
+    "/WX-KB103_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Dual connectivity via 2.4 GHz USB receiver and Bluetooth for versatile use.",
+    "Reliable wireless connection with up to 20 m operating range.",
+    "Quiet click mechanism for reduced click noise during use.",
+    "Adjustable DPI settings for precise cursor control.",
+    "Ergonomic design for comfortable everyday use.",
+    "Compact, lightweight build ideal for laptops, desktops, and tablets.",
+    "Long battery life for extended use without frequent changes."
+  ]
+},
+{
+  "id": "winx-do-ergo-adjustable-laptop-stand",
+  "name": "WINX DO Ergo Adjustable Laptop Stand",
+  "description": "The WINX DO Ergo Adjustable Laptop Stand is a portable and ergonomic stand designed to elevate your laptop to a more comfortable viewing height. It features adjustable angles, a sturdy build, and ventilation slots to help reduce heat buildup. This stand is ideal for improving posture during work, study, or creative tasks whether at home, in the office, or on the go.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-LS101_wr_01a.jpg",
+  "images": [
+    "/WX-LS101_wr_02a.jpg",
+    "/WX-LS101_wr_03a.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Adjustable angles for custom viewing height and improved ergonomics.",
+    "Sturdy build to securely hold laptops of various sizes.",
+    "Ventilation slots to help reduce laptop heat buildup.",
+    "Portable and lightweight design ideal for travel or desk use.",
+    "Non‑slip pads to keep the laptop stable during use.",
+    "Elevates the screen for better posture and reduced neck strain.",
+    "Compatible with most laptops and ultrabooks."
+  ]
+},
+{
+  "id": "winx-do-ergo-aluminium-multi-adjustable-laptop-stand",
+  "name": "WINX DO Ergo Aluminium Multi Adjustable Laptop Stand",
+  "description": "The WINX DO Ergo Aluminium Multi Adjustable Laptop Stand is a sleek and ergonomic laptop stand designed to elevate your laptop to a comfortable viewing angle, helping reduce neck and back strain. Made from sturdy aluminium with a hollow design to promote passive heat dissipation, it also includes anti‑slip pads and adjustable positioning to keep your device stable while you work or browse.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-LS102_wr_01.jpg",
+  "images": [
+    "/WX-LS102_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Adjustable dual‑axis design lets you find the perfect viewing angle.",
+    "Sturdy aluminium construction with hollow design for passive cooling.",
+    "Anti‑slip pads keep your laptop secure when in use.",
+    "Elevates the screen to improve posture and reduce neck strain.",
+    "Compact, foldable design for easy storage and travel.",
+    "Compatible with most laptops up to 15.6 inches.",
+    "Sleek silver finish complements modern workspaces."
+  ]
+},
+{
+  "id": "winx-glide-globe-medium-mouse-pad",
+  "name": "WINX Glide Globe Medium Mouse Pad",
+  "description": "The WINX Glide Globe Medium Mouse Pad is a smooth, medium‑sized surface designed for accurate and effortless mouse movement. Featuring a low‑friction fabric top and non‑slip rubber base, it provides stable tracking for optical and laser mice—ideal for everyday work, gaming, and productivity tasks.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-MP101_wr_01.jpg",
+  "images": [
+    "/WX-MP101_wr_02.jpg",
+    "/WX-MP101_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Smooth low‑friction fabric surface for accurate mouse tracking.",
+    "Non‑slip rubber base keeps the pad stable during use.",
+    "Medium size balances desk space and movement area.",
+    "Durable construction for long‑lasting performance.",
+    "Compatible with optical and laser mice.",
+    "Ideal for office, home, and casual gaming use.",
+    "Easy to clean and maintain."
+  ]
+},
+{
+  "id": "winx-glide-globe-extra-large-mouse-pad",
+  "name": "WINX Glide Globe Extra Large Mouse Pad",
+  "description": "The WINX Glide Globe Extra Large Mouse Pad offers an expansive surface area for both keyboard and mouse, providing ample space for smooth and precise tracking. Its low‑friction fabric top enhances mouse movement accuracy, while the non‑slip rubber base keeps the pad securely in place for everyday work, creative tasks, or gaming sessions.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-MP102_wr_01.jpg",
+  "images": [
+    "/WX-MP102_wr_02.jpg",
+    "/WX-MP102_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Extra large surface area for keyboard and mouse movement.",
+    "Low‑friction fabric top for precise and effortless mouse tracking.",
+    "Non‑slip rubber base to keep the pad stable during use.",
+    "Durable construction for extended daily use.",
+    "Ideal for gaming, work, and productivity setups.",
+    "Compatible with optical and laser mice.",
+    "Easy to clean and maintain."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-to-3x-lenovo-charging-cables-wx-nc101",
+  "name": "WINX LINK Simple Type‑C to 3× Lenovo Charging Cables (WX‑NC101)",
+  "description": "The WINX LINK Simple Type‑C to 3× Lenovo Charging Cables (WX‑NC101) lets you charge legacy Lenovo notebooks using a USB‑C power source such as a compatible power bank or wall adapter. Each cable features an E‑mark intelligence chip that adjusts current automatically for optimal charging performance. This set includes three cables with different Lenovo charging tips to support a variety of legacy laptop models.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-NC101_wr_01.jpg",
+  "images": [
+    "/WX-NC101_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Set of three charging cables to power legacy Lenovo notebooks from a USB‑C power source.",
+    "Built‑in E‑mark intelligence chip automatically adjusts current for optimal charging.",
+    "Supports output up to 100W for compatible devices.",
+    "Includes multiple Lenovo charging tips for broad device compatibility.",
+    "1.5 m cable length for flexible connection.",
+    "Black durable cable design for everyday use.",
+    "Ideal for using USB‑C power banks or adapters to charge older Lenovo laptops."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-to-hp-charging-cables-wx-nc102",
+  "name": "WINX LINK Simple Type‑C to HP Charging Cables (WX‑NC102)",
+  "description": "The WINX LINK Simple Type‑C to HP Charging Cables (WX‑NC102) let you power compatible HP notebooks using a USB‑C power source such as a PD wall adapter or power bank. Featuring an E‑mark intelligence chip that automatically adjusts current for safe and optimal charging, this set includes three cables with different HP charging tip sizes to support a range of legacy HP notebook models.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-NC102_wr_01.jpg",
+  "images": [
+    "/WX-NC102_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Allows powering HP notebooks from a USB‑C power bank or wall adapter up to 100W.",
+    "Built‑in E‑mark intelligence chip automatically adjusts current for optimal charging.",
+    "Compatible with multiple HP charging ports via included tips.",
+    "Supports up to 20 V/5 A (100W) output for fast notebook charging.",
+    "Includes three different HP charging tips for broader device support.",
+    "1.5 m cable length for flexible setup.",
+    "Durable black cable design suitable for everyday use."
+  ]
+},
+{
+  "id": "winx-type-c-to-dell-charging-cables-wx-nc103",
+  "name": "WINX Type‑C to Dell Charging Cables (WX‑NC103)",
+  "description": "The WINX Type‑C to Dell Charging Cables (WX‑NC103) allow you to power compatible Dell laptops using a USB‑C power bank or PD wall charger. This cable set includes multiple Dell‑specific connector tips and features an intelligent E‑mark chip that automatically adjusts output for safe and efficient notebook charging. With support for high‑power delivery and a durable cable design, it’s ideal for users needing flexible charging solutions for Dell devices on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-NC103_wr_01.jpg",
+  "images": [
+    "/WX-NC103_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Converts USB‑C power delivery to Dell notebook charging via included tips.",
+    "Built‑in E‑mark intelligence chip optimizes power delivery safely.",
+    "Supports high‑wattage output for fast notebook charging.",
+    "Includes multiple Dell‑compatible connector tips.",
+    "Flexible 1.5 m cable length for convenient positioning.",
+    "Durable cable construction for everyday use.",
+    "Ideal for use with USB‑C power banks or PD wall chargers."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-to-asus-charging-cables-wx-nc104",
+  "name": "WINX LINK Simple Type‑C to ASUS Charging Cables (WX‑NC104)",
+  "description": "The WINX LINK Simple Type‑C to ASUS Charging Cables (WX‑NC104) let you power compatible ASUS laptops using a USB‑C power source such as a PD wall charger or power bank. Featuring an intelligent cable design that automatically adjusts output for safe and efficient charging, this set includes multiple ASUS‑specific connector tips to support a range of legacy ASUS notebook models while delivering reliable power on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-NC104_wr_01.jpg",
+  "images": [
+    "/WX-NC104_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Allows charging ASUS laptops from a USB‑C power bank or PD wall adapter.",
+    "Intelligent design adjusts power delivery output for safe and efficient charging.",
+    "Includes multiple ASUS‑compatible connector tips.",
+    "Supports high‑wattage power delivery for fast notebook charging.",
+    "Flexible 1.5 m cable length for convenient device positioning.",
+    "Durable construction for everyday use.",
+    "Ideal for travel or mobile power needs."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-to-asus-cable-wx-nc104b",
+  "name": "WINX LINK Simple Type‑C to ASUS Cable",
+  "description": "The WINX LINK Simple Type‑C to ASUS Cable lets you power or charge compatible ASUS laptops and devices from a USB‑C power source such as a PD wall charger or power bank. With multiple ASUS‑specific connector tips included, this cable set offers flexible charging options while maintaining reliable power delivery on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-NC105_wr_01.jpg",
+  "images": [
+    "/WX-NC105_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Connects USB‑C power sources to ASUS devices for charging.",
+    "Includes multiple ASUS‑compatible connector tips for broader device support.",
+    "Supports high‑wattage power delivery for fast charging.",
+    "Flexible cable design for convenient use with laptops and devices.",
+    "Durable construction for everyday reliability.",
+    "Ideal for travel or mobile charging with USB‑C adapters and power banks.",
+    "Compact and easy to carry."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-to-magsafe-2-charging-cable-wx-nc106",
+  "name": "WINX LINK Simple Type‑C to MagSafe 2 Charging Cable (WX‑NC106)",
+  "description": "The WINX LINK Simple Type‑C to MagSafe 2 Charging Cable lets you power or charge legacy MagSafe 2‑equipped Apple notebooks using a USB‑C power source such as a PD wall adapter or power bank. With its built‑in E‑mark intelligence chip, the cable automatically adjusts power delivery for safe and efficient charging, making it ideal for on‑the‑go use when traditional chargers are unavailable.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-NC106_wr_01.jpg",
+  "images": [
+    "/WX-NC106_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Allows charging of MagSafe 2 Apple notebooks from a USB‑C power bank or PD wall adapter.",
+    "Built‑in E‑mark intelligence chip optimizes power delivery for safe charging.",
+    "Supports high‑wattage power delivery for efficient notebook charging.",
+    "1.8 m cable length for flexible usage.",
+    "Durable cable construction for everyday use.",
+    "Compatible with a wide range of MagSafe 2 notebooks.",
+    "Ideal for travel or mobile charging scenarios."
+  ]
+},
+{
+  "id": "winx-go-fast-10000mah-power-bank-wx-pb101",
+  "name": "WINX GO Fast 10000mAh Power Bank (WX‑PB101)",
+  "description": "The WINX GO Fast 10000mAh Power Bank (WX‑PB101) is a portable external battery designed to keep your smartphones, tablets, and other USB‑powered devices charged while on the move. With dual USB‑A and USB‑C output options and support for fast charging, it’s ideal for travel, daily commutes, and emergency backup power whenever you need it.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/WX-PB101_wr_01a-1.jpg",
+  "images": [
+    "/WX-PB101_wr_02a.jpg",
+    "/WX-PB101_wr_03a.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "10000mAh capacity for multiple device charges on the go.",
+    "Dual output options via USB‑A and USB‑C ports.",
+    "Supports fast charging for compatible devices.",
+    "Compact and lightweight design ideal for travel and everyday use.",
+    "LED indicators show remaining battery level.",
+    "Built‑in safety protections against overcharging, over‑discharging, and short circuits.",
+    "Universal compatibility with smartphones, tablets, and other USB‑powered gadgets."
+  ]
+},
+{
+  "id": "winx-go-fast-20000mah-power-bank",
+  "name": "WINX GO Fast 20000mAh Power Bank",
+  "description": "The WINX GO Fast 20000mAh Power Bank is a high‑capacity portable charger designed to keep multiple devices powered throughout the day. With dual USB‑A and USB‑C output ports plus fast‑charging support, it’s ideal for smartphones, tablets, and other USB‑powered devices during travel, work, or emergency backup situations.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/WX-PB102_wr_01b.jpg",
+  "images": [
+    "/WX-PB102_wr_02b.jpg",
+    "/WX-PB102_wr_03b.jpg",
+    "/WX-PB102_wr_04b.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "20000mAh capacity for extended device charging.",
+    "Dual output via USB‑A and USB‑C ports.",
+    "Supports fast charging for compatible devices.",
+    "LED indicators display remaining battery level.",
+    "Compact and portable design for travel or daily use.",
+    "Built‑in protection against overcharging, over‑discharging, and short circuits.",
+    "Universal compatibility with smartphones, tablets, and other USB‑powered gadgets."
+  ]
+},
+{
+  "id": "winx-go-ultra-20000mah-100w-pd-power-bank-wx-pb103",
+  "name": "WINX GO Ultra 20000mAh 100W PD Power Bank (WX‑PB103)",
+  "description": "The WINX GO Ultra 20000mAh 100W PD Power Bank is a high‑capacity portable charger that delivers Power Delivery (PD) up to 100 W, allowing you to fast‑charge laptops, smartphones, tablets and other USB‑C devices while on the move. With dual output ports and an LED battery indicator, this power bank is ideal for travel, work, and emergency backup power.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/WX-PB103_wr_01.jpg",
+  "images": [
+    "/WX-PB103_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "20000mAh capacity for extended device charging.",
+    "100W Power Delivery (PD) output for fast charging of laptops and USB‑C devices.",
+    "Dual output ports (USB‑C and USB‑A) to charge multiple devices simultaneously.",
+    "LED battery level indicator lets you see remaining charge at a glance.",
+    "Supports high‑power output configurations suitable for laptops and MacBooks.",
+    "Compact and portable design ideal for travel or everyday use.",
+    "Built‑in safety protections against overcharging, discharging, and short circuits."
+  ]
+},
+{
+  "id": "winx-go-fast-30000mah-power-bank-pd-20w",
+  "name": "WINX GO Fast 30000mAh Power Bank (PD 20W)",
+  "description": "The WINX GO Fast 30000mAh Power Bank with 20W Power Delivery (PD) is a high‑capacity portable charger designed to keep your smartphones, tablets, and other USB‑C devices powered throughout the day. With multiple output ports and support for fast charging, this power bank is ideal for travel, work, and extended use when access to mains power is limited.",
+  "category": "Power Banks",
+  "condition": "Brand New",
+  "image": "/WX-PB104_wr_01.jpg",
+  "images": [
+    "/WX-PB104_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "30000mAh high‑capacity battery for extended device charging.",
+    "20W Power Delivery (PD) for fast and efficient charging of USB‑C devices.",
+    "Multiple output ports to charge phones, tablets, and accessories simultaneously.",
+    "LED indicators to display remaining battery level.",
+    "Compact yet powerful design ideal for travel and everyday use.",
+    "Built‑in safety protection against overcharging, over‑discharging, and short circuits.",
+    "Universal compatibility with smartphones, tablets, USB‑C gadgets, and more."
+  ]
+},
+{
+  "id": "winx-power-fast-33w-wall-charger-wx-wc101",
+  "name": "WINX POWER Fast 33W Wall Charger (WX‑WC101)",
+  "description": "The WINX POWER Fast 33W Wall Charger (WX‑WC101) is a compact USB‑C wall charger designed to deliver up to 33W of fast charging power for smartphones, tablets, and handheld gaming devices. Its single‑port design and foldable plug make it ideal for everyday use at home, in the office, or while traveling.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-WC101_wr_01.jpg",
+  "images": [
+    "/WX-WC101_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Up to 33W fast charging output for smartphones and compatible devices.",
+    "Single USB‑C port for streamlined charging.",
+    "Compact, travel‑friendly design with foldable plug.",
+    "Built‑in protection against overcharging, over‑discharging, and short circuits.",
+    "Wide voltage support for global compatibility.",
+    "Ideal for daily charging at home, office, or on the go.",
+    "Compatible with a wide range of USB‑C enabled devices."
+  ]
+},
+{
+  "id": "winx-power-fast-65w-wall-charger",
+  "name": "WINX POWER Fast 65W Wall Charger",
+  "description": "The WINX POWER Fast 65W Wall Charger is a high‑speed USB‑C charger designed to rapidly charge smartphones, tablets, and USB‑C compatible laptops. With a total output of 65W, it supports fast charging protocols and delivers efficient power for multiple devices, making it suitable for everyday use at home, work, or while traveling.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-WC102_wr_01a.jpg",
+  "images": [
+    "/WX-WC102_wr_01a.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "65W total output for fast charging of phones, tablets, and laptops.",
+    "USB‑C port for high‑speed charging and broad device compatibility.",
+    "Compact and lightweight design for home and travel use.",
+    "Built‑in safety protections against overcharging, overheating, and short circuits.",
+    "Supports modern fast charging protocols for efficient power delivery.",
+    "Wide input voltage range for global use.",
+    "Ideal for everyday charging of USB‑C devices and gadgets."
+  ]
 }
+
 ]

@@ -31,4 +31,17 @@ export async function getVariants(product: Product): Promise<Product[]> {
   return all.filter((p) => p.name === product.name)
 }
 
+export async function getUniqueProducts(): Promise<Product[]> {
+  const all = await getAllProducts()
+  // Group products by name and return only the first product from each group
+  const seenNames = new Set<string>()
+  return all.filter((product) => {
+    if (seenNames.has(product.name)) {
+      return false
+    }
+    seenNames.add(product.name)
+    return true
+  })
+}
+
 

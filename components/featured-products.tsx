@@ -8,8 +8,16 @@ export function FeaturedProducts() {
   // Cast JSON data to Product[]
   const products = productsData as Product[]
 
-  // Filter only Brand New products and take first 8
-  const featuredProducts = products.filter((p) => p.condition === "Brand New").slice(0, 8)
+  // Filter out duplicates (variants) and color variants, then filter only Brand New products and take first 8
+  const seenNames = new Set<string>()
+  const uniqueProducts = products.filter((product) => {
+    if (product.color) return false // Skip color variants
+    if (seenNames.has(product.name)) return false // Skip duplicate names (variants)
+    seenNames.add(product.name)
+    return true
+  })
+
+  const featuredProducts = uniqueProducts.filter((p) => p.condition === "Brand New").slice(0, 8)
 
   return (
     <section className="container mx-auto px-4 py-12">
