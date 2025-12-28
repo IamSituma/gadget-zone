@@ -8471,6 +8471,476 @@
     "Pure sine wave AC output for stable and safe power delivery to sensitive electronics.",
     "Built‑in comprehensive safety protections against over‑charge, over‑discharge, short circuit, and temperature extremes."
   ]
+},
+{
+  "id": "winx-link-seamless-type-c-to-gigabit-adapter",
+  "name": "Winx LINK Seamless Type-C to Gigabit Adapter",
+  "description": "The Winx LINK Seamless Type-C to Gigabit Adapter lets you connect any USB-C device directly to a wired network with Gigabit Ethernet speeds. Its compact aluminium design with integrated LED indicators makes it ideal for on-the-go connectivity, whether you’re using a laptop, ultrabook, or other USB-C enabled device. Plug-and-play support and broad OS compatibility ensure fast and reliable network connections without the need for drivers.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-AD102_wr_00.jpg",
+  "images": [
+    "/WX-AD102_wr_00.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Connects USB-C devices to a wired network with Gigabit Ethernet speeds.",
+    "Sleek and durable aluminium alloy build for everyday use.",
+    "Integrated LED status indicators for link and data transmission feedback.",
+    "Plug-and-play design — no drivers required for installation.",
+    "Compact and lightweight, ideal for travel or remote work.",
+    "Compatible with Windows, macOS, and Linux systems.",
+    "10 cm integrated USB-C cable for flexible device positioning."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-usb-adapter-combo",
+  "name": "WINX LINK Simple Type-C & USB Adapter Combo",
+  "description": "The WINX LINK Simple Type-C & USB Adapter Combo is a pair of compact adapters that let you connect USB-A devices to Type-C ports and Type-C devices to USB-A ports. Built with durable zinc alloy and supporting fast data transmission up to 5 Gbps along with up to 3 A power output, this combo makes it easy to connect peripherals like flash drives, keyboards, and mice between modern and legacy devices.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-AD103_wr_01.jpg",
+  "images": [
+    "/WX-AD103_wr_01-1.jpg",
+    "/WX-AD103_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Includes both a USB-A to Type-C adapter and a Type-C to USB-A adapter for versatile connectivity.",
+    "Supports data transfer speeds of up to 5 Gbps for fast file transfers.",
+    "Supports up to 3 Amps of power output for charging compatible devices.",
+    "Built-in surge protection for safer charging and data transmission.",
+    "Compact and lightweight zinc alloy design for easy portability.",
+    "Compatible with Windows, macOS, Android, and other USB-C enabled devices.",
+    "Ideal for connecting peripherals like flash drives, keyboards, mice, and more between USB-A and USB-C devices."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-usb-adapter-combo-wx-ad105",
+  "name": "WINX LINK Simple Type-C & USB Adapter Combo (WX-AD105)",
+  "description": "The WINX LINK Simple Type-C & USB Adapter Combo (WX-AD105) includes two compact zinc alloy adapters that let you connect USB-A peripherals to Type-C ports and Type-C peripherals to USB-A ports. Supporting up to 5 Gbps data transfer and up to 3 A power output, this combo is ideal for expanding connectivity between modern laptops, MacBooks, and OTG-compatible devices. Its slim, portable design makes it easy to carry for travel or everyday use while providing built-in surge protection for safer operation. Note that it supports mobile phone and tablet charging but is not intended for laptop charging, and should not be used with QC3.0, FCP, SCP, or VOOC fast chargers or wireless chargers.\"",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-AD104_wr_01.jpg",
+  "images": [
+    "/WX-AD104_wr_02.jpg",
+    "/WX-AD104_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Pair of adapters supporting USB-A to Type-C and Type-C to USB-A connections for versatile device compatibility.",
+    "Supports high-speed data transfer rates up to 5 Gbps for fast file sharing.",
+    "Supports output power up to 3 Amps for charging compatible devices.",
+    "Built-in surge protection for safer data transmission and charging.",
+    "Slim, lightweight zinc alloy construction ideal for travel and everyday use.",
+    "Compatible with Windows, macOS, and Android-based Type-C devices.",
+    "Compact adapters are easy to carry and store without adding bulk."
+  ]
+},
+{
+  "id": "winx-link-simple-type-c-to-usb-adapter-wx-ad103",
+  "name": "WINX LINK Simple Type-C to USB Adapter (Dual Pack)",
+  "description": "The WINX LINK Simple Type-C to USB Adapter lets you convert a USB-C port into a standard USB-A port so you can connect flash drives, keyboards, mice, and other USB peripherals to your Type-C devices. It features up to 5 Gbps data transfer speeds and supports up to 3 A power output, making it ideal for fast file sharing and basic charging of compatible devices. Its slim zinc alloy build offers durability and easy portability for everyday use or travel.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-AD105_wr_01.jpg",
+  "images": [
+    "/WX-AD105_wr_02.jpg",
+    "/WX-AD105_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Converts a Type-C port into a standard USB-A port for connecting peripherals such as flash drives, keyboards, and mice.",
+    "Supports high-speed data transfer up to 5 Gbps for fast file sharing.",
+    "Supports up to 3 Amps of power for charging compatible devices (phones and tablets).",
+    "Slim and compact zinc alloy design for durability and portability.",
+    "Built-in surge protection enhances safety during charging and data transmission.",
+    "Compatible with a wide range of USB-C devices including laptops, tablets, and phones.",
+    "Plug-and-play — no drivers required for setup."
+  ]
+},
+{
+  "id": "winx-connect-simple-bluetooth-5-1-adapter-wx-bt101",
+  "name": "WINX CONNECT Simple Bluetooth 5.1 Adapter (WX-BT101)",
+  "description": "The WINX CONNECT Simple Bluetooth 5.1 Adapter (WX-BT101) is a compact USB dongle that adds Bluetooth wireless connectivity to laptops and desktops. Utilizing Bluetooth 5.1 technology, this adapter lets you pair keyboards, mice, headsets, printers, game controllers, and other Bluetooth peripherals with ease. Its plug-and-play design for modern Windows systems ensures quick setup without drivers for most use cases, and its ultra-slim build makes it perfect to leave plugged in during travel or everyday use.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-BT101_wr_01a.jpg",
+  "images": [
+    "/WX-BT101_wr_02a.jpg",
+    "/WX-BT101_wr_03a.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Bluetooth 5.1 support for stable and efficient wireless connections.",
+    "Connects Bluetooth peripherals like keyboards, mice, headsets, printers, and controllers.",
+    "Plug-and-play functionality for Windows systems for quick setup without drivers in most cases.",
+    "Supports data transmission speeds up to 3 Mbps.",
+    "Slim, compact USB form factor ideal for travel and everyday connectivity.",
+    "Compatible with Windows 8 and above (may require drivers on some systems).",
+    "Wireless range of up to ~20 m for flexible device placement."
+  ]
+},
+{
+  "id": "winx-link-seamless-8k-hdmi-cable-wx-cb101",
+  "name": "WINX LINK Seamless 8K HDMI Cable (WX-CB101)",
+  "description": "The WINX LINK Seamless 8K HDMI Cable (WX-CB101) is a high-quality HDMI 2.1 cable that supports ultra-high-definition video up to 8K at 60Hz. Built with gold-plated connectors and a reinforced braided exterior, it delivers reliable signal transmission and durability. The included 90° HDMI adapter helps with installation in tight spaces, making it ideal for connecting TVs, monitors, and projectors to your HDMI-equipped devices.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-CB101_wr_01.jpg",
+  "images": [
+    "/WX-CB101_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Supports 8K @ 60Hz resolution for ultra-high-definition video.",
+    "Gold-plated connectors resist corrosion and improve signal transmission.",
+    "Reinforced braided cable for added durability and flexibility.",
+    "Includes a 90° HDMI adapter for easy installation in tight spots.",
+    "HDMI 2.1 specification ensures broad compatibility with modern displays.",
+    "Backward compatible with lower resolution HDMI devices.",
+    "Ideal for connecting TVs, monitors, and projectors with HDMI ports."
+  ]
+},
+{
+  "id": "winx-link-seamless-type-c-to-4k-hdmi-cable-wx-cb102",
+  "name": "WINX LINK Seamless Type-C to 4K HDMI Cable (WX-CB102)",
+  "description": "The WINX LINK Seamless Type-C to 4K HDMI Cable (WX-CB102) allows you to connect Type-C enabled laptops, tablets, and smartphones to HDMI displays such as TVs, monitors, or projectors. Supporting 4K resolution at 60Hz with synchronized audio, it is ideal for presentations, entertainment, and extending or mirroring your display. Its durable build with nickel-plated connectors ensures reliable performance for everyday use.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-CB102_wr_01.jpg",
+  "images": [
+    "/WX-CB102_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Supports 4K resolution at 60Hz for sharp and smooth video output.",
+    "Connects Type-C devices directly to HDMI displays with no additional adapters required.",
+    "Supports mirror, extended, and MST display modes.",
+    "Durable reinforced cable with nickel-plated connectors for reliable signal transmission.",
+    "Compatible with a wide range of phones, tablets, laptops, and Ultrabooks.",
+    "Audio and video synchronization for seamless playback.",
+    "Uses HDMI 2.0 standard for broad device compatibility."
+  ]
+},
+{
+  "id": "winx-wx-co101-do-simple-wireless-keyboard-and-mouse-combo",
+  "name": "WINX WX-CO101 DO Simple Wireless Keyboard and Mouse Combo",
+  "description": "The WINX WX-CO101 DO Simple Wireless Keyboard and Mouse Combo provides a reliable 2.4 GHz wireless connection for everyday computing needs. It includes a full-size keyboard with multimedia hotkeys and a compact wireless mouse with adjustable DPI, all operating through a single USB receiver. The combo is designed for comfortable typing and responsive cursor control, making it a practical choice for home, office, or study setups.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/WX-CO101_wr_01.jpg",
+  "images": [
+    "/WX-CO101_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Wireless 2.4 GHz USB connection for stable and reliable performance.",
+    "Full-size keyboard with dedicated multimedia hotkeys for quick access.",
+    "Comfortable wireless mouse with adjustable DPI for precise control.",
+    "Plug-and-play setup with a single USB receiver — no drivers needed.",
+    "Compact and lightweight design ideal for home, office, or travel use.",
+    "Energy-efficient operation for long battery life.",
+    "Compatible with Windows and other devices supporting USB keyboards and mice."
+  ]
+},
+{
+  "id": "winx-power-ultra-85w-desktop-charger-wx-dc101",
+  "name": "WINX POWER Ultra 85W Desktop Charger (WX‑DC101)",
+  "description": "The WINX POWER Ultra 85W Desktop Charger (WX‑DC101) is a versatile multi‑port charger designed to power up to four devices at once. With a total maximum output of 85W, it can fast‑charge phones, tablets, notebooks, and other USB‑powered devices. The compact and sleek desktop design makes it suitable for home, office, or travel use.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-DC101_wr_01.jpg",
+  "images": [
+    "/WX-DC101_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Total maximum output of 85W for fast and efficient device charging.",
+    "Four output ports including USB‑C and USB‑A to charge multiple devices simultaneously.",
+    "Supports fast charging for phones, tablets, laptops, and handheld gaming devices.",
+    "Compact and sleek desktop design ideal for home, office, or travel setups.",
+    "Optimized to charge compatible devices up to four times faster than standard chargers.",
+    "Wide input range (AC 100‑240V) for global use.",
+    "Includes a 1.5m power cable for convenient placement."
+  ]
+},
+{
+  "id": "winx-power-easy-65w-wall-charger-wx-wc102",
+  "name": "WINX Power Easy 65W Wall Charger (WX‑WC102)",
+  "description": "The WINX Power Easy 65W Wall Charger (WX‑WC102) is a compact multi‑port USB wall charger designed to power multiple devices at once. With one USB‑A and two USB‑C ports, it delivers up to 65W of total output for fast charging of smartphones, tablets, and compatible notebooks. Its space‑saving design and built‑in protection features make it a reliable charging solution for everyday use at home, office, or on the go.",
+  "category": "Chargers & Adapters",
+  "condition": "Brand New",
+  "image": "/WX-DC102_wr_01.jpg",
+  "images": [
+    "/WX-DC102_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Total maximum output of 65W for fast and efficient charging.",
+    "One USB‑A and two USB‑C ports to charge up to three devices simultaneously.",
+    "Compact, space‑saving wall charger design ideal for home and travel.",
+    "Built‑in 6‑point protection system against overcharge, overheating, and short circuits.",
+    "Supports fast charging for phones, tablets, and compatible notebooks.",
+    "Wide input range (100‑240V) for global compatibility.",
+    "Energy‑efficient design for reliable and consistent power delivery."
+  ]
+},
+{
+  "id": "winx-connect-pro-dual-display-8-in-1-type-c-hub-wx-hb101",
+  "name": "WINX CONNECT Pro Dual Display 8‑in‑1 Type‑C Hub (WX‑HB101)",
+  "description": "The WINX CONNECT Pro Dual Display 8‑in‑1 Type‑C Hub (WX‑HB101) turns a single USB‑C port into a versatile multiport hub, providing HDMI, DisplayPort, Ethernet, USB ports, and power delivery support. With dual HDMI and DP ports for multiple displays plus Gigabit Ethernet and USB‑A connections, it’s ideal for expanding connectivity on laptops and Type‑C devices. The hub’s sleek aluminium build and PD passthrough support make it a practical addition for workstations and portable setups.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-HB101_wr_01.jpg",
+  "images": [
+    "/WX-HB101_wr_02.jpg",
+    "/WX-HB101_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Converts a single USB‑C port into multiple connectivity options including HDMI, DP, Ethernet, and USB‑A.",
+    "Dual HDMI and DP ports support extending or mirroring to two independent displays.",
+    "Supports Gigabit Ethernet for fast, stable wired network connection.",
+    "Three USB 3.0 ports with up to 5 Gbps data transfer for peripherals and storage.",
+    "Type‑C Power Delivery passthrough up to 100W keeps your device charged while using the hub.",
+    "Sleek aluminium alloy design for durability and heat dissipation.",
+    "Compatible with a wide range of USB‑C laptops, ultrabooks, tablets, and phones."
+  ]
+},
+{
+  "id": "winx-connect-max-7-in-1-type-c-hub-wx-hb102",
+  "name": "WINX CONNECT Max 7‑in‑1 Type‑C Hub (WX‑HB102)",
+  "description": "The WINX CONNECT Max 7‑in‑1 Type‑C Hub (WX‑HB102) expands a single USB‑C port into multiple useful connections, including HDMI, Ethernet, USB‑A, SD/TF card readers, and PD charging support. Designed with a slim aluminium body, this hub is ideal for laptops, tablets, and other USB‑C devices, providing additional ports for displays, storage, networks, and peripherals while maintaining portability.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-HB102_wr_01.jpg",
+  "images": [
+    "/WX-HB102_wr_02.jpg",
+    "/WX-HB102_wr_03.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Transforms one USB‑C port into seven useful ports for expanded connectivity.",
+    "HDMI port supports high‑definition video output to external displays.",
+    "Gigabit Ethernet port for stable wired network connections.",
+    "USB‑A ports for connecting peripherals like keyboards, mice, and storage drives.",
+    "SD and TF card readers for quick access to memory cards.",
+    "Supports Power Delivery (PD) pass‑through charging while using the hub.",
+    "Slim, lightweight aluminium design ideal for travel and everyday use."
+  ]
+},
+{
+  "id": "winx-connect-simple-usb2-4-port-hub",
+  "name": "WINX CONNECT Simple USB 2.0 4‑Port Hub",
+  "description": "The WINX CONNECT Simple USB 2.0 4‑Port Hub expands a single USB port into four USB‑A ports, allowing you to connect multiple peripherals such as keyboards, mice, flash drives, and other USB devices simultaneously. Its compact and lightweight design makes it easy to carry and ideal for home, office, or travel use.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-HB103_wr_01.jpg",
+  "images": [
+    "/WX-HB103_wr_02.jpg",
+    "/WX-HB103_wr_04.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Expands a single USB port into four USB‑A ports for connecting multiple devices.",
+    "USB 2.0 support for basic peripherals like keyboards, mice, and flash drives.",
+    "Compact and lightweight design for easy portability.",
+    "Plug‑and‑play functionality—no drivers required.",
+    "Ideal for boosting connectivity on laptops, desktops, and tablets.",
+    "Energy‑efficient operation for reliable everyday use.",
+    "Durable construction for long‑lasting performance."
+  ]
+},
+{
+  "id": "winx-connect-simple-usb3-4-port-hub-wx-hb104",
+  "name": "WINX CONNECT Simple USB3 4‑Port Hub (WX‑HB104)",
+  "description": "The WINX CONNECT Simple USB3 4‑Port Hub expands a single USB connection into four high‑speed USB3 ports, allowing you to connect and charge multiple peripherals such as keyboards, mice, storage drives, and more. Its slim and compact design makes it a portable solution for desktops, laptops, and travel use.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-HB104_wr_01.jpg",
+  "images": [
+    "/WX-HB104_wr_02.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Four USB 3.0 ports for connecting multiple devices simultaneously.",
+    "Supports high‑speed data transmission up to 5Gbps.",
+    "Slim and compact portable design for easy travel and everyday use.",
+    "Compatible with a wide variety of USB devices including keyboards, mice, storage drives, and more.",
+    "USB3.0 connectivity for faster data transfer compared to USB2.0.",
+    "Lightweight hub ideal for expanding connectivity on laptops and desktops.",
+    "Plug‑and‑play operation without requiring drivers."
+  ]
+},
+{
+  "id": "winx-connect-max-9-in-1-type-c-hub-wx-hb105",
+  "name": "WINX CONNECT Max 9‑in‑1 Type‑C Hub (WX‑HB105)",
+  "description": "The WINX CONNECT Max 9‑in‑1 Type‑C Hub (WX‑HB105) enhances your USB‑C device with multiple connectivity options including HDMI, Ethernet, USB‑A, SD/TF card readers, and Power Delivery charging support. Designed for laptops, tablets, and other USB‑C devices, this hub provides a compact and durable solution for expanding display, network, storage, and peripheral connections in one device.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-HB105_wr_01.jpg",
+  "images": [
+    "/WX-HB105_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Expands a single USB‑C port into nine versatile ports for enhanced connectivity.",
+    "HDMI port supports high‑definition video output to external displays.",
+    "Gigabit Ethernet port for stable wired network connections.",
+    "Multiple USB‑A ports for connecting peripherals like keyboards, mice, and storage devices.",
+    "SD and TF card readers for quick access to memory cards.",
+    "Supports Power Delivery (PD) pass‑through charging while using the hub.",
+    "Compact and durable design ideal for travel and daily workstations."
+  ]
+},
+{
+  "id": "winx-connect-max-7-in-1-type-c-hub-wx-hb102",
+  "name": "WINX CONNECT Max 7‑in‑1 Type‑C Hub (WX‑HB102)",
+  "description": "The WINX CONNECT Max 7‑in‑1 Type‑C Hub (WX‑HB102) expands a single USB‑C port into multiple connectivity options including HDMI, Ethernet, USB‑A, SD/TF card readers and Power Delivery charging support. Ideal for laptops, tablets, and other USB‑C devices, this hub provides a compact solution for connecting displays, external storage, networks, and peripherals in a single accessory.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-HB106_wr_01.jpg",
+  "images": [
+    "/WX-HB106_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Transforms one USB‑C port into seven ports for expanded connectivity.",
+    "HDMI port for high‑definition video output to external displays.",
+    "Gigabit Ethernet for stable and fast wired network connection.",
+    "USB‑A ports for connecting keyboards, mice, and other peripherals.",
+    "SD and TF card readers for accessing memory cards.",
+    "Supports Power Delivery (PD) pass‑through charging while using the hub.",
+    "Compact and lightweight aluminium design for easy portability."
+  ]
+},
+{
+  "id": "winx-connect-simple-type-c-4-port-hub",
+  "name": "WINX CONNECT Simple Type‑C 4‑Port Hub",
+  "description": "The WINX CONNECT Simple Type‑C 4‑Port Hub expands a single Type‑C port into four USB‑A ports, enabling connection of multiple peripherals such as keyboards, mice, flash drives, and other USB devices. Designed with high‑speed USB3 support, this compact and portable hub is ideal for laptops, tablets, and other Type‑C enabled devices for everyday use.",
+  "category": "Networking",
+  "condition": "Brand New",
+  "image": "/WX-HB107_wr_01.jpg",
+  "images": [
+    "/WX-HB107_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Expands a single Type‑C port into four USB‑A ports for connecting multiple peripherals.",
+    "Supports high‑speed data transmission up to 5 Gbps for fast file transfers.",
+    "Compact and lightweight design for easy portability and travel.",
+    "Ideal for connecting keyboards, mice, flash drives, and other USB devices.",
+    "Plug‑and‑play connectivity with no drivers required.",
+    "Compatible with laptops, tablets, and other Type‑C devices.",
+    "Durable construction for long‑lasting performance."
+  ]
+},
+{
+  "id": "winx-vibe-comfort-wireless-headphones-wx-hs102",
+  "name": "WINX VIBE Comfort Wireless Headphones (WX‑HS102)",
+  "description": "The WINX VIBE Comfort Wireless Headphones (WX‑HS102) are over‑ear Bluetooth headphones designed for everyday listening with balanced sound and extended comfort. Featuring 40 mm drivers and soft over‑ear cushions with an adjustable headband, these headphones offer up to 25 hours of wireless playtime and clear voice calls via a built‑in microphone. They also include a 3.5 mm AUX input for wired listening when needed.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/WX-HS102_wr_01.jpg",
+  "images": [
+    "/WX-HS102_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Bluetooth 5.0 wireless connectivity for stable pairing with devices.",
+    "Up to 25 hours of uninterrupted playtime on a full charge.",
+    "40 mm drivers deliver balanced stereo sound.",
+    "Built‑in ECM microphone for clear hands‑free calls.",
+    "Soft over‑ear cushions and adjustable headband for extended comfort.",
+    "3.5 mm AUX compatibility for wired listening.",
+    "Lightweight and sleek design suitable for everyday use."
+  ]
+},
+{
+  "id": "winx-vibe-pure-anc-wireless-headphones-wx-hs103",
+  "name": "WINX VIBE Pure ANC Wireless Headphones (WX‑HS103)",
+  "description": "The WINX VIBE Pure ANC Wireless Headphones (WX‑HS103) are over‑ear Bluetooth headphones featuring Hybrid Active Noise Cancellation for immersive listening. With 40 mm drivers, adjustable headband, and comfortable pressure‑relieving ear cushions, they deliver balanced stereo sound for music and calls. These headphones offer up to 25 hours of playtime and include a foldable design with a carry case, plus a 3.5 mm AUX option for wired use.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/WX-HS103_wr_01.jpg",
+  "images": [
+    "/WX-HS103_wr_03.jpg",
+    "/WX-HS103_wr_04.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "Hybrid Active Noise Cancellation reduces ambient and low‑frequency noise for immersive listening.",
+    "40 mm drivers deliver balanced stereo sound quality.",
+    "Bluetooth 5.0 wireless connectivity for stable pairing.",
+    "Up to 25 hours of wireless playtime on a full charge.",
+    "Built‑in noise‑cancelling microphone for clearer calls.",
+    "Adjustable headband and pressure‑relieving over‑ear cushions for extended comfort.",
+    "Foldable design with included carry case for portability.",
+    "3.5 mm AUX input for wired listening when needed."
+  ]
+},
+{
+  "id": "winx-call-clear-usb-headset",
+  "name": "WINX CALL Clear USB & Pin Headset",
+  "description": "The WINX CALL Clear USB Headset is a plug‑and‑play wired headset designed for clear communication and comfort during calls, online meetings, and remote work. It features a built‑in noise‑cancelling microphone for improved voice clarity and an in‑line control module for quick access to volume and mute functions. The adjustable headband and cushioned ear pads make it suitable for extended use.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/WX-HS104_wr_01.jpg",
+  "images": [
+    "/WX-HS104_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "USB plug‑and‑play connection for easy setup without drivers.",
+    "Built‑in noise‑cancelling microphone for clear voice communication.",
+    "In‑line control for adjusting volume and muting instantly.",
+    "Adjustable headband for a comfortable fit.",
+    "Soft cushioned ear pads for extended wear comfort.",
+    "Ideal for calls, video conferencing, online classes, and remote work.",
+    "Durable build for everyday use."
+  ]
+},
+{
+  "id": "winx-call-clear-usb-headset",
+  "name": "WINX CALL Clear USB & Pin Headset",
+  "description": "The WINX CALL Clear USB Headset is a plug‑and‑play wired headset designed for clear communication and comfort during calls, online meetings, and remote work. It features a built‑in noise‑cancelling microphone for improved voice clarity and an in‑line control module for quick access to volume and mute functions. The adjustable headband and cushioned ear pads make it suitable for extended use.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/WX-HS105_wr_01.jpg",
+  "images": [
+    "/WX-HS105_wr_01.jpg"
+  ],
+  "brand": "WinX",
+  "inStock": true,
+  "features": [
+    "USB plug‑and‑play connection for easy setup without drivers.",
+    "Built‑in noise‑cancelling microphone for clear voice communication.",
+    "In‑line control for adjusting volume and muting instantly.",
+    "Adjustable headband for a comfortable fit.",
+    "Soft cushioned ear pads for extended wear comfort.",
+    "Ideal for calls, video conferencing, online classes, and remote work.",
+    "Durable build for everyday use."
+  ]
 }
-
 ]

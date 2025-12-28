@@ -12,6 +12,7 @@ import { Filter } from "lucide-react"
 import productsData from "@/data/products.json"
 import type { Product, ProductCategory } from "@/lib/types"
 import { ProductCard } from "@/components/product-card"
+import { Analytics } from "@vercel/analytics/next"
 
 export default function ProductsPage() {
   const searchParams = useSearchParams()
