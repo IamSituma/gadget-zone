@@ -10848,6 +10848,504 @@
     "Durable construction suited for gaming and everyday use.",
     "Ergonomic design for comfortable extended typing sessions."
   ]
+},
+{
+  "id": "redragon-k632-pro-noctis-60-wireless-rgb-mechanical-keyboard",
+  "name": "Redragon K632 Pro Noctis 60% Wireless RGB Mechanical Keyboard",
+  "description": "The Redragon K632 Pro Noctis 60% Wireless RGB Mechanical Keyboard is a compact multi‑mode keyboard designed for gamers and everyday users who want performance and portability. Featuring a 60% layout with responsive mechanical switches, customizable RGB backlighting, and wireless connectivity options, it delivers a seamless typing and gaming experience in a minimalist form factor. The keyboard’s ergonomic build and dynamic lighting effects make it ideal for use at home, office, or on the go.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K632RGB-PRO_wr_01.jpg",
+  "images": [
+    "/RD-K632RGB-PRO_wr_02.jpg",
+    "/RD-K632RGB-PRO_wr_03.jpg",
+    "/RD-K632RGB-PRO_wr_04.jpg",
+    "/RD-K632RGB-PRO_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "60% compact keyboard layout ideal for minimalist desks and gaming setups.",
+    "Wireless connectivity for flexible use with compatible devices.",
+    "RGB backlighting with customizable dynamic effects.",
+    "Responsive mechanical switches for gaming and typing performance.",
+    "Ergonomic low‑profile design for comfort during extended use.",
+    "Multi‑platform compatibility with PCs, tablets, and mobile devices.",
+    "Durable construction for long‑lasting reliability."
+  ]
+},
+{
+  "id": "redragon-centrophorus-m601-rgb-wired-mouse-refurbished",
+  "name": "Redragon Centrophorus M601 RGB Wired Gaming Mouse (Refurbished)",
+  "description": "The Refurbished Redragon Centrophorus M601 RGB Wired Gaming Mouse is a tested and QC‑verified pre‑owned gaming mouse offering responsive performance and customizable RGB lighting. With adjustable DPI up to 7200, programmable buttons, ergonomic design, and RGB effects, this mouse is ideal for gaming and everyday computer use. As a refurbished unit, it has been inspected and restored to full functionality.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M601-RGB_wr_01.jpg",
+  "images": [
+    "/RD-M601-RGB_wr_02.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Adjustable DPI up to 7200 for precise control and sensitivity customization.", 
+    "RGB backlit lighting with multiple effects for an immersive gaming aesthetic.", 
+    "Six programmable buttons (total 7 including standard buttons) for macros and custom functions.", 
+    "Ergonomic gamer mouse design for comfortable use during extended sessions.", 
+    "Weight tuning system with removable weights to fine‑tune balance and feel.", 
+    "High‑precision optical sensor for accurate tracking and responsiveness.", 
+    "Braided high‑speed USB cable with gold‑plated corrosion‑free connector for reliable connectivity."
+  ]
+},
+{
+  "id": "redragon-griffin-7200dpi-gaming-mouse-white",
+  "name": "Redragon Griffin 7200 DPI Gaming Mouse (White)",
+  "description": "The Redragon Griffin 7200 DPI Gaming Mouse in white is a wired optical gaming mouse designed for precision and responsiveness. Featuring adjustable DPI up to 7200, RGB lighting effects, and ergonomic contours, it delivers accurate tracking and comfort for gaming and everyday use. Programmable buttons and customizable lighting make it suitable for a variety of play styles and setups.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M607W_wr_01.jpg",
+  "images": [
+    "/RD-M607W_wr_02.jpg",
+    "/RD-M607W_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Adjustable optical sensor with up to 7200 DPI for precise tracking and responsiveness.",
+    "Ergonomic design for comfort during extended gaming or computer use.",
+    "Customizable RGB lighting effects to match gaming setups.",
+    "Multiple programmable buttons for macros and custom functions.",
+    "High‑quality build with durable switches rated for long‑lasting performance.",
+    "Braided cable and gold‑plated USB connector for reliable connectivity.",
+    "Smooth gliding feet for consistent movement on a variety of surfaces."
+  ]
+},
+{
+  "id": "redragon-predator-4000dpi-rgb-ergo-gaming-mouse-black",
+  "name": "Redragon Predator 4000 DPI RGB Ergo Gaming Mouse (Black)",
+  "description": "The Redragon Predator 4000 DPI RGB Ergo Gaming Mouse (Black) is a wired gaming mouse designed to deliver precision, comfort, and style. Featuring an adjustable optical sensor up to 4000 DPI, RGB lighting effects, and an ergonomic shape, this mouse provides responsive tracking for gaming and everyday tasks. With programmable buttons and a comfortable grip, it’s ideal for gamers seeking performance and aesthetic flair.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M612-RGB_wr_01.jpg",
+  "images": [
+    "/RD-M612-RGB_wr_02.jpg",
+    "/RD-M612-RGB_wr_03.jpg",
+    "/RD-M612-RGB_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Adjustable optical sensor up to 4000 DPI for precise cursor control.",
+    "RGB lighting effects to match your gaming setup.",
+    "Ergonomic design for comfortable grip during extended gaming sessions.",
+    "Programmable buttons for custom macros and commands.",
+    "Wired USB connection for stable, low‑latency performance.",
+    "Durable switches rated for long life.",
+    "Smooth glide feet for consistent movement on different surfaces."
+  ]
+},
+{
+  "id": "redragon-m686-professional-customizable-backlight-gaming-mouse",
+  "name": "Redragon M686 Professional Customizable Backlight Gaming Mouse",
+  "description": "The Redragon M686 Professional Customizable Backlight Gaming Mouse is a wired gaming mouse designed for high performance and precision. With programmable buttons, adjustable DPI levels, and customizable RGB lighting, it delivers accurate tracking and tailored control for gaming and productivity. Its ergonomic shape and durable build make it comfortable for extended use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M686RGB_wr_01.jpg",
+  "images": [
+    "/RD-M686RGB_wr_01.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Programmable buttons for custom macros and functions.",
+    "Adjustable DPI for tailored sensitivity and precision.",
+    "Customizable RGB backlighting to match your setup.",
+    "Ergonomic design for comfortable extended use.",
+    "Wired USB connection for stable and responsive performance.",
+    "Durable construction designed for gaming and everyday tasks.",
+    "Smooth glide feet for consistent movement on different surfaces."
+  ]
+},
+{
+  "id": "redragon-m988-rgb-storm-elite-gaming-mouse",
+  "name": "Redragon M988 RGB Storm Elite Gaming Mouse",
+  "description": "The Redragon M988 RGB Storm Elite Gaming Mouse is a wired gaming mouse crafted for performance and comfort. Featuring adjustable DPI up to high sensitivity levels, dynamic RGB lighting effects, and programmable buttons, it delivers precise tracking and customisable control for gaming and everyday use. Its ergonomic shape and textured grips ensure comfort during extended sessions.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M808-RGB_wr_01.jpg",
+  "images": [
+    "/RD-M808-RGB_wr_02.jpg",
+    "/RD-M808-RGB_wr_03.jpg",
+    "/RD-M808-RGB_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Adjustable DPI levels for personalised cursor precision and responsiveness.",
+    "Programmable buttons for custom macros and enhanced control.",
+    "Dynamic RGB lighting with multiple effects to match your setup.",
+    "Ergonomic design with textured grip for comfort during long sessions.",
+    "Wired USB connection for stable, low‑latency performance.",
+    "Durable switches and construction for reliable use.",
+    "Smooth glide feet for consistent performance on various surfaces."
+  ]
+},
+{
+  "id": "redragon-m988-rgb-storm-elite-gaming-mouse-white",
+  "name": "Redragon M988 RGB Storm Elite Gaming Mouse",
+  "description": "The Redragon M988 RGB Storm Elite Gaming Mouse is a wired gaming mouse crafted for performance and comfort. Featuring adjustable DPI up to high sensitivity levels, dynamic RGB lighting effects, and programmable buttons, it delivers precise tracking and customisable control for gaming and everyday use. Its ergonomic shape and textured grips ensure comfort during extended sessions.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M808W-RGB_wr_01.jpg",
+  "images": [
+    "/RD-M808W-RGB_wr_02.jpg",
+    "/RD-M808W-RGB_wr_03.jpg",
+    "/RD-M808W-RGB_wr_04.jpg",
+    "/RD-M808W-RGB_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "color":"White",
+  "features": [
+    "Adjustable DPI levels for personalised cursor precision and responsiveness.",
+    "Programmable buttons for custom macros and enhanced control.",
+    "Dynamic RGB lighting with multiple effects to match your setup.",
+    "Ergonomic design with textured grip for comfort during long sessions.",
+    "Wired USB connection for stable, low‑latency performance.",
+    "Durable switches and construction for reliable use.",
+    "Smooth glide feet for consistent performance on various surfaces."
+  ]
+},
+{
+  "id": "redragon-m810-wireless-continuous-backlight-gaming-mouse",
+  "name": "Redragon M810 Wireless Gaming Mouse with Continuous Backlight",
+  "description": "The Redragon M810 Wireless Gaming Mouse with Continuous Backlight is a versatile wireless mouse designed for gaming and everyday use. Featuring responsive tracking, multiple DPI levels, and vibrant continuous RGB backlighting, this mouse delivers reliable performance and personalised aesthetics. Its ergonomic design and wireless connectivity make it suitable for both casual users and gamers seeking freedom of movement without compromising control.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M810RGB-PRO_wr_01.jpg",
+  "images": [
+    "/RD-M810RGB-PRO_wr_02.jpg",
+    "/RD-M810RGB-PRO_wr_03.jpg",
+    "/RD-M810RGB-PRO_wr_04.jpg",
+    "/RD-M810RGB-PRO_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Wireless connectivity for freedom of movement and reduced cable clutter.",
+    "Continuous RGB backlighting for stylish visual effects.",
+    "Adjustable DPI settings for personalised sensitivity control.",
+    "Ergonomic design for comfortable use during long sessions.",
+    "Stable wireless performance suitable for gaming and productivity.",
+    "Durable build quality for everyday use.",
+    "Reliable tracking for smooth cursor control on various surfaces."
+  ]
+},
+{
+  "id": "redragon-aatrox-m811-gaming-mouse",
+  "name": "Redragon Aatrox M811 Gaming Mouse",
+  "description": "The Redragon Aatrox M811 Gaming Mouse is a wired RGB gaming mouse designed for precision and customisation. Featuring multiple adjustable DPI levels and programmable buttons, it delivers responsive performance tailored to your playstyle. With dynamic RGB lighting and an ergonomic design, this mouse is ideal for both gaming and everyday use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M811-RGB_wr_01.jpg",
+  "images": [
+    "/RD-M811-RGB_wr_02.jpg",
+    "/RD-M811-RGB_wr_03.jpg",
+    "/RD-M811-RGB_wr_04.jpg",
+    "/RD-M811-RGB_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Multiple adjustable DPI levels for precise sensitivity control.",
+    "Programmable buttons for custom macros and enhanced gaming functions.",
+    "Dynamic RGB lighting to match your gaming setup.",
+    "Ergonomic design for comfortable extended use.",
+    "Wired USB connection for stable and responsive performance.",
+    "Durable construction built for long‑lasting use.",
+    "Smooth tracking ideal for gaming and everyday tasks."
+  ]
+},
+{
+  "id": "redragon-m901-rgb-wireless-gaming-mouse",
+  "name": "Redragon M901 RGB Wireless Gaming Mouse",
+  "description": "The Redragon M901 RGB Wireless Gaming Mouse is a versatile wireless gaming mouse featuring dynamic RGB backlighting, a high‑precision sensor with adjustable DPI, and programmable buttons for custom macros and commands. Its ergonomic design and multi‑mode connectivity make it suitable for gaming and everyday computing on PCs and laptops.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M901-K-2_wr_01.jpg",
+  "images": [
+    "/RD-M901-K-2_wr_02.jpg",
+    "/RD-M901-K-2_wr_03.jpg",
+    "/RD-M901-K-2_wr_04.jpg",
+    "/RD-M901-K-2_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Wireless gaming mouse with RGB backlighting and multiple customizable lighting effects.",
+    "High‑precision adjustable DPI sensor for tailored sensitivity.",
+    "Programmable buttons for custom macros and key assignments.",
+    "Ergonomic design for comfortable use during extended sessions.",
+    "Multi‑mode connectivity with dual wireless options (likely 2.4 GHz) and USB.",
+    "Rechargeable battery with long battery life for extended gameplay.",
+    "Ideal for MMO, RPG, FPS games and everyday computer use."
+  ]
+},
+{
+  "id": "redragon-m987-reaping-lightweight-rgb-backlight-gaming-mouse",
+  "name": "Redragon M987 Reaping Lightweight RGB Backlight Gaming Mouse",
+  "description": "The Redragon M987 Reaping Lightweight RGB Backlight Gaming Mouse is a high‑performance wired gaming mouse built for speed, precision, and comfort. Its ultra‑lightweight design improves reaction times, while customizable RGB lighting and adjustable DPI settings give you the control needed for competitive gaming. The ergonomic shape and programmable buttons make it suitable for extended sessions, whether in FPS, MOBA, or everyday use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M987P-K_wr_01.jpg",
+  "images": [
+    "/RD-M987P-K_wr_02.jpg",
+    "/RD-M987P-K_wr_03.jpg",
+    "/RD-M987P-K_wr_04.jpg",
+    "/RD-M987P-K_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Ultra‑lightweight design for faster mouse movements and improved responsiveness.",
+    "Adjustable DPI levels to suit different gaming genres and playstyles.",
+    "Customizable RGB backlighting with dynamic lighting effects.",
+    "Programmable buttons for macros and custom commands.",
+    "Ergonomic shape for extended comfort during long play sessions.",
+    "Durable switches rated for consistent performance and longevity.",
+    "Wired USB connection for stable, low‑latency performance."
+  ]
+},
+{
+  "id": "redragon-m991-wireless-fps-gaming-mouse",
+  "name": "Redragon M991 Wireless FPS Gaming Mouse",
+  "description": "The Redragon M991 Wireless FPS Gaming Mouse is designed for competitive shooters and everyday gamers alike, featuring wireless connectivity with ultra‑low latency performance. With customizable DPI settings, programmable buttons, and dynamic RGB lighting, it offers precise control and tailored performance for FPS games and general use. Its ergonomic shape and durable build make it comfortable during long gaming sessions.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-M991-RGB_wr_01.jpg",
+  "images": [
+    "/RD-M991-RGB_wr_02.jpg",
+    "/RD-M991-RGB_wr_03.jpg",
+    "/RD-M991-RGB_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Wireless connectivity with ultra‑low latency for responsive FPS gaming.",
+    "Adjustable DPI settings for precise sensitivity control.",
+    "Programmable buttons for custom macros and enhanced gameplay.",
+    "Customizable RGB lighting effects to match your setup.",
+    "Ergonomic design for comfortable long gaming sessions.",
+    "Durable switches and build quality for extended use.",
+    "Compatible with professional programming software for deeper customization."
+  ]
+},
+{
+  "id": "redragon-p005a-kunlun-gaming-mouse-pad-extended",
+  "name": "Redragon P005A Kunlun Extended Gaming Mouse Pad (700 × 350 × 3 mm)",
+  "description": "The Redragon P005A Kunlun Extended Gaming Mouse Pad provides a large, smooth surface ideal for both mouse movement and keyboard placement, making it perfect for gaming and productivity setups. With a low‑friction fabric surface and durable stitched edges, it offers consistent tracking accuracy and long‑lasting performance. The non‑slip rubber base keeps the pad firmly in place during intense gameplay or everyday use.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P005A_wr_01.jpg",
+  "images": [
+    "/RD-P005A_wr_02.jpg",
+    "/RD-P005A_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Large extended surface (700 × 350 × 3 mm) for gaming and keyboard placement.",
+    "Low‑friction fabric surface for precise mouse tracking and movement.",
+    "Durable stitched edges to prevent fraying and extend pad lifespan.",
+    "Non‑slip rubber base keeps the pad securely in place during use.",
+    "Smooth finish ideal for optical and laser mice.",
+    "Compatible with gaming, work, and everyday desktop setups.",
+    "Easy to clean and maintain for long‑term performance."
+  ]
+},
+{
+  "id": "redragon-kunlun-l-gaming-pad-rd-p006a",
+  "name": "Redragon Kunlun L Gaming Pad (RD‑P006A)",
+  "description": "The Redragon Kunlun L Gaming Pad (RD‑P006A) is an extra‑large gaming mouse pad designed to provide a smooth and consistent surface for your mouse and keyboard. With its extended size and low‑friction fabric top, it enhances precision and control during gaming and everyday computer use. A non‑slip rubber base ensures that the pad stays firmly in place even during intense sessions.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P006A_wr_01.jpg",
+  "images": [
+    "/RD-P006A_wr_02.jpg",
+    "/RD-P006A_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Extra‑large surface area ideal for gaming setups with both mouse and keyboard.",
+    "Low‑friction fabric top for smooth and accurate mouse tracking.",
+    "Non‑slip rubber base to keep the pad stable during use.",
+    "Durable stitched edges to prevent fraying and extend lifespan.",
+    "Compatible with optical and laser mice.",
+    "Ideal for gaming, work, and everyday use.",
+    "Easy to clean and maintain for long‑lasting performance."
+  ]
+},
+{
+  "id": "redragon-pisces-p016-gaming-mouse-mat",
+  "name": "Redragon Pisces P016 Gaming Mouse Mat",
+  "description": "The Redragon Pisces P016 Gaming Mouse Mat is a high‑quality desk surface pad designed to improve mouse precision and comfort for gaming and everyday use. Featuring a thick, durable surface with a non‑slip rubber base, it stays firmly in place while providing consistent tracking. The mat’s smooth top and stitched edges offer durability and comfort across long sessions.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P016.jpg",
+  "images": [
+    "/RD-P016-2.jpg",
+    "/RD-P016-3.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Thick, high‑quality surface for precise mouse tracking and comfort.",
+    "Non‑slip rubber base ensures the mat stays securely in place.",
+    "Smooth fabric top for consistent performance with optical and laser mice.",
+    "Durable stitched edges prevent fraying over time.",
+    "Suitable for gaming and everyday computer use.",
+    "Generous surface area accommodates multiple desk setups.",
+    "Easy to clean and maintain for long‑lasting use."
+  ]
+},{
+  "id": "redragon-pluto-p026-rgb-mousepad",
+  "name": "Redragon Pluto P026 RGB Mousepad",
+  "description": "The Redragon Pluto P026 RGB Mousepad is a large gaming desk pad featuring vibrant RGB lighting around its edges and a smooth micro‑textured surface for precise mouse tracking. Designed for gaming setups, it provides a stable non‑slip base and easy‑access controls to adjust lighting effects that match your style and setup. The extended size accommodates both mouse and keyboard for seamless movement.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P026_wr_01.jpg",
+  "images": [
+    "/RD-P026_wr_02.jpg",
+    "/RD-P026_wr_04.jpg",
+    "/RD-P026_wr_05.jpg",
+    "/RD-P026_wr_06.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "RGB lighting around the edges with multiple lighting modes.",
+    "Smooth micro‑textured surface for accurate mouse tracking.",
+    "Large size accommodates both mouse and keyboard.",
+    "Non‑slip rubber base keeps the pad securely in place.",
+    "Easy controls to adjust RGB lighting effects.",
+    "Durable stitched edges prevent fraying over extended use.",
+    "Optimised for gaming and everyday computer use."
+  ]
+},
+{
+  "id": "redragon-flick-m-mousepad-270x320-black",
+  "name": "Redragon Flick M Mousepad (270×320 mm, Black)",
+  "description": "The Redragon Flick M Mousepad is a compact desktop surface pad designed to enhance mouse precision and control for gaming and everyday use. Its smooth tracking surface combined with a non‑slip rubber base delivers consistent performance, while the durable build ensures long‑lasting use on any desk setup.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P030_wr_01.jpg",
+  "images": [
+    "/RD-P030_wr_02.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Compact 270×320 mm surface ideal for gaming or everyday desktop use.",
+    "Smooth tracking surface for responsive mouse movement.",
+    "Non‑slip rubber base ensures stability during use.",
+    "Durable construction for long‑lasting performance.",
+    "Optimised for both optical and laser mice.",
+    "Easy to clean and maintain for daily use.",
+    "Perfect for smaller desk setups or mobile gaming stations."
+  ]
+},
+{
+  "id": "redragon-flick-gaming-mousepad-large",
+  "name": "Redragon Flick Gaming Mousepad (Large)",
+  "description": "The Redragon Flick Gaming Mousepad (Large) is designed to provide a spacious, smooth surface ideal for both gaming and general computer use. With a low‑friction cloth top for accurate tracking and a non‑slip rubber base to keep it firmly in place, this mousepad enhances precision and comfort across wide movements. Its durable stitched edges prevent fraying, making it suitable for extended sessions and daily wear.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P031_wr_01.jpg",
+  "images": [
+    "/RD-P031_wr_02.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Large surface area for ample mouse movement and gaming comfort.",
+    "Low‑friction cloth top ideal for precise tracking with optical and laser mice.",
+    "Non‑slip rubber base keeps the mousepad stable during use.",
+    "Durable stitched edges prevent fraying over time.",
+    "Smooth surface enhances both gaming performance and everyday tasks.",
+    "Compatible with various mouse types and setups.",
+    "Easy to clean and maintain for long‑lasting use."
+  ]
+},
+{
+  "id": "redragon-p032-flick-xl-gaming-mouse-pad",
+  "name": "Redragon P032 Flick XL Gaming Mouse Pad",
+  "description": "The Redragon P032 Flick XL Gaming Mouse Pad is an extra-large speed-edition surface designed for gamers and wide-area desk setups. With a smooth, low-friction fabric top and a non-slip rubber base, it provides consistent tracking and stability across fast mouse movements. Its generous 900 × 400 × 4 mm size accommodates both mouse and keyboard, offering ample room for gaming and daily tasks.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P032_wr_01.jpg",
+  "images": [
+    "/RD-P032_wr_02.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Extra-large 900 × 400 × 4 mm surface ideal for wide-area gaming setups.",
+    "Low-friction fabric top for smooth, precise mouse tracking.",
+    "Non-slip rubber base ensures stability during intense use.",
+    "Durable build with stitched edges to prevent fraying.",
+    "Suitable for gaming, work, and everyday computing.",
+    "Compatible with optical and laser mice.",
+    "Easy to clean and maintain for long-lasting performance."
+  ]
+},
+{
+  "id": "redragon-p035-computer-ergonomic-anti-slip-mouse-pad",
+  "name": "Redragon P035 Computer Ergonomic Anti-Slip Mouse Pad",
+  "description": "The Redragon P035 Computer Ergonomic Anti-Slip Mouse Pad is a desk accessory designed to improve comfort and control during computing and gaming sessions. It features an ergonomic wrist rest to help reduce strain and fatigue, a smooth tracking surface for precise mouse movement, and an anti-slip base to keep the pad firmly in place on any desk surface.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-P036_wr_01.jpg",
+  "images": [
+    "/RD-P036_wr_02.jpg",
+    "/RD-P036_wr_03.jpg",
+    "/RD-P036_wr_04.jpg",
+    "/RD-P036_wr_05.jpg"
+
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Ergonomic wrist rest for improved comfort and support during extended use.",
+    "Smooth tracking surface for accurate and responsive mouse movement.",
+    "Anti-slip base to keep the pad securely in place on various desk surfaces.",
+    "Durable build for long-lasting performance.",
+    "Ideal for office work, gaming, and everyday computing.",
+    "Compatible with both optical and laser mice.",
+    "Easy to clean and maintain."
+  ]
+},
+{
+  "id": "redragon-s129w-3-in-1-wired-keyboard-mouse-headset-combo-white",
+  "name": "Redragon S129W 3-in-1 Wired Keyboard, Mouse & Headset Combo (White)",
+  "description": "The Redragon S129W 3-in-1 Wired Combo includes a full-size keyboard, ergonomic mouse, and gaming headset in a coordinated white colourway. Designed as an all-in-one solution for gamers and everyday users, this combo offers reliable performance and comfort with multimedia keys, precise mouse control, and clear voice communication from the headset’s custom-tuned drivers.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-S129W_wr_01.jpg",
+  "images": [
+    "/RD-S129W_wr_02.jpg",
+    "/RD-S129W_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Includes a full-size wired keyboard with responsive key action and multimedia controls.",
+    "Ergonomic wired gaming mouse for precise cursor control.",
+    "Wired gaming headset with custom-tuned 50 mm drivers for clear sound and communication.",
+    "Coordinated white design for a stylish setup.",
+    "Plug-and-play USB connectivity for all three peripherals.",
+    "Durable build quality across keyboard, mouse, and headset.",
+    "Ideal as a complete starter set for gamers and home users."
+  ]
 }
 
 ]
