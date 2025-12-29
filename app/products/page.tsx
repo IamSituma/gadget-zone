@@ -55,6 +55,7 @@ export default function ProductsPage() {
     "Mobile Phones & Tablets",
     "Car Accessories",
     "Computers & Accessories",
+    "Keyboards & Mice",
     "Electric Scooters",
     "Home Accessories",
     "Bathroom Accessories",
@@ -145,10 +146,31 @@ export default function ProductsPage() {
 
   /* Pagination (desktop) */
   const totalPages = Math.ceil(filteredProducts.length / productsPerPage)
+  const pagesPerRange = 5 // Show 5 pages per range (1-5, 6-10, etc.)
+  const totalRanges = Math.ceil(totalPages / pagesPerRange)
+  const currentRange = Math.ceil(currentPage / pagesPerRange)
+
+  const getCurrentRangePages = () => {
+    const startPage = (currentRange - 1) * pagesPerRange + 1
+    const endPage = Math.min(currentRange * pagesPerRange, totalPages)
+    return Array.from({ length: endPage - startPage + 1 }, (_, i) => startPage + i)
+  }
 
   const handlePageChange = (page: number) => {
     setCurrentPage(page)
     window.scrollTo({ top: 0, behavior: "smooth" })
+  }
+
+  const handlePreviousRange = () => {
+    const newRange = Math.max(1, currentRange - 1)
+    const newPage = (newRange - 1) * pagesPerRange + 1
+    handlePageChange(newPage)
+  }
+
+  const handleNextRange = () => {
+    const newRange = Math.min(totalRanges, currentRange + 1)
+    const newPage = (newRange - 1) * pagesPerRange + 1
+    handlePageChange(newPage)
   }
 
   /* Products to render */
@@ -365,17 +387,35 @@ export default function ProductsPage() {
 
             {/* Pagination (desktop) */}
             {!isMobile && totalPages > 1 && (
-              <div className="mt-6 flex justify-center gap-2">
-                {[...Array(totalPages)].map((_, i) => (
+              <div className="mt-6 flex items-center justify-center gap-2">
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={handlePreviousRange}
+                  disabled={currentRange === 1}
+                >
+                  Previous
+                </Button>
+
+                {getCurrentRangePages().map((page) => (
                   <Button
-                    key={i}
+                    key={page}
                     size="sm"
-                    variant={currentPage === i + 1 ? "default" : "outline"}
-                    onClick={() => handlePageChange(i + 1)}
+                    variant={currentPage === page ? "default" : "outline"}
+                    onClick={() => handlePageChange(page)}
                   >
-                    {i + 1}
+                    {page}
                   </Button>
                 ))}
+
+                <Button
+                  variant="outline"
+                  size="sm"
+                  onClick={handleNextRange}
+                  disabled={currentRange === totalRanges}
+                >
+                  Next
+                </Button>
               </div>
             )}
           </div>

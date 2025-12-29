@@ -1712,7 +1712,7 @@
   "id": "xiaomi-wireless-mouse-lite-2",
   "name": "Xiaomi Wireless Mouse Lite 2",
   "description": "The Xiaomi Wireless Mouse Lite 2 is a lightweight and ergonomic wireless mouse designed for smooth, precise, and comfortable everyday use. It features a minimalist design, reliable 2.4 GHz wireless connectivity, and an accurate optical sensor, making it ideal for office work, study, and casual home use on both laptops and desktop computers.",
-  "category": "Computers & Accessories",
+  "category": "Keyboards & Mice",
   "condition": "Brand New",
   "image": "/BHR6099GL_wr_01.jpg",
   "images": [
@@ -1737,7 +1737,7 @@
   "id": "xiaomi-wireless-keyboard-and-mouse-combo-1",
   "name": "Xiaomi Wireless Keyboard and Mouse Combo",
   "description": "The Xiaomi Wireless Keyboard and Mouse Combo is a clean, minimalist desktop set designed for efficient and comfortable everyday computing. It includes a full-sized wireless keyboard with low-profile keys and a lightweight ergonomic mouse, both connecting via a single 2.4 GHz USB receiver. With quiet typing, smooth cursor control, and plug-and-play convenience, it is ideal for office work, study, and home setups.",
-  "category": "Computers & Accessories",
+  "category": "Keyboards & Mice",
   "condition": "Brand New",
   "image": "/BHR6100GL_wr_01.jpg",
   "images": [
@@ -2671,7 +2671,7 @@
   "id": "xiaomi-mi-dual-mode-wireless-mouse-silent-edition",
   "name": "Xiaomi Mi Dual Mode Wireless Mouse (Silent Edition)",
   "description": "The Xiaomi Mi Dual Mode Wireless Mouse (Silent Edition) is a dual‑mode wireless mouse that lets you connect via Bluetooth or a 2.4 GHz USB receiver. It features ultra‑quiet buttons, ergonomic design, side navigation buttons, and a comfortable grip for productive work with minimal noise and clutter.",
-  "category": "Computers & Accessories",
+  "category": "Keyboards & Mice",
   "condition": "Brand New",
   "image": "/HLK4040GL_wr_01.jpg",
   "images": [
@@ -9518,7 +9518,7 @@
   "id": "redragon-a130-black-pudding-keycaps-104",
   "name": "Redragon A130 Pudding Keycaps (104‑Key Set)",
   "description": "The Redragon A130 Pudding Keycaps set is a doubleshot PBT keycap replacement designed to enhance the look and performance of mechanical keyboards. With a translucent pudding style, the caps allow RGB backlighting to shine brilliantly while offering durable, textured PBT material that resists oil and sweat. The keycaps feature a comfortable OEM profile and include a keycap puller for easy installation.",
-  "category": "Computers & Accessories",
+  "category": "Keyboards & Mice",
   "condition": "Brand New",
   "image": "/RD-A130-B_hr_01.jpg",
   "images": [
@@ -9590,7 +9590,7 @@
   "id": "redragon-mech-keycaps-130-scarab-bk",
   "name": "Redragon Mech Keycaps A130 Scarab BK",
   "description": "The Redragon Mech Keycaps A130 Scarab BK is a premium 130‑key keycap set designed for mechanical keyboards. Made from high‑quality PBT material with a textured surface, these keycaps offer durability and resistance to wear and shine. The Scarab BK design features bold legends and a sleek black finish to elevate the look of your keyboard while providing a comfortable typing experience.",
-  "category": "Computers & Accessories",
+  "category": "Keyboards & Mice",
   "condition": "Brand New",
   "image": "/RD-A132_wr_01.jpg",
   "images": [
@@ -10058,32 +10058,9 @@
   ]
 },
 {
-  "id": "redragon-h350-pandora-rgb-gaming-headset",
-  "name": "Redragon H350 Pandora RGB Gaming Headset",
-  "description": "The Redragon H350 Pandora RGB Gaming Headset is a wired gaming headset featuring vibrant RGB lighting, comfortable over‑ear cushioned ear cups, and a built‑in adjustable microphone for clear communication. Designed to deliver immersive audio with broad platform compatibility, it’s suitable for gaming on PCs, consoles, and other devices with 3.5 mm audio support. The headset’s ergonomic design ensures comfort during long play sessions.",
-  "category": "Audio & Video",
-  "condition": "Brand New",
-  "image": "/RD-H350RGB-1_wr_01.jpg",
-  "images": [
-    "/RD-H350RGB-1_wr_02.jpg",
-    "/RD-H350RGB-1_wr_03.jpg"
-  ],
-  "brand": "Redragon",
-  "inStock": true,
-  "features": [
-    "RGB lighting effects for enhanced gaming aesthetics.",
-    "Wired connection with 3.5 mm audio jack for broad device compatibility.",
-    "Adjustable built‑in microphone for clear voice chat.",
-    "Soft cushioned over‑ear ear cups for extended comfort.",
-    "Adjustable headband for a secure fit.",
-    "Balanced audio profile suitable for gaming, music, and multimedia.",
-    "Durable build quality for daily use."
-  ]
-},
-{
-  "id": "redragon-h350w-pandora-rgb-wired-gaming-headset",
-  "name": "Redragon H350W Pandora RGB Wired Gaming Headset (White)",
-  "description": "The Redragon H350W Pandora RGB Wired Gaming Headset in white offers an immersive audio experience with its RGB lighting and powerful 50 mm drivers. Designed for gamers and multimedia users, this wired headset provides clear sound, intelligent bass response, and a comfortable fit with cushioned ear cups and an adjustable headband. The built‑in microphone enables clear communication for gaming, voice chats, and online meetings.",
+  "id": "redragon-pandora-h350-gaming-headset-white",
+  "name": "Redragon Pandora H350 Gaming Headset",
+  "description": "The Redragon Pandora H350 Gaming Headset is a wired headset designed for immersive gaming audio and clear voice communication. Featuring comfortable over‑ear cushioned ear cups and an adjustable headband, it delivers extended comfort during long gaming sessions. With a built‑in microphone and broad compatibility, this headset is suitable for gaming, streaming, and voice chats on a variety of devices.",
   "category": "Audio & Video",
   "condition": "Brand New",
   "image": "/RD-H350W-RGB_wr_01.jpg",
@@ -10095,39 +10072,15 @@
   ],
   "brand": "Redragon",
   "inStock": true,
+  "color": "White",
   "features": [
-    "Wired 3.5 mm connection with broad compatibility for gaming and audio devices.",
-    "RGB lighting effects for enhanced gaming aesthetics.",
-    "Powerful 50 mm drivers with intelligent bass response.",
-    "Built‑in adjustable microphone for clear communication.",
-    "Soft cushioned ear cups for extended comfort.",
-    "Adjustable headband for a secure and custom fit.",
-    "Durable build quality suitable for everyday gaming and multimedia."
-  ]
-},
-{
-  "id": "redragon-h350-white-pandora-rgb-wired-gaming-usb-headset",
-  "name": "Redragon H350 White Pandora RGB Wired Gaming USB Headset",
-  "description": "The Redragon H350 White Pandora RGB Wired Gaming USB Headset is a gaming headset with vibrant RGB lighting, USB connectivity, and enhanced audio designed for immersive gameplay, music, and multimedia. Featuring soft cushioned ear cups and an adjustable headband for extended comfort, this headset also includes an in‑line audio controller for easy volume and RGB mode adjustments. The built‑in microphone enables clear voice communication during gaming or calls.",
-  "category": "Headsets & Audio",
-  "condition": "Brand New",
-  "image": "/RD-H350W-RGB-1_wr_01.jpg",
-  "images": [
-    "/RD-H350W-RGB-1_wr_02.jpg",
-    "/RD-H350W-RGB-1_wr_03.jpg",
-    "/RD-H350W-RGB-1_wr_04.jpg",
-    "/RD-H350W-RGB-1_wr_05.jpg"
-  ],
-  "brand": "Redragon",
-  "inStock": true,
-  "features": [
-    "USB wired connection for plug‑and‑play compatibility with PCs and gaming devices.",
-    "RGB lighting with multiple modes adjustable via in‑line control.",
-    "Soft cushioned ear cups for extended comfort during long sessions.",
-    "Adjustable headband for a customized fit.",
-    "Built‑in microphone for clear voice communication.",
-    "In‑line audio controller for volume and RGB mode adjustments.",
-    "Balanced audio profile suitable for gaming, music, and multimedia."
+    "Wired design for low‑latency audio during gaming and multimedia use.",
+    "Adjustable headband and cushioned ear cups for extended comfort.",
+    "Built‑in microphone for clear voice communication and chat.",
+    "Durable construction for everyday gaming.",
+    "Compatible with PCs, laptops, and devices with 3.5 mm audio support.",
+    "Easy plug‑and‑play setup with broad device compatibility.",
+    "Balanced sound profile suitable for gaming, music, and calls."
   ]
 },
 {
@@ -10154,7 +10107,747 @@
     "Multi‑platform connectivity via 3.5 mm jack and USB adapter.",
     "Adjustable headband for a secure and personalized fit."
   ]
+},
+{
+  "id": "redragon-over-ear-zeus-x-rgb-bk",
+  "name": "Redragon Over-Ear Zeus X RGB Gaming Headset (Black)",
+  "description": "The Redragon Over-Ear Zeus X RGB Gaming Headset (Black) is a wired headset designed for immersive audio during gaming, music, and multimedia use. Featuring RGB lighting, over-ear memory foam cushions for long-lasting comfort, and an omnidirectional microphone for clear voice communication, this headset delivers clear, detailed sound and vibrant lighting effects. Compatible with PCs and gaming devices using a USB or 3.5 mm connection, it’s ideal for extended gaming sessions.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/RD-H510-RGB_wr_01.jpg",
+  "images": [
+    "/RD-H510-RGB_wr_02.jpg",
+    "/RD-H510-RGB_wr_03.jpg",
+    "/RD-H510-RGB_wr_04.jpg",
+    "/RD-H510-RGB_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "RGB lighting for enhanced gaming aesthetics.",
+    "Over-ear memory foam cushions for extended comfort.",
+    "Omnidirectional microphone for clear voice communication.",
+    "Wired connectivity with USB and 3.5 mm support for broad compatibility.",
+    "Clear and detailed sound for gaming and multimedia.",
+    "Adjustable headband for customized fit.",
+    "Durable construction suitable for daily use."
+  ]
+},
+{
+  "id": "redragon-over-ear-zeus-x-rgb-bk-white",
+  "name": "Redragon Over-Ear Zeus X RGB Gaming Headset (Black)",
+  "description": "The Redragon Over-Ear Zeus X RGB Gaming Headset (Black) is a wired headset designed for immersive audio during gaming, music, and multimedia use. Featuring RGB lighting, over-ear memory foam cushions for long-lasting comfort, and an omnidirectional microphone for clear voice communication, this headset delivers clear, detailed sound and vibrant lighting effects. Compatible with PCs and gaming devices using a USB or 3.5 mm connection, it’s ideal for extended gaming sessions.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/RD-H510W_wr_01.jpg",
+  "images": [
+    "/RD-H510W_wr_02.jpg",
+    "/RD-H510W_wr_03.jpg",
+    "/RD-H510W_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "color": "White",
+  "features": [
+    "RGB lighting for enhanced gaming aesthetics.",
+    "Over-ear memory foam cushions for extended comfort.",
+    "Omnidirectional microphone for clear voice communication.",
+    "Wired connectivity with USB and 3.5 mm support for broad compatibility.",
+    "Clear and detailed sound for gaming and multimedia.",
+    "Adjustable headband for customized fit.",
+    "Durable construction suitable for daily use."
+  ]
+},
+{
+  "id": "redragon-h868-rgb-wireless-surround-gaming-headset",
+  "name": "Redragon H868 RGB Wireless 7.1 Surround Gaming Headset",
+  "description": "The Redragon H868 RGB Wireless 7.1 Surround Gaming Headset is a versatile, multi-platform wireless gaming headset featuring tri-mode connectivity — 2.4 GHz wireless, Bluetooth, and wired connections — for use across PCs, consoles, and mobile devices. With immersive virtual 7.1 surround sound, dynamic RGB lighting, a detachable noise-cancelling microphone, and comfortable memory-foam ear pads, this headset delivers both performance and comfort for long gaming sessions.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/RD-H510-WL_wr_01.jpg",
+  "images": [
+    "/RD-H510-WL_wr_02.jpg",
+    "/RD-H510-WL_wr_03.jpg",
+    "/RD-H510-WL_wr_04.jpg",
+    "/RD-H510-WL_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Tri-mode connectivity: 2.4 GHz wireless, Bluetooth, and wired via Type-C/3.5 mm for broad device support.",
+    "Immersive virtual 7.1 surround sound enhances spatial audio during gaming and media playback.",
+    "Detachable noise-cancelling microphone for clear voice communication.",
+    "Dynamic RGB lighting to match gaming setups and style preferences.",
+    "Lightweight and durable design with plush memory foam ear pads for extended comfort.",
+    "Multiple EQ modes (Classic, Game, Music) to tailor sound profiles.",
+    "Compatible across PC, Mac, consoles (PS4, PS5, Switch), and mobile devices."
+  ]
+},
+{
+  "id": "redragon-over-ear-3-5mm-aux-bk",
+  "name": "Redragon Over-Ear 3.5 mm AUX Headset (Black)",
+  "description": "The Redragon Over-Ear 3.5 mm AUX Headset (Black) is a wired gaming and multimedia headset with a comfortable over-ear design and a 3.5 mm connection for use with PCs, consoles, laptops, and mobile devices. Its padded ear cups and adjustable headband provide long-lasting comfort, while the built-in microphone ensures clear voice communication during gaming, calls, and online chats.",
+  "category": "Audio & Video",
+  "condition": "Brand New",
+  "image": "/RD-H720_wr_01.jpg",
+  "images": [
+    "/RD-H720_wr_02.jpg",
+    "/RD-H720_wr_03.jpg",
+    "/RD-H720_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Wired connection via 3.5 mm AUX plug compatible with gaming consoles, PCs, laptops, and mobile devices.",
+    "Comfortable over-ear design with padded ear cups for extended wear.",
+    "Built-in microphone for clear voice communication.",
+    "Adjustable headband for a secure and comfortable fit.",
+    "Durable construction for everyday use.",
+    "Balanced audio suitable for gaming, music, and calls.",
+    "Plug-and-play setup without driver requirements."
+  ]
+},
+{
+  "id": "redragon-rd-ha100-circes-usb-a-2-0-external-sound-card",
+  "name": "Redragon RD-HA100 Circes USB 2.0 Black External Sound Card",
+  "description": "The Redragon RD-HA100 Circes USB 2.0 External Sound Card is a compact plug-and-play audio adapter that enhances audio output and input for PCs, laptops, and other USB-enabled devices. It offers a simple way to add or replace an internal sound card, providing improved audio clarity and reliable connectivity through a standard USB 2.0 interface.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-HA100_wr_01.jpg",
+  "images": [
+    "/RD-HA100_wr_03.jpg",
+    "/RD-HA100_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "USB 2.0 plug-and-play external sound card for easy audio enhancement.",
+    "Compact and portable design ideal for travel and office setups.",
+    "Adds or replaces internal sound card functionality without internal installation.",
+    "Compatible with PCs, laptops, and other USB-enabled devices.",
+    "Improves audio clarity for headphones, speakers, and microphones.",
+    "Standard USB-A connection for broad compatibility.",
+    "Durable construction for everyday use."
+  ]
+},
+{
+  "id": "redragon-ha311-sceptre-elite-gaming-headset-stand",
+  "name": "Redragon HA311 Sceptre Elite Gaming Headset Stand",
+  "description": "The Redragon HA311 Sceptre Elite Gaming Headset Stand is a stylish and functional accessory designed to keep your gaming headset organized and within reach. Featuring a sturdy base and sleek design with LED lighting accents, this stand not only stores your headset but also adds visual flair to your gaming setup. Its compact footprint makes it suitable for desktops, gaming desks, or workstations.",
+  "category": "Computers & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-HA311_wr_01.jpg",
+  "images": [
+    "/RD-HA311_wr_02.jpg",
+    "/RD-HA311_wr_03.jpg",
+    "/RD-HA311_wr_04.jpg",
+    "/RD-HA311_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Sturdy stand to hold and display gaming headsets.",
+    "Sleek gaming-inspired design complements desktop setups.",
+    "LED lighting accents for enhanced aesthetic appeal.",
+    "Compact footprint saves desk space.",
+    "Durable construction for long-lasting use.",
+    "Ideal for organizing headsets and accessories.",
+    "Easy to set up with no tools required."
+  ]
+},
+{
+  "id": "redragon-original-snapback-cap-black",
+  "name": "Redragon Original Snapback Cap (Black)",
+  "description": "The Redragon Original Snapback Cap in black is a stylish and comfortable headwear accessory designed for gamers, enthusiasts, and everyday casual wear. Featuring a structured fit with an adjustable snapback closure, this cap offers a timeless silhouette with distinctive Redragon branding on the front. The durable fabric and classic design make it ideal for outdoor activities, gaming events, or everyday use.",
+  "category": "Apparel & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-HG010-BLK_wr_01.jpg",
+  "images": [
+    "/RD-HG010-BLK_wr_02.jpg",
+    "/RD-HG010-BLK_wr_03.jpg",
+    "/RD-HG010-BLK_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Classic snapback cap design with adjustable closure.",
+    "Structured fit for a clean and modern silhouette.",
+    "Redragon branding on the front panel for gaming style.",
+    "Durable fabric construction for everyday wear.",
+    "Breathable material for comfort during extended use.",
+    "Flat brim style perfect for casual and streetwear.",
+    "One-size adjustable fit to accommodate most head sizes."
+  ]
+},
+{
+  "id": "red-dragon-snap-back-straight-peak-cap",
+  "name": "Red Dragon Snap Back Straight Peak Cap",
+  "description": "The Red Dragon Snap Back Straight Peak Cap is a casual headwear accessory featuring a classic snapback design with a straight brim. It offers an adjustable fit and a bold embroidered logo on the front, making it a stylish choice for everyday wear, outdoor activities, or gaming-inspired outfits. Its durable construction and iconic silhouette combine comfort with long-lasting use.",
+  "category": "Apparel & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-HG012-BLK_wr_01.jpg",
+  "images": [
+    "/RD-HG012-BLK_wr_02.jpg",
+    "/RD-HG012-BLK_wr_03.jpg"
+  ],
+  "brand": "Red Dragon",
+  "inStock": true,
+  "features": [
+    "Classic snapback cap with straight peak design.",
+    "Adjustable snapback closure for customizable fit.",
+    "Embroidered logo branding on the front panel.",
+    "Durable fabric construction for everyday wear.",
+    "Breathable build for comfort in warm conditions.",
+    "Flat brim style perfect for casual outfits.",
+    "One-size adjustable fit to accommodate most head sizes."
+  ]
+},
+{
+  "id": "redragon-premium-buff-black",
+  "name": "Redragon Premium Buff (Black)",
+  "description": "The Redragon Premium Buff in Black is a versatile, lightweight, and breathable neck gaiter designed for everyday wear and active use. It provides comfortable coverage for face and neck protection against dust, wind, and sun, while its stretchable fabric ensures a snug yet flexible fit. Easy to clean and quick‑drying, this buff is suitable for outdoor activities, travel, and daily wear.",
+  "category": "Apparel & Accessories",
+  "condition": "Brand New",
+  "image": "/RD-HG020-BLK_wr_01.jpg",
+  "images": [
+    "/RD-HG020-BLK_wr_01a.jpg",
+    "/RD-HG020-BLK_wr_02.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Versatile neck gaiter for protection against dust, wind, and sun.",
+    "Lightweight and breathable fabric for comfortable wear.",
+    "Stretchable design for a snug and flexible fit.",
+    "Quick‑drying material ideal for active lifestyles.",
+    "Easy to clean and maintain.",
+    "Suitable for outdoor activities, travel, and daily use.",
+    "One‑size‑fits‑most design."
+  ]
+},
+{
+  "id": "redragon-k503-pc-gaming-keyboard-rgb-led-backlit-wired",
+  "name": "Redragon K503 PC Gaming Keyboard RGB LED Backlit Wired",
+  "description": "The Redragon K503 PC Gaming Keyboard is a full‑size wired USB keyboard with RGB backlighting and a comfortable wrist rest, designed for gaming and everyday typing. It features silent keys for quieter operation, dedicated multimedia controls, and customizable lighting effects to enhance your setup. With anti‑ghosting technology and ergonomic design, it offers reliable performance for both gaming and productivity.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K503A-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K503A-RGB_wr_02.jpg",
+    "/RD-K503A-RGB_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Wired USB connection for reliable and lag‑free performance.",
+    "RGB LED backlighting with multiple lighting modes for personalized aesthetics.",
+    "Silent membrane keys designed for quieter typing and gaming.",
+    "Full‑size layout with 104 keys including dedicated multimedia controls.",
+    "Integrated ergonomic wrist rest for comfort during extended use.",
+    "Anti‑ghosting technology with multi‑key conflict‑free input.",
+    "Ergonomic splash‑proof design suitable for daily use and gaming."
+  ]
+},
+{
+  "id": "redragon-centaur-2-gaming-keyboard",
+  "name": "Redragon Centaur 2 Gaming Keyboard",
+  "description": "The Redragon Centaur 2 Gaming Keyboard is a full‑size wired keyboard featuring a 104‑key rainbow backlit layout and quiet membrane switches with injection‑moulded keycaps. Designed for gaming and everyday use, it offers responsive key action, dynamic lighting effects, and durable construction to enhance your setup.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K506-1_wr_01.jpg",
+  "images": [
+    "/RD-K506-1_wr_02.jpg",
+    "/RD-K506-1_wr_03.jpg",
+    "/RD-K506-1_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "104‑key rainbow backlit design for vibrant lighting effects.",
+    "Quiet membrane switches for smooth and silent key presses.",
+    "Injection‑moulded keycaps for durability and consistent feel.",
+    "Full‑size layout with standard key spacing.",
+    "Wired USB connection for reliable performance.",
+    "Ideal for both gaming and everyday typing tasks.",
+    "Easy‑to‑use plug‑and‑play setup with no drivers needed."
+  ]
+},
+{
+  "id": "redragon-k512rgb-membrane-gaming-keyboard",
+  "name": "Redragon K512RGB Membrane Gaming Keyboard with Detachable Wrist Rest",
+  "description": "The Redragon K512RGB Membrane Gaming Keyboard is a full‑size wired keyboard designed for gamers and everyday users alike. Featuring a vibrant RGB backlit layout with multiple lighting modes, quiet membrane switches, and a detachable ergonomic wrist rest, this keyboard delivers a comfortable and responsive experience for extended gaming sessions or daily typing. Its durable build and anti‑ghosting support make it suitable for both work and play.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K512RGB_wr_01.jpg",
+  "images": [
+    "/RD-K512RGB_wr_02.jpg",
+    "/RD-K512RGB_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Full‑size membrane keyboard with RGB backlighting and multiple lighting modes.",
+    "Quiet membrane switches for smooth and silent typing or gaming.",
+    "Detachable ergonomic wrist rest for added comfort during long sessions.",
+    "Anti‑ghosting support for responsive input during gameplay.",
+    "Wired USB connection for stable and consistent performance.",
+    "Durable construction suitable for everyday use.",
+    "Customizable RGB effects that enhance gaming setups."
+  ]
+},
+{
+  "id": "redragon-k535-rgb-bluetooth-wireless-gaming-keyboard",
+  "name": "Redragon K535 RGB Bluetooth Wireless Gaming Keyboard",
+  "description": "The Redragon K535 RGB Bluetooth Wireless Gaming Keyboard is a versatile gaming keyboard that supports both Bluetooth wireless and wired USB‑C connections, offering flexibility for use with PCs, tablets, and other devices. Featuring RGB backlighting, quiet switches, and a slim, compact layout, it delivers a comfortable typing and gaming experience with broad compatibility and customizable lighting effects.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K535-KB_wr_01.jpg",
+  "images": [
+    "/RD-K535-KB_wr_02.jpg",
+    "/RD-K535-KB_wr_03.jpgg",
+    "/RD-K535-KB_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Supports both Bluetooth wireless and wired USB‑C connectivity for versatile use.",
+    "RGB backlighting with multiple lighting effects for gaming aesthetics.",
+    "Quiet keys for smooth and comfortable typing during gaming and daily tasks.",
+    "Compact and slim design ideal for desktop setups and portability.",
+    "Multi‑device compatibility with PCs, tablets, and mobile devices.",
+    "Low‑latency performance in wired and wireless modes.",
+    "Ergonomic layout suitable for gaming and everyday productivity."
+  ]
+},
+{
+  "id": "redragon-k535-rgb-bluetooth-wireless-gaming-keyboard",
+  "name": "Redragon K535 RGB Bluetooth Wireless Gaming Keyboard",
+  "description": "The Redragon K535 RGB Bluetooth Wireless Gaming Keyboard is a versatile keyboard featuring multi‑mode wireless connectivity including Bluetooth and wired USB‑C support. With vibrant RGB backlighting effects, quiet switches, and a sleek design, this keyboard delivers a comfortable and responsive typing and gaming experience. It is ideal for use with PCs, tablets, and other compatible devices with flexible connection options.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K535P-KBS_wr_02.jpg",
+  "images": [
+    "/RD-K535P-KBS_wr_01.jpg",
+    "/RD-K535P-KBS_wr_03.jpg",
+    "/RD-K535P-KBS_wr_06.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Supports Bluetooth wireless connectivity for multi‑device pairing.",
+    "Wired USB‑C mode for stable low‑latency connection.",
+    "RGB backlighting with customizable lighting effects.",
+    "Quiet key switches for smooth typing and gaming performance.",
+    "Sleek slim profile ideal for desktop setups and portability.",
+    "Multi‑platform compatibility with PCs, tablets, and mobile devices.",
+    "Ergonomic layout designed for comfort during long sessions."
+  ]
+},
+{
+  "id": "redragon-4in1-mechanical-gaming-combo-k552-bb-2",
+  "name": "Redragon 4‑in‑1 Mechanical Gaming Combo (Keyboard, Mouse, Headset, Mouse Pad)",
+  "description": "The Redragon 4‑in‑1 Mechanical Gaming Combo brings together key gaming peripherals into one package, including a mechanical keyboard, gaming mouse, gaming headset, and gaming mouse pad. Built to enhance performance, comfort, and precision for gamers, this combo gives you all the essentials for a complete gaming setup in one box.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K552-BB-2_wr_01.jpg",
+  "images": [
+    "/RD-K552-BB-2_wr_02.jpg",
+    "/RD-K552-BB-2_wr_03.jpg",
+    "/RD-K552-BB-2_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Includes a mechanical keyboard, gaming mouse, gaming headset, and medium gaming mouse pad in one combo.",
+    "Redragon Kumara Mechanical Keyboard with custom mechanical switches and red LED lighting for responsive tactile key action.",
+    "Redragon Centrophorus 3200DPI Gaming Mouse with 6 optimized buttons and 15g acceleration for precise control.",
+    "Redragon Ares Gaming Headset with lightweight over‑ear design and high‑sensitivity adjustable microphone for clear voice communication.",
+    "Redragon Archelon Medium Gaming Pad featuring a silk‑processed cloth surface for smooth mouse movement and a natural rubber non‑slip base.",
+    "Mechanical keys with medium resistance and tactile feedback for improved gaming performance.",
+    "Mouse pad with reinforced stitched edges for durability and anti‑curling design.",
+    "Complete set ideal for gamers looking for quality peripherals in one bundle."
+  ]
+},
+{
+  "id": "redragon-k552w-kumara-rgb-usb-mechanical-gaming-keyboard-white",
+  "name": "Redragon K552W Kumara RGB USB Mechanical Gaming Keyboard (White)",
+  "description": "The Redragon K552W Kumara RGB USB Mechanical Gaming Keyboard (White) is a compact tenkeyless keyboard designed for gamers and typists who want high performance without sacrificing desk space. Featuring RGB backlit lighting, responsive mechanical switches, and a sturdy build with white keycaps and frame, this keyboard delivers satisfying tactile feedback and immersive lighting effects. Its compact layout and durable construction make it ideal for both gaming and everyday use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K552W-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K552W-RGB_wr_03.jpg",
+    "/RD-K552W-RGB_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Compact tenkeyless layout saves desk space while retaining core functionality.",
+    "RGB backlit lighting with customizable lighting effects.",
+    "Responsive mechanical switches for tactile feedback and gaming performance.",
+    "Wired USB connection for stable and reliable input.",
+    "White keycaps and frame for a sleek aesthetic.",
+    "Durable build quality designed for long‑term use.",
+    "Ideal for gamers and typists who prefer a minimalist keyboard."
+  ]
+},
+{
+  "id": "redragon-surara-k582-mechanical-gaming-keyboard",
+  "name": "Redragon Surara K582 Mechanical Gaming Keyboard",
+  "description": "The Redragon Surara K582 Mechanical Gaming Keyboard is a full‑size gaming keyboard designed for responsive performance and immersive lighting. It features customizable RGB backlighting, durable mechanical switches, and a sturdy build to support extended gaming and typing sessions. With multimedia controls and a classic layout, this keyboard is ideal for gamers and everyday users alike.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K582RGB_wr_01.jpg",
+  "images": [
+    "/RD-K582RGB_wr_02.jpg",
+    "/RD-K582RGB_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Full‑size layout with responsive mechanical switches for tactile feedback.",
+    "Customizable RGB backlighting with multiple lighting modes.",
+    "Wired USB connection for reliable gaming and typing performance.",
+    "Multimedia control keys for quick access to audio and media functions.",
+    "Durable build quality designed for long‑lasting use.",
+    "Ergonomic keycap design for comfortable typing.",
+    "Ideal for gamers, streamers, and everyday productivity."
+  ]
+},
+{
+  "id": "redragon-k585-mechanical-gaming-keyboard",
+  "name": "Redragon K585 Mechanical Gaming Keyboard",
+  "description": "The Redragon K585 Mechanical Gaming Keyboard is a compact and performance‑focused keyboard designed for gaming and productivity. It features responsive mechanical switches, customizable RGB backlighting with dynamic lighting effects, and dedicated macro keys for enhanced control. Built with a sturdy frame and ergonomic design, this keyboard delivers satisfying tactile feedback and durability for long sessions.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K585RGB-KS_wr_01.jpg",
+  "images": [
+    "/RD-K585RGB-KS_wr_01.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Responsive mechanical switches for tactile feedback and gaming performance.",
+    "Customizable RGB backlighting with multiple dynamic lighting modes.",
+    "Compact design ideal for gaming setups and limited desk space.",
+    "Dedicated macro keys for easier command execution.",
+    "Wired USB connection for stable and reliable performance.",
+    "Durable build quality designed for long‑lasting use.",
+    "Ergonomic key layout and design for comfort during extended use."
+  ]
+},
+{
+  "id": "redragon-shrapnel-rgb-mechanical-gaming-keyboard",
+  "name": "Redragon Shrapnel RGB Mechanical Gaming Keyboard",
+  "description": "The Redragon Shrapnel RGB Mechanical Gaming Keyboard is a full‑size wired mechanical keyboard featuring a low‑profile design and customizable RGB backlighting. With 104 keys and anti‑ghosting support, it delivers responsive performance for gaming and productivity. The keyboard uses low‑profile OUTEMU mechanical switches that offer reduced travel distance and a comfortable typing feel, while dynamic lighting modes provide a vivid visual experience.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K589RGB_wr_01.jpg",
+  "images": [
+    "/RD-K589RGB_wr_02.jpg",
+    "/RD-K589RGB_wr_03.jpg",
+    "/RD-K589RGB_wr_07.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Full‑size 104‑key mechanical gaming keyboard with anti‑ghosting support.",
+    "Low‑profile mechanical switches for reduced key travel and faster actuation.",
+    "Customizable RGB backlighting with multiple dynamic lighting effects.",
+    "Wired USB connection for stable performance.",
+    "Durable double‑injection keycaps for long‑lasting use.",
+    "Ergonomic design with adjustable height for comfortable typing and gaming.",
+    "Ideal for gaming, work, and everyday typing tasks."
+  ]
+},
+{
+  "id": "redragon-k595-ratri-rgb-silent-mechanical-gaming-keyboard",
+  "name": "Redragon K595 Ratri RGB Silent Mechanical Gaming Keyboard",
+  "description": "The Redragon K595 Ratri RGB Silent Mechanical Gaming Keyboard is a full‑size wired keyboard built for gamers who want responsive performance with quieter key actuation. Featuring silent mechanical switches and vibrant RGB backlighting across multiple lighting modes, this keyboard offers a balance of performance and aesthetics. Anti‑ghosting support and a durable build make it ideal for extended gaming sessions and everyday use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K595RGB_wr_01..jpg",
+  "images": [
+    "/RD-K595RGB_wr_01.jpg",
+    "/RD-K595RGB_wr_04.jpg",
+    "/RD-K595RGB_wr_07.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Full‑size mechanical gaming keyboard with silent switches for quieter operation.",
+    "RGB backlighting with multiple dynamic lighting effects.",
+    "Anti‑ghosting technology for reliable multi‑key input during gaming.",
+    "Durable construction designed for long‑lasting performance.",
+    "Wired USB connection for stable and responsive gameplay.",
+    "Ergonomic design with adjustable height for comfort during extended use.",
+    "Ideal for gamers and typists seeking tactile feedback with reduced noise."
+  ]
+},
+{
+  "id": "redragon-kb-mech-aps-rgb-10kless-bk",
+  "name": "Redragon KB MECH APS RGB 10KLESS BK Tenkeyless Mechanical Gaming Keyboard",
+  "description": "The Redragon KB MECH APS RGB 10KLESS BK is a compact tenkeyless mechanical gaming keyboard with RGB backlighting and detachable low‑profile switches. Designed to save desk space while delivering responsive mechanical key performance, it features full‑key anti‑ghosting, RGB LED lighting, and a spill‑proof design. With its slim keycaps and durable build, this keyboard is suitable for gaming and everyday use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K607P-KBS_wr_01.jpg",
+  "images": [
+    "/RD-K607P-KBS_wr_02.jpg",
+    "/RD-K607P-KBS_wr_06.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Tenkeyless 87‑key layout ideal for compact gaming setups and desk space saving.",
+    "RGB LED backlighting with customizable lighting effects.",
+    "Mechanical switches with detachable low‑profile keycaps for customization.",
+    "Full‑key anti‑ghosting for accurate key presses during gaming.",
+    "High‑speed USB connection for reliable performance.",
+    "Golden plated USB port for enhanced connectivity.",
+    "Spill‑proof design to protect against accidental liquid damage."
+  ]
+},
+{
+  "id": "redragon-k607-aps-tenkeyless-rgb-mechanical-gaming-keyboard",
+  "name": "Redragon K607 APS Tenkeyless RGB Mechanical Gaming Keyboard",
+  "description": "The Redragon K607 APS Tenkeyless RGB Mechanical Gaming Keyboard is a compact 87‑key keyboard designed for gaming and productivity with a slim profile and detachable low‑profile switches. Featuring full‑key anti‑ghosting, RGB backlit keys, and a durable build with double‑injection keycaps, this keyboard delivers responsive mechanical performance in a space‑saving form factor. Its spill‑proof design and golden‑plated USB port make it suitable for everyday use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K607-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K607-RGB_wr_02.jpg",
+    "/RD-K607-RGB_wr_03.jpg",
+    "/RD-K607-RGB_wr_06.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Tenkeyless 87‑key layout ideal for compact setups.",
+    "RGB LED backlit keys with customizable lighting effects.",
+    "Mechanical switches with detachable low‑profile switch design for customization.",
+    "Full‑key anti‑ghosting for reliable input during gaming.",
+    "Super slim keycaps for a sleek and modern design.",
+    "Golden‑plated USB port for enhanced connectivity.",
+    "Spill‑proof design helps protect against accidental liquid damage."
+  ]
+},
+{
+  "id": "redragon-k616-rgb-wp-fizz-pro-white-pink",
+  "name": "Redragon K616 RGB WP/Fizz Pro White/Pink Gaming Keyboard",
+  "description": "The Redragon K616 RGB WP/Fizz Pro White/Pink Gaming Keyboard is a compact RGB backlit wired gaming keyboard designed for gamers and everyday users. With vibrant RGB lighting, responsive keys, and a stylish white and pink colourway, it delivers reliable typing and gaming performance with aesthetic appeal.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K616-RGB-PW_wr_01.jpg",
+  "images": [
+    "/RD-K616-RGB-PW_wr_02.jpg",
+    "/RD-K616-RGB-PW_wr_03.jpg",
+    "/RD-K616-RGB-PW_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "RGB backlighting with multiple lighting effects.",
+    "Compact and stylish white/pink colourway for unique aesthetics.",
+    "Wired USB connection for stable performance.",
+    "Responsive keys suitable for gaming and everyday typing.",
+    "Durable construction for long‑lasting use.",
+    "Standard key layout compatible with most desktops and laptops.",
+    "Ideal for gamers and casual users seeking a visually vibrant keyboard."
+  ]
+},
+{
+  "id": "redragon-k621-horus-84-key-rgb-red-switch-low-profile-wireless-gaming-mechanical-keyboard",
+  "name": "Redragon K621 Horus 84‑Key RGB Wireless Mechanical Gaming Keyboard",
+  "description": "The Redragon K621 Horus 84‑Key RGB Wireless Mechanical Gaming Keyboard features a compact 84‑key layout with low‑profile mechanical switches and RGB backlighting. It offers wireless connectivity for flexible use and responsive performance tailored for gaming and everyday typing. The slim design and durable build make it ideal for minimalist setups and competitive play.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K621-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K621-RGB_wr_02.jpg",
+    "/RD-K621-RGB_wr_03.jpg",
+    "/RD-K621-RGB_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "84‑key compact mechanical keyboard layout ideal for space‑saving setups.",
+    "Low‑profile mechanical switches for faster key actuation and responsive play.",
+    "RGB backlighting with customizable lighting effects.",
+    "Wireless connectivity for flexible use across compatible devices.",
+    "Durable construction for everyday gaming and typing tasks.",
+    "Slim and lightweight design suited for minimalist desks.",
+    "Ergonomic key design for comfortable extended sessions."
+  ]
+},
+{
+  "id": "redragon-k621-mechanical-ultra-thin-bluetooth",
+  "name": "Redragon K621 Mechanical Ultra‑Thin Bluetooth Gaming Keyboard",
+  "description": "The Redragon K621 Mechanical Ultra‑Thin Bluetooth Gaming Keyboard is a sleek and compact keyboard designed for gamers and productivity users who want wireless flexibility and responsive mechanical performance. Featuring low‑profile mechanical switches, multi‑mode Bluetooth connectivity, and vibrant RGB backlighting, it delivers a comfortable and efficient typing experience across devices. Its ultra‑thin build and ergonomic design make it ideal for minimalist setups and extended use.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K621W-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K621W-RGB_wr_02.jpg",
+    "/RD-K621W-RGB_wr_03.jpg",
+    "/RD-K621W-RGB_wr_04.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Low‑profile mechanical switches for quick key actuation and responsive feedback.",
+    "Bluetooth connectivity for wireless use with multiple devices.",
+    "RGB backlighting with customizable lighting effects.",
+    "Ultra‑thin and compact design ideal for minimalist setups.",
+    "Ergonomic key layout for comfortable typing and gaming.",
+    "Durable construction for long‑lasting performance.",
+    "Compatible with PCs, tablets, and other Bluetooth‑enabled devices."
+  ]
+},
+{
+  "id": "redragon-k622-horus-84-key-rgb-red-switch-low-profile-gaming-mechanical-keyboard",
+  "name": "Redragon K622 Horus 84‑Key RGB Red Switch Low‑Profile Gaming Mechanical Keyboard",
+  "description": "The Redragon K622 Horus 84‑Key RGB Red Switch Low‑Profile Gaming Mechanical Keyboard is a compact and stylish mechanical keyboard designed for gaming enthusiasts and everyday users. Featuring low‑profile red mechanical switches, vibrant RGB backlighting, and an 84‑key layout, this keyboard delivers responsive and smooth keystrokes with reduced travel distance. Its space‑saving design and customizable lighting effects make it ideal for both competitive gaming and productivity setups.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K622-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K622-RGB_wr_02.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Compact 84‑key layout ideal for gaming and desk space efficiency.",
+    "Low‑profile red mechanical switches for smooth and responsive key presses.",
+    "RGB backlighting with customizable lighting effects.",
+    "Wired connection for stable performance.",
+    "Ergonomic key layout suited for both gaming and typing tasks.",
+    "Durable construction designed for long‑lasting use.",
+    "Space‑saving form factor for minimalist desk setups."
+  ]
+},
+{
+  "id": "redragon-dragonborn-brown-switch",
+  "name": "Redragon Dragonborn 60% Mechanical Gaming Keyboard (Brown Switch, Black)",
+  "description": "The Redragon Dragonborn 60% Mechanical Gaming Keyboard in black is a compact wired keyboard built for gamers and minimalists who want performance without sacrificing desk space. Featuring tactile brown mechanical switches for smooth and responsive feedback, a 60 % layout for streamlined use, and hot‑swappable switch support for customisation, this keyboard delivers satisfying performance for gaming and everyday typing.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K630_wr_01.jpg",
+  "images": [
+    "/RD-K630_wr_02.jpg",
+    "/RD-K630_wr_03.jpg",
+    "/RD-K630_wr_04.jpg",
+    "/RD-K630_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "60 % compact layout ideal for saving desk space and ergonomic gaming setups.",
+    "Brown mechanical switches offer tactile feedback with quieter operation.",
+    "Hot‑swappable switch sockets let you customise switches easily.",
+    "Wired USB connection ensures stable and responsive performance.",
+    "Durable build quality designed for long‑lasting use.",
+    "RGB backlighting with multiple lighting effects.",
+    "Ergonomic keycap profile for comfortable typing and gaming."
+  ]
+},
+{
+  "id": "redragon-dragonborn-brown-switch-white-and-pink",
+  "name": "Redragon Dragonborn 60% Mechanical Gaming Keyboard (Brown Switch, Black)",
+  "description": "The Redragon Dragonborn 60% Mechanical Gaming Keyboard in black is a compact wired keyboard built for gamers and minimalists who want performance without sacrificing desk space. Featuring tactile brown mechanical switches for smooth and responsive feedback, a 60 % layout for streamlined use, and hot‑swappable switch support for customisation, this keyboard delivers satisfying performance for gaming and everyday typing.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K630W_wr_01.jpg",
+  "images": [
+    "/RD-K630W_wr_02.jpg",
+    "/RD-K630W_wr_03.jpg",
+    "/RD-K630W_wr_04.jpg",
+    "/RD-K630W_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "color": "White & PInk",
+  "features": [
+    "60 % compact layout ideal for saving desk space and ergonomic gaming setups.",
+    "Brown mechanical switches offer tactile feedback with quieter operation.",
+    "Hot‑swappable switch sockets let you customise switches easily.",
+    "Wired USB connection ensures stable and responsive performance.",
+    "Durable build quality designed for long‑lasting use.",
+    "RGB backlighting with multiple lighting effects.",
+    "Ergonomic keycap profile for comfortable typing and gaming."
+  ]
+},
+{
+  "id": "redragon-dragonborn-brown-switch-rgb",
+  "name": "Redragon Dragonborn 60% Mechanical Gaming Keyboard (RGB)",
+  "description": "The Redragon Dragonborn 60% Mechanical Gaming Keyboard in black is a compact wired keyboard built for gamers and minimalists who want performance without sacrificing desk space. Featuring tactile brown mechanical switches for smooth and responsive feedback, a 60 % layout for streamlined use, and hot‑swappable switch support for customisation, this keyboard delivers satisfying performance for gaming and everyday typing.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K630W-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K630W-RGB_wr_02.jpg",
+    "/RD-K630W-RGB_wr_03.jpg",
+    "/RD-K630W-RGB_wr_04.jpg",
+    "/RD-K630W-RGB_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "60 % compact layout ideal for saving desk space and ergonomic gaming setups.",
+    "Brown mechanical switches offer tactile feedback with quieter operation.",
+    "Hot‑swappable switch sockets let you customise switches easily.",
+    "Wired USB connection ensures stable and responsive performance.",
+    "Durable build quality designed for long‑lasting use.",
+    "RGB backlighting with multiple lighting effects.",
+    "Ergonomic keycap profile for comfortable typing and gaming."
+  ]
+},
+{
+  "id": "redragon-castor-k631-pro-65-wireless-gaming-keyboard",
+  "name": "Redragon Castor K631 Pro 65% Wireless Gaming Keyboard",
+  "description": "The Redragon Castor K631 Pro 65% Wireless Gaming Keyboard is a compact and versatile keyboard that combines performance and portability. Featuring a 65% layout with dedicated arrow keys, multi‑mode wireless connectivity (Bluetooth and 2.4 GHz), and RGB backlighting, it delivers responsive play and comfortable typing for gaming and everyday use. Its slim profile and durable build make it ideal for minimalist desks and mobile setups.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K631RGB-PRO-BRW_wr_01.jpg",
+  "images": [
+    "/RD-K631RGB-PRO-BRW_wr_02.jpg",
+    "/RD-K631RGB-PRO-BRW_wr_03.jpg",
+    "/RD-K631RGB-PRO-BRW_wr_04.jpg",
+    "/RD-K631RGB-PRO-BRW_wr_05.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "65% compact layout with dedicated arrow keys for efficient space usage.",
+    "Multi‑mode wireless connectivity including Bluetooth and 2.4 GHz for flexible use.",
+    "RGB backlighting with customizable lighting effects.",
+    "Responsive key switches for smooth gaming and typing experience.",
+    "Slim and portable design ideal for minimalist and mobile setups.",
+    "Durable construction designed for long‑lasting performance.",
+    "Ergonomic layout suitable for both gaming and productivity tasks."
+  ]
+},
+{
+  "id": "redragon-noctis-k632-low-profile-60-keyboard",
+  "name": "Redragon Noctis K632 Low‑Profile 60 Keyboard",
+  "description": "The Redragon Noctis K632 Low‑Profile 60 Keyboard is a compact mechanical keyboard designed for gamers and productivity users who want a sleek, space‑saving layout without compromising performance. Featuring low‑profile switches for fast key actuation, vibrant RGB backlighting, and a 60% layout, it delivers responsive typing and gaming performance in a minimalist form factor. The keyboard also includes software customisation for lighting and macro control, making it ideal for modern setups.",
+  "category": "Keyboards & Mice",
+  "condition": "Brand New",
+  "image": "/RD-K632-RGB_wr_01.jpg",
+  "images": [
+    "/RD-K632-RGB_wr_02.jpg",
+    "/RD-K632-RGB_wr_03.jpg"
+  ],
+  "brand": "Redragon",
+  "inStock": true,
+  "features": [
+    "Compact 60% layout ideal for minimalist desk setups.",
+    "Low‑profile mechanical switches for fast key actuation and responsive performance.",
+    "RGB backlighting with multiple lighting modes.",
+    "Wired USB‑C connection for stable performance.",
+    "Customisable lighting and macros via dedicated software.",
+    "Durable construction suited for gaming and everyday use.",
+    "Ergonomic design for comfortable extended typing sessions."
+  ]
 }
-
 
 ]
