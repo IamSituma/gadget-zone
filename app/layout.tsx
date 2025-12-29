@@ -16,6 +16,9 @@ export const metadata: Metadata = {
   title: "Voltspire - Your Official Gizzu Electronics Store",
   description:
     "Shop the latest power banks, power stations, batteries, lighting bulbs, and accessories.",
+  icons: {
+    icon: "/favicon.png",
+  },
 }
 
 export default function RootLayout({
